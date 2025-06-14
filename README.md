@@ -9,7 +9,6 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
-- [CMake](#cmake)
 - [CSS](#css)
 - [CoffeeScript](#coffeescript)
 - [Dart](#dart)
@@ -125,48 +124,23 @@
 - [ttttupup/wxhelper](https://github.com/ttttupup/wxhelper) - Hook  WeChat  / 微信逆向
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [ErosZy/SecurityWorker](https://github.com/ErosZy/SecurityWorker) - The best javascript code protection solution ever.
-- [TopDiscover/QuickFramework](https://github.com/TopDiscover/QuickFramework) - cocos creator 轻量级游戏框架,后续更新维护都在上面，完整的项目请转到 https://gitee.com/top-discover/QuickFramework
-- [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
 - [inkyblackness/imgui-go](https://github.com/inkyblackness/imgui-go) - Go wrapper library for "Dear ImGui" (https://github.com/ocornut/imgui)
 - [sciter-sdk/go-sciter](https://github.com/sciter-sdk/go-sciter) - Golang bindings of Sciter: the Embeddable HTML/CSS/script engine for modern UI development
-- [android/ndk-samples](https://github.com/android/ndk-samples) - Android NDK samples with Android Studio
 - [WithHades/WeChat4iPad](https://github.com/WithHades/WeChat4iPad) - wechat ipad协议
 - [alextsao1999/hypermind](https://github.com/alextsao1999/hypermind) - A script engine written by C++, which supports lambda, incremental-gc, multiple-threads and so on...
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [zhongjianhua163/BlackMoonKernelStaticLib](https://github.com/zhongjianhua163/BlackMoonKernelStaticLib) - 黑月编译器插件的核心静态库部分的源码
-- [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
-- [Jianru-Lin/MyLSP](https://github.com/Jianru-Lin/MyLSP) - Yet Another LSP.
-- [nargnos/WindowsUtil](https://github.com/nargnos/WindowsUtil) - Windows工具类
-- [BreakingMalware/PowerLoaderEx](https://github.com/BreakingMalware/PowerLoaderEx) - PowerLoaderEx - Advanced Code Injection Technique for x32 / x64
-- [ChaiScript/ChaiScript](https://github.com/ChaiScript/ChaiScript) - Embedded Scripting Language Designed for C++
-- [dropbox/json11](https://github.com/dropbox/json11) - A tiny JSON library for C++11.
-- [abumq/easyloggingpp](https://github.com/abumq/easyloggingpp) - C++ logging library. It is powerful, supports asynchronous low latency, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to w
-- [wfmdyh/HttpServer](https://github.com/wfmdyh/HttpServer) - Http服务器
 - [microsoft/cpprestsdk](https://github.com/microsoft/cpprestsdk) - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and i
-- [qdtroy/DuiLib_Ultimate](https://github.com/qdtroy/DuiLib_Ultimate) - duilib 旗舰版-高分屏、多语言、样式表、资源管理器、异形窗口、窗口阴影、简单动画
 - [BlzFans/wke](https://github.com/BlzFans/wke) - 3D Web UI. Web and Flash Embedded in 3D games, based on WebKit
-- [redrains/DuiLib_Redrain](https://github.com/redrains/DuiLib_Redrain) - A modified by Redrain's version of the Duilib
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [g-stefan/dll-inject-sample](https://github.com/g-stefan/dll-inject-sample) - Injectable dll example
 - [omapzoom/platform-external-chromium](https://github.com/omapzoom/platform-external-chromium) - 
 - [cxxclean/cxx-clean-include](https://github.com/cxxclean/cxx-clean-include) - 
 - [dhbaird/easywsclient](https://github.com/dhbaird/easywsclient) - A short and sweet WebSocket client for C++
 - [wnxd/e.net](https://github.com/wnxd/e.net) - e.net
-- [mushinnomushin/ZeuS_2.0.8.9](https://github.com/mushinnomushin/ZeuS_2.0.8.9) - ZeuS 2.0.8.9
 - [weidai11/cryptopp](https://github.com/weidai11/cryptopp) - free C++ class library of cryptographic schemes
 - [M00nRise/ProcessHider](https://github.com/M00nRise/ProcessHider) - Post-exploitation tool for hiding processes from monitoring applications
-- [pauldotknopf/WindowsSDK7-Samples](https://github.com/pauldotknopf/WindowsSDK7-Samples) - Repository that has all the samples from the Windows 7 SDK, untouched
-- [forhappy/Cplusplus-Concurrency-In-Practice](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice) - A Detailed Cplusplus Concurrency Tutorial 《C++ 并发编程指南》
-- [open-source-parsers/jsoncpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON.
-- [progschj/ThreadPool](https://github.com/progschj/ThreadPool) - A simple C++11 Thread Pool implementation
-- [plenluno/libnode](https://github.com/plenluno/libnode) - C++ implementation of Node.js
-- [rwfpl/rewolf-wow64ext](https://github.com/rwfpl/rewolf-wow64ext) - Helper library for x86 programs that runs under WOW64 layer on x64 versions of Microsoft Windows operating systems.
-- [aywfelix/CPPlibrary](https://github.com/aywfelix/CPPlibrary) - c++常用类库
 - [NytroRST/ShellcodeCompiler](https://github.com/NytroRST/ShellcodeCompiler) - Shellcode Compiler
-- [tobefuturer/app2dylib](https://github.com/tobefuturer/app2dylib) - A reverse engineering tool to convert iOS app to dylib
-- [SOUI2/soui.backup](https://github.com/SOUI2/soui.backup) - DirectUI
-- [vmcall/token_manipulation](https://github.com/vmcall/token_manipulation) - Bypass User Account Control by manipulating tokens
-- [echizenryoma/cpputils](https://github.com/echizenryoma/cpputils) - 
 - [CobaltFusion/DebugViewPP](https://github.com/CobaltFusion/DebugViewPP) - DebugView++, collects, views, filters your application logs, and highlights information that is important to you!
 - [xiaozhuai/cxxurl](https://github.com/xiaozhuai/cxxurl) - Not only a c++ wrapper for curl
 - [Tencent/mars](https://github.com/Tencent/mars) - Mars is a cross-platform network component  developed by WeChat.
@@ -196,24 +170,16 @@
 - [werkamsus/Lilith](https://github.com/werkamsus/Lilith) - Lilith - Foundational reverse engineering resource for cybersecurity entrepreneurs in C++
 - [hussein-aitlahcen/BlackHole](https://github.com/hussein-aitlahcen/BlackHole) - C# RAT (Remote Administration Tool)
 - [AHXR/ghost](https://github.com/AHXR/ghost) - :ghost: RAT (Remote Access Trojan) - Silent Botnet - Full Remote Command-Line Access - Download & Execute Programs - Spread Virus' & Malware
-- [RafaelGSS/HyzMall](https://github.com/RafaelGSS/HyzMall) - :tophat: RAT - HTTP based. Undetectable!
 - [mysteryx93/FrameRateConverter](https://github.com/mysteryx93/FrameRateConverter) - Increases the frame rate with interpolation and fine artifact removal
 - [zibility/Remote](https://github.com/zibility/Remote) - 参考Gh0st源码，实现的一款PC远程协助软件，拥有远程Shell、文件管理、桌面管理、消息发送等功能。
 - [ChengChengCC/Remote](https://github.com/ChengChengCC/Remote) - 远程控制项目
-- [AHXR/ahxrlogger](https://github.com/AHXR/ahxrlogger) - :notebook: Light C++ Logger Library
 - [theevilbit/injection](https://github.com/theevilbit/injection) - 
 - [sensepost/rattler](https://github.com/sensepost/rattler) - Automated DLL Enumerator
-- [3gstudent/HiddenNtRegistry](https://github.com/3gstudent/HiddenNtRegistry) - Use NT Native Registry API to create a registry that normal user can not query.
-- [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
-- [JosephP91/curlcpp](https://github.com/JosephP91/curlcpp) - An object oriented C++ wrapper for CURL (libcurl)
 - [rootm0s/Protectors](https://github.com/rootm0s/Protectors) - 🛡️ Obfuscator, Encryption, Junkcode, Anti-Debug, PE protection/modification
-- [ThePhD/sol2](https://github.com/ThePhD/sol2) - Sol3 (sol2 v3.0) - a C++ &lt;-&gt; Lua API wrapper with advanced features and top notch performance - is here, and it's great! Documentation:
 - [JustasMasiulis/nt_wrapper](https://github.com/JustasMasiulis/nt_wrapper) - A wrapper library around native windows sytem APIs
 - [libcpr/cpr](https://github.com/libcpr/cpr) - C++ Requests: Curl for People, a spiritual port of Python Requests.
-- [Chuyu-Team/VC-LTL](https://github.com/Chuyu-Team/VC-LTL) - Shared to msvcrt.dll and optimize the C/C++ application file size.
 - [mgwang37/octopus](https://github.com/mgwang37/octopus) - 高性能socks５代理服务 (High-performance socks5 proxy server)
 - [anhkgg/SuperDllHijack](https://github.com/anhkgg/SuperDllHijack) - SuperDllHijack：A general DLL hijack technology, don't need to manually export the same function interface of the DLL, so easy! 一种通用Dll劫持技术，不再需要手工导出Dll的函数接口了
-- [fnc12/sqlite_orm](https://github.com/fnc12/sqlite_orm) - ❤️ SQLite ORM light header only library for modern C++
 - [xiaobfly/MemPE](https://github.com/xiaobfly/MemPE) - 一种通用的XOR加密后内存加载PE绕过杀毒软件的方法
 - [qicosmos/rest_rpc](https://github.com/qicosmos/rest_rpc) - modern C++(C++11), simple, easy to use rpc framework
 - [liulilittle/PaperAirplane](https://github.com/liulilittle/PaperAirplane) - 一个类似于Proxifier的SOCKS5代理工具
@@ -222,18 +188,12 @@
 - [nlitsme/cpputils](https://github.com/nlitsme/cpputils) - various c++ utility classes
 - [thuva4/Algorithms](https://github.com/thuva4/Algorithms) - Collection of algorithms in multiple programming languages.
 - [kuustudio/QQCapTools](https://github.com/kuustudio/QQCapTools) - aaaa
-- [ylcangel/crack_dexhelper](https://github.com/ylcangel/crack_dexhelper) - 梆梆企业加固详细逆向分析过程， 包含两种对该加固的脱壳机（直接解密classes0.jar和基于frida hook）
-
-## CMake 
-
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 
 ## CSS 
 
 - [s8sg/goflow](https://github.com/s8sg/goflow) - A Golang based high performance, scalable and distributed workflow framework
 - [jszls65/amazon_stream](https://github.com/jszls65/amazon_stream) - Amazon Marketing Stream API 订阅, 亚马逊广告小时级别数据订阅, 亚马逊订单小时级别数据订阅
 - [hasinhayder/tailwind-cards](https://github.com/hasinhayder/tailwind-cards) - A growing collection of text/image cards you can use/copy-paste in your tailwind css projects
-- [jimmykuu/gopher](https://github.com/jimmykuu/gopher) - Golang-China(golangtc.com) Website
 
 ## CoffeeScript 
 
@@ -900,7 +860,6 @@
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
-- [goflyfox/gmanager](https://github.com/goflyfox/gmanager) - 基于gf框架的管理平台，支持登录、认证、组织机构、用户、角色、菜单、日志
 - [vugu/vugu](https://github.com/vugu/vugu) - Vugu: A modern UI library for Go+WebAssembly (experimental)
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [go-libraries/gin-restful](https://github.com/go-libraries/gin-restful) - 
@@ -928,7 +887,7 @@
 - [ochinchina/supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [fanpei91/torsniff](https://github.com/fanpei91/torsniff) - torsniff - a sniffer that sniffs torrents from BitTorrent network
-- [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
+- [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 - [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
 - [chenhg5/collection](https://github.com/chenhg5/collection) - make golang map and slice powerful
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
@@ -1027,6 +986,7 @@
 
 ## JavaScript 
 
+- [fabiospampinato/cash](https://github.com/fabiospampinato/cash) - An absurdly small jQuery alternative for modern browsers.
 - [tiagorangel1/cap](https://github.com/tiagorangel1/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work
 - [kt946/ai-threejs-products-app-yt-jsm](https://github.com/kt946/ai-threejs-products-app-yt-jsm) - A 3D T-Shirt website where users can design their own shirts with patterns and logos.
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
@@ -1729,6 +1689,7 @@
 - [heyui/heyui-admin](https://github.com/heyui/heyui-admin) - 基于 vue 和 heyui 组件库的中后端系统 https://admin.heyui.top
 - [plum-9696/uni-app-waterfall](https://github.com/plum-9696/uni-app-waterfall) - 
 - [liyiming22/funReader](https://github.com/liyiming22/funReader) - 小说 Web app
+- [goflyfox/gmanager](https://github.com/goflyfox/gmanager) - 基于GoFrameV2框架的管理平台，支持登录、认证、组织机构、用户、角色、菜单、日志
 - [bullteam/zeus-admin](https://github.com/bullteam/zeus-admin) - Zeus基于Golang Gin +casbin，致力于做企业统一权限&账号中心管理系统。包含账号管理，数据权限，功能权限，应用管理，多数据库适配，可docker 一键运行。社区活跃，版本迭代快，加群免费技术支持。
 - [chaitin/passionfruit](https://github.com/chaitin/passionfruit) - [WIP] Crappy iOS app analyzer
 
