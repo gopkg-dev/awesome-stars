@@ -1178,7 +1178,7 @@
 - [Rookie-Birds/Fabric-Tutorial_zh-CN](https://github.com/Rookie-Birds/Fabric-Tutorial_zh-CN) - Fabric.js中文教程
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 
-- [yaolifeng0629/Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools) - 独立开发者工具站（Awesome Independent developer  tools）
+- [yaolifeng0629/Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools) - 独立开发者精选工具站（Awesome Independent developer  tools）
 - [sirius1024/iterm2-with-oh-my-zsh](https://github.com/sirius1024/iterm2-with-oh-my-zsh) - iTerm2 + Oh My Zsh 打造舒适终端体验
 - [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
 - [ErcinDedeoglu/proxies](https://github.com/ErcinDedeoglu/proxies) - 🔍💻🔒🌀🔄🌟🚀📂📈 Need a daily updated proxy list? Look no further! Our PROXY list offers the freshest and most reliable proxy servers available. Say goodbye to outdated and unreliable lists and hello to a se
