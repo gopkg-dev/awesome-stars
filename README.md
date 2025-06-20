@@ -936,7 +936,7 @@
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
 - [HackerThemes/spur-template](https://github.com/HackerThemes/spur-template) - A Bootstrap Admin Template
 - [puikinsh/ElaAdmin](https://github.com/puikinsh/ElaAdmin) - A clean & completely free Bootstrap 4 admin dashboard template
-- [puikinsh/Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) - Adminator is easy to use and well design admin dashboard template based on Bootstrap 5 for web apps, websites, services and more
+- [puikinsh/Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) - Adminator is easy to use and well design admin dashboard template based on Bootstrap 5 with dark mode for web apps, websites, services and more
 - [puikinsh/CoolAdmin](https://github.com/puikinsh/CoolAdmin) - Free Bootstrap 4.1 based admin dashboard template
 - [coryjthompson/WebPushDemo](https://github.com/coryjthompson/WebPushDemo) - An example of how to use web-push-csharp.
 - [monlor/MIXBOX-ARCHIVE](https://github.com/monlor/MIXBOX-ARCHIVE) - 一款基于Shell的小米路由器工具箱，原为Monlor-Tools，A tool box for XiaoMi Router base on Shell.
