@@ -273,6 +273,7 @@
 
 ## Go 
 
+- [maruel/fastbezier](https://github.com/maruel/fastbezier) - Fast bezier cubic curve evaluation over uint16 domain in Go and generator for C
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [fogleman/gg](https://github.com/fogleman/gg) - Go Graphics - 2D rendering in Go with a simple API.
 - [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
