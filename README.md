@@ -273,6 +273,8 @@
 
 ## Go 
 
+- [hiscaler/temu-go](https://github.com/hiscaler/temu-go) - Temu SDK for Golang
+- [bestK/temu-web-client](https://github.com/bestK/temu-web-client) - 
 - [maruel/fastbezier](https://github.com/maruel/fastbezier) - Fast bezier cubic curve evaluation over uint16 domain in Go and generator for C
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [fogleman/gg](https://github.com/fogleman/gg) - Go Graphics - 2D rendering in Go with a simple API.
@@ -296,7 +298,7 @@
 - [WuKongIM/WuKongIM](https://github.com/WuKongIM/WuKongIM) - More than just IM 不只是即时通讯( IM )
 - [tongsq/proxy-collect](https://github.com/tongsq/proxy-collect) - 免费ip代理池 隧道代理池 proxy-pool、tunnel proxy
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
-- [certimate-go/certimate](https://github.com/certimate-go/certimate) - 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when
+- [certimate-go/certimate](https://github.com/certimate-go/certimate) - 开源的 SSL 证书管理工具，可以帮助你自动申请、部署 SSL 证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them 
 - [YutaroHayakawa/go-ra](https://github.com/YutaroHayakawa/go-ra) - A pure Go IPv6 Router Advertisement library and stand-alone daemon
 - [Kioubit/pndpd](https://github.com/Kioubit/pndpd) - NDP Proxy / Responder daemon (IPv6)
 - [mdlayher/ndp](https://github.com/mdlayher/ndp) - Package ndp implements the Neighbor Discovery Protocol, as described in RFC 4861.  MIT Licensed.
@@ -951,7 +953,7 @@
 - [TyCoding/langchat](https://github.com/TyCoding/langchat) - LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级A
 - [blueboy-tm/flutter_v2ray](https://github.com/blueboy-tm/flutter_v2ray) - A plugin that allow you to making v2ray connection
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
-- [dromara/orion-visor](https://github.com/dromara/orion-visor) - 一款高颜值、现代化的自动化运维及轻量堡垒机，提供服务器智能运维解决方案。支持资产管理分组、SSH SFTP 终端、文件上传下载、文件在线编辑、命令批量执行、多主机文件分发、cron 表达式配置计划任务，安全保障等。该项目是由 java 实现, 前端使用 vue + arco, 后端使用 springboot, 支持 docker 部署的服务器运维, linux windows 系统运维平台。
+- [dromara/orion-visor](https://github.com/dromara/orion-visor) - 一款高颜值、现代化的自动化运维及轻量堡垒机，提供全面的服务器智能运维解决方案。支持资产管理分组、多协议访问(SSH、RDP)、SFTP 文件上传下载、在线编辑、命令批量执行、多主机文件分发和计划任务配置(通过 cron 表达式)等功能，确保高效安全的运维体验。适用于 Linux 和 Windows 系统的运维管理。
 - [pingapi/crabc-api](https://github.com/pingapi/crabc-api) - Crabc是低代码开发平台，企业级API接口发布系统，深度整合SpringBoot和Mybatis实现动态数据源和动态SQL，可视化编写SQL快速发布接口
 - [continew-org/continew-admin](https://github.com/continew-org/continew-admin) - 🔥Almost最佳后端规范🔥AI 编程纪元，从 ContiNew & AI 开始优雅编码，让 AI 也“吃点好的”。持续迭代优化的前后端分离中后台管理系统框架，开箱即用，持续提供舒适的开发体验。当前采用技术栈：Spring Boot3（Java17）、Vue3 & Arco Design、TS、Vite5 、Sa-Token、MyBatis Plus、Redisson、JetCache、Jacks
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
@@ -1183,6 +1185,7 @@
 
 ## Others 
 
+- [LoseNine/Chromium_FingerPrint_Tutorial](https://github.com/LoseNine/Chromium_FingerPrint_Tutorial) - A book about writing a Chromium fingerprint browser. 免费开源的入门教程，Chromium指纹浏览器开发教程，帮助你了解Chromium内核，并且开发出一套基础的指纹浏览器。
 - [dotnet-foundation/projects](https://github.com/dotnet-foundation/projects) - This repository is used for onboarding new projects
 - [Rookie-Birds/Fabric-Tutorial_zh-CN](https://github.com/Rookie-Birds/Fabric-Tutorial_zh-CN) - Fabric.js中文教程
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 
@@ -1214,7 +1217,7 @@
 - [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 为您甄选国内外前端领域的优质资讯，洞悉行业最新进展，助力技术成长之旅。
 - [LeoYang90/Golang-Internal-Notes](https://github.com/LeoYang90/Golang-Internal-Notes) - 
 - [mzyui/proxy-list](https://github.com/mzyui/proxy-list) - 🔓 daily updated proxy list
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [Shooter3k/amazon-captchas](https://github.com/Shooter3k/amazon-captchas) - 
 - [richardARPANET/amazon-captcha-training-data](https://github.com/richardARPANET/amazon-captcha-training-data) - Solved amazon.com login captcha images. Useful for training machine learning models.
 - [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
@@ -1621,7 +1624,7 @@
 - [midwayjs/midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integra
 - [cool-team-official/cool-admin-midway](https://github.com/cool-team-official/cool-admin-midway) - 🔥 cool-admin(midway版)一个很酷的后台权限管理框架，Ai编码、流程编排、模块化、插件化、CRUD极速开发，永久开源免费，基于nodejs、typescript、typeorm、mysql、jwt、vue3、vite、element-ui等构建
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
-- [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite6, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 Uno
+- [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite7, TypeScript, Pinia, NaiveUI 和 Uno
 - [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - Former GUI client for gRPC services. No longer maintained.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [aws-samples/aws-saas-factory-ref-solution-serverless-saas](https://github.com/aws-samples/aws-saas-factory-ref-solution-serverless-saas) - 
@@ -1652,7 +1655,7 @@
 - [lfcleo/fc-admin-thin](https://github.com/lfcleo/fc-admin-thin) - FC-Admin 的精简版本，可直接用于开发。随FC-Admin版本升级。vue3 admin. vue admin
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 - [lfcleo/fc-admin](https://github.com/lfcleo/fc-admin) - 一款vue3 admin后台管理框架，高颜值高性能。使用最新技术栈vue3 vite typescript pinia element-plus。免费开源。vue后台管理。vue admin
-- [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser) - Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 免费的web3空投专用指纹浏览器
+- [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser) - Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 防识别浏览器, 反识别浏览器, 防关联浏览器, 免费的web3空投专用指纹浏览器 https://vbhub.net
 - [LvHuaiSheng/gzm-design](https://github.com/LvHuaiSheng/gzm-design) - 🚀🚀🚀一款漂亮易用的在线设计器，支持PSD导入、PSD解析，可用于海报设计器、广告设计器、logo设计器、AI创作图片合成器等。常用于生成二维码海报，图片海报，二维码推广海报，图片处理，名片设计，电商产品图，节假日海报等。http://gzm-design-doc.guozimi.cn/
 - [palxiao/poster-design](https://github.com/palxiao/poster-design) - 迅排设计 - 美观且功能强大的图片编辑器、在线海报设计，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!
 - [ZhiMiTec/osharp-vben-admin](https://github.com/ZhiMiTec/osharp-vben-admin) - OSharp Vben Admin 是一个免费开源的中后台模版。基于vue-vben-admin开发，对接osharp后端，开箱即用，内置osharp用户，权限，系统管理模块与辅助工具类，使得osharp后台对接工作得以简化。
