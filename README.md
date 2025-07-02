@@ -991,6 +991,7 @@
 
 ## JavaScript 
 
+- [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [benjamminf/warpjs](https://github.com/benjamminf/warpjs) - Warp, distort, bend, twist and smudge your SVG’s directly in the browser
 - [Pomax/bezierjs](https://github.com/Pomax/bezierjs) - A nodejs and client-side library for (cubic) Bezier curve work
 - [snorpey/distort-grid](https://github.com/snorpey/distort-grid) - distort and warp images in the browser
@@ -1149,7 +1150,7 @@
 
 ## MDX 
 
-- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
