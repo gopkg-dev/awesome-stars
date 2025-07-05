@@ -14,7 +14,6 @@
 - [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
-- [archlinux](#archlinux)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
@@ -213,7 +212,6 @@
 - [windows](#windows)
 - [xcode](#xcode)
 - [xml](#xml)
-- [zig](#zig)
 
 ## 3d 
 
@@ -236,7 +234,7 @@
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
 - [wkylin/pro-react-admin](https://github.com/wkylin/pro-react-admin) - 融合了 React 19、Webpack 5、React Router 7、Antd 5、Typescript 5、Tailwindcss 4 及 Fetch Api 的企业级中台基础模板，为大规模系统提供技术底座，助力企业数字化转型...
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [lihongxun945/gobang](https://github.com/lihongxun945/gobang) - javascript gobang AI，JS五子棋AI，源码+教程，基于Alpha-Beta剪枝算法（不是神经网络）
@@ -350,10 +348,6 @@
 - [godruoyi/restful-api-specification](https://github.com/godruoyi/restful-api-specification) - RESTful API Design Specification
 - [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 
-## archlinux 
-
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
-
 ## arduino 
 
 - [tzapu/WiFiManager](https://github.com/tzapu/WiFiManager) - ESP8266 WiFi Connection manager with web captive portal
@@ -362,7 +356,7 @@
 
 ## artificial-intelligence 
 
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 
 ## automation 
 
@@ -383,7 +377,7 @@
 
 ## awesome 
 
-- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [yaolifeng0629/Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools) - 独立开发者精选工具站（Awesome Independent developer  tools）
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
@@ -395,7 +389,7 @@
 
 ## awesome-list 
 
-- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
 - [ZYSzys/awesome-captcha](https://github.com/ZYSzys/awesome-captcha) - :key: Curated list of awesome captcha libraries and crack tools.
@@ -406,7 +400,7 @@
 - [cellbang/cell](https://github.com/cellbang/cell) - Cell is a Serverless First, componentized, platform-independent progressive application framework based on TypeScript. Cell 是基于 TypeScript 的 Serverless First、组件化、平台无关的渐进式应用框架。
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [shimmeris/SCFProxy](https://github.com/shimmeris/SCFProxy) - A proxy tool based on cloud function.
-- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source alternative to Kubernetes and Slurm, designed to simplify GPU allocation and AI workload orchestration for ML teams across top clouds, on-prem clusters, and accelerators.
+- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source container orchestrator that simplifies workload orchestration and drives GPU utilization for ML teams. It works with any GPU cloud, on-prem cluster, or accelerated hardware.
 - [alixaxel/chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda) - Chromium Binary for AWS Lambda and Google Cloud Functions
 - [deepsyx/simple-headless-browser-serverless](https://github.com/deepsyx/simple-headless-browser-serverless) - Simple example of how to use Chrome as headless browser on AWS lambda
 - [midwayjs/midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integra
@@ -418,7 +412,7 @@
 
 ## azure 
 
-- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source alternative to Kubernetes and Slurm, designed to simplify GPU allocation and AI workload orchestration for ML teams across top clouds, on-prem clusters, and accelerators.
+- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source container orchestrator that simplifies workload orchestration and drives GPU utilization for ML teams. It works with any GPU cloud, on-prem cluster, or accelerated hardware.
 - [midwayjs/midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integra
 
 ## babel 
@@ -505,7 +499,7 @@
 - [MustangYM/OSXChatGpt](https://github.com/MustangYM/OSXChatGpt) - Easy to use OpenAI ChatGPT on your mac !
 - [swuecho/chat](https://github.com/swuecho/chat) - chat web app for teams, sass with user management and ratelimit, support chatgpt(openai & azure), claude, gemini and ollama model
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT
 - [1zilc/fishing-funds](https://github.com/1zilc/fishing-funds) - 基金,大盘,股票,虚拟货币状态栏显示小应用,基于Electron开发,支持MacOS,Windows,Linux客户端,数据源来自天天基金,蚂蚁基金,爱基金,腾讯证券等
@@ -517,6 +511,7 @@
 
 ## chrome 
 
+- [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie) - A browser extension that syncs and manages your cookies to your cloudflare
 - [janek26/trpc-browser](https://github.com/janek26/trpc-browser) - tRPC for extension and web 🧩🕸️
 - [zouhangwithsweet/fubukicss-tool](https://github.com/zouhangwithsweet/fubukicss-tool) - A browser extension to get CSS from Figma in one step.
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
@@ -532,6 +527,7 @@
 
 ## chrome-extension 
 
+- [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie) - A browser extension that syncs and manages your cookies to your cloudflare
 - [aklinker1/webext-core](https://github.com/aklinker1/webext-core) - Collection of essential libraries and tools for building web extensions
 - [jlalmes/trpc-chrome](https://github.com/jlalmes/trpc-chrome) - tRPC adapter for Web Extensions 🧩
 - [raynirola/extension](https://github.com/raynirola/extension) - Chrome extension starter kit with tRPC, Vite, Tailwindcss, Typescript and React
@@ -720,7 +716,6 @@
 ## deno 
 
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 
 ## deployment 
 
@@ -780,7 +775,7 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [runabol/tork](https://github.com/runabol/tork) - Tork is a lightweight, distributed workflow engine that runs tasks as simple scripts within Docker containers.
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
-- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source alternative to Kubernetes and Slurm, designed to simplify GPU allocation and AI workload orchestration for ML teams across top clouds, on-prem clusters, and accelerators.
+- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source container orchestrator that simplifies workload orchestration and drives GPU utilization for ML teams. It works with any GPU cloud, on-prem cluster, or accelerated hardware.
 - [borys25ol/amazon-location-cookies-service](https://github.com/borys25ol/amazon-location-cookies-service) - Service for extracting Amazon location cookies based on Amazon Zip-Code
 - [bassmaster187/TeslaLogger](https://github.com/bassmaster187/TeslaLogger) - TeslaLogger is a self hosted data logger for your Tesla Model S/3/X/Y. Actually it supports RaspberryPi 3B, 3B+, 4B, Docker and Synology NAS.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -804,7 +799,6 @@
 - [macrozheng/mall-swarm](https://github.com/macrozheng/mall-swarm) - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Alibaba、Spring Boot 3.2、Sa-Token、MyBatis、Elasticsearch、Docker、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。
 - [bullteam/zeus-admin](https://github.com/bullteam/zeus-admin) - Zeus基于Golang Gin +casbin，致力于做企业统一权限&账号中心管理系统。包含账号管理，数据权限，功能权限，应用管理，多数据库适配，可docker 一键运行。社区活跃，版本迭代快，加群免费技术支持。
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 
 ## documentation 
 
@@ -993,7 +987,7 @@
 ## git 
 
 - [cloud-org/sample](https://github.com/cloud-org/sample) - many minimum viable demo
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [coderit666/GoGuide](https://github.com/coderit666/GoGuide) - 「Go语言学习指南」一份涵盖大部分 Golang 程序员所需要掌握的核心知识，拥有 Go语言教程、Go开源书籍、Go语言入门教程、Go语言学习路线。零基础学习 Go语言、Go编程，首选 GoGuide。
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -1264,7 +1258,6 @@
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [xxjwxc/gormt](https://github.com/xxjwxc/gormt) - database to golang struct
 - [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar
@@ -1545,7 +1538,6 @@
 - [wangsongyan/wblog](https://github.com/wangsongyan/wblog) - 基于gin+gorm开发的个人博客项目
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [xxjwxc/gormt](https://github.com/xxjwxc/gormt) - database to golang struct
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [fanpei91/torsniff](https://github.com/fanpei91/torsniff) - torsniff - a sniffer that sniffs torrents from BitTorrent network
 - [codeskyblue/gosuv](https://github.com/codeskyblue/gosuv) - Deprecated!!! Process managerment writtern by golang, inspired by python-supervisor
 - [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
@@ -1649,7 +1641,6 @@
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 - [1zilc/fishing-funds](https://github.com/1zilc/fishing-funds) - 基金,大盘,股票,虚拟货币状态栏显示小应用,基于Electron开发,支持MacOS,Windows,Linux客户端,数据源来自天天基金,蚂蚁基金,爱基金,腾讯证券等
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 
 ## html 
 
@@ -1727,6 +1718,7 @@
 
 ## image-processing 
 
+- [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [huanjinliu/warpvas](https://github.com/huanjinliu/warpvas) - This JavaScript library enables fast and efficient image distortion transformations using Canvas 2D.
 - [snorpey/distort-grid](https://github.com/snorpey/distort-grid) - distort and warp images in the browser
 - [addyosmani/enhance](https://github.com/addyosmani/enhance) - Enhance and upscale your images using AI - right in your browser
@@ -1808,6 +1800,7 @@
 
 ## javascript 
 
+- [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [Eric-Canas/Homography.js](https://github.com/Eric-Canas/Homography.js) - Lightweight, High-Performance and easy-to-use library for performing Affine, Projective or Piecewise Affine transformations over any Image or HTMLElement from only a set of reference points. In Javasc
 - [fabiospampinato/cash](https://github.com/fabiospampinato/cash) - An absurdly small jQuery alternative for modern browsers.
 - [tiagorangel1/cap](https://github.com/tiagorangel1/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work
@@ -1918,7 +1911,7 @@
 - [souvik03-136/NeuraBalancer](https://github.com/souvik03-136/NeuraBalancer) - Self-Optimizing Load Balancer
 - [quanxiang-cloud/quanxiang](https://github.com/quanxiang-cloud/quanxiang) - QuanXiang is a powerful, pluggable open source low-code platform used to assist in building various types of digital applications for enterprises.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
-- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source alternative to Kubernetes and Slurm, designed to simplify GPU allocation and AI workload orchestration for ML teams across top clouds, on-prem clusters, and accelerators.
+- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source container orchestrator that simplifies workload orchestration and drives GPU utilization for ML teams. It works with any GPU cloud, on-prem cluster, or accelerated hardware.
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [icowan/shorter](https://github.com/icowan/shorter) - 短链小工具
@@ -2027,7 +2020,7 @@
 ## machine-learning 
 
 - [richardARPANET/amazon-captcha-training-data](https://github.com/richardARPANET/amazon-captcha-training-data) - Solved amazon.com login captcha images. Useful for training machine learning models.
-- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source alternative to Kubernetes and Slurm, designed to simplify GPU allocation and AI workload orchestration for ML teams across top clouds, on-prem clusters, and accelerators.
+- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source container orchestrator that simplifies workload orchestration and drives GPU utilization for ML teams. It works with any GPU cloud, on-prem cluster, or accelerated hardware.
 - [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
@@ -2212,6 +2205,7 @@
 
 ## nodejs 
 
+- [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [thx/resvg-js](https://github.com/thx/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
 - [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
 - [DevSantt/photo-reader-api](https://github.com/DevSantt/photo-reader-api) - A NodeJs API made with Express.js for parsing, remove backround and edit photos automaticaly.
@@ -2283,6 +2277,7 @@
 
 ## others 
 
+- [Fun-Fox/pinterest](https://github.com/Fun-Fox/pinterest) - pinterest采集工具并集成deepseek Janus 进行智能挑图
 - [LoseNine/Chromium_FingerPrint_Tutorial](https://github.com/LoseNine/Chromium_FingerPrint_Tutorial) - A book about writing a Chromium fingerprint browser. 免费开源的入门教程，Chromium指纹浏览器开发教程，帮助你了解Chromium内核，并且开发出一套基础的指纹浏览器。
 - [bestK/temu-web-client](https://github.com/bestK/temu-web-client) - 
 - [maruel/fastbezier](https://github.com/maruel/fastbezier) - Fast bezier cubic curve evaluation over uint16 domain in Go and generator for C
@@ -2428,7 +2423,7 @@
 - [meltingice/psd.js](https://github.com/meltingice/psd.js) - A Photoshop PSD file parser for NodeJS and browsers
 - [oov/psd](https://github.com/oov/psd) - PSD/PSB(Photoshop) file reader for Go programming language
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
-- [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
+- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
 - [wibus-wee/InjectGUI](https://github.com/wibus-wee/InjectGUI) - macOS Integrated Injection Framework (GUI version)
 - [rurza/BatFi](https://github.com/rurza/BatFi) - Battery charging limiter for macOS.
 - [hyp1231/AmazonReviews2023](https://github.com/hyp1231/AmazonReviews2023) - Scripts for processing the Amazon Reviews 2023 dataset; implementations and checkpoints of BLaIR: "Bridging Language and Items for Retrieval and Recommendation".
@@ -3075,7 +3070,7 @@
 ## productivity 
 
 - [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 
 ## programming 
 
@@ -3104,7 +3099,7 @@
 - [Boris-code/feapder](https://github.com/Boris-code/feapder) - 🚀🚀🚀feapder is an easy to use, powerful crawler framework | feapder是一款上手简单，功能强大的Python爬虫框架。内置AirSpider、Spider、TaskSpider、BatchSpider四种爬虫解决不同场景的需求。且支持断点续爬、监控报警、浏览器渲染、海量数据去重等功能。更有功能强大的爬虫管理系统feaplat为其提供方便
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
-- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source alternative to Kubernetes and Slurm, designed to simplify GPU allocation and AI workload orchestration for ML teams across top clouds, on-prem clusters, and accelerators.
+- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source container orchestrator that simplifies workload orchestration and drives GPU utilization for ML teams. It works with any GPU cloud, on-prem cluster, or accelerated hardware.
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
@@ -3281,7 +3276,6 @@
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 
 ## sass 
 
@@ -3860,10 +3854,6 @@
 - [xuri/xgen](https://github.com/xuri/xgen) - XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
-
-## zig 
-
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 
 
 ## License
