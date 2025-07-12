@@ -950,10 +950,11 @@
 
 ## Java 
 
+- [Robin3910/yulian_erp_back](https://github.com/Robin3910/yulian_erp_back) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
 - [TyCoding/langchat](https://github.com/TyCoding/langchat) - LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级A
 - [blueboy-tm/flutter_v2ray](https://github.com/blueboy-tm/flutter_v2ray) - A plugin that allow you to making v2ray connection
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
-- [dromara/orion-visor](https://github.com/dromara/orion-visor) - 一款高颜值、现代化的自动化运维及轻量堡垒机，提供全面的服务器智能运维解决方案。支持资产管理分组、多协议访问(SSH、RDP)、SFTP 文件上传下载、在线编辑、命令批量执行、多主机文件分发和计划任务配置(通过 cron 表达式)等功能，确保高效安全的运维体验。适用于 Linux 和 Windows 系统的运维管理。
+- [dromara/orion-visor](https://github.com/dromara/orion-visor) - 一款高颜值、现代化的自动化运维及轻量堡垒机，提供全面的服务器智能运维解决方案。支持资产管理分组、提供多协议访问(SSH、SFTP、RDP、VNC)、文件上传下载、在线编辑、命令批量执行、多主机文件分发和计划任务配置(通过 cron 表达式)等功能，确保高效安全的运维体验。适用于 Linux 和 Windows 系统的运维管理。
 - [pingapi/crabc-api](https://github.com/pingapi/crabc-api) - Crabc是低代码开发平台，企业级API接口发布系统，深度整合SpringBoot和Mybatis实现动态数据源和动态SQL，可视化编写SQL快速发布接口
 - [continew-org/continew-admin](https://github.com/continew-org/continew-admin) - 🔥Almost最佳后端规范🔥AI 编程纪元，从 ContiNew & AI 开始优雅编码，让 AI 也“吃点好的”。持续迭代优化的前后端分离中后台管理系统框架，开箱即用，持续提供舒适的开发体验。当前采用技术栈：Spring Boot3（Java17）、Vue3 & Arco Design、TS、Vite5 、Sa-Token、MyBatis Plus、Redisson、JetCache、Jacks
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
@@ -1414,6 +1415,7 @@
 
 ## Swift 
 
+- [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - macOS Adobe apps download & installer
 - [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [lihaoyun6/Topit](https://github.com/lihaoyun6/Topit) - Pin any window to the top of your screen / 在Mac上将你的任何窗口强制置顶
@@ -1503,7 +1505,7 @@
 - [stackzero-labs/ui](https://github.com/stackzero-labs/ui) - Collection of components to build e-commerce sites and commerce apps. Built for React, Next.js, Tailwind CSS and shadcn/ui.
 - [birobirobiro/awesome-shadcn-ui-site](https://github.com/birobirobiro/awesome-shadcn-ui-site) - 
 - [mehrabmp/cut-it](https://github.com/mehrabmp/cut-it) - Link shortener built using Next.js App Router, Server Actions, Drizzle ORM, Turso and styled with shadcn ui
-- [developaul/translate-app](https://github.com/developaul/translate-app) - Translate App using TypeScript, Tailwind CSS, NextJS, Bun, shadcn/ui, AI-SDK/OpenAI, Zod, Vercel Analytics,  pdf-parse.
+- [dryor/translate-app](https://github.com/dryor/translate-app) - Translate App using TypeScript, Tailwind CSS, NextJS, Bun, shadcn/ui, AI-SDK/OpenAI, Zod, Vercel Analytics,  pdf-parse.
 - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn
 - [Aslam97/react-confirm-dialog](https://github.com/Aslam97/react-confirm-dialog) - React Confirm Dialog
 - [aymanch-03/shadcn-pricing-page](https://github.com/aymanch-03/shadcn-pricing-page) - Responsive and customizable pricing component built with shadcn/ui. Features payment frequency toggles, tier highlights and smooth price transitions.
@@ -1651,6 +1653,8 @@
 
 ## Vue 
 
+- [Robin3910/yulian_erp_front](https://github.com/Robin3910/yulian_erp_front) - 芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。
+- [hanshuaikang/AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。
 - [Daymychen/art-design-pro](https://github.com/Daymychen/art-design-pro) - A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.
 - [pangxiaobin/image-matting](https://github.com/pangxiaobin/image-matting) - 
 - [liuhuiwenllfy/element-plus-pro](https://github.com/liuhuiwenllfy/element-plus-pro) - 基于vue3+element-plus结合开发业务扩展的组件库
