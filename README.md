@@ -41,11 +41,9 @@
 
 ## C 
 
-- [taosdata/TDengine](https://github.com/taosdata/TDengine) - High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios
 - [loopholelabs/scale](https://github.com/loopholelabs/scale) - A framework for building high-performance plugin systems into any application, powered by WebAssembly.
 - [DawnNights/qq-hooker](https://github.com/DawnNights/qq-hooker) - 对 Windows QQ 进程的简单 hook 项目
 - [blechschmidt/freebind](https://github.com/blechschmidt/freebind) - IPv6 address rate limiting evasion tool (that also supports IPv4)
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [kokke/tiny-regex-c](https://github.com/kokke/tiny-regex-c) - Small portable regex in C
 - [danta666/ecdh_c](https://github.com/danta666/ecdh_c) - ECDH算法C语言实现
@@ -53,29 +51,21 @@
 - [BruceWind/AESJniEncrypt](https://github.com/BruceWind/AESJniEncrypt) - 🛡 Make safest code in Android. (基于libsodium实现chacha20算法,key在native中,防止被二次打包){长期维护,请star,勿fork}
 - [kokke/tiny-AES-c](https://github.com/kokke/tiny-AES-c) - Small portable AES128/192/256 in C
 - [tyilo/insert_dylib](https://github.com/tyilo/insert_dylib) - Command line utility for inserting a dylib load command into a Mach-O binary
-- [cloudwu/sproto](https://github.com/cloudwu/sproto) - Yet another protocol library like google protocol buffers , but simple and fast.
 - [fancycode/MemoryModule](https://github.com/fancycode/MemoryModule) - Library to load a DLL from memory.
 - [henkman/virgo](https://github.com/henkman/virgo) - :virgo::computer::computer::computer::computer: Virtual desktops for Windows
-- [pocoproject/poco](https://github.com/pocoproject/poco) - The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.
 - [RelicOfTesla/white-moon](https://github.com/RelicOfTesla/white-moon) - 易语言 白月工程
-- [microsoft/Windows-Driver-Frameworks](https://github.com/microsoft/Windows-Driver-Frameworks) - WDF makes it easy to write high-quality Windows drivers
 - [TsudaKageyu/minhook](https://github.com/TsudaKageyu/minhook) - The Minimalistic x86/x64 API Hooking Library for Windows
 - [cloudwu/pbc](https://github.com/cloudwu/pbc) - A protocol buffers library for C
 - [B-Con/crypto-algorithms](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms, like AES and SHA-1.
 - [lc-soft/LCUI](https://github.com/lc-soft/LCUI) - C library for building user interfaces
-- [alex-sector/dns2tcp](https://github.com/alex-sector/dns2tcp) - 
 - [ddiachkov/protobuf_coder](https://github.com/ddiachkov/protobuf_coder) - Generic protobuf encoder/decoder for ruby 1.9.
-- [HardySimpson/zlog](https://github.com/HardySimpson/zlog) - A reliable, high-performance, thread safe, flexsible, clear-model, pure C logging library.
 - [DaveGamble/cJSON](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C
 - [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
-- [kgabis/parson](https://github.com/kgabis/parson) - Lightweight JSON library written in C.
 - [kokke/tiny-ECDH-c](https://github.com/kokke/tiny-ECDH-c) - Small portable Elliptic-Curve Diffie-Hellman in C
 - [aashishdugar/ECDH-Algorithm](https://github.com/aashishdugar/ECDH-Algorithm) - This is an implementation of the Elliptic-Curve Diffie-Hellman Cryptographic Algorithm.
 - [xxtea/xxtea-c](https://github.com/xxtea/xxtea-c) - XXTEA encryption algorithm library for C.
 - [iqiyi/xHook](https://github.com/iqiyi/xHook) - 🔥 A PLT hook library for Android native ELF.
 - [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
-- [msantos/sods](https://github.com/msantos/sods) - Socket over DNS tunnel
-- [smasherprog/screen_capture_lite](https://github.com/smasherprog/screen_capture_lite) - cross platform screen/window capturing library
 - [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - Leaked Mirai Source Code for Research/IoC Development Purposes
 - [hfiref0x/UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control
 - [BrianGladman/aes](https://github.com/BrianGladman/aes) - AES code
@@ -782,7 +772,6 @@
 - [chi-cat/frps-auth](https://github.com/chi-cat/frps-auth) - frps简单授权
 - [mattn/go-gtk](https://github.com/mattn/go-gtk) - Go binding for GTK
 - [lxn/walk](https://github.com/lxn/walk) - A Windows GUI toolkit for the Go Programming Language
-- [sandglass/sandglass](https://github.com/sandglass/sandglass) - Sandglass is a distributed, horizontally scalable, persistent, time sorted message queue.
 - [skip2/go-qrcode](https://github.com/skip2/go-qrcode) - :sparkles: QR Code encoder (Go)
 - [syncfuture/mws](https://github.com/syncfuture/mws) - 
 - [eddycjy/go-gin-example](https://github.com/eddycjy/go-gin-example) - An example of gin
@@ -808,7 +797,6 @@
 - [appleboy/gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
 - [CrazyRocks/goadmin](https://github.com/CrazyRocks/goadmin) - 全自动一键生成的golang admin,干活就是需要快
 - [CrazyRocks/autocreate](https://github.com/CrazyRocks/autocreate) - Golang 全自动生成业务框架，原来需要1天的事情，现在只需要1分钟
-- [gogf/gf-cli](https://github.com/gogf/gf-cli) - GoFrame Command Line Interface, which is your helpmate for building GoFrame application with convenience.
 - [jinzhu/copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more
 - [tealeg/xlsx](https://github.com/tealeg/xlsx) - Go library for reading and writing XLSX files.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
@@ -849,7 +837,6 @@
 - [chenjinxuan/chess](https://github.com/chenjinxuan/chess) - Texas Holdem by go
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [allegro/bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
-- [jessevdk/go-assets-builder](https://github.com/jessevdk/go-assets-builder) - Simple assets builder program for go-assets
 - [mojocn/base64Captcha](https://github.com/mojocn/base64Captcha) - captcha of base64 image string
 - [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) - 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gR
 - [andlabs/ui](https://github.com/andlabs/ui) - Platform-native GUI library for Go.
@@ -864,14 +851,12 @@
 - [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 - [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
-- [vugu/vugu](https://github.com/vugu/vugu) - Vugu: A modern UI library for Go+WebAssembly (experimental)
 - [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
 - [go-libraries/gin-restful](https://github.com/go-libraries/gin-restful) - 
 - [golang-design/under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | Go 语言原本 | https://golang.design/under-the-hood
 - [unrolled/secure](https://github.com/unrolled/secure) - HTTP middleware for Go that facilitates some quick security wins.
 - [letseeqiji/gorobbs](https://github.com/letseeqiji/gorobbs) - gin+gorm+redis+全文搜索引擎      打造的超轻快速的应用级bbs
 - [hequan2017/go-admin](https://github.com/hequan2017/go-admin) - go web api，包含gin+gorm+jwt+rbac等。
-- [facebookarchive/inject](https://github.com/facebookarchive/inject) - Package inject provides a reflect based injector.
 - [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [gin-gonic/contrib](https://github.com/gin-gonic/contrib) - Collection of middlewares created by the community
 - [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client
@@ -900,8 +885,6 @@
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar
 - [shen100/wemall](https://github.com/shen100/wemall) - 基于react, node.js, go开发的微商城（含微信小程序）
 - [ixre/go2o](https://github.com/ixre/go2o) - 基于DDD的o2o的业务模型及基础, 使用Golang+gRPC/Thrift实现
-- [harlanc/moshopserver](https://github.com/harlanc/moshopserver) - 小程序商城golang后台API(基于Beego)
-- [davyxu/gosproto](https://github.com/davyxu/gosproto) - 基于云风的sproto二进制标准上的描述文件及代码生成工具
 - [talkincode/toughradius](https://github.com/talkincode/toughradius) - toughradius provides radius server, tr069 acs
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
@@ -992,6 +975,7 @@
 
 ## JavaScript 
 
+- [eoao/cloud-mail](https://github.com/eoao/cloud-mail) - cloudflare email 邮箱  临时邮箱 邮件发送 mail
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [benjamminf/warpjs](https://github.com/benjamminf/warpjs) - Warp, distort, bend, twist and smudge your SVG’s directly in the browser
 - [Pomax/bezierjs](https://github.com/Pomax/bezierjs) - A nodejs and client-side library for (cubic) Bezier curve work
@@ -1285,6 +1269,7 @@
 
 ## Python 
 
+- [EBOLABOY/GridBNB-USDT](https://github.com/EBOLABOY/GridBNB-USDT) - 这是一个基于AI的自动化交易程序，专为数字货币市场（BNB/USDT）设计。该程序旨在实现全自动化交易，通过AI算法帮助用户在数字货币市场中做出更智能的交易决策。
 - [Fun-Fox/pinterest](https://github.com/Fun-Fox/pinterest) - pinterest采集工具并集成deepseek Janus 进行智能挑图
 - [psoho/fast-poster](https://github.com/psoho/fast-poster) - 🔥🔥🔥 fastposter海报生成器,图片生成器,电商海报编辑器,海报设计器,电商图片合成,海报开发。生成朋友圈分享海报并生成图片，二维码海报，图片海报，图片合成，二维码推广海报，支持Java Python PHP Go JS 小程序。https://fastposter.net/doc/
 - [mikecokina/puppet-warp](https://github.com/mikecokina/puppet-warp) - Puppet Warp: A Python library for advanced image transformations, inspired by Photoshop's Puppet Warp, designed for automation in scripting environments.
@@ -1292,7 +1277,7 @@
 - [sangyun884/HR-VITON](https://github.com/sangyun884/HR-VITON) - Official PyTorch implementation for the paper High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions (ECCV 2022).
 - [hpc203/virtual_try_on_use_deep_learning](https://github.com/hpc203/virtual_try_on_use_deep_learning) - 使用深度学习算法实现虚拟试衣镜，结合了人体姿态估计、人体分割、几何匹配和GAN，四种模型。仅仅只依赖opencv库就能运行
 - [rlawjdghek/StableVITON](https://github.com/rlawjdghek/StableVITON) - [CVPR2024] StableVITON: Learning Semantic Correspondence with Latent Diffusion Model for Virtual Try-On
-- [rlawjdghek/PromptDresser](https://github.com/rlawjdghek/PromptDresser) - PromptDresser: Improving the Quality and Controllability of Virtual Try-On via Generative Textual Prompt and Prompt-aware Mask
+- [rlawjdghek/PromptDresser](https://github.com/rlawjdghek/PromptDresser) - [ICCV2025] PromptDresser: Improving the Quality and Controllability of Virtual Try-On via Generative Textual Prompt and Prompt-aware Mask
 - [Yuukiy/JavSP](https://github.com/Yuukiy/JavSP) - 汇总多站点数据的AV元数据刮削器
 - [ShieldMnt/invisible-watermark](https://github.com/ShieldMnt/invisible-watermark) - python library for invisible image watermark (blind image watermark)
 - [zetaloop/cursor-shadow-patch](https://github.com/zetaloop/cursor-shadow-patch) - An experimental patch for Cursor to force different machine ids.
@@ -1403,6 +1388,7 @@
 
 ## Shell 
 
+- [steipete/agent-rules](https://github.com/steipete/agent-rules) - Rules and Knowledge to work better with agents such as Claude Code or Cursor
 - [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine
 - [X1a0He/X1a0HeWeChatPlugin](https://github.com/X1a0He/X1a0HeWeChatPlugin) - 一个随手写的微信插件，提供消息防撤回、显示红包转账详情、消息列表操作、头像圆角、毛玻璃模式、多开等功能
 - [officialputuid/KangProxy](https://github.com/officialputuid/KangProxy) - Free proxy list (HTTP, HTTPS, SOCKS4, SOCKS5) and auto-updates & check/validate every 4-6 hours.
@@ -1459,6 +1445,13 @@
 
 ## TypeScript 
 
+- [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader) - 🤖 Open-source crypto trading bot | 📈 DCA & GRID strategies | ✨ UI | ⭐ Star to support the project!
+- [z0ffy/vite-plugin-bundle-obfuscator](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) - JavaScript obfuscator plugin provides customizable options and multi-threaded support for Vite.
+- [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
+- [liriliri/rem](https://github.com/liriliri/rem) - Rclone desktop app
+- [senshinya/MoonTV](https://github.com/senshinya/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站
+- [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 - [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie) - A browser extension that syncs and manages your cookies to your cloudflare
 - [corleone113/deformation](https://github.com/corleone113/deformation) - 基于canvas/weblgl实现图片/文字弯曲变形的效果的demo
 - [2234839/web-font](https://github.com/2234839/web-font) - 字体裁剪工具
@@ -1512,7 +1505,7 @@
 - [allipiopereira/shadcn-spinner](https://github.com/allipiopereira/shadcn-spinner) - 
 - [uixmat/shadcn-country-dropdown](https://github.com/uixmat/shadcn-country-dropdown) - ISO compliant country dropdown and phone input components using shadcn/ui
 - [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.
-- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/mail0
+- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [chclt/oh-my-wechat](https://github.com/chclt/oh-my-wechat) - 微信备份与数据报告
 - [Railly/shadcn-ui-customizer](https://github.com/Railly/shadcn-ui-customizer) - shadcn/ui themes with color pickers
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
@@ -1615,7 +1608,7 @@
 - [vangleer/es-midway-admin](https://github.com/vangleer/es-midway-admin) - 基于 midwayjs+typeorm 搭建的一套基础后台管理系统
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [Mario34/tesla-camera](https://github.com/Mario34/tesla-camera) - 🕹  Lightweight TeslaCam player 轻量的Tesla行车记录仪播放器
-- [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) - 脚本猫，一个可以执行用户脚本的浏览器扩展
+- [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) - ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展
 - [yeojz/otplib](https://github.com/yeojz/otplib) - :key: One Time Password (OTP) / 2FA for Node.js and Browser - Supports HOTP, TOTP and Google Authenticator
 - [Y-GM/Metadata1](https://github.com/Y-GM/Metadata1) - 
 - [IdekDude/Metadata1](https://github.com/IdekDude/Metadata1) - 
