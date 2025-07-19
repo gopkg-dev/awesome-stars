@@ -466,7 +466,6 @@
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [DawnNights/go-pcqq](https://github.com/DawnNights/go-pcqq) - Go语言版PCQQ协议简单实现
-- [swuecho/chat](https://github.com/swuecho/chat) - chat web app for teams, sass with user management and ratelimit, support chatgpt(openai & azure), claude, gemini and ollama model
 - [codeation/impress](https://github.com/codeation/impress) - Go GUI cross-platform library
 - [lqqyt2423/go-mitmproxy](https://github.com/lqqyt2423/go-mitmproxy) - mitmproxy implemented with golang. 用 Golang 实现的中间人攻击（Man-in-the-middle），解析、监测、篡改 HTTP/HTTPS 流量。
 - [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) - A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
@@ -1446,6 +1445,7 @@
 
 ## TypeScript 
 
+- [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
 - [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader) - 🤖 Open-source crypto trading bot | 📈 DCA & GRID strategies | ✨ UI | ⭐ Star to support the project!
 - [z0ffy/vite-plugin-bundle-obfuscator](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) - JavaScript obfuscator plugin provides customizable options and multi-threaded support for Vite.
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
@@ -1697,6 +1697,7 @@
 - [lalokalabs/tailwindlayout](https://github.com/lalokalabs/tailwindlayout) - Popular layouts and patterns made with Tailwind CSS
 - [jae-jae/Userscript-Plus](https://github.com/jae-jae/Userscript-Plus) - :monkey: Show current site all UserJS，The easier way to install UserJs for Tampermonkey. 显示当前网站的所有可用Tampermonkey脚本
 - [cool-team-official/cool-admin-vue](https://github.com/cool-team-official/cool-admin-vue) - 🔥 cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于vue3、element-plus、pinia、vite、tailwindcss、i18n等构建
+- [swuecho/chat](https://github.com/swuecho/chat) - chat web app for teams, sass with user management and ratelimit, support chatgpt(openai & azure), claude, gemini and ollama model
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个多功能Linux服务器WEB终端面板(webSSH&webSFTP). 更新通知TG：
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
