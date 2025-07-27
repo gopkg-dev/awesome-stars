@@ -924,7 +924,7 @@
 - [HackerThemes/spur-template](https://github.com/HackerThemes/spur-template) - A Bootstrap Admin Template
 - [puikinsh/ElaAdmin](https://github.com/puikinsh/ElaAdmin) - A clean & completely free Bootstrap 4 admin dashboard template
 - [puikinsh/Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) - Adminator is easy to use and well design admin dashboard template based on Bootstrap 5 with dark mode for web apps, websites, services and more
-- [puikinsh/CoolAdmin](https://github.com/puikinsh/CoolAdmin) - Free Bootstrap 4.1 based admin dashboard template
+- [puikinsh/CoolAdmin](https://github.com/puikinsh/CoolAdmin) - Free Bootstrap 5 based admin dashboard template - open source and licensed under MIT license
 - [coryjthompson/WebPushDemo](https://github.com/coryjthompson/WebPushDemo) - An example of how to use web-push-csharp.
 - [monlor/MIXBOX-ARCHIVE](https://github.com/monlor/MIXBOX-ARCHIVE) - 一款基于Shell的小米路由器工具箱，原为Monlor-Tools，A tool box for XiaoMi Router base on Shell.
 - [hookmaster/frida-all-in-one](https://github.com/hookmaster/frida-all-in-one) - 《FRIDA操作手册》by @hluwa @r0ysue
@@ -974,7 +974,7 @@
 
 ## JavaScript 
 
-- [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 可自建Claude code镜像服务，支持多账户切换、自定义API密钥、隐私安全、能有效规避封号，OAuth集成可快捷添加账号池。
+- [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 自建Claude code镜像服务，支持多账户切换、自定义API密钥、Claude API、OPENAI兼容格式、能有效规避封号，OAuth集成可快捷添加账号池。
 - [eoao/cloud-mail](https://github.com/eoao/cloud-mail) - cloudflare email 邮箱  临时邮箱 邮件发送 mail
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [benjamminf/warpjs](https://github.com/benjamminf/warpjs) - Warp, distort, bend, twist and smudge your SVG’s directly in the browser
@@ -1191,7 +1191,6 @@
 - [hendrikbgr/Free-Proxy-Repo](https://github.com/hendrikbgr/Free-Proxy-Repo) - Get a fresh list of proxies every couple of hours. Scraped from over 60+ Websites & over 360+ Links. This list gets updated onces all scraped proxies have been checked and then we start scraping again
 - [ProxyScraper/ProxyScraper](https://github.com/ProxyScraper/ProxyScraper) - Automatic and permanent proxy collection and update center for free (updated every hour)
 - [mmpx12/proxy-list](https://github.com/mmpx12/proxy-list) - Free proxies (few vpn and tor exit nodes) from various sources update hourly.
-- [jepluk/PROXYLIST](https://github.com/jepluk/PROXYLIST) - Free proxy list ( Updates every 30 minutes)
 - [roosterkid/openproxylist](https://github.com/roosterkid/openproxylist) - List of Free HTTPS, SOCKS4, SOCKS5 & V2Ray Proxy (Hourly Updates!)
 - [claude89757/free_https_proxies](https://github.com/claude89757/free_https_proxies) - Share some free https proxies from internet
 - [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) - 🚀 Free HTTP, SOCKS4, & SOCKS5 Proxy List * Updated every 5 minutes *
@@ -1292,6 +1291,7 @@
 - [BreakingTechFr/Proxy_Free](https://github.com/BreakingTechFr/Proxy_Free) - Ce script permet d'extraire des proxys gratuits Http, Socks4 et Socks5 en format .txt
 - [gitrecon1455/fresh-proxy-list](https://github.com/gitrecon1455/fresh-proxy-list) - Free Proxy List Updated every 10 minutes
 - [MuRongPIG/Proxy-Master](https://github.com/MuRongPIG/Proxy-Master) - maybe the best free proxy list?
+- [jepluk/instaspy](https://github.com/jepluk/instaspy) - Free proxy list ( Updates every 30 minutes)
 - [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
 - [Python3WebSpider/ProxyPool](https://github.com/Python3WebSpider/ProxyPool) - An Efficient ProxyPool with Getter, Tester and Server
 - [psd-tools/psd-tools](https://github.com/psd-tools/psd-tools) - Python package for reading Adobe Photoshop PSD files
