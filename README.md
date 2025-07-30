@@ -1291,7 +1291,7 @@
 - [BreakingTechFr/Proxy_Free](https://github.com/BreakingTechFr/Proxy_Free) - Ce script permet d'extraire des proxys gratuits Http, Socks4 et Socks5 en format .txt
 - [gitrecon1455/fresh-proxy-list](https://github.com/gitrecon1455/fresh-proxy-list) - Free Proxy List Updated every 10 minutes
 - [MuRongPIG/Proxy-Master](https://github.com/MuRongPIG/Proxy-Master) - maybe the best free proxy list?
-- [jepluk/instaspy](https://github.com/jepluk/instaspy) - Free proxy list ( Updates every 30 minutes)
+- [jepluk/instaspy](https://github.com/jepluk/instaspy) - Simple Instagram api using python.
 - [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
 - [Python3WebSpider/ProxyPool](https://github.com/Python3WebSpider/ProxyPool) - An Efficient ProxyPool with Getter, Tester and Server
 - [psd-tools/psd-tools](https://github.com/psd-tools/psd-tools) - Python package for reading Adobe Photoshop PSD files
