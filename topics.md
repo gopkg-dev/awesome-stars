@@ -44,6 +44,7 @@
 - [continuous-integration](#continuous-integration)
 - [covid-19](#covid-19)
 - [cpp](#cpp)
+- [crawler](#crawler)
 - [cryptocurrency](#cryptocurrency)
 - [cryptography](#cryptography)
 - [csharp](#csharp)
@@ -216,7 +217,6 @@
 - [windows](#windows)
 - [xcode](#xcode)
 - [xml](#xml)
-- [zsh](#zsh)
 
 ## 3d 
 
@@ -235,7 +235,7 @@
 - [cloudwego/eino-ext](https://github.com/cloudwego/eino-ext) - Various extensions for the Eino framework: https://github.com/cloudwego/eino
 - [cloudwego/eino](https://github.com/cloudwego/eino) - The ultimate LLM/AI application development framework in Golang.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [firerpa/lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation of mobile automation robots.
 - [chatgpt-web-dev/chatgpt-web](https://github.com/chatgpt-web-dev/chatgpt-web) - A third-party ChatGPT Web UI page built with Express and Vue3, through the official OpenAI completion API. / 用 Express 和 Vue3 搭建的第三方 ChatGPT 前端页面, 基于 OpenAI 官方 completion API.
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
@@ -285,17 +285,16 @@
 - [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter.
 - [succlz123/DLNA-Dart](https://github.com/succlz123/DLNA-Dart) - A simple DLNA DMC library implemented by Dart.
 - [iamabhishek229313/tinder_clone](https://github.com/iamabhishek229313/tinder_clone) - For learning   .
-- [niuhuan/daisy](https://github.com/niuhuan/daisy) - 美观易用且无广告的漫画和轻小说客户端, 同时支持MacOS，Windows，Android，iOS。类似动漫之家。
+- [niuhuan/daisy](https://github.com/niuhuan/daisy) - 美观易用且无广告的漫画和轻小说客户端, 同时支持MacOS，Windows，Android，iOS。(动漫之家)
 - [xieyezi/flutter-Anniversary](https://github.com/xieyezi/flutter-Anniversary) - 一款界面优美，功能简洁的纪念日APP
 - [xieyezi/flutter-shopping-AiRi](https://github.com/xieyezi/flutter-shopping-AiRi) - A shopping App developed based on Flutter, covering common features of shopping apps.
 - [wuba/Fair](https://github.com/wuba/Fair) - A Flutter package used to update widget tree dynamically. Fair提供一整套Flutter动态化解决方案
-- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
+- [ComicSparks/pikapika](https://github.com/ComicSparks/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [ClarkGuan/scrcpy-go](https://github.com/ClarkGuan/scrcpy-go) - Golang version of scrcpy
 - [CreditTone/hooker](https://github.com/CreditTone/hooker) - 🔥🔥 hooker is a Frida-based reverse engineering toolkit for Android. It offers a user-friendly CLI, universal scripts, auto hook generation, memory roaming to detect activities/services, one-click SOCK
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android native library, and an experimental  iOS emulation
 - [Margular/frida-skeleton](https://github.com/Margular/frida-skeleton) - 基于frida的安卓hook框架，提供了很多frida自身不支持的功能，将hook安卓变成简单便捷，人人都会的事情
-- [BruceWind/AESJniEncrypt](https://github.com/BruceWind/AESJniEncrypt) - 🛡 Make safest code in Android. (基于libsodium实现chacha20算法,key在native中,防止被二次打包){长期维护,请star,勿fork}
 - [Meituan-Dianping/walle](https://github.com/Meituan-Dianping/walle) - Android Signature V2 Scheme签名下的新一代渠道包打包神器
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [rovo89/XposedInstaller](https://github.com/rovo89/XposedInstaller) - 
@@ -484,6 +483,7 @@
 
 ## chatbot 
 
+- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 - [shaxiu/XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent) - 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。
 - [79E/ChatGpt-Web](https://github.com/79E/ChatGpt-Web) - A commercially-viable ChatGpt web application built with React. 使用React搭建的一款可商业化的ChatGpt Web应用。
@@ -510,18 +510,18 @@
 - [swuecho/chat](https://github.com/swuecho/chat) - chat web app for teams, sass with user management and ratelimit, support chatgpt(openai & azure), claude, gemini and ollama model
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT
 - [1zilc/fishing-funds](https://github.com/1zilc/fishing-funds) - 基金,大盘,股票,虚拟货币状态栏显示小应用,基于Electron开发,支持MacOS,Windows,Linux客户端,数据源来自天天基金,蚂蚁基金,爱基金,腾讯证券等
 
 ## chatgpt-api 
 
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 
 ## chrome 
 
-- [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie) - A browser extension that syncs and manages your cookies to your cloudflare
+- [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie) - A browser extension that syncs and manages your cookies & localStorage to your cloudflare
 - [janek26/trpc-browser](https://github.com/janek26/trpc-browser) - tRPC for extension and web 🧩🕸️
 - [zouhangwithsweet/fubukicss-tool](https://github.com/zouhangwithsweet/fubukicss-tool) - A browser extension to get CSS from Figma in one step.
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
@@ -537,7 +537,8 @@
 
 ## chrome-extension 
 
-- [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie) - A browser extension that syncs and manages your cookies to your cloudflare
+- [iszhouhua/social-media-copilot](https://github.com/iszhouhua/social-media-copilot) - 社媒助手开源版 - 小红书、抖音、快手等平台数据采集的浏览器插件，可通过API调用，支持Docker部署。
+- [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie) - A browser extension that syncs and manages your cookies & localStorage to your cloudflare
 - [aklinker1/webext-core](https://github.com/aklinker1/webext-core) - Collection of essential libraries and tools for building web extensions
 - [jlalmes/trpc-chrome](https://github.com/jlalmes/trpc-chrome) - tRPC adapter for Web Extensions 🧩
 - [raynirola/extension](https://github.com/raynirola/extension) - Chrome extension starter kit with tRPC, Vite, Tailwindcss, Typescript and React
@@ -618,6 +619,20 @@
 - [nlitsme/cpputils](https://github.com/nlitsme/cpputils) - various c++ utility classes
 - [ldcsaa/HP-Socket](https://github.com/ldcsaa/HP-Socket) - High Performance TCP/UDP/HTTP Communication Component
 
+## crawler 
+
+- [spider-rs/spider](https://github.com/spider-rs/spider) - Web crawler and scraper for Rust
+- [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
+- [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - Use LLMs to dig out what you care about from massive amounts of information and a variety of sources daily.
+- [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
+- [JSREI/crawler-js-hook-framework-public](https://github.com/JSREI/crawler-js-hook-framework-public) - JS逆向Hook工具集，开源部分工具到这里
+- [Boris-code/feapder](https://github.com/Boris-code/feapder) - 🚀🚀🚀feapder is an easy to use, powerful crawler framework | feapder是一款上手简单，功能强大的Python爬虫框架。内置AirSpider、Spider、TaskSpider、BatchSpider四种爬虫解决不同场景的需求。且支持断点续爬、监控报警、浏览器渲染、海量数据去重等功能。更有功能强大的爬虫管理系统feaplat为其提供方便
+- [geziyor/geziyor](https://github.com/geziyor/geziyor) - Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
+- [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
+- [goclone-dev/goclone](https://github.com/goclone-dev/goclone) - Website Cloner - Utilizes powerful Go routines to clone websites to your computer within seconds.
+- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
+
 ## cryptocurrency 
 
 - [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader) - 🤖 Open-source crypto trading bot | 📈 DCA & GRID strategies | ✨ UI | ⭐ Star to support the project!
@@ -684,7 +699,7 @@
 
 ## data 
 
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [Countly/countly-server](https://github.com/Countly/countly-server) - Countly is a product analytics platform that helps teams track, analyze and act-on their user actions and behaviour on mobile, web and desktop applications.
 
@@ -752,6 +767,7 @@
 
 ## developer-tools 
 
+- [go-dev-frame/sponge](https://github.com/go-dev-frame/sponge) - A powerful and easy-to-use Go development framework that enables you to effortlessly build stable, reliable, and high-performance backend services with a "low-code" approach.
 - [yaolifeng0629/Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools) - 独立开发者精选工具站（Awesome Independent developer  tools）
 - [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
@@ -890,6 +906,7 @@
 
 ## express 
 
+- [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) - 一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。
 - [DevSantt/photo-reader-api](https://github.com/DevSantt/photo-reader-api) - A NodeJs API made with Express.js for parsing, remove backround and edit photos automaticaly.
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 - [yiier/yii2-cross-border-express](https://github.com/yiier/yii2-cross-border-express) - 跨境物流接口：云途物流、三态速递、飞特物流
@@ -935,12 +952,12 @@
 - [RivaanRanawat/tiktok-flutter-clone](https://github.com/RivaanRanawat/tiktok-flutter-clone) - Full Stack TikTok Clone using Flutter, Firebase & GetX
 - [DuanJiaNing/makeaplan_public](https://github.com/DuanJiaNing/makeaplan_public) - 【制定一个计划】是一个目标规划应用，通过最直接，最清晰的方式帮助你记录和追踪自己的计划，辅助你达成自己的目标。使用 Golang+gRPC+Flutter 开发。
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
-- [niuhuan/daisy](https://github.com/niuhuan/daisy) - 美观易用且无广告的漫画和轻小说客户端, 同时支持MacOS，Windows，Android，iOS。类似动漫之家。
+- [niuhuan/daisy](https://github.com/niuhuan/daisy) - 美观易用且无广告的漫画和轻小说客户端, 同时支持MacOS，Windows，Android，iOS。(动漫之家)
 - [xieyezi/flutter-Anniversary](https://github.com/xieyezi/flutter-Anniversary) - 一款界面优美，功能简洁的纪念日APP
 - [xieyezi/flutter-shopping-AiRi](https://github.com/xieyezi/flutter-shopping-AiRi) - A shopping App developed based on Flutter, covering common features of shopping apps.
 - [macosui/macos_ui](https://github.com/macosui/macos_ui) - Flutter widgets and themes implementing the current macOS design language.
 - [wuba/Fair](https://github.com/wuba/Fair) - A Flutter package used to update widget tree dynamically. Fair提供一整套Flutter动态化解决方案
-- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
+- [ComicSparks/pikapika](https://github.com/ComicSparks/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [jonataslaw/getx](https://github.com/jonataslaw/getx) - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.
 - [HappyGhostz/show_time_for_flutter](https://github.com/HappyGhostz/show_time_for_flutter) - 华丽的Flutter的demo----新闻阅读+音乐+短视频+小说
 - [fluttercandies/wechat_flutter](https://github.com/fluttercandies/wechat_flutter) - wechat_flutter is Flutter version WeChat, an excellent Flutter instant messaging IM open source library!
@@ -1009,7 +1026,7 @@
 ## game 
 
 - [topfreegames/pitaya](https://github.com/topfreegames/pitaya) - Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.
-- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
+- [ComicSparks/pikapika](https://github.com/ComicSparks/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [lonng/nano](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework
 - [bobohume/gonet](https://github.com/bobohume/gonet) - go分布式服务器，基于内存mmo
 
@@ -1035,6 +1052,7 @@
 
 ## go 
 
+- [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - 智能密钥轮询的多渠道 AI 代理。 Multi-channel AI proxy with intelligent key rotation.
 - [fogleman/gg](https://github.com/fogleman/gg) - Go Graphics - 2D rendering in Go with a simple API.
 - [yalue/onnxruntime_go](https://github.com/yalue/onnxruntime_go) - A Go (golang) library wrapping microsoft/onnxruntime.
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
@@ -1117,14 +1135,14 @@
 - [go-sonic/sonic](https://github.com/go-sonic/sonic) - Sonic is a blogging platform developed by Go. Simple and powerful
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit and admin panel in Go
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
 - [saferwall/pe](https://github.com/saferwall/pe) - A :zap: lightweight Go package to parse, analyze and extract metadata from Portable Executable (PE) binaries. Designed for malware analysis tasks and robust against PE malformations.
 - [DuanJiaNing/makeaplan_public](https://github.com/DuanJiaNing/makeaplan_public) - 【制定一个计划】是一个目标规划应用，通过最直接，最清晰的方式帮助你记录和追踪自己的计划，辅助你达成自己的目标。使用 Golang+gRPC+Flutter 开发。
-- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
+- [ComicSparks/pikapika](https://github.com/ComicSparks/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [maruel/panicparse](https://github.com/maruel/panicparse) - Crash your app in style (Golang)
 - [chehsunliu/poker](https://github.com/chehsunliu/poker) - A pure Go library for poker hand evaluation.
 - [SonicCloudOrg/sonic-ios-bridge](https://github.com/SonicCloudOrg/sonic-ios-bridge) - 🎉Bridge of iOS Devices by usbmuxd. 基于usbmuxd的iOS调试工具。
@@ -1299,6 +1317,9 @@
 
 ## golang 
 
+- [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - 智能密钥轮询的多渠道 AI 代理。 Multi-channel AI proxy with intelligent key rotation.
+- [go-dev-frame/sponge](https://github.com/go-dev-frame/sponge) - A powerful and easy-to-use Go development framework that enables you to effortlessly build stable, reliable, and high-performance backend services with a "low-code" approach.
+- [veops/oneterm](https://github.com/veops/oneterm) - Provide secure access and control over all infrastructure
 - [hiscaler/temu-go](https://github.com/hiscaler/temu-go) - Temu SDK for Golang
 - [souvik03-136/NeuraBalancer](https://github.com/souvik03-136/NeuraBalancer) - Self-Optimizing Load Balancer
 - [yalue/onnxruntime_go](https://github.com/yalue/onnxruntime_go) - A Go (golang) library wrapping microsoft/onnxruntime.
@@ -1396,7 +1417,7 @@
 - [go-sonic/sonic](https://github.com/go-sonic/sonic) - Sonic is a blogging platform developed by Go. Simple and powerful
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit and admin panel in Go
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [OldSmokeGun/go-scaffold](https://github.com/OldSmokeGun/go-scaffold) - Golang development basic scaffold
@@ -1406,7 +1427,7 @@
 - [create-go-app/fiber-go-template](https://github.com/create-go-app/fiber-go-template) - 📝 Production-ready backend template with Fiber Go Web Framework for Create Go App CLI.
 - [saferwall/pe](https://github.com/saferwall/pe) - A :zap: lightweight Go package to parse, analyze and extract metadata from Portable Executable (PE) binaries. Designed for malware analysis tasks and robust against PE malformations.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
+- [ComicSparks/pikapika](https://github.com/ComicSparks/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [chehsunliu/poker](https://github.com/chehsunliu/poker) - A pure Go library for poker hand evaluation.
 - [manifoldco/promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
 - [xiaogao67/gin-cloud-storage](https://github.com/xiaogao67/gin-cloud-storage) - 使用Go语言开发的云存储网盘项目
@@ -1784,7 +1805,7 @@
 - [xieyezi/flutter-Anniversary](https://github.com/xieyezi/flutter-Anniversary) - 一款界面优美，功能简洁的纪念日APP
 - [xieyezi/flutter-shopping-AiRi](https://github.com/xieyezi/flutter-shopping-AiRi) - A shopping App developed based on Flutter, covering common features of shopping apps.
 - [wuba/Fair](https://github.com/wuba/Fair) - A Flutter package used to update widget tree dynamically. Fair提供一整套Flutter动态化解决方案
-- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
+- [ComicSparks/pikapika](https://github.com/ComicSparks/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [SonicCloudOrg/sonic-ios-bridge](https://github.com/SonicCloudOrg/sonic-ios-bridge) - 🎉Bridge of iOS Devices by usbmuxd. 基于usbmuxd的iOS调试工具。
 - [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android native library, and an experimental  iOS emulation
 - [AloneMonkey/MonkeyDev](https://github.com/AloneMonkey/MonkeyDev) - CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps,  Without Jailbreak.
@@ -2006,10 +2027,11 @@
 
 ## llm 
 
+- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [shaxiu/XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent) - 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。
 - [nexmoe/serverless-comfyui](https://github.com/nexmoe/serverless-comfyui) - 一个基于 Docker 的 ComfyUI 弹性 Serverless 应用，提供完整的前后端分离架构和用户友好的界面。
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - Use LLMs to dig out what you care about from massive amounts of information and a variety of sources daily.
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
@@ -2021,6 +2043,7 @@
 
 ## low-code 
 
+- [go-dev-frame/sponge](https://github.com/go-dev-frame/sponge) - A powerful and easy-to-use Go development framework that enables you to effortlessly build stable, reliable, and high-performance backend services with a "low-code" approach.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 - [quanxiang-cloud/quanxiang](https://github.com/quanxiang-cloud/quanxiang) - QuanXiang is a powerful, pluggable open source low-code platform used to assist in building various types of digital applications for enterprises.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
@@ -2097,9 +2120,10 @@
 
 ## markdown 
 
+- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
 - [yangjiakai/lux-ui](https://github.com/yangjiakai/lux-ui) - Create the best admin based on Vue3.x, Vite5.x, TypeScript, Vuetify3.x, Chat GPT
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [youlu-cn/grpc-gen](https://github.com/youlu-cn/grpc-gen) - grpc gen
@@ -2187,6 +2211,7 @@
 
 ## nextjs 
 
+- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
@@ -2233,6 +2258,7 @@
 
 ## nodejs 
 
+- [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) - 一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [thx/resvg-js](https://github.com/thx/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
 - [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
@@ -2285,6 +2311,8 @@
 
 ## openai 
 
+- [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - 智能密钥轮询的多渠道 AI 代理。 Multi-channel AI proxy with intelligent key rotation.
+- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
 - [hanshuaikang/AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。
@@ -2298,7 +2326,7 @@
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [MustangYM/OSXChatGpt](https://github.com/MustangYM/OSXChatGpt) - Easy to use OpenAI ChatGPT on your mac !
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 
 ## opencv 
 
@@ -2308,15 +2336,19 @@
 
 ## others 
 
+- [SaltifyDev/tanebi](https://github.com/SaltifyDev/tanebi) - PC NTQQ 协议的 TypeScript 实现，包含 Milky 协议的实现
+- [jxhczhl/JsRpc](https://github.com/jxhczhl/JsRpc) - 远程调用(rpc)浏览器方法，免去抠代码补环境
+- [f0ng/autoDecoder](https://github.com/f0ng/autoDecoder) - Burp插件，根据自定义来达到对数据包的处理（适用于加解密、爆破等），类似mitmproxy，不同点在于经过了burp中转，在自动加解密的基础上，不影响APP、网站加解密正常逻辑等。
+- [xiaoxiunique/xhs](https://github.com/xiaoxiunique/xhs) - 一个基于 Nuxt.js 3 开发的小红书工具网站，提供图文，视频，评论 浏览与导出
+- [rezmoss/simple-load-balancer](https://github.com/rezmoss/simple-load-balancer) - 
 - [francisconeves97/jxscout](https://github.com/francisconeves97/jxscout) - jxscout superpowers JavaScript analysis for security researchers
 - [gitbenxing/anti-content](https://github.com/gitbenxing/anti-content) - 拼多多 Anti-Content加密 拼多多MCN 拼多多店群 拼多多订单采集 推广数据 财务流水
-- [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 自建Claude code镜像服务，也支持Gemini cli中转，支持多账户切换、自定义API密钥、Claude API、OPENAI兼容格式、能有效规避封号，OAuth集成可快捷添加账号池。
+- [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 自建Claude-code镜像服务，同时支持Gemini-cli、Codex-cli中转，支持多账户切换、自定义API密钥、Claude API、OPENAI兼容格式、能有效规避封号，OAuth集成可快捷添加账号池。
 - [theajack/disable-devtool](https://github.com/theajack/disable-devtool) - Disable web developer tools from the f12 button, right-click and browser menu
 - [81NewArk/AntiCAP](https://github.com/81NewArk/AntiCAP) - 验证码识别   点选 滑块 算术 OCR
 - [EBOLABOY/GridBNB-USDT](https://github.com/EBOLABOY/GridBNB-USDT) - 这是一个基于AI的自动化交易程序，专为数字货币市场（BNB/USDT）设计。该程序旨在实现全自动化交易，通过AI算法帮助用户在数字货币市场中做出更智能的交易决策。
 - [z0ffy/vite-plugin-bundle-obfuscator](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) - JavaScript obfuscator plugin provides customizable options and multi-threaded support for Vite.
 - [eoao/cloud-mail](https://github.com/eoao/cloud-mail) - cloudflare email 邮箱  临时邮箱 邮件发送 mail
-- [LunaTechLab/MoonTV](https://github.com/LunaTechLab/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站
 - [steipete/agent-rules](https://github.com/steipete/agent-rules) - Rules and Knowledge to work better with agents such as Claude Code or Cursor
 - [Robin3910/yulian_erp_front](https://github.com/Robin3910/yulian_erp_front) - 芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。
 - [Robin3910/yulian_erp_back](https://github.com/Robin3910/yulian_erp_back) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
@@ -2384,7 +2416,7 @@
 - [Aslam97/react-confirm-dialog](https://github.com/Aslam97/react-confirm-dialog) - React Confirm Dialog
 - [allipiopereira/shadcn-spinner](https://github.com/allipiopereira/shadcn-spinner) - 
 - [uixmat/shadcn-country-dropdown](https://github.com/uixmat/shadcn-country-dropdown) - ISO compliant country dropdown and phone input components using shadcn/ui
-- [chclt/oh-my-wechat](https://github.com/chclt/oh-my-wechat) - 微信备份与数据报告
+- [chclt/oh-my-wechat](https://github.com/chclt/oh-my-wechat) - 微信备份阅读器
 - [Railly/shadcn-ui-customizer](https://github.com/Railly/shadcn-ui-customizer) - shadcn/ui themes with color pickers
 - [sirius1024/iterm2-with-oh-my-zsh](https://github.com/sirius1024/iterm2-with-oh-my-zsh) - iTerm2 + Oh My Zsh 打造舒适终端体验
 - [Aslam97/shadcn-minimal-tiptap](https://github.com/Aslam97/shadcn-minimal-tiptap) - Minimal Tiptap Editor
@@ -2476,10 +2508,8 @@
 - [hangjob/vue-bag-admin](https://github.com/hangjob/vue-bag-admin) - Vue-Bag-Admin采用Vue3、Vite5、Naive UI、JavaScript、Pinia等等前端最新的技术栈开发，通过npm包引入，它允许开发者在不修改原代码基础上扩展新的功能，使得应用更加模块化和易于维护，一款清新好看的响应式中后台管理系统
 - [aws/aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
-- [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 - [DingZaiHub/ob-decrypt](https://github.com/DingZaiHub/ob-decrypt) - ob混淆还原工具，欢迎star！
 - [echo094/decode-js](https://github.com/echo094/decode-js) - JS混淆代码的AST分析工具 AST analysis tool for obfuscated JS code
-- [JSREI/crawler-js-hook-framework-public](https://github.com/JSREI/crawler-js-hook-framework-public) - JS逆向Hook工具集，开源部分工具到这里
 - [annnhan/ReRes](https://github.com/annnhan/ReRes) - Change the response of the request.
 - [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) - A docker registry proxy run on cloudflare worker.
 - [lzw5399/tumbleweed-designer](https://github.com/lzw5399/tumbleweed-designer) - BPMN 2.0 workflow designer.
@@ -2525,7 +2555,7 @@
 - [stmtc233/ipv6-proxy-pool](https://github.com/stmtc233/ipv6-proxy-pool) - 
 - [mzyui/proxy-list](https://github.com/mzyui/proxy-list) - 🔓 daily updated proxy list
 - [lucasbuilds/proxy.rs](https://github.com/lucasbuilds/proxy.rs) - 
-- [pokeyaro/wasm-demo](https://github.com/pokeyaro/wasm-demo) - Use go + vue3 + vite to complete the wasm example of calculating the Fibonacci sequence
+- [maverickevil/wasm-demo](https://github.com/maverickevil/wasm-demo) - Use go + vue3 + vite to complete the wasm example of calculating the Fibonacci sequence
 - [telanflow/mps](https://github.com/telanflow/mps) - MPS is a high-performance HTTP(S) proxy library that supports forward proxies, reverse proxies, man-in-the-middle proxies, tunnel proxies, Websocket proxies. MPS 是一个高性能HTTP(s)中间代理库，它支持正向代理、反向代理、中间人代理、
 - [AndroidCoderPeng/DailyTask](https://github.com/AndroidCoderPeng/DailyTask) - 钉钉自动打卡
 - [newway1992/texasPoker](https://github.com/newway1992/texasPoker) - 德州扑克分池结算
@@ -2616,7 +2646,6 @@
 - [cloudwego/shmipc-go](https://github.com/cloudwego/shmipc-go) - A high performance inter-process communication golang library developed by CloudWeGo
 - [emn178/js-sha256](https://github.com/emn178/js-sha256) - A simple SHA-256 / SHA-224 hash function for JavaScript supports UTF-8 encoding.
 - [zhonghangAlex/DySpider](https://github.com/zhonghangAlex/DySpider) - 抖音直播间实时弹幕爬取，基于python，websocket，protobuf协议，js逆向等技术栈实现，并且进行相关的数据分析
-- [DawnNights/qq-hooker](https://github.com/DawnNights/qq-hooker) - 对 Windows QQ 进程的简单 hook 项目
 - [DawnNights/go-pcqq](https://github.com/DawnNights/go-pcqq) - Go语言版PCQQ协议简单实现
 - [python-scrapy-playbook/amazon-python-scrapy-scraper](https://github.com/python-scrapy-playbook/amazon-python-scrapy-scraper) - 
 - [sml2h3/ddddocr](https://github.com/sml2h3/ddddocr) - 带带弟弟 通用验证码识别OCR pypi版
@@ -2627,7 +2656,6 @@
 - [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) - A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
 - [pquerna/otp](https://github.com/pquerna/otp) - TOTP library for Go
 - [dukaev/ipv4-ipv6-proxy](https://github.com/dukaev/ipv4-ipv6-proxy) - Install script ipv4 → ipv6 http proxy
-- [blechschmidt/freebind](https://github.com/blechschmidt/freebind) - IPv6 address rate limiting evasion tool (that also supports IPv4)
 - [amber-moe/oceanbase-sql-gpt](https://github.com/amber-moe/oceanbase-sql-gpt) - Generate your Twitter bio with ChatGPT and Vercel Edge Functions.
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [YoungiiJC/go-rod-aws-lambda](https://github.com/YoungiiJC/go-rod-aws-lambda) - 
@@ -2671,7 +2699,6 @@
 - [xfmoulet/qoi](https://github.com/xfmoulet/qoi) - Pure Go encoder/decoder of the QOI image format
 - [campoy/unique](https://github.com/campoy/unique) - Package unique provides primitives for sorting slices removing repeated elements.
 - [storezhang/golang-coding-standards](https://github.com/storezhang/golang-coding-standards) - Golang编码规范
-- [kokke/tiny-regex-c](https://github.com/kokke/tiny-regex-c) - Small portable regex in C
 - [imperfectgo/jsonwat](https://github.com/imperfectgo/jsonwat) - 😎 Utilities for creepy JSON documents
 - [renzhezhilu/webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - Use the browser's online image format converter, no need to upload files, you can convert jpeg, jpg, png, gif, webp, svg, ico, bmp files to jpeg, png, webp animation, gif, base64,avif,mozjpeg. 使用浏览器的在
 - [airzhe/go-mysql-elasticsearch](https://github.com/airzhe/go-mysql-elasticsearch) - go-mysql-elasticsearch 注释版
@@ -2742,7 +2769,7 @@
 - [overnote/over-golang](https://github.com/overnote/over-golang) - Golang相关：[审稿进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
 - [rdleal/go-async](https://github.com/rdleal/go-async) - Async utilities for Golang
 - [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures and vice versa.
-- [amz-tools/amazon-sp-api](https://github.com/amz-tools/amazon-sp-api) - Amazon Selling Partner API Client
+- [jrl84/amazon-sp-api](https://github.com/jrl84/amazon-sp-api) - Amazon Selling Partner API Client
 - [go-redis/redis_rate](https://github.com/go-redis/redis_rate) - Rate limiting for go-redis
 - [lee501/go-patterns](https://github.com/lee501/go-patterns) - Golang 设计模式
 - [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.
@@ -2775,7 +2802,6 @@
 - [zeusro/LiveTemplate](https://github.com/zeusro/LiveTemplate) - Code live template,介绍各种语言,常用工具的使用技巧~
 - [LockGit/gochat](https://github.com/LockGit/gochat) - goim server write by golang !🚀
 - [woodylan/go-websocket](https://github.com/woodylan/go-websocket) - 基于Golang实现的分布式WebSocket服务、IM服务，仅依赖Etcd，简单易部署，支持高并发、单发、群发、广播，其它项目可以通过http与本项目通信。
-- [duyanming/Viper](https://github.com/duyanming/Viper) - Viper 是一个基于Anno微服务引擎开发的Dashboard示例项目。Anno 底层通讯采用 grpc、thrift。自带服务发现、调用链追踪、Cron 调度、限流、事件总线等等
 - [sunmi-OS/gocore](https://github.com/sunmi-OS/gocore) - gocore is a highly integrated development framework and provides scaffolding for generating project structure, supports api, rpc, job and other development methods, and integrates various mainstream o
 - [GoesToEleven/golang-web-dev](https://github.com/GoesToEleven/golang-web-dev) - 
 - [Mrs4s/MiraiGo](https://github.com/Mrs4s/MiraiGo) - qq协议的golang实现, 移植于mirai
@@ -2931,7 +2957,6 @@
 - [LifeActor/ykdl](https://github.com/LifeActor/ykdl) - a video downloader focus on China mainland video sites.(一款专注于中国大陆视频网站的视频下载器。)
 - [ZSAIm/iqiyi-parser](https://github.com/ZSAIm/iqiyi-parser) - 解析下载爱奇艺、哔哩哔哩、腾讯视频
 - [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
-- [fancycode/MemoryModule](https://github.com/fancycode/MemoryModule) - Library to load a DLL from memory.
 - [jstedfast/MailKit](https://github.com/jstedfast/MailKit) - A cross-platform .NET library for IMAP, POP3, and SMTP.
 - [RelicOfTesla/white-moon](https://github.com/RelicOfTesla/white-moon) - 易语言 白月工程
 - [BlzFans/wke](https://github.com/BlzFans/wke) - 3D Web UI. Web and Flash Embedded in 3D games, based on WebKit
@@ -3003,10 +3028,8 @@
 - [ChengChengCC/Remote](https://github.com/ChengChengCC/Remote) - 远程控制项目
 - [fatesinger/PyMicroChat](https://github.com/fatesinger/PyMicroChat) - 
 - [theevilbit/injection](https://github.com/theevilbit/injection) - 
-- [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - Leaked Mirai Source Code for Research/IoC Development Purposes
 - [sensepost/rattler](https://github.com/sensepost/rattler) - Automated DLL Enumerator
 - [venkatbaggu/dapperorm](https://github.com/venkatbaggu/dapperorm) - dapperorm
-- [BrianGladman/aes](https://github.com/BrianGladman/aes) - AES code
 - [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
 - [rootm0s/Protectors](https://github.com/rootm0s/Protectors) - 🛡️ Obfuscator, Encryption, Junkcode, Anti-Debug, PE protection/modification
 - [tishion/mmLoader](https://github.com/tishion/mmLoader) - A library for loading dll module bypassing windows PE loader from memory (x86/x64)
@@ -3308,7 +3331,7 @@
 - [zino-rs/zino](https://github.com/zino-rs/zino) - Next-generation framework for composable applications in Rust.
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
 - [lz1998/ricq](https://github.com/lz1998/ricq) - Rust 高性能 QQ 协议（原RS-QQ）。Linux-musl运行内存1.6MB。
-- [niuhuan/daisy](https://github.com/niuhuan/daisy) - 美观易用且无广告的漫画和轻小说客户端, 同时支持MacOS，Windows，Android，iOS。类似动漫之家。
+- [niuhuan/daisy](https://github.com/niuhuan/daisy) - 美观易用且无广告的漫画和轻小说客户端, 同时支持MacOS，Windows，Android，iOS。(动漫之家)
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
@@ -3334,7 +3357,6 @@
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [cckuailong/HackChrome](https://github.com/cckuailong/HackChrome) - :snowman: Get the User:Password from Chrome(include version &lt; 80 and version &gt; 80)
 - [ory/fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
-- [BruceWind/AESJniEncrypt](https://github.com/BruceWind/AESJniEncrypt) - 🛡 Make safest code in Android. (基于libsodium实现chacha20算法,key在native中,防止被二次打包){长期维护,请star,勿fork}
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [unrolled/secure](https://github.com/unrolled/secure) - HTTP middleware for Go that facilitates some quick security wins.
 - [nabla-c0d3/ssl-kill-switch2](https://github.com/nabla-c0d3/ssl-kill-switch2) - Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and macOS applications.
@@ -3586,6 +3608,7 @@
 
 ## terminal 
 
+- [veops/oneterm](https://github.com/veops/oneterm) - Provide secure access and control over all infrastructure
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [dromara/orion-visor](https://github.com/dromara/orion-visor) - 一款高颜值、现代化的自动化运维及轻量堡垒机，提供全面的服务器智能运维解决方案。支持资产管理分组、提供多协议访问(SSH、SFTP、RDP、VNC)、文件上传下载、在线编辑、命令批量执行、多主机文件分发和计划任务配置(通过 cron 表达式)等功能，确保高效安全的运维体验。适用于 Linux 和 Windows 系统的运维管理。
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
@@ -3624,6 +3647,7 @@
 
 ## typescript 
 
+- [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) - 一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。
 - [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
 - [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
@@ -3721,6 +3745,7 @@
 
 ## vue 
 
+- [veops/oneterm](https://github.com/veops/oneterm) - Provide secure access and control over all infrastructure
 - [hanshuaikang/AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。
 - [psoho/fast-poster](https://github.com/psoho/fast-poster) - 🔥🔥🔥 fastposter海报生成器,图片生成器,电商海报编辑器,海报设计器,电商图片合成,海报开发。生成朋友圈分享海报并生成图片，二维码海报，图片海报，图片合成，二维码推广海报，支持Java Python PHP Go JS 小程序。https://fastposter.net/doc/
 - [buuing/lucky-canvas](https://github.com/buuing/lucky-canvas) - 🎖🎖🎖 基于 TS + Canvas 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等，🎨 奖品 / 文字 / 图片 / 颜色 / 按钮均可配置，支持同步 / 异步抽奖，🎯 概率前 / 后端可控，🚀 自动根据 dpr 调整清晰度适配移动端
@@ -3795,6 +3820,7 @@
 
 ## web 
 
+- [go-dev-frame/sponge](https://github.com/go-dev-frame/sponge) - A powerful and easy-to-use Go development framework that enables you to effortlessly build stable, reliable, and high-performance backend services with a "low-code" approach.
 - [tiagorangel1/cap](https://github.com/tiagorangel1/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work
 - [webtoon/psd](https://github.com/webtoon/psd) - Fast zero-dependency PSD parser for the web and Node.js
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
@@ -3895,11 +3921,6 @@
 - [miku/zek](https://github.com/miku/zek) - Generate a Go struct from XML.
 - [xuri/xgen](https://github.com/xuri/xgen) - XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-
-## zsh 
-
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
-- [thomaspoignant/mac-dev-setup](https://github.com/thomaspoignant/mac-dev-setup) - An easy script to install your mac dev environment
 
 
 ## License
