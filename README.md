@@ -255,6 +255,7 @@
 
 ## Go 
 
+- [minio/sidekick](https://github.com/minio/sidekick) - High Performance HTTP Sidecar Load Balancer
 - [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - 智能密钥轮询的多渠道 AI 代理。 Multi-channel AI proxy with intelligent key rotation.
 - [go-dev-frame/sponge](https://github.com/go-dev-frame/sponge) - A powerful and easy-to-use Go development framework that enables you to effortlessly build stable, reliable, and high-performance backend services with a "low-code" approach.
 - [jxhczhl/JsRpc](https://github.com/jxhczhl/JsRpc) - 远程调用(rpc)浏览器方法，免去抠代码补环境
@@ -1445,6 +1446,11 @@
 
 ## TypeScript 
 
+- [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
+- [IGoRFonin/chrome-proxy-extension](https://github.com/IGoRFonin/chrome-proxy-extension) - 
+- [jzz4012650/simple_proxy](https://github.com/jzz4012650/simple_proxy) - Chrome代理插件，可识别每个标签页请求过的域名
+- [samqin123/MoonTV](https://github.com/samqin123/MoonTV) - 
+- [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
 - [alibaba/formily](https://github.com/alibaba/formily) - 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
 - [snipeship/ccflare](https://github.com/snipeship/ccflare) - The ultimate CC proxy
 - [SaltifyDev/tanebi](https://github.com/SaltifyDev/tanebi) - PC NTQQ 协议的 TypeScript 实现，包含 Milky 协议的实现
