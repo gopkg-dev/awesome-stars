@@ -1213,7 +1213,6 @@
 - [go-graphics/go-gui-projects](https://github.com/go-graphics/go-gui-projects) - A list of Go GUI projects
 - [MustangYM/ShelbyObfuscator](https://github.com/MustangYM/ShelbyObfuscator) - Obfuscator for llvm 16.0.2
 - [HypePhilosophy/amazon-metadata1](https://github.com/HypePhilosophy/amazon-metadata1) - Reverse Engineering Amazon's Bot Protection
-- [Cyril0563/lanjing_live](https://github.com/Cyril0563/lanjing_live) - 🐋蓝鲸直播源-长期维护的电视直播源接口、TVBox、Pluto Player、猫影视TV、IPTV、BIUBIU TV、IPTV源、直播源、源享家、蓝鲸直播源、等影视及m3u8播放器通用接口都可观看
 - [coderit666/GoGuide](https://github.com/coderit666/GoGuide) - 「Go语言学习指南」一份涵盖大部分 Golang 程序员所需要掌握的核心知识，拥有 Go语言教程、Go开源书籍、Go语言入门教程、Go语言学习路线。零基础学习 Go语言、Go编程，首选 GoGuide。
 - [storezhang/golang-coding-standards](https://github.com/storezhang/golang-coding-standards) - Golang编码规范
 - [vikingcodes/awesome-spapi](https://github.com/vikingcodes/awesome-spapi) - Awesome Selling Partner API
@@ -1272,7 +1271,7 @@
 
 - [AlanGuo/claude-code-provider-balancer](https://github.com/AlanGuo/claude-code-provider-balancer) - 
 - [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - Claude Code to OpenAI API Proxy
-- [81NewArk/AntiCAP](https://github.com/81NewArk/AntiCAP) - 验证码识别   点选 滑块 算术 OCR
+- [81NewArk/AntiCAP](https://github.com/81NewArk/AntiCAP) - 验证码识别   点选 滑块 算术 旋转 OCR
 - [EBOLABOY/GridBNB-USDT](https://github.com/EBOLABOY/GridBNB-USDT) - 这是一个基于AI的自动化交易程序，专为数字货币市场（BNB/USDT）设计。该程序旨在实现全自动化交易，通过AI算法帮助用户在数字货币市场中做出更智能的交易决策。
 - [Fun-Fox/pinterest](https://github.com/Fun-Fox/pinterest) - pinterest采集工具并集成deepseek Janus 进行智能挑图
 - [psoho/fast-poster](https://github.com/psoho/fast-poster) - 🔥🔥🔥 fastposter海报生成器,图片生成器,电商海报编辑器,海报设计器,电商图片合成,海报开发。生成朋友圈分享海报并生成图片，二维码海报，图片海报，图片合成，二维码推广海报，支持Java Python PHP Go JS 小程序。https://fastposter.net/doc/
@@ -1334,7 +1333,7 @@
 - [DawnNights/py-pcqq](https://github.com/DawnNights/py-pcqq) - Python3模拟PCQQ客户端协议
 - [mkb79/Audible](https://github.com/mkb79/Audible) - A(Sync) Interface for internal Audible API written in pure Python.
 - [r0ysue/r0capture](https://github.com/r0ysue/r0capture) - 安卓应用层抓包通杀脚本
-- [galaxy-neo/Algorithm-X-Gorgon-Tik-Tok](https://github.com/galaxy-neo/Algorithm-X-Gorgon-Tik-Tok) - Algorithm generate, X-Ladon, X-Argus, X-Gorgon, X-Khronos
+- [alethino/Algorithm-X-Gorgon-Tik-Tok](https://github.com/alethino/Algorithm-X-Gorgon-Tik-Tok) - Algorithm generate, X-Ladon, X-Argus, X-Gorgon, X-Khronos, api source
 - [HyperSine/forensic-qqtoken](https://github.com/HyperSine/forensic-qqtoken) - QQ安全中心 - 动态口令的生成算法
 - [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
 - [renyijiu/douyin_downloader](https://github.com/renyijiu/douyin_downloader) - 👏Download all douyin videos of user(including favorites) , 下载指定用户的所有抖音视频以及收藏的视频(无水印)
@@ -1471,7 +1470,7 @@
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [liriliri/rem](https://github.com/liriliri/rem) - Rclone desktop app
 - [didi/LogicFlow](https://github.com/didi/LogicFlow) - A flow chart editing framework focus on business customization.  专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie) - A browser extension that syncs your cookies & localStorage to your cloudflare and manages  them
 - [corleone113/deformation](https://github.com/corleone113/deformation) - 基于canvas/weblgl实现图片/文字弯曲变形的效果的demo
 - [2234839/web-font](https://github.com/2234839/web-font) - 字体裁剪工具
