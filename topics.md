@@ -240,7 +240,6 @@
 - [chatgpt-web-dev/chatgpt-web](https://github.com/chatgpt-web-dev/chatgpt-web) - A third-party ChatGPT Web UI page built with Express and Vue3, through the official OpenAI completion API. / 用 Express 和 Vue3 搭建的第三方 ChatGPT 前端页面, 基于 OpenAI 官方 completion API.
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
 - [wkylin/pro-react-admin](https://github.com/wkylin/pro-react-admin) - 融合了 React 19、Webpack 5、React Router 7、Antd 5、Typescript 5、Tailwindcss 4 及 Fetch Api 的企业级中台基础模板，为大规模系统提供技术底座，助力企业数字化转型...
-- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
@@ -505,7 +504,6 @@
 - [smxl/500](https://github.com/smxl/500) - Quantumult X, Loon, Stash 预配置文件: Apple News 解锁, 去广告, 分流规则, Bing AI, TikTok 解锁 Rewrite, VIP 视频解析
 - [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
-- [alfianlosari/ChatGPTSwiftUI](https://github.com/alfianlosari/ChatGPTSwiftUI) - A ChatGPT native iOS, macOS, watchOS, tvOS SwiftUI Application
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [MustangYM/OSXChatGpt](https://github.com/MustangYM/OSXChatGpt) - Easy to use OpenAI ChatGPT on your mac !
 - [swuecho/chat](https://github.com/swuecho/chat) - chat web app for teams, sass with user management and ratelimit, support chatgpt(openai & azure), claude, gemini and ollama model
@@ -748,7 +746,6 @@
 
 - [hpc203/virtual_try_on_use_deep_learning](https://github.com/hpc203/virtual_try_on_use_deep_learning) - 使用深度学习算法实现虚拟试衣镜，结合了人体姿态估计、人体分割、几何匹配和GAN，四种模型。仅仅只依赖opencv库就能运行
 - [sugarme/tokenizer](https://github.com/sugarme/tokenizer) - NLP tokenizers written in Go language
-- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
 - [tonybeltramelli/pix2code](https://github.com/tonybeltramelli/pix2code) - pix2code: Generating Code from a Graphical User Interface Screenshot
 
@@ -1796,7 +1793,6 @@
 - [deathmemory/FridaContainer](https://github.com/deathmemory/FridaContainer) - FridaContainer 整合了网上流行的和自己编写的常用的 frida 脚本，为逆向工作提效之用。 frida 脚本模块化，Java & Jni Trace。
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [netguru/BlueSwift](https://github.com/netguru/BlueSwift) - Swift framework for easy connection with Bluetooth peripherals.
-- [alfianlosari/ChatGPTSwiftUI](https://github.com/alfianlosari/ChatGPTSwiftUI) - A ChatGPT native iOS, macOS, watchOS, tvOS SwiftUI Application
 - [sail-tunnel/sail](https://github.com/sail-tunnel/sail) - A flutter demo client application for v2board.
 - [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter.
 - [succlz123/DLNA-Dart](https://github.com/succlz123/DLNA-Dart) - A simple DLNA DMC library implemented by Dart.
@@ -2028,6 +2024,7 @@
 
 ## llm 
 
+- [getAsterisk/opcode](https://github.com/getAsterisk/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [shaxiu/XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent) - 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。
 - [nexmoe/serverless-comfyui](https://github.com/nexmoe/serverless-comfyui) - 一个基于 Docker 的 ComfyUI 弹性 Serverless 应用，提供完整的前后端分离架构和用户友好的界面。
@@ -2100,7 +2097,6 @@
 - [5j54d93/Mac-Battery-Inspector](https://github.com/5j54d93/Mac-Battery-Inspector) - A macOS app develop with SwiftUI in MVVM that could inspect mac's battery info.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
-- [alfianlosari/ChatGPTSwiftUI](https://github.com/alfianlosari/ChatGPTSwiftUI) - A ChatGPT native iOS, macOS, watchOS, tvOS SwiftUI Application
 - [TKkk-iOSer/WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) - 微信小助手
 - [MustangYM/OSXChatGpt](https://github.com/MustangYM/OSXChatGpt) - Easy to use OpenAI ChatGPT on your mac !
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -2336,6 +2332,10 @@
 
 ## others 
 
+- [daodao97/claude-code-proxy](https://github.com/daodao97/claude-code-proxy) - Claude code proxy, friendly view request log, enhance request stability
+- [wisdgod/cursor-rp](https://github.com/wisdgod/cursor-rp) - Feel free.
+- [labring/aiproxy](https://github.com/labring/aiproxy) - AI Proxy is a high-performance AI gateway using OpenAI's and Claude protocol as the entry point. It features intelligent error handling, multi-channel management, and comprehensive monitoring. With su
+- [ca-x/ccany](https://github.com/ca-x/ccany) - Proxy Claude Code to Any Open API
 - [millylee/anyrouter-check-in](https://github.com/millylee/anyrouter-check-in) - 支持 AnyRouter 平台多账号签到。
 - [Veloera/Veloera](https://github.com/Veloera/Veloera) - 
 - [Kshitijknk07/TitanGate](https://github.com/Kshitijknk07/TitanGate) - TitanGate - High-performance API Gateway built with Go, Fiber, Redis, and Prometheus. Smart load balancing, JWT authentication, rate limiting, caching, and real-time monitoring. Run with Go or Docker.
@@ -2462,14 +2462,12 @@
 - [Repyah84/wisher](https://github.com/Repyah84/wisher) - 
 - [JasonYHZ/flutter_clean_arch](https://github.com/JasonYHZ/flutter_clean_arch) - 
 - [fairy-root/Flux-Prompt-Generator](https://github.com/fairy-root/Flux-Prompt-Generator) - Flux Prompt Generator provides a flexible and customizable prompt generator for generating detailed and creative prompts for image generation models.
-- [frankchieng/ComfyUI_MagicClothing](https://github.com/frankchieng/ComfyUI_MagicClothing) - unofficial implementation of Comfyui magic clothing
 - [BennyKok/comfyui-deploy](https://github.com/BennyKok/comfyui-deploy) - An open source `vercel` like deployment platform for Comfy UI
 - [LlamaEdge/sd-api-server](https://github.com/LlamaEdge/sd-api-server) - The easiest & fastest way to run customized and fine-tuned LLMs locally or on the edge
 - [snakeying/flux-api-worker](https://github.com/snakeying/flux-api-worker) - Deployed on Cloudflare Worker, using the free Flux model and optimizing prompts with LLM. It can be called from any application compatible with the OpenAI API. 部署于Cloudflare Worker，免费使用Flux模型，并通过LLM进行
 - [rime/squirrel](https://github.com/rime/squirrel) - 【鼠鬚管】Rime for macOS
 - [leminlimez/Nugget](https://github.com/leminlimez/Nugget) - Unlock the fullest potential of your device
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
-- [TyCoding/langchat](https://github.com/TyCoding/langchat) - LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级A
 - [guanchao/workflow-engine-book](https://github.com/guanchao/workflow-engine-book) - 《流程引擎原理与实践》开源电子书
 - [wolfstark/psd2png](https://github.com/wolfstark/psd2png) - 
 - [daisixuan/Fchrome](https://github.com/daisixuan/Fchrome) - 这是一款对chromium源码进行定制的浏览器,支持爬虫/JS逆向工程师进行辅助分析网页
@@ -2670,7 +2668,6 @@
 - [pquerna/otp](https://github.com/pquerna/otp) - TOTP library for Go
 - [dukaev/ipv4-ipv6-proxy](https://github.com/dukaev/ipv4-ipv6-proxy) - Install script ipv4 → ipv6 http proxy
 - [amber-moe/oceanbase-sql-gpt](https://github.com/amber-moe/oceanbase-sql-gpt) - Generate your Twitter bio with ChatGPT and Vercel Edge Functions.
-- [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [YoungiiJC/go-rod-aws-lambda](https://github.com/YoungiiJC/go-rod-aws-lambda) - 
 - [tholian-network/stealth](https://github.com/tholian-network/stealth) - :rocket: Stealth - Secure, Peer-to-Peer, Private and Automateable Web Browser/Scraper/Proxy
 - [zu1k/http-proxy-ipv6-pool](https://github.com/zu1k/http-proxy-ipv6-pool) - Make every request from a separate IPv6 address.
@@ -3338,6 +3335,7 @@
 
 ## rust 
 
+- [getAsterisk/opcode](https://github.com/getAsterisk/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [spider-rs/spider](https://github.com/spider-rs/spider) - Web crawler and scraper for Rust
 - [thx/resvg-js](https://github.com/thx/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
@@ -3496,7 +3494,6 @@
 
 - [nexmoe/serverless-comfyui](https://github.com/nexmoe/serverless-comfyui) - 一个基于 Docker 的 ComfyUI 弹性 Serverless 应用，提供完整的前后端分离架构和用户友好的界面。
 - [ViewComfy/ViewComfy](https://github.com/ViewComfy/ViewComfy) - ViewComfy is a open source tool to help you create beautiful web apps from ComfyUI
-- [ZHO-ZHO-ZHO/ComfyUI-InstantID](https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID) - Unofficial implementation of InstantID for ComfyUI
 - [LeafYeeXYZ/PainterLeaf](https://github.com/LeafYeeXYZ/PainterLeaf) - A free WebApp for Text2Image and Image2Text, supporting Multiple Models and both Chinese&English Prompt / 一个零成本的 AI 绘画 WebApp, 支持文生图, 图生文, 多模型, 中英双语提示词
 - [MochiDiffusion/MochiDiffusion](https://github.com/MochiDiffusion/MochiDiffusion) - Run Stable Diffusion on Mac natively
 
@@ -3533,7 +3530,6 @@
 - [5j54d93/Mac-Battery-Inspector](https://github.com/5j54d93/Mac-Battery-Inspector) - A macOS app develop with SwiftUI in MVVM that could inspect mac's battery info.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [netguru/BlueSwift](https://github.com/netguru/BlueSwift) - Swift framework for easy connection with Bluetooth peripherals.
-- [alfianlosari/ChatGPTSwiftUI](https://github.com/alfianlosari/ChatGPTSwiftUI) - A ChatGPT native iOS, macOS, watchOS, tvOS SwiftUI Application
 - [illusionofchaos/ios-nehelper-wifi-info-0day](https://github.com/illusionofchaos/ios-nehelper-wifi-info-0day) - iOS 15 0-day exploit (still works in 15.0.2)
 - [illusionofchaos/ios-nehelper-enum-apps-0day](https://github.com/illusionofchaos/ios-nehelper-enum-apps-0day) - iOS 15 0-day exploit (still works in 15.0.2)
 - [sshiqiao/douyin-ios-swift](https://github.com/sshiqiao/douyin-ios-swift) - 抖音 iOS Swift版
@@ -3550,7 +3546,6 @@
 - [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
 - [5j54d93/Mac-Battery-Inspector](https://github.com/5j54d93/Mac-Battery-Inspector) - A macOS app develop with SwiftUI in MVVM that could inspect mac's battery info.
-- [alfianlosari/ChatGPTSwiftUI](https://github.com/alfianlosari/ChatGPTSwiftUI) - A ChatGPT native iOS, macOS, watchOS, tvOS SwiftUI Application
 - [MustangYM/OSXChatGpt](https://github.com/MustangYM/OSXChatGpt) - Easy to use OpenAI ChatGPT on your mac !
 
 ## tailwind 
