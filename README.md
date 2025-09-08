@@ -255,6 +255,7 @@
 
 ## Go 
 
+- [reachingforthejack/cursortab.nvim](https://github.com/reachingforthejack/cursortab.nvim) - WIP! Reverse engineered Cursor Tab API in Neovim
 - [daodao97/claude-code-proxy](https://github.com/daodao97/claude-code-proxy) - Claude code proxy, friendly view request log, enhance request stability
 - [labring/aiproxy](https://github.com/labring/aiproxy) - AI Proxy is a high-performance AI gateway using OpenAI's and Claude protocol as the entry point. It features intelligent error handling, multi-channel management, and comprehensive monitoring. With su
 - [ca-x/ccany](https://github.com/ca-x/ccany) - Proxy Claude Code to Any Open API
@@ -1274,6 +1275,9 @@
 
 ## Python 
 
+- [1rgs/claude-code-proxy](https://github.com/1rgs/claude-code-proxy) - Run Claude Code on OpenAI models
+- [CaddyGlow/ccproxy-api](https://github.com/CaddyGlow/ccproxy-api) - is a local reverse proxy providing unified access to multiple AI providers (Claude, Codex) through a single interface, using your existing subscriptions without API key billing.
+- [LaiKash/cursor-aiserver-interceptor](https://github.com/LaiKash/cursor-aiserver-interceptor) - MITM Proxy Script to intercept the aiserver requests from Cursor
 - [millylee/anyrouter-check-in](https://github.com/millylee/anyrouter-check-in) - 支持 AnyRouter 平台多账号签到。
 - [AlanGuo/claude-code-provider-balancer](https://github.com/AlanGuo/claude-code-provider-balancer) - 
 - [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - Claude Code to OpenAI API Proxy
@@ -1407,6 +1411,7 @@
 
 ## Swift 
 
+- [xiaozhaodong/ClaudeBar](https://github.com/xiaozhaodong/ClaudeBar) - claude code api 端点切换工具
 - [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - macOS Adobe apps download & installer
 - [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
@@ -1450,6 +1455,8 @@
 
 ## TypeScript 
 
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+- [yinxulai/claude-proxy](https://github.com/yinxulai/claude-proxy) - 🚀 免费开源的 Claude 到 OpenAI API 格式转换代理服务，让您能够在任何支持 OpenAI API 的应用中无缝使用 Claude 客户端工具，支持流式响应、Tool Calling 和动态路由。
 - [getAsterisk/opcode](https://github.com/getAsterisk/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [KroMiose/claude-code-nexus](https://github.com/KroMiose/claude-code-nexus) - Claude API Proxy platform - Seamlessly forward Claude Code requests to any OpenAI-compatible API service with smart model mapping, streaming support, deployed on Cloudflare Worker.
 - [Buywatermelon/claude-relay-monorepo](https://github.com/Buywatermelon/claude-relay-monorepo) - 一个现代化的 Claude API 代理服务，基于 Cloudflare Workers 构建
