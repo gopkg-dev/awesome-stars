@@ -255,6 +255,8 @@
 
 ## Go 
 
+- [kxn/claude-code-companion](https://github.com/kxn/claude-code-companion) - 
+- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
 - [quanxiang-cloud/process](https://github.com/quanxiang-cloud/process) - Process engine kernel
 - [emmansun/gmsm](https://github.com/emmansun/gmsm) - ShangMi (SM) cipher suites for Go (Go语言商用密码软件)
 - [xiaozhaodong/cc-forwarder](https://github.com/xiaozhaodong/cc-forwarder) - 基于Go开发的高性能Claude API智能转发器，支持Web管理界面、请求追踪、组管理、自动故障转移等功能
@@ -465,7 +467,7 @@
 - [devfullcycle/fclx](https://github.com/devfullcycle/fclx) - 
 - [x448/float16](https://github.com/x448/float16) - float16 provides IEEE 754 half-precision format (binary16) with correct conversions to/from float32
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
-- [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
+- [wazero/wazero](https://github.com/wazero/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [bots-garden/capsule](https://github.com/bots-garden/capsule) - A Capsule application is a runner (or launcher) of wasm functions. Capsule HTTP can serve the functions through HTTP (it’s possible to use Capsule as a simple CLI with Capsule CLI). And soon: NATS and
 - [JH6588/gorm-scaffolding-demo](https://github.com/JH6588/gorm-scaffolding-demo) - gorm脚手架
 - [panjf2000/gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
@@ -984,6 +986,7 @@
 
 ## JavaScript 
 
+- [fengerwoo/CCGate](https://github.com/fengerwoo/CCGate) - Claude code 镜像 / Claude API 的二次分发反向代理服务器，可以分发为多个key，同时转换给CC或者任何Anthropic/OpenAI API兼容应用使用
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code or Cursor CLI on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 - [francisconeves97/jxscout](https://github.com/francisconeves97/jxscout) - jxscout superpowers JavaScript analysis for security researchers
 - [gitbenxing/anti-content](https://github.com/gitbenxing/anti-content) - 拼多多 Anti-Content加密 拼多多MCN 拼多多店群 拼多多订单采集 推广数据 财务流水
@@ -1689,7 +1692,6 @@
 - [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 - [lhlyu/vue-virtual-waterfall](https://github.com/lhlyu/vue-virtual-waterfall) - vue3 virtual waterfall component（Vue3虚拟瀑布流组件）
 - [xiaoxiunique/xhs](https://github.com/xiaoxiunique/xhs) - 一个基于 Nuxt.js 3 开发的小红书工具网站，提供图文，视频，评论 浏览与导出
-- [Robin3910/yulian_erp_front](https://github.com/Robin3910/yulian_erp_front) - 芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。
 - [hanshuaikang/AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。
 - [Daymychen/art-design-pro](https://github.com/Daymychen/art-design-pro) - A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.
 - [pangxiaobin/image-matting](https://github.com/pangxiaobin/image-matting) - 
