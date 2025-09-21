@@ -342,7 +342,6 @@
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [alethino/Algorithm-X-Gorgon-Tik-Tok](https://github.com/alethino/Algorithm-X-Gorgon-Tik-Tok) - Algorithm generate, X-Ladon, X-Argus, X-Gorgon, X-Khronos, api source
 - [SebastienWae/tiktok-gorgon-bridge](https://github.com/SebastienWae/tiktok-gorgon-bridge) - Express server with a Frida bridge to sign TikTok API requests
 - [ScaleLeap/amazon-marketplaces](https://github.com/ScaleLeap/amazon-marketplaces) - A collection of Amazon Marketplace data objects.
 - [koddr/tutorial-go-fiber-rest-api](https://github.com/koddr/tutorial-go-fiber-rest-api) - 📖 Build a RESTful API on Go: Fiber, PostgreSQL, JWT and Swagger docs in isolated Docker containers.
@@ -1011,7 +1010,7 @@
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [sensepost/objection](https://github.com/sensepost/objection) - 📱 objection - runtime mobile exploration
 - [alibaba/fish-redux](https://github.com/alibaba/fish-redux) - An assembled flutter application framework.
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [alibaba/ice](https://github.com/alibaba/ice) - 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 
 ## frontend 
@@ -1308,7 +1307,7 @@
 - [shen100/wemall](https://github.com/shen100/wemall) - 基于react, node.js, go开发的微商城（含微信小程序）
 - [ixre/go2o](https://github.com/ixre/go2o) - 基于DDD的o2o的业务模型及基础, 使用Golang+gRPC/Thrift实现
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [polaris1119/The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) - Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。
 - [briandowns/spinner](https://github.com/briandowns/spinner) - Go (golang) package with 90 configurable terminal spinner/progress indicators.
 - [hillu/go-xxtea](https://github.com/hillu/go-xxtea) - Corrected Block TEA / XXTEA library in Go
@@ -2378,7 +2377,7 @@
 - [rezmoss/simple-load-balancer](https://github.com/rezmoss/simple-load-balancer) - 
 - [francisconeves97/jxscout](https://github.com/francisconeves97/jxscout) - jxscout superpowers JavaScript analysis for security researchers
 - [gitbenxing/anti-content](https://github.com/gitbenxing/anti-content) - 拼多多 Anti-Content加密 拼多多MCN 拼多多店群 拼多多订单采集 推广数据 财务流水
-- [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 自建Claude Code镜像，支持Claude Code、Gemini CLI、Codex CLI，支持Claude Console接入。集成OAuth认   证、多账号池切换、自定义API密钥、OpenAI兼容格式、代理支持和智能防封机制。
+- [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - 自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [theajack/disable-devtool](https://github.com/theajack/disable-devtool) - Disable web developer tools from the f12 button, right-click and browser menu
 - [81NewArk/AntiCAP](https://github.com/81NewArk/AntiCAP) - 验证码识别   点选 滑块 算术 旋转 OCR
 - [EBOLABOY/GridBNB-USDT](https://github.com/EBOLABOY/GridBNB-USDT) - 这是一个基于AI的自动化交易程序，专为数字货币市场（BNB/USDT）设计。该程序旨在实现全自动化交易，通过AI算法帮助用户在数字货币市场中做出更智能的交易决策。
@@ -3439,7 +3438,7 @@
 - [yahoo/vssh](https://github.com/yahoo/vssh) - Go Library to Execute Commands Over SSH at Scale
 - [laixhe/goimg](https://github.com/laixhe/goimg) - Golang 轻量级的图片服务器
 - [bobohume/gonet](https://github.com/bobohume/gonet) - go分布式服务器，基于内存mmo
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 
 ## serverless 
 
