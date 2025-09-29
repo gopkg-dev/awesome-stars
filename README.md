@@ -254,6 +254,7 @@
 
 ## Go 
 
+- [dtm-labs/rockscache](https://github.com/dtm-labs/rockscache) - The First Redis Cache Library To Ensure Eventual Consistency And Strong Consistency With DB.
 - [kxn/claude-code-companion](https://github.com/kxn/claude-code-companion) - 
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
 - [quanxiang-cloud/process](https://github.com/quanxiang-cloud/process) - Process engine kernel
@@ -1386,6 +1387,7 @@
 - [Le1a/LokiPool](https://github.com/Le1a/LokiPool) - 一个使用Rust编写的SOCKS5代理池管理工具，能够自动测速、管理多个代理服务器，提供高效稳定的匿名代理服务。
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [spider-rs/spider](https://github.com/spider-rs/spider) - Web crawler and scraper for Rust
+- [thx/resvg-js](https://github.com/thx/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
 - [linebender/resvg](https://github.com/linebender/resvg) - An SVG rendering library.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & WASM.
@@ -1515,7 +1517,6 @@
 - [image-size/image-size](https://github.com/image-size/image-size) - Node module for detecting image dimensions
 - [dlemstra/magick-wasm](https://github.com/dlemstra/magick-wasm) - The WASM library for ImageMagick
 - [webtoon/psd](https://github.com/webtoon/psd) - Fast zero-dependency PSD parser for the web and Node.js
-- [thx/resvg-js](https://github.com/thx/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
 - [dromara/yft-design](https://github.com/dromara/yft-design) - yft-design is a powerful, visually stunning online design tool built with Vue3, fabric.js, and Element Plus. 基于fabric.js的开源版【稿定设计】。一款美观且功能强大的在线设计工具，具备海报设计和图片编辑功能。适用于多种场景，如海报生成、电商产品图制作、文章长图设计、视频/公众号封面编
 - [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 好用的 Canvas 引擎。Easy-to-Use Canvas Engine.
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
@@ -1685,6 +1686,7 @@
 
 ## Vue 
 
+- [liqiang-xxfy/fly-cursor-free](https://github.com/liqiang-xxfy/fly-cursor-free) - 轻松一键续杯 Cursor Pro，保持14天试用不掉。【支持 Claude 4】
 - [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 - [lhlyu/vue-virtual-waterfall](https://github.com/lhlyu/vue-virtual-waterfall) - vue3 virtual waterfall component（Vue3虚拟瀑布流组件）
 - [xiaoxiunique/xhs](https://github.com/xiaoxiunique/xhs) - 一个基于 Nuxt.js 3 开发的小红书工具网站，提供图文，视频，评论 浏览与导出
