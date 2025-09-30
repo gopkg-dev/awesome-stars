@@ -6,6 +6,7 @@
 ## Contents
 
 - [Arduino](#arduino)
+- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -37,6 +38,10 @@
 ## Arduino 
 
 - [xflxfl/HSN-Phone-Attack](https://github.com/xflxfl/HSN-Phone-Attack) - 基于Arduino+SIM800制作的呼死你设备，详情请看我在t00ls的投稿：https://www.t00ls.net/articles-38948.html
+
+## Batchfile 
+
+- [lexiforest/curl-impersonate](https://github.com/lexiforest/curl-impersonate) - An active fork of curl-impersonate with more versions and build targets. A series of patches that make curl requests look like Chrome, Firefox and Safari.
 
 ## C 
 
@@ -254,6 +259,7 @@
 
 ## Go 
 
+- [enetx/surf](https://github.com/enetx/surf) - SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerprinting, JA3/JA4 TLS emulation, and anti-bot bypass for web automation and scraping.
 - [dtm-labs/rockscache](https://github.com/dtm-labs/rockscache) - The First Redis Cache Library To Ensure Eventual Consistency And Strong Consistency With DB.
 - [kxn/claude-code-companion](https://github.com/kxn/claude-code-companion) - 
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
@@ -1551,7 +1557,7 @@
 - [Railly/shadcn-ui-customizer](https://github.com/Railly/shadcn-ui-customizer) - shadcn/ui themes with color pickers
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [BelkacemYerfa/shadcn-extension](https://github.com/BelkacemYerfa/shadcn-extension) - An open source component collection , that extends your ui library , built using shadcn component
-- [Aslam97/shadcn-minimal-tiptap](https://github.com/Aslam97/shadcn-minimal-tiptap) - Minimal Tiptap Editor
+- [Aslam97/minimal-tiptap](https://github.com/Aslam97/minimal-tiptap) - Minimal Tiptap Editor
 - [nextify-limited/saasfly](https://github.com/nextify-limited/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
 - [sadmann7/tablecn](https://github.com/sadmann7/tablecn) - Shadcn table with server-side sorting, filtering, and pagination.
 - [Sahil-Sharma-23/supa-next-shad-auth](https://github.com/Sahil-Sharma-23/supa-next-shad-auth) - 
