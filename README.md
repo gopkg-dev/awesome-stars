@@ -992,6 +992,7 @@
 
 ## JavaScript 
 
+- [1e0n/droid2api](https://github.com/1e0n/droid2api) - 
 - [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - AIClient2API：模拟Gemini CLI，Qwen Code和Kiro 客户端请求，兼容OpenAI API。可每日千次Gemini模型请求， 免费使用Kiro内置Claude模型。通过API轻松接入任何客户端，让AI开发更高效！
 - [fengerwoo/CCGate](https://github.com/fengerwoo/CCGate) - Claude code 镜像 / Claude API 的二次分发反向代理服务器，可以分发为多个key，同时转换给CC或者任何Anthropic/OpenAI API兼容应用使用
 - [xiaozhaodong/cc-forwarder](https://github.com/xiaozhaodong/cc-forwarder) - 基于Go开发的高性能Claude API智能转发器，支持Web管理界面、请求追踪、组管理、自动故障转移等功能
@@ -1187,7 +1188,7 @@
 
 ## Others 
 
-- [wuqi-y/auto-cursor-releases](https://github.com/wuqi-y/auto-cursor-releases) - 
+- [wuqi-y/auto-cursor-releases](https://github.com/wuqi-y/auto-cursor-releases) - 源代码
 - [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) - Shared starter template configuration and CLAUDE.md memory bank system for Claude Code
 - [adryfish/fingerprint-chromium](https://github.com/adryfish/fingerprint-chromium) - An open source fingerprint browser based on Ungoogled Chromium. 指纹浏览器 隐私浏览器
 - [LoseNine/Chromium_FingerPrint_Tutorial](https://github.com/LoseNine/Chromium_FingerPrint_Tutorial) - A book about writing a Chromium fingerprint browser. 免费开源的入门教程，Chromium指纹浏览器开发教程，帮助你了解Chromium内核，并且开发出一套基础的指纹浏览器。
@@ -1287,7 +1288,7 @@
 
 ## Python 
 
-- [hmjz100/Z.ai2api](https://github.com/hmjz100/Z.ai2api) - 将 Z.ai 代理为 OpenAI/Anthropic Compatible 格式，支持免令牌、智能处理思考链、图片上传等功能
+- [hmjz100/Z.ai2api](https://github.com/hmjz100/Z.ai2api) - 将 Z.ai 代理为 OpenAI/Anthropic Compatible 格式，支持多模型列表映射、免令牌、智能处理思考链、图片上传等功能；Z.ai ZtoApi ZaitoApi zai X-Signature 签名 GLM 4.5 v 4.6
 - [mirrorange/clove](https://github.com/mirrorange/clove) - A Claude.ai reverse proxy
 - [zimplexing/claude-code-proxy-enhance](https://github.com/zimplexing/claude-code-proxy-enhance) - Claude Code to OpenAI API Proxy
 - [Cloxl/xhshow](https://github.com/Cloxl/xhshow) - 小红书xs纯算 小红书x-s参数纯算纯协议逆向
@@ -1443,7 +1444,7 @@
 - [rime/squirrel](https://github.com/rime/squirrel) - 【鼠鬚管】Rime for macOS
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 - [wanliyunyan/xray_ios](https://github.com/wanliyunyan/xray_ios) - 一个关于xray核心的简单例子
-- [nicolastinkl/UUVPN](https://github.com/nicolastinkl/UUVPN) - 基于Flutter开发的VPN客户端(ios/android)，自主设计，精美UI,优化VPN速度，完全开源。
+- [nicolastinkl/UUVPN](https://github.com/nicolastinkl/UUVPN) - 基于原生组件开发的VPN客户端(ios/android)，自主设计，精美UI,优化VPN速度，完全开源。
 - [stackotter/swift-cross-ui](https://github.com/stackotter/swift-cross-ui) - A cross-platform declarative UI framework, inspired by SwiftUI.
 - [RevenueCat/purchases-ios](https://github.com/RevenueCat/purchases-ios) - In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.
 - [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
@@ -1616,7 +1617,7 @@
 - [hamster1963/nezha-dash](https://github.com/hamster1963/nezha-dash) - A simple dashboard for nezha.
 - [Nutlope/description-generator](https://github.com/Nutlope/description-generator) - Generate descriptions from product images in multiple languages with AI
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [ZingerLittleBee/server_bee-backend](https://github.com/ZingerLittleBee/server_bee-backend) - Backend for  ServerBee
 - [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 - [leoMirandaa/shadcn-landing-page](https://github.com/leoMirandaa/shadcn-landing-page) - Free Landing page template using Shadcn, React, Typescript and Tailwind
@@ -1659,7 +1660,7 @@
 - [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - Tencent QQ Bot Library for Node.js
 - [Bariskau/Amazon-Location-Based-Cookie](https://github.com/Bariskau/Amazon-Location-Based-Cookie) - Location based amazon cookie library to get location specific information like price
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
-- [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+- [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [JYbill/passport-combine-casbin](https://github.com/JYbill/passport-combine-casbin) - 👽 This is a tutorial for integrating Casbin and Passport.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [vangleer/es-midway-admin](https://github.com/vangleer/es-midway-admin) - 基于 midwayjs+typeorm 搭建的一套基础后台管理系统
@@ -1677,7 +1678,7 @@
 - [vbeats/vcrx_](https://github.com/vbeats/vcrx_) - 🍎 chrome crx 插件开发脚手架
 - [midwayjs/midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integra
 - [cool-team-official/cool-admin-midway](https://github.com/cool-team-official/cool-admin-midway) - 🔥 cool-admin(midway版)一个很酷的后台权限管理框架，Ai编码、流程编排、模块化、插件化、CRUD极速开发，永久开源免费，基于nodejs、typescript、typeorm、mysql、jwt、vue3、vite、element-ui等构建
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 - [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite7, TypeScript, Pinia, NaiveUI 和 Uno
 - [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - Former GUI client for gRPC services. No longer maintained.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
