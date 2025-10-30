@@ -345,7 +345,7 @@
 - [DevSantt/photo-reader-api](https://github.com/DevSantt/photo-reader-api) - A NodeJs API made with Express.js for parsing, remove backround and edit photos automaticaly.
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core) - NextTrace, an open source visual route tracking CLI tool
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [gothinkster/golang-gin-realworld-example-app](https://github.com/gothinkster/golang-gin-realworld-example-app) - Exemplary real world application built with Golang + Gin
@@ -793,7 +793,7 @@
 - [go-dev-frame/sponge](https://github.com/go-dev-frame/sponge) - A powerful and easy-to-use Go development framework that enables you to effortlessly build stable, reliable, and high-performance backend services with a "low-code" approach.
 - [yaolifeng0629/Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools) - 收录独立开发、AI出海领域最新、最实用的工具与资源（Build Faster with Better Tools）
 - [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
@@ -843,7 +843,7 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [runabol/tork](https://github.com/runabol/tork) - Tork is a lightweight, distributed workflow engine that runs tasks as simple scripts within Docker containers.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source control plane for running development, training, and inference jobs on GPUs—across hyperscalers, neoclouds, or on-prem.
 - [borys25ol/amazon-location-cookies-service](https://github.com/borys25ol/amazon-location-cookies-service) - Service for extracting Amazon location cookies based on Amazon Zip-Code
 - [bassmaster187/TeslaLogger](https://github.com/bassmaster187/TeslaLogger) - TeslaLogger is a self hosted data logger for your Tesla Model S/3/X/Y. Actually it supports RaspberryPi 3B, 3B+, 4B, Docker and Synology NAS.
@@ -1140,7 +1140,7 @@
 - [denisbrodbeck/machineid](https://github.com/denisbrodbeck/machineid) - Get the unique machine id of any host (without admin privileges)
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go
 - [yeqown/fasthttp-reverse-proxy](https://github.com/yeqown/fasthttp-reverse-proxy) - reverse http / websocket proxy based on fasthttp
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go
 - [wangluozhe/requests](https://github.com/wangluozhe/requests) - 用于快速请求HTTP或HTTPS，并支持修改ja3、ja4指纹
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
@@ -1243,7 +1243,7 @@
 - [golang-china/go2-book](https://github.com/golang-china/go2-book) - :books: 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 - [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
-- [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto) - A high performance memory-bound Go cache
+- [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
 - [feihua/zero-admin](https://github.com/feihua/zero-admin) - Zero-Admin 是一套基于 go-zero 框架实现的电商系统的后端服务
 - [prongbang/fiber-casbinrest](https://github.com/prongbang/fiber-casbinrest) - Casbin RESTful Adapter on Fiber Web Framework
 - [bitcav/nitr](https://github.com/bitcav/nitr) - :computer: Nitr is a System and Hardware Inspection and Monitoring Web API.
@@ -1520,7 +1520,7 @@
 - [golang-china/go2-book](https://github.com/golang-china/go2-book) - :books: 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性
 - [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
-- [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto) - A high performance memory-bound Go cache
+- [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
 - [feihua/zero-admin](https://github.com/feihua/zero-admin) - Zero-Admin 是一套基于 go-zero 框架实现的电商系统的后端服务
 - [prongbang/fiber-casbinrest](https://github.com/prongbang/fiber-casbinrest) - Casbin RESTful Adapter on Fiber Web Framework
 - [bitcav/nitr](https://github.com/bitcav/nitr) - :computer: Nitr is a System and Hardware Inspection and Monitoring Web API.
@@ -1630,7 +1630,7 @@
 
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [kazimanzurrashid/aws-scheduler-go](https://github.com/kazimanzurrashid/aws-scheduler-go) - AWS Scheduler is low cost scheduling system that runs on AWS Serverless services
@@ -1752,7 +1752,7 @@
 - [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
 - [Python3WebSpider/ProxyPool](https://github.com/Python3WebSpider/ProxyPool) - An Efficient ProxyPool with Getter, Tester and Server
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [go-eagle/eagle](https://github.com/go-eagle/eagle) - 🦅 A Go framework for the API or Microservice
 - [juzeon/spoofed-round-tripper](https://github.com/juzeon/spoofed-round-tripper) - A Go's http.RoundTripper implementation that provides a wrapper for tls-client and leverages uTLS to spoof TLS fingerprints (JA3, JA4, HTTP/2 Akamai, etc) of mainstream browsers for use in different H
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic
@@ -2012,7 +2012,7 @@
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
 - [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications
-- [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto) - A high performance memory-bound Go cache
+- [dgraph-io/ristretto](https://github.com/dgraph-io/ristretto) - A high performance memory-bound Go cache
 - [grpc-ecosystem/go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
 - [ory/fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
 - [parnurzeal/gorequest](https://github.com/parnurzeal/gorequest) - GoRequest -- Simplified HTTP client ( inspired by nodejs SuperAgent )
@@ -2148,7 +2148,7 @@
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [yangjiakai/lux-ui](https://github.com/yangjiakai/lux-ui) - Create the best admin based on Vue3.x, Vite5.x, TypeScript, Vuetify3.x, Chat GPT
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [youlu-cn/grpc-gen](https://github.com/youlu-cn/grpc-gen) - grpc gen
 
 ## material-design 
@@ -2343,7 +2343,6 @@
 - [CaddyGlow/ccproxy-api](https://github.com/CaddyGlow/ccproxy-api) - is a local reverse proxy providing unified access to multiple AI providers (Claude, Codex) through a single interface, using your existing subscriptions without API key billing.
 - [KroMiose/claude-code-nexus](https://github.com/KroMiose/claude-code-nexus) - Claude API Proxy platform - Seamlessly forward Claude Code requests to any OpenAI-compatible API service with smart model mapping, streaming support, deployed on Cloudflare Worker.
 - [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
-- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [hanshuaikang/AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。
@@ -2365,6 +2364,10 @@
 
 ## others 
 
+- [wquguru/nof0](https://github.com/wquguru/nof0) - nof1.ai完整复刻版（持续开发）
+- [ixugo/nsqite](https://github.com/ixugo/nsqite) - Simple and reliable background jobs in Go，EventBus，事件总线，事务消息队列，后台任务，支持 sqlite,postgres,gorm 做持久化存储。
+- [SaladTechnologies/comfyui-api](https://github.com/SaladTechnologies/comfyui-api) - A simple API server to make ComfyUI easy to scale horizontally. Get outputs directly in the response, or asynchronously via a variety of storage providers.
+- [click33/sa-token-go](https://github.com/click33/sa-token-go) - sa-token for golang 一个轻量级 go 权限认证框架，让鉴权变得简单优雅
 - [1e0n/droid2api](https://github.com/1e0n/droid2api) - 
 - [OVINC-CN/OpenWebUI](https://github.com/OVINC-CN/OpenWebUI) - OpenWebUI 二开版本，支持余额管理、充值、兑换码等功能
 - [anthropics/anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go) - Access to Anthropic's safety-first language model APIs via Go
@@ -2465,7 +2468,7 @@
 - [runegan/jsxbin](https://github.com/runegan/jsxbin) - Convert jsx ExtendScript files into jsxbin files using ExtendScript Toolkit
 - [jcc1997/photoshop-script](https://github.com/jcc1997/photoshop-script) - 
 - [sanxin-lin/sunshine-track](https://github.com/sanxin-lin/sunshine-track) - 基于 行为上报，实现了 用户行为、错误监控、页面跳转、页面白屏检测、页面性能检测等上报功能。适用于 Vue、React、Angular 等框架
-- [pangxiaobin/image-matting](https://github.com/pangxiaobin/image-matting) - 
+- [pangxiaobin/image-matting](https://github.com/pangxiaobin/image-matting) - AI抠图、格式转换、图片压缩、AI证件照
 - [ShieldMnt/invisible-watermark](https://github.com/ShieldMnt/invisible-watermark) - python library for invisible image watermark (blind image watermark)
 - [lsy88/goddddocr](https://github.com/lsy88/goddddocr) - 
 - [ducan-ne/remove-bg](https://github.com/ducan-ne/remove-bg) - Remove background directly in your browser, powered by WebGPU
@@ -3153,6 +3156,7 @@
 
 ## postgresql 
 
+- [dotnize/react-tanstarter](https://github.com/dotnize/react-tanstarter) - 🏝️ minimal TanStack Start template with Better Auth, Drizzle ORM, shadcn/ui
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
 - [nextify-limited/saasfly](https://github.com/nextify-limited/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -3206,7 +3210,7 @@
 
 ## pwa 
 
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
 
@@ -3256,6 +3260,7 @@
 
 ## react 
 
+- [dotnize/react-tanstarter](https://github.com/dotnize/react-tanstarter) - 🏝️ minimal TanStack Start template with Better Auth, Drizzle ORM, shadcn/ui
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code or Cursor CLI on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 - [IGoRFonin/chrome-proxy-extension](https://github.com/IGoRFonin/chrome-proxy-extension) - 🌐 Умный менеджер прокси для Chrome с автоматической маршрутизацией по доменам. Разные сайты — разные прокси. Никаких ручных переключений!
 - [alibaba/formily](https://github.com/alibaba/formily) - 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
@@ -3300,7 +3305,7 @@
 - [songquanpeng/gin-template](https://github.com/songquanpeng/gin-template) - 用于 Gin & React 项目的模板. Template for Gin & React projects.
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲
 - [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 - [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Web simulation of Ubuntu 20.04, made using NEXT.js & tailwind CSS
@@ -3351,7 +3356,7 @@
 
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - A blazingly fast, open-source application server with type-safe APIs, built-in WebAssembly runtime, realtime, auth, and admin UI built on Rust, SQLite & Wasmtime.
 - [vvmgev/Inssman](https://github.com/vvmgev/Inssman) - Intercept HTTP requests and responses. Modify HTTP request/response body. Modify HTTP request/response headers.  Redirect requests. HTTP logger. Mock APIs. Inject scripts.  Block requests. Modify quer
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.
@@ -3460,7 +3465,7 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
@@ -3545,7 +3550,7 @@
 
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit and admin panel in Go
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
@@ -3611,6 +3616,7 @@
 
 ## tailwind 
 
+- [dotnize/react-tanstarter](https://github.com/dotnize/react-tanstarter) - 🏝️ minimal TanStack Start template with Better Auth, Drizzle ORM, shadcn/ui
 - [routerso/router](https://github.com/routerso/router) - Router.so is headless form handling and lead routing for marketing-minded developers.
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [vvmgev/Inssman](https://github.com/vvmgev/Inssman) - Intercept HTTP requests and responses. Modify HTTP request/response body. Modify HTTP request/response headers.  Redirect requests. HTTP logger. Mock APIs. Inject scripts.  Block requests. Modify quer
@@ -3622,6 +3628,7 @@
 
 ## tailwindcss 
 
+- [dotnize/react-tanstarter](https://github.com/dotnize/react-tanstarter) - 🏝️ minimal TanStack Start template with Better Auth, Drizzle ORM, shadcn/ui
 - [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
 - [kt946/ai-threejs-products-app-yt-jsm](https://github.com/kt946/ai-threejs-products-app-yt-jsm) - A 3D T-Shirt website where users can design their own shirts with patterns and logos.
 - [AriyanMLZM/threejs-react-TDesigner](https://github.com/AriyanMLZM/threejs-react-TDesigner) - 👕 Design your T-shirt with 3d T-shirt configurator developed with Three.js.
@@ -3663,7 +3670,7 @@
 
 ## telegram 
 
-- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Easily find and export your Telegram messages with powerful semantic search, supporting all languages and unsegmented sentences.
+- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Search your telegram messages wisely | 明智地搜索您的 Telegram 聊天记录
 - [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT
@@ -3672,7 +3679,7 @@
 
 ## telegram-bot 
 
-- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Easily find and export your Telegram messages with powerful semantic search, supporting all languages and unsegmented sentences.
+- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Search your telegram messages wisely | 明智地搜索您的 Telegram 聊天记录
 - [indes/flowerss-bot](https://github.com/indes/flowerss-bot) - A telegram bot  for rss reader. 一个支持应用内阅读的 Telegram RSS Bot。
 
 ## tensorflow 
@@ -3699,7 +3706,7 @@
 ## testing 
 
 - [vvmgev/Inssman](https://github.com/vvmgev/Inssman) - Intercept HTTP requests and responses. Modify HTTP request/response body. Modify HTTP request/response headers.  Redirect requests. HTTP logger. Mock APIs. Inject scripts.  Block requests. Modify quer
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [google/martian](https://github.com/google/martian) - Martian is a library for building custom HTTP/S proxies
 - [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin) - A reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
@@ -3848,7 +3855,7 @@
 - [CcSimple/vue-plugin-hiprint](https://github.com/CcSimple/vue-plugin-hiprint) - hiprint for Vue2/Vue3 ⚡打印、打印设计、可视化设计器、报表设计、元素编辑、可视化打印编辑
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [chansee97/nova-admin](https://github.com/chansee97/nova-admin) - A simple and flexible admin template based on Vue3, Vite, TypeScript, NaiveUI
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [dromara/orion-visor](https://github.com/dromara/orion-visor) - 一款高颜值、现代化的自动化运维及轻量堡垒机，提供全面的服务器智能运维解决方案。支持资产管理分组、多协议访问(SSH、SFTP、RDP、VNC)、实时系统监控与智能告警、文件上传下载、在线编辑、命令批量执行、多主机文件分发和计划任务配置(通过 cron 表达式)等功能，确保高效安全的运维体验。适用于 Linux 和 Windows 系统的运维管理。
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - 🧩 The cross-browser extension framework.
 - [piupuer/gin-web](https://github.com/piupuer/gin-web) - 由gin + gorm + jwt + casbin组合实现的RBAC权限管理脚手架Golang版, 搭建完成即可快速、高效投入业务开发
@@ -3897,7 +3904,7 @@
 ## vuejs 
 
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [KABBOUCHI/vue-tippy](https://github.com/KABBOUCHI/vue-tippy) - VueJS Tooltip powered by Tippy.js
 - [John-Weeks-Dev/tiktok-clone](https://github.com/John-Weeks-Dev/tiktok-clone) - This is a Tiktok Clone made with Nuxt 3, Vue JS, Laravel (API), Tailwind CSS, and Pinia
 - [arco-design/arco-design-pro-vue](https://github.com/arco-design/arco-design-pro-vue) - An out-of-the-box solution to quickly build enterprise-level applications based on Arco Design.
