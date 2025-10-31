@@ -2555,7 +2555,7 @@
 - [r00tee/Proxy-List](https://github.com/r00tee/Proxy-List) - Free Http/s, Socks4, Socks5 Proxy List Updated every 5 minutes
 - [AGDDoS/AGProxy](https://github.com/AGDDoS/AGProxy) - 😎 Free SOCK5 Proxy List! 🎁🎁🎁
 - [hendrikbgr/Free-Proxy-Repo](https://github.com/hendrikbgr/Free-Proxy-Repo) - Get a fresh list of proxies every couple of hours. Scraped from over 60+ Websites & over 360+ Links. This list gets updated onces all scraped proxies have been checked and then we start scraping again
-- [officialputuid/KangProxy](https://github.com/officialputuid/KangProxy) - Free proxy list (HTTP, HTTPS, SOCKS4, SOCKS5) and auto-updates & check/validate every 4-6 hours.
+- [officialputuid/KangProxy](https://github.com/officialputuid/KangProxy) - Free proxy list (HTTP, HTTPS, SOCKS4, SOCKS5) that automatically updates and validates every day.
 - [MuRongPIG/Proxy-Master](https://github.com/MuRongPIG/Proxy-Master) - maybe the best free proxy list?
 - [mmpx12/proxy-list](https://github.com/mmpx12/proxy-list) - Free proxies (few vpn and tor exit nodes) from various sources update hourly.
 - [roosterkid/openproxylist](https://github.com/roosterkid/openproxylist) - List of Free HTTPS, SOCKS4, SOCKS5 & V2Ray Proxy (Hourly Updates!)
@@ -3729,6 +3729,7 @@
 
 ## typescript 
 
+- [hooray/fantastic-startkit](https://github.com/hooray/fantastic-startkit) - 一款简单好用的 Vue 项目启动套件，基于 Vue3 & Vite
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - 一个用于管理和切换 Claude Code 和 Codex 不同供应商配置的桌面应用
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
 - [IGoRFonin/chrome-proxy-extension](https://github.com/IGoRFonin/chrome-proxy-extension) - 🌐 Умный менеджер прокси для Chrome с автоматической маршрутизацией по доменам. Разные сайты — разные прокси. Никаких ручных переключений!
@@ -3841,6 +3842,7 @@
 
 ## vue 
 
+- [hooray/fantastic-startkit](https://github.com/hooray/fantastic-startkit) - 一款简单好用的 Vue 项目启动套件，基于 Vue3 & Vite
 - [lhlyu/vue-virtual-waterfall](https://github.com/lhlyu/vue-virtual-waterfall) - vue3 virtual waterfall component（Vue3虚拟瀑布流组件）
 - [alibaba/formily](https://github.com/alibaba/formily) - 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
 - [veops/oneterm](https://github.com/veops/oneterm) - Provide secure access and control over all infrastructure
