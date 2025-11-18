@@ -534,7 +534,7 @@
 ## chrome 
 
 - [adryfish/fingerprint-chromium](https://github.com/adryfish/fingerprint-chromium) - An open source fingerprint browser based on Ungoogled Chromium. 指纹浏览器 隐私浏览器
-- [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie) - A browser extension that syncs your cookies & localStorage to your cloudflare and manages  them
+- [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie) - A browser extension for syncing cookies and localStorage to Cloudflare KV or GitHub Gist
 - [janek26/trpc-browser](https://github.com/janek26/trpc-browser) - tRPC for extension and web 🧩🕸️
 - [zouhangwithsweet/fubukicss-tool](https://github.com/zouhangwithsweet/fubukicss-tool) - A browser extension to get CSS from Figma in one step.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
@@ -552,7 +552,7 @@
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
 - [IGoRFonin/chrome-proxy-extension](https://github.com/IGoRFonin/chrome-proxy-extension) - 🌐 Умный менеджер прокси для Chrome с автоматической маршрутизацией по доменам. Разные сайты — разные прокси. Никаких ручных переключений!
 - [iszhouhua/social-media-copilot](https://github.com/iszhouhua/social-media-copilot) - 社媒助手开源版 - 小红书、抖音、快手等平台数据采集的浏览器插件，可通过API调用，支持Docker部署。
-- [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie) - A browser extension that syncs your cookies & localStorage to your cloudflare and manages  them
+- [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie) - A browser extension for syncing cookies and localStorage to Cloudflare KV or GitHub Gist
 - [aklinker1/webext-core](https://github.com/aklinker1/webext-core) - Collection of essential libraries and tools for building web extensions
 - [jlalmes/trpc-chrome](https://github.com/jlalmes/trpc-chrome) - tRPC adapter for Web Extensions 🧩
 - [raynirola/extension](https://github.com/raynirola/extension) - Chrome extension starter kit with tRPC, Vite, Tailwindcss, Typescript and React
@@ -2253,6 +2253,7 @@
 - [nextify-limited/saasfly](https://github.com/nextify-limited/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
 - [sadmann7/tablecn](https://github.com/sadmann7/tablecn) - Shadcn table with server-side sorting, filtering, and pagination.
 - [Skolaczk/next-starter](https://github.com/Skolaczk/next-starter) - A Next.js starter template, packed with features like TypeScript, Tailwind CSS, Next-auth, Eslint, Stripe, testing tools and more. Jumpstart your project with efficiency and style.
+- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Admin Dashboard Starter Template with Next.js 16 and Shadcn UI
 - [moinulmoin/chadnext](https://github.com/moinulmoin/chadnext) - ChadNext - Quick Starter Template for your Next project includes Next.js 15 App router, Shadcn UI, LuciaAuth, Prisma, Server Actions, Stripe, Internationalization and more.
 - [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) - 🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing
 - [LeafYeeXYZ/PainterLeaf](https://github.com/LeafYeeXYZ/PainterLeaf) - A free WebApp for Text2Image and Image2Text, supporting Multiple Models and both Chinese&English Prompt / 一个零成本的 AI 绘画 WebApp, 支持文生图, 图生文, 多模型, 中英双语提示词
@@ -2499,7 +2500,6 @@
 - [sirius1024/iterm2-with-oh-my-zsh](https://github.com/sirius1024/iterm2-with-oh-my-zsh) - iTerm2 + Oh My Zsh 打造舒适终端体验
 - [Aslam97/minimal-tiptap](https://github.com/Aslam97/minimal-tiptap) - Minimal Tiptap Editor
 - [Sahil-Sharma-23/supa-next-shad-auth](https://github.com/Sahil-Sharma-23/supa-next-shad-auth) - 
-- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Admin Dashboard Starter with Nextjs 15 and Shadcn ui
 - [bprabin811/NextJS-views-template](https://github.com/bprabin811/NextJS-views-template) - 
 - [poweroutlet2/browser-extension-starter](https://github.com/poweroutlet2/browser-extension-starter) - Browser extension starter template featuring WXT, React, Shadcn, and TRPC
 - [go-hermes/hermes](https://github.com/go-hermes/hermes) - Golang package that generates clean, responsive HTML e-mails for sending transactional mail
@@ -3647,6 +3647,7 @@
 - [BelkacemYerfa/shadcn-extension](https://github.com/BelkacemYerfa/shadcn-extension) - An open source component collection , that extends your ui library , built using shadcn component
 - [nextify-limited/saasfly](https://github.com/nextify-limited/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
 - [Skolaczk/next-starter](https://github.com/Skolaczk/next-starter) - A Next.js starter template, packed with features like TypeScript, Tailwind CSS, Next-auth, Eslint, Stripe, testing tools and more. Jumpstart your project with efficiency and style.
+- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Admin Dashboard Starter Template with Next.js 16 and Shadcn UI
 - [moinulmoin/chadnext](https://github.com/moinulmoin/chadnext) - ChadNext - Quick Starter Template for your Next project includes Next.js 15 App router, Shadcn UI, LuciaAuth, Prisma, Server Actions, Stripe, Internationalization and more.
 - [turbostarter/extro](https://github.com/turbostarter/extro) - Open source browser extension starter kit 🧩
 - [insub/shadcn-nuxt-starter](https://github.com/insub/shadcn-nuxt-starter) - ⚡️ Starter built with Nuxt 3 + Shadcn-ui + UnoCSS + TypeScript.
