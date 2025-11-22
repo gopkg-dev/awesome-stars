@@ -268,7 +268,7 @@
 - [emmansun/gmsm](https://github.com/emmansun/gmsm) - ShangMi (SM) cipher suites for Go (Go语言商用密码软件)
 - [reachingforthejack/cursortab.nvim](https://github.com/reachingforthejack/cursortab.nvim) - WIP! Reverse engineered Cursor Tab API in Neovim
 - [daodao97/claude-code-proxy](https://github.com/daodao97/claude-code-proxy) - Claude code proxy, friendly view request log, enhance request stability
-- [labring/aiproxy](https://github.com/labring/aiproxy) - AI Proxy is a high-performance AI gateway using OpenAI's and Claude protocol as the entry point. It features intelligent error handling, multi-channel management, and comprehensive monitoring. With su
+- [labring/aiproxy](https://github.com/labring/aiproxy) - AI Proxy is a high performance AI gateway using OpenAI / Claude / Gemini protocol as the entry point. It features intelligent error handling, multi-channel management, and comprehensive monitoring. Wi
 - [ca-x/ccany](https://github.com/ca-x/ccany) - Proxy Claude Code to Any Open API
 - [Veloera/Veloera](https://github.com/Veloera/Veloera) - 
 - [Kshitijknk07/TitanGate](https://github.com/Kshitijknk07/TitanGate) - TitanGate - High-performance API Gateway built with Go, Fiber, Redis, and Prometheus. Smart load balancing, JWT authentication, rate limiting, caching, and real-time monitoring. Run with Go or Docker.
@@ -305,7 +305,7 @@
 - [WuKongIM/WuKongIM](https://github.com/WuKongIM/WuKongIM) - More than just IM 不只是即时通讯( IM )
 - [tongsq/proxy-collect](https://github.com/tongsq/proxy-collect) - 免费ip代理池 隧道代理池 proxy-pool、tunnel proxy
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
-- [certimate-go/certimate](https://github.com/certimate-go/certimate) - 开源的 SSL 证书管理工具，可以帮助你自动申请、部署 SSL 证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them 
+- [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates management tool that automates the lifecycle of issuance, deployment, renewal, and notification. 完全开源免费的自托管 SSL 证书管理工具，申请、部署、续期、通知全流程自动化，支持各大主流云厂商。
 - [YutaroHayakawa/go-ra](https://github.com/YutaroHayakawa/go-ra) - A pure Go IPv6 Router Advertisement library and stand-alone daemon
 - [Kioubit/pndpd](https://github.com/Kioubit/pndpd) - NDP Proxy / Responder daemon (IPv6)
 - [mdlayher/ndp](https://github.com/mdlayher/ndp) - Package ndp implements the Neighbor Discovery Protocol, as described in RFC 4861.  MIT Licensed.
@@ -1285,6 +1285,7 @@
 
 ## Python 
 
+- [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) - ValueCell is a community-driven, multi-agent platform for financial applications.
 - [mirrorange/clove](https://github.com/mirrorange/clove) - A Claude.ai reverse proxy
 - [zimplexing/claude-code-proxy-enhance](https://github.com/zimplexing/claude-code-proxy-enhance) - Claude Code to OpenAI API Proxy
 - [Cloxl/xhshow](https://github.com/Cloxl/xhshow) - 小红书xs纯算 小红书x-s参数纯算纯协议逆向
