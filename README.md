@@ -1285,6 +1285,7 @@
 
 ## Python 
 
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ Agentic IM ChatBot Infrastructure ✨ Integration with multiple IMs, easy-to-use plugin system, supports OpenAI, Gemini, Anthropic, Dify, Coze, built-in Knowledge Base, Agent. ✨ 一站式大模型聊天机器人平台及开发框架 ✨ 多
 - [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) - ValueCell is a community-driven, multi-agent platform for financial applications.
 - [mirrorange/clove](https://github.com/mirrorange/clove) - A Claude.ai reverse proxy
 - [zimplexing/claude-code-proxy-enhance](https://github.com/zimplexing/claude-code-proxy-enhance) - Claude Code to OpenAI API Proxy
@@ -1419,7 +1420,7 @@
 - [steipete/agent-rules](https://github.com/steipete/agent-rules) - Rules and Knowledge to work better with agents such as Claude Code or Cursor
 - [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine
 - [X1a0He/X1a0HeWeChatPlugin](https://github.com/X1a0He/X1a0HeWeChatPlugin) - 一个随手写的微信插件，提供消息防撤回、显示红包转账详情、消息列表操作、头像圆角、毛玻璃模式、多开等功能
-- [officialputuid/KangProxy](https://github.com/officialputuid/KangProxy) - Free proxy list (HTTP, HTTPS, SOCKS4, SOCKS5) that automatically updates and validates every day.
+- [officialputuid/KangProxy](https://github.com/officialputuid/KangProxy) - Free proxy list (HTTP, HTTPS, SOCKS4, SOCKS5) - automatically updates and validates every day.
 - [dukaev/ipv4-ipv6-proxy](https://github.com/dukaev/ipv4-ipv6-proxy) - Install script ipv4 → ipv6 http proxy
 - [aip-dev/google.aip.dev](https://github.com/aip-dev/google.aip.dev) - API Improvement Proposals. https://aip.dev/
 - [thomaspoignant/mac-dev-setup](https://github.com/thomaspoignant/mac-dev-setup) - An easy script to install your mac dev environment
