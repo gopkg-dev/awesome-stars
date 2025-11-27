@@ -255,7 +255,7 @@
 ## Go 
 
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/gemini/claude)self-evolution, an
 - [wquguru/nof0](https://github.com/wquguru/nof0) - NOF0 - 开源的 AI 交易竞技场
 - [ixugo/nsqite](https://github.com/ixugo/nsqite) - Simple and reliable background jobs in Go，EventBus，事件总线，事务消息队列，后台任务，支持 sqlite,postgres,gorm 做持久化存储。
 - [click33/sa-token-go](https://github.com/click33/sa-token-go) - sa-token for golang 一个轻量级 go 权限认证框架，让鉴权变得简单优雅
@@ -956,7 +956,7 @@
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 - [dromara/orion-visor](https://github.com/dromara/orion-visor) - 一款高颜值、现代化的自动化运维及轻量堡垒机，提供全面的服务器智能运维解决方案。支持资产管理分组、多协议访问(SSH、SFTP、RDP、VNC)、实时系统监控与智能告警、文件上传下载、在线编辑、命令批量执行、多主机文件分发和计划任务配置(通过 cron 表达式)等功能，确保高效安全的运维体验。适用于 Linux 和 Windows 系统的运维管理。
 - [pingapi/crabc-api](https://github.com/pingapi/crabc-api) - Crabc是低代码开发平台，企业级API接口发布系统，深度整合SpringBoot和Mybatis实现动态数据源和动态SQL，可视化编写SQL快速发布接口
-- [continew-org/continew-admin](https://github.com/continew-org/continew-admin) - 🔥Almost最佳后端规范🔥页面现代美观，且专注设计与代码细节的高质量多租户中后台管理系统框架。开箱即用，持续迭代优化，持续提供舒适的开发体验。当前采用技术栈：Spring Boot3（Java17）、Vue3 & Arco Design、TS、Vite5 、Sa-Token、MyBatis Plus、Redisson、FastExcel、CosId、JetCache、JustAuth、Crane
+- [continew-org/continew-admin](https://github.com/continew-org/continew-admin) - 🔥Almost最佳后端规范🔥页面现代美观，且专注设计与代码细节的高质量多租户中后台管理系统框架。开箱即用，持续迭代优化，持续提供舒适的开发体验。当前采用技术栈：SpringBoot v3.4.x (Java17)、Vue3 & ArcoDesign、TS、Vite5 、SaToken、MyBatisPlus、Redisson、FastExcel、CosId、JetCache、JustAuth、Cr
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
 - [wimoor-erp/wimoor](https://github.com/wimoor-erp/wimoor) - 
 - [alibaba/COLA](https://github.com/alibaba/COLA) - 🥤 COLA: Clean Object-oriented & Layered Architecture
@@ -1059,7 +1059,7 @@
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Web simulation of Ubuntu 20.04, made using NEXT.js & tailwind CSS
 - [jokamjohn/chrome-extension-token](https://github.com/jokamjohn/chrome-extension-token) - 
-- [wkylin/pro-react-admin](https://github.com/wkylin/pro-react-admin) - 融合了 React 19、Webpack 5、React Router 7、Antd 5、Typescript 5、Tailwindcss 4 及 Fetch Api 的企业级中台基础模板，为大规模系统提供技术底座，助力企业数字化转型...
+- [wkylin/pro-react-admin](https://github.com/wkylin/pro-react-admin) - 融合了 React 19、Webpack 5、React Router 7、Antd 6、Typescript 5、Tailwindcss 4 及 Fetch Api 的企业级中台基础模板，为大规模系统提供技术底座，助力企业数字化转型...
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [pawitp/protobuf-decoder](https://github.com/pawitp/protobuf-decoder) - JavaScript-based web UI to decode ad-hoc Protobuf data
 - [takayama-lily/unpack-tools](https://github.com/takayama-lily/unpack-tools) - 
@@ -1194,7 +1194,6 @@
 - [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 
 - [yaolifeng0629/Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools) - 收录独立开发、AI出海领域最新、最实用的工具与资源（Build Faster with Better Tools）
-- [stack-auth/multi-tenant-starter-template](https://github.com/stack-auth/multi-tenant-starter-template) - A minimalistic multi-tenant Next.js starter template
 - [sirius1024/iterm2-with-oh-my-zsh](https://github.com/sirius1024/iterm2-with-oh-my-zsh) - iTerm2 + Oh My Zsh 打造舒适终端体验
 - [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
 - [ErcinDedeoglu/proxies](https://github.com/ErcinDedeoglu/proxies) - 🔍💻🔒🌀🔄🌟🚀📂📈 Need a daily updated proxy list? Look no further! Our PROXY list offers the freshest and most reliable proxy servers available. Say goodbye to outdated and unreliable lists and hello to a se
@@ -1287,7 +1286,7 @@
 
 ## Python 
 
-- [HisMax/RedInk](https://github.com/HisMax/RedInk) - 红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》
+- [HisMax/RedInk](https://github.com/HisMax/RedInk) - 红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ Agentic IM ChatBot Infrastructure ✨ Integration with multiple IMs, easy-to-use plugin system, supports OpenAI, Gemini, Anthropic, Dify, Coze, built-in Knowledge Base, Agent. ✨ 一站式大模型聊天机器人平台及开发框架 ✨ 多
 - [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) - ValueCell is a community-driven, multi-agent platform for financial applications.
 - [mirrorange/clove](https://github.com/mirrorange/clove) - A Claude.ai reverse proxy
@@ -1552,6 +1551,7 @@
 - [shuo-s-feng/taskon](https://github.com/shuo-s-feng/taskon) - A simple javascript/typesciprt tasks queue that supports concurrency control
 - [HalseySpicy/Hooks-Admin](https://github.com/HalseySpicy/Hooks-Admin) - 🚀🚀🚀 Hooks Admin，基于 React18、React-Router V6、React-Hooks、Redux、TypeScript、Vite2、Ant-Design 开源的一套后台管理框架。
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
+- [stack-auth/multi-tenant-starter-template](https://github.com/stack-auth/multi-tenant-starter-template) - A minimalistic multi-tenant Next.js starter template
 - [janek26/trpc-browser](https://github.com/janek26/trpc-browser) - tRPC for extension and web 🧩🕸️
 - [vantezzen/plasmo-state](https://github.com/vantezzen/plasmo-state) - ♻️ Sync state across content script, background workers and the popup in Plasmo extensions
 - [jlalmes/trpc-chrome](https://github.com/jlalmes/trpc-chrome) - tRPC adapter for Web Extensions 🧩
