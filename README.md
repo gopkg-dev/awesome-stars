@@ -1175,7 +1175,7 @@
 - [jiejiao6/X-Faker](https://github.com/jiejiao6/X-Faker) - OneKeyNewDevice(一键新机半成品)，此代码为逆向iFaker的半成品。
 - [378804441/DWTikTokHook](https://github.com/378804441/DWTikTokHook) - 突破tiktok锁区限制。内附非越狱手机安装教程
 - [AYJk/AYTikTokPod](https://github.com/AYJk/AYTikTokPod) - TikTok 多地区切换 / 移除水印 / 移除日区下载限制
-- [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
+- [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
 - [NeoTheCapt/aweme-algorithm](https://github.com/NeoTheCapt/aweme-algorithm) - 抖音协议中的加解密算法实现
 - [Naituw/IPAPatch](https://github.com/Naituw/IPAPatch) - Patch iOS Apps, The Easy Way, Without Jailbreak.
 - [nygard/class-dump](https://github.com/nygard/class-dump) - Generate Objective-C headers from Mach-O files.
@@ -1487,7 +1487,7 @@
 - [hooray/fantastic-startkit](https://github.com/hooray/fantastic-startkit) - 一款简单好用的 Vue 项目启动套件，基于 Vue3 & Vite
 - [dotnize/react-tanstarter](https://github.com/dotnize/react-tanstarter) - 🏝️ minimal TanStack Start template with Better Auth, Drizzle ORM, shadcn/ui
 - [SaladTechnologies/comfyui-api](https://github.com/SaladTechnologies/comfyui-api) - A simple API server to make ComfyUI easy to scale horizontally. Get outputs directly in the response, or asynchronously via a variety of storage providers.
-- [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - AI 聚合中转站点管理扩展：自动识别、多账号管理、模型同步、一键导出，支持全平台 | AI Aggregation Site Manager: Auto-detection, multi-account, model sync, one-click export, cross-platform support
+- [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - 统一管理第三方 AI 聚合中转站与自建 New API：自动识别账号、查看余额、同步模型、管理密钥，全平台与云端备份 | Unified management of third-party AI aggregation transfer stations and self-built New API: automatic account identification, balance viewin
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 - [routerso/router](https://github.com/routerso/router) - Router.so is headless form handling and lead routing for marketing-minded developers.
 - [monkeyWie/typix](https://github.com/monkeyWie/typix) - Typix 是一款现代开源 AI 工具，专注于媒体内容生成，集成了各大主流AI提供商，提供一站式的创作体验。Typix is a modern, open-source AI tool designed for media content generation. It integrates leading AI providers to deliver a seamless and all-in-
