@@ -1175,7 +1175,6 @@
 - [jiejiao6/X-Faker](https://github.com/jiejiao6/X-Faker) - OneKeyNewDevice(一键新机半成品)，此代码为逆向iFaker的半成品。
 - [378804441/DWTikTokHook](https://github.com/378804441/DWTikTokHook) - 突破tiktok锁区限制。内附非越狱手机安装教程
 - [AYJk/AYTikTokPod](https://github.com/AYJk/AYTikTokPod) - TikTok 多地区切换 / 移除水印 / 移除日区下载限制
-- [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
 - [NeoTheCapt/aweme-algorithm](https://github.com/NeoTheCapt/aweme-algorithm) - 抖音协议中的加解密算法实现
 - [Naituw/IPAPatch](https://github.com/Naituw/IPAPatch) - Patch iOS Apps, The Easy Way, Without Jailbreak.
 - [nygard/class-dump](https://github.com/nygard/class-dump) - Generate Objective-C headers from Mach-O files.
@@ -1476,6 +1475,7 @@
 - [illusionofchaos/ios-nehelper-wifi-info-0day](https://github.com/illusionofchaos/ios-nehelper-wifi-info-0day) - iOS 15 0-day exploit (still works in 15.0.2)
 - [illusionofchaos/ios-nehelper-enum-apps-0day](https://github.com/illusionofchaos/ios-nehelper-enum-apps-0day) - iOS 15 0-day exploit (still works in 15.0.2)
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
+- [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) - A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨
 - [sshiqiao/douyin-ios-swift](https://github.com/sshiqiao/douyin-ios-swift) - 抖音 iOS Swift版
 - [yagamis/JSONExport](https://github.com/yagamis/JSONExport) - JSON文件自动生成模型文件（汉化）by 小波
 
