@@ -190,7 +190,7 @@
 - [nicolastinkl/NVPlayer](https://github.com/nicolastinkl/NVPlayer) - NVPlayer是基于Flutter的视频在线观看播放器，支持m3u8加密流媒体，支持iOS/Android/web 全平台支持
 - [leoafarias/sidekick](https://github.com/leoafarias/sidekick) - A simple app to make Flutter development more delightful
 - [simplezhli/flutter_deer](https://github.com/simplezhli/flutter_deer) - 🦌 Flutter 练习项目(包括集成测试、可访问性测试)。内含完整UI设计图，更贴近真实项目的练习。Flutter practice project (including integration testing and accessibility testing). Contains complete UI design drawings for a more realistic practic
-- [Jhinnn/Wechat_Mac](https://github.com/Jhinnn/Wechat_Mac) - Wechat Mac
+- [quillen-x/Wechat_Mac](https://github.com/quillen-x/Wechat_Mac) - Wechat Mac
 - [sail-tunnel/sail](https://github.com/sail-tunnel/sail) - A flutter demo client application for v2board.
 - [LianjiaTech/bruno](https://github.com/LianjiaTech/bruno) - An enterprise-class package of Flutter components for mobile applications. ( Bruno 是基于一整套设计体系的 Flutter 组件库。)
 - [SunsetFrost/Flutter-MediaLibrary](https://github.com/SunsetFrost/Flutter-MediaLibrary) - A flutter demo of favor media library collection, use BLOC pattern and layer project structure. use MediaLibraryBackend build with nestjs.
@@ -447,7 +447,6 @@
 - [golang/snappy](https://github.com/golang/snappy) - The Snappy compression format in the Go programming language.
 - [yeqown/fasthttp-reverse-proxy](https://github.com/yeqown/fasthttp-reverse-proxy) - reverse http / websocket proxy based on fasthttp
 - [kardianos/service](https://github.com/kardianos/service) - Run go programs as a service on major platforms.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go
 - [projectdiscovery/fastdialer](https://github.com/projectdiscovery/fastdialer) - Dialer with DNS Cache + Dial History
 - [earthboundkid/requests](https://github.com/earthboundkid/requests) - HTTP requests for Gophers
@@ -1656,6 +1655,7 @@
 - [huanglishi/vite_ts_vue3_VbenAdmin](https://github.com/huanglishi/vite_ts_vue3_VbenAdmin) - 搭建后台基础数据登录、菜单、权限控制，此版本后端为thinphp5，标准restful接口可接java，go等语言服务端数据处理。Vue-Vben-Admin 是一个基于 Vue3.0、Vite、 Ant-Design-Vue、TypeScript 的后台解决方案，目标是为开发中大型项目提供开箱即用的解决方案。包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。项
 - [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [JavonHuang/react-router-v6](https://github.com/JavonHuang/react-router-v6) - 
 - [xxxace/ace-react-admin](https://github.com/xxxace/ace-react-admin) - react + react-routerV6 + redux + arco-design +strapi
