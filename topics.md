@@ -91,6 +91,7 @@
 - [framework](#framework)
 - [frontend](#frontend)
 - [game](#game)
+- [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -1098,6 +1099,10 @@
 - [ComicSparks/pikapika](https://github.com/ComicSparks/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [lonng/nano](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework
 - [bobohume/gonet](https://github.com/bobohume/gonet) - go分布式服务器，基于内存mmo
+
+## generative-ai 
+
+- [ViewComfy/ViewComfy](https://github.com/ViewComfy/ViewComfy) - ViewComfy is a open source tool to help you create beautiful web apps from ComfyUI
 
 ## git 
 
@@ -2780,7 +2785,7 @@
 - [MustangYM/ShelbyObfuscator](https://github.com/MustangYM/ShelbyObfuscator) - Obfuscator for llvm 16.0.2
 - [Mario34/tesla-camera](https://github.com/Mario34/tesla-camera) - 🕹  Lightweight TeslaCam player 轻量的Tesla行车记录仪播放器
 - [devfullcycle/fclx](https://github.com/devfullcycle/fclx) - 
-- [Jhinnn/Wechat_Mac](https://github.com/Jhinnn/Wechat_Mac) - Wechat Mac
+- [quillen-x/Wechat_Mac](https://github.com/quillen-x/Wechat_Mac) - Wechat Mac
 - [JH6588/gorm-scaffolding-demo](https://github.com/JH6588/gorm-scaffolding-demo) - gorm脚手架
 - [bytedance/gopkg](https://github.com/bytedance/gopkg) - Universal Utilities for Go
 - [cloudwego/shmipc-go](https://github.com/cloudwego/shmipc-go) - A high performance inter-process communication golang library developed by CloudWeGo
