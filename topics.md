@@ -251,12 +251,12 @@
 
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ Agentic IM ChatBot Infrastructure — 聊天智能体基础设施 ✨ 多消息平台集成（QQ / Telegram / 企微 / 飞书 / 钉钉等），强大易用的插件系统，支持 OpenAI / Gemini / Anthropic / Dify / Coze / 阿里云百炼 / 知识库 / Agent 智能体
 - [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) - ValueCell is a community-driven, multi-agent platform for financial applications.
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/gemini/claude)self-evolution, an
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Open-source Trading OS with pluggable AI brain | From market data → AI reasoning → Trade execution | Self-hosted & Multi-exchange
 - [looplj/axonhub](https://github.com/looplj/axonhub) - AxonHub is a modern AI gateway system that provides a unified OpenAI, Anthropic, Gemini and AI SDK compatible API
 - [monkeyWie/typix](https://github.com/monkeyWie/typix) - Typix 是一款现代开源 AI 工具，专注于媒体内容生成，集成了各大主流AI提供商，提供一站式的创作体验。Typix is a modern, open-source AI tool designed for media content generation. It integrates leading AI providers to deliver a seamless and all-in-
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [hanshuaikang/AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。
-- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Semantic search your Telegram chat history | 语义化搜索您的 Telegram 聊天记录
+- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history
 - [nexmoe/serverless-comfyui](https://github.com/nexmoe/serverless-comfyui) - 一个基于 Docker 的 ComfyUI 弹性 Serverless 应用，提供完整的前后端分离架构和用户友好的界面。
 - [dryor/translate-app](https://github.com/dryor/translate-app) - Translate App using TypeScript, Tailwind CSS, NextJS, Bun, shadcn/ui, AI-SDK/OpenAI, Zod, Vercel Analytics,  pdf-parse.
 - [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.
@@ -482,7 +482,7 @@
 
 ## bitcoin 
 
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/gemini/claude)self-evolution, an
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Open-source Trading OS with pluggable AI brain | From market data → AI reasoning → Trade execution | Self-hosted & Multi-exchange
 - [1zilc/fishing-funds](https://github.com/1zilc/fishing-funds) - 基金,大盘,股票,虚拟货币状态栏显示小应用
 
 ## bootstrap 
@@ -3761,7 +3761,7 @@
 ## telegram 
 
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ Agentic IM ChatBot Infrastructure — 聊天智能体基础设施 ✨ 多消息平台集成（QQ / Telegram / 企微 / 飞书 / 钉钉等），强大易用的插件系统，支持 OpenAI / Gemini / Anthropic / Dify / Coze / 阿里云百炼 / 知识库 / Agent 智能体
-- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Semantic search your Telegram chat history | 语义化搜索您的 Telegram 聊天记录
+- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history
 - [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT
@@ -3770,7 +3770,7 @@
 
 ## telegram-bot 
 
-- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Semantic search your Telegram chat history | 语义化搜索您的 Telegram 聊天记录
+- [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history
 - [indes/flowerss-bot](https://github.com/indes/flowerss-bot) - A telegram bot  for rss reader. 一个支持应用内阅读的 Telegram RSS Bot。
 
 ## tensorflow 
@@ -3812,7 +3812,7 @@
 
 ## trading 
 
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/gemini/claude)self-evolution, an
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Open-source Trading OS with pluggable AI brain | From market data → AI reasoning → Trade execution | Self-hosted & Multi-exchange
 - [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader) - 🤖 Open-source crypto trading bot | 📈 DCA & GRID strategies | ✨ UI | ⭐ Star to support the project!
 
 ## twitter 
