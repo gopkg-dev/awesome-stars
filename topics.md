@@ -3174,7 +3174,7 @@
 - [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
 - [rootm0s/Protectors](https://github.com/rootm0s/Protectors) - 🛡️ Obfuscator, Encryption, Junkcode, Anti-Debug, PE protection/modification
 - [tishion/mmLoader](https://github.com/tishion/mmLoader) - A library for loading dll module bypassing windows PE loader from memory (x86/x64)
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习
 - [mgwang37/octopus](https://github.com/mgwang37/octopus) - 高性能socks５代理服务 (High-performance socks5 proxy server)
 - [anhkgg/SuperDllHijack](https://github.com/anhkgg/SuperDllHijack) - SuperDllHijack：A general DLL hijack technology, don't need to manually export the same function interface of the DLL, so easy! 一种通用Dll劫持技术，不再需要手工导出Dll的函数接口了
 - [xiaobfly/MemPE](https://github.com/xiaobfly/MemPE) - 一种通用的XOR加密后内存加载PE绕过杀毒软件的方法
