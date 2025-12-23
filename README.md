@@ -18,6 +18,7 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Kotlin](#kotlin)
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
@@ -1142,6 +1143,10 @@
 - [blueimp/JavaScript-Templates](https://github.com/blueimp/JavaScript-Templates) - 1KB lightweight, fast & powerful JavaScript templating engine with zero dependencies. Compatible with server-side environments like node.js, module loaders like RequireJS and all web browsers.
 - [sytelus/CryptoJS](https://github.com/sytelus/CryptoJS) - This is unmodified copy of Google Code hosted CryptoJS project. CryptoJS is a growing collection of standard and secure cryptographic algorithms implemented in JavaScript using best practices and patt
 
+## Kotlin 
+
+- [TheWidlarzGroup/react-native-video](https://github.com/TheWidlarzGroup/react-native-video) - A &lt;Video /&gt; component for react-native
+
 ## Lua 
 
 - [pig4210/TXProtocolSpy](https://github.com/pig4210/TXProtocolSpy) - 腾讯PC QQ SSO2登陆协议解析套件。（项目因有替代方案，已被废弃，仅作参考）
@@ -1285,6 +1290,7 @@
 
 ## Python 
 
+- [fawney19/Aether](https://github.com/fawney19/Aether) - 
 - [HisMax/RedInk](https://github.com/HisMax/RedInk) - 红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ Agentic IM ChatBot Infrastructure — 聊天智能体基础设施 ✨ 多消息平台集成（QQ / Telegram / 企微 / 飞书 / 钉钉等），强大易用的插件系统，支持 OpenAI / Gemini / Anthropic / Dify / Coze / 阿里云百炼 / 知识库 / Agent 智能体
 - [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) - ValueCell is a community-driven, multi-agent platform for financial applications.
@@ -1334,6 +1340,7 @@
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [amzn/amazon-marketing-stream-examples](https://github.com/amzn/amazon-marketing-stream-examples) - Amazon Marketing Stream reference implementation using AWS CDK
+- [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
 - [pjialin/py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
 - [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - Python APNs and iMessage client
@@ -1465,7 +1472,6 @@
 - [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
-- [TheWidlarzGroup/react-native-video](https://github.com/TheWidlarzGroup/react-native-video) - A &lt;Video /&gt; component for react-native
 - [5j54d93/Mac-Battery-Inspector](https://github.com/5j54d93/Mac-Battery-Inspector) - A macOS app develop with SwiftUI in MVVM that could inspect mac's battery info.
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
 - [netguru/BlueSwift](https://github.com/netguru/BlueSwift) - Swift framework for easy connection with Bluetooth peripherals.
@@ -1652,7 +1658,6 @@
 - [napthedev/toptop-clone](https://github.com/napthedev/toptop-clone) - A fullstack TikTok clone with Nextjs, Prisma, trpc
 - [soft-coded/tiktok](https://github.com/soft-coded/tiktok) - TikTok in React 💥🚀
 - [q2316367743/es-client](https://github.com/q2316367743/es-client) - elasticsearch客户端，issue请前往码云：https://gitee.com/qiaoshengda/es-client
-- [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [huanglishi/vite_ts_vue3_VbenAdmin](https://github.com/huanglishi/vite_ts_vue3_VbenAdmin) - 搭建后台基础数据登录、菜单、权限控制，此版本后端为thinphp5，标准restful接口可接java，go等语言服务端数据处理。Vue-Vben-Admin 是一个基于 Vue3.0、Vite、 Ant-Design-Vue、TypeScript 的后台解决方案，目标是为开发中大型项目提供开箱即用的解决方案。包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能。项
 - [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
