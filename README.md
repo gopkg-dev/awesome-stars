@@ -1208,7 +1208,6 @@
 - [r00tee/Proxy-List](https://github.com/r00tee/Proxy-List) - Free Http/s, Socks4, Socks5 Proxy List Updated every 5 minutes
 - [MOMMY2034/Free-Proxy-List](https://github.com/MOMMY2034/Free-Proxy-List) - Free Proxy List From Various Sources
 - [AGDDoS/AGProxy](https://github.com/AGDDoS/AGProxy) - 😎 Free SOCK5 Proxy List! 🎁🎁🎁
-- [yemixzy/proxy-list](https://github.com/yemixzy/proxy-list) - Free Proxy List from the best sources. Updates every 3 hours!
 - [zenjahid/FreeProxy4u](https://github.com/zenjahid/FreeProxy4u) - Get FeeProxy4u that gets updated everyday
 - [hendrikbgr/Free-Proxy-Repo](https://github.com/hendrikbgr/Free-Proxy-Repo) - Get a fresh list of proxies every couple of hours. Scraped from over 60+ Websites & over 360+ Links. This list gets updated onces all scraped proxies have been checked and then we start scraping again
 - [ProxyScraper/ProxyScraper](https://github.com/ProxyScraper/ProxyScraper) - Automatic and permanent proxy collection and update center for free (updated every hour)
