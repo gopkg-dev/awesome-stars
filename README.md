@@ -587,7 +587,7 @@
 - [asaskevich/EventBus](https://github.com/asaskevich/EventBus) - [Go] Lightweight eventbus with async compatibility for Go
 - [reugn/go-streams](https://github.com/reugn/go-streams) - A lightweight stream processing library for Go
 - [Rican7/retry](https://github.com/Rican7/retry) - A simple, stateless, functional mechanism to perform actions repetitively until successful.
-- [YangCheng0121/go-shop-b2c](https://github.com/YangCheng0121/go-shop-b2c) - 一个用Go语言写的B2C商城
+- [cleverbamboo/go-shop-b2c](https://github.com/cleverbamboo/go-shop-b2c) - 一个用Go语言写的B2C商城
 - [casbin/redis-adapter](https://github.com/casbin/redis-adapter) - Redis adapter for Casbin
 - [nzoschke/gofaas](https://github.com/nzoschke/gofaas) - A boilerplate Go and AWS Lambda app. Demonstrates an expert configuration of 10+ AWS services to support running Go functions-as-a-service (FaaS).
 - [sunanzhi/ratelimit-go](https://github.com/sunanzhi/ratelimit-go) - 滑动窗口限速
