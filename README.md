@@ -350,7 +350,7 @@
 - [sevlyar/go-daemon](https://github.com/sevlyar/go-daemon) - A library for writing system daemons in golang.
 - [Bunny3th/easy-workflow](https://github.com/Bunny3th/easy-workflow) - GO语言开发的简单易用工作流
 - [wegoteam/weflow](https://github.com/wegoteam/weflow) - 工作流（golang版本的流程引擎、规则引擎、表单引擎）、表单编辑器、流程编辑器
-- [lw396/ChatCopilot](https://github.com/lw396/ChatCopilot) - ChatCopilot 是一款用 golang 实现的获取微信聊天记录并支持实时存储到数据库的工具，支持在 MacOS 上运行
+- [lw396/ChatCopilot](https://github.com/lw396/ChatCopilot) - ChatCopilot 是一款用 golang 实现的获取聊天记录并支持实时存储到数据库的工具，支持在 MacOS 上运行
 - [go-eagle/eagle](https://github.com/go-eagle/eagle) - 🦅 A Go framework for the API or Microservice
 - [aceld/EasySJMS](https://github.com/aceld/EasySJMS) - Easy搞定Golang设计模式
 - [gonetx/ipconv](https://github.com/gonetx/ipconv) - Utilities for ip conversion with high performance.
