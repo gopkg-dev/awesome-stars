@@ -583,7 +583,7 @@
 - [goark/pa-api](https://github.com/goark/pa-api) - APIs for Amazon Product Advertising API v5 by Golang
 - [ddz/whatsapp-media-decrypt](https://github.com/ddz/whatsapp-media-decrypt) - Decrypt WhatsApp encrypted media files
 - [Rhymen/go-whatsapp](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API
-- [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
+- [gorse-io/gorse](https://github.com/gorse-io/gorse) - AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
 - [asaskevich/EventBus](https://github.com/asaskevich/EventBus) - [Go] Lightweight eventbus with async compatibility for Go
 - [reugn/go-streams](https://github.com/reugn/go-streams) - A lightweight stream processing library for Go
 - [Rican7/retry](https://github.com/Rican7/retry) - A simple, stateless, functional mechanism to perform actions repetitively until successful.
