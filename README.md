@@ -255,7 +255,7 @@
 ## Go 
 
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Open-source Trading OS with pluggable AI brain | From market data → AI reasoning → Trade execution | Self-hosted & Multi-exchange
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - AI Trading OS: Multi-AI, multi-exchange trading infrastructure with Strategy Studio.
 - [wquguru/nof0](https://github.com/wquguru/nof0) - NOF0 - 开源的 AI 交易竞技场
 - [ixugo/nsqite](https://github.com/ixugo/nsqite) - Simple and reliable background jobs in Go，EventBus，事件总线，事务消息队列，后台任务，支持 sqlite,postgres,gorm 做持久化存储。
 - [click33/sa-token-go](https://github.com/click33/sa-token-go) - sa-token for golang 一个轻量级 go 权限认证框架，让鉴权变得简单优雅
@@ -1743,7 +1743,6 @@
 - [gzydong/LumenIM](https://github.com/gzydong/LumenIM) - Lumen IM 是一个网页版在线聊天项目，前端使用 Naive UI + Vue3，后端采用 GO 开发。
 - [mineadmin/MineAdmin-Vue](https://github.com/mineadmin/MineAdmin-Vue) - MineAdmin Vue 是一个开源免费专门适配于 MineAdmin 后台权限管理系统的前端中后台模板，使用了 vue3, vite5, pinia, arco design, javascript 等主流开发技术，未使用Typescript，我们选择了简单。
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
-- [feiyit/fytsoa](https://github.com/feiyit/fytsoa) - FytSoa Admin是一个快速搭建中后台解决方案，后台基于NetCore 6 和前端VUE3+Element+Plus实现。
 - [anish2690/vue-color-kit](https://github.com/anish2690/vue-color-kit) - 🎨  Lightweight color picker for Vue 3
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
