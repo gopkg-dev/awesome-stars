@@ -280,7 +280,7 @@
 - [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
 - [go-dev-frame/sponge](https://github.com/go-dev-frame/sponge) - A powerful and easy-to-use Go development framework that enables you to effortlessly build stable, reliable, and high-performance backend services with a "low-code" approach.
 - [jxhczhl/JsRpc](https://github.com/jxhczhl/JsRpc) - 远程调用(rpc)浏览器方法，免去抠代码补环境
-- [rezmoss/simple-load-balancer](https://github.com/rezmoss/simple-load-balancer) - Simple HTTP Load Balancer in Go Using Standard Library
+- [rezmoss/simple-load-balancer](https://github.com/rezmoss/simple-load-balancer) - HTTP load balancer in Go using only the standard library, round-robin, health checks, weighted routing. Great for learning Go networking internals
 - [veops/oneterm](https://github.com/veops/oneterm) - Provide secure access and control over all infrastructure
 - [hiscaler/temu-go](https://github.com/hiscaler/temu-go) - Temu SDK for Golang
 - [bestK/temu-web-client](https://github.com/bestK/temu-web-client) - 
@@ -1209,7 +1209,6 @@
 - [r00tee/Proxy-List](https://github.com/r00tee/Proxy-List) - Free Http/s, Socks4, Socks5 Proxy List Updated every 5 minutes
 - [MOMMY2034/Free-Proxy-List](https://github.com/MOMMY2034/Free-Proxy-List) - Free Proxy List From Various Sources
 - [AGDDoS/AGProxy](https://github.com/AGDDoS/AGProxy) - 😎 Free SOCK5 Proxy List! 🎁🎁🎁
-- [zenjahid/FreeProxy4u](https://github.com/zenjahid/FreeProxy4u) - Get FeeProxy4u that gets updated everyday
 - [hendrikbgr/Free-Proxy-Repo](https://github.com/hendrikbgr/Free-Proxy-Repo) - Get a fresh list of proxies every couple of hours. Scraped from over 60+ Websites & over 360+ Links. This list gets updated onces all scraped proxies have been checked and then we start scraping again
 - [ProxyScraper/ProxyScraper](https://github.com/ProxyScraper/ProxyScraper) - Automatic and permanent proxy collection and update center for free (updated every hour)
 - [mmpx12/proxy-list](https://github.com/mmpx12/proxy-list) - Free proxies (few vpn and tor exit nodes) from various sources update hourly.
