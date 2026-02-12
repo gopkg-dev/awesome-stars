@@ -254,6 +254,9 @@
 
 ## Go 
 
+- [duxweb/go-storage](https://github.com/duxweb/go-storage) - 💿 A simple repository based on the s3 protocol, supporting cos, oss, qiniu, obs, minio and other S3-compatible protocols.  基于 s3 协议的简单存储库，支持 阿里云、腾讯云、七牛云、华为云、minio 和其他 S3 兼容协议。
+- [aldor007/mort](https://github.com/aldor007/mort) - Storage and image processing server written in Go
+- [beyondstorage/go-storage](https://github.com/beyondstorage/go-storage) - A vendor-neutral storage library for Golang: Write once, run on every storage service.
 - [Huykiet/gopherizer](https://github.com/Huykiet/gopherizer) - Web project template for Go
 - [c2FmZQ/ech](https://github.com/c2FmZQ/ech) - Encrypted Client Hello with Split Mode Topology; +ECH Resolver, Dialer, RoundTripper, Publisher
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
@@ -497,7 +500,7 @@
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit and admin panel in Go
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pl
 - [AlienRecall/metadata1](https://github.com/AlienRecall/metadata1) - 
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for Linux server, making it easy to manage OpenClaw agents, LLMs, websites, databases, containers, files, and scheduled tasks.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for a Linux server / VPS, making it easy to manage OpenClaw agents, local LLMs, websites, databases, containers, files, and scheduled tasks.
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -1614,6 +1617,7 @@
 
 ## Vue 
 
+- [iAJue/MacWeb](https://github.com/iAJue/MacWeb) - Mac Web Vue Template 这是一个受 macOS 设计启发的现代优雅的 Vue.js Web 模板, 是一个基于 Vue.js 的现代化 Web 应用模板
 - [engigu/Message-Push-Nest](https://github.com/engigu/Message-Push-Nest) - 🕊️ Message Nest - 打造个性化消息推送平台，整合邮件、钉钉、企业微信、自定义webhook等多种通知方式。定制你的消息，让通知方式更灵活多样。 🕊️ Message Nest - Craft your personalized message push hub, seamlessly integrating notifications from emails dtalk and s
 - [Kylsky/chatgpt-team-helper](https://github.com/Kylsky/chatgpt-team-helper) - 一站式Team账号管理
 - [dianprata/nuxt-shadcn-dashboard](https://github.com/dianprata/nuxt-shadcn-dashboard) - Template Dashboard with Nuxt 4 + Shadcn + TailwindCSS 4
