@@ -258,6 +258,7 @@
 ## ai 
 
 - [bestruirui/octopus](https://github.com/bestruirui/octopus) - One Hub All LLMs For You | 为个人打造的 LLM API 聚合服务
+- [atopos31/llmio](https://github.com/atopos31/llmio) - LLM API load-balancing gateway. LLM API 负载均衡网关.
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features. Your clawdbot alternative. ✨
 - [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) - ValueCell is a community-driven, multi-agent platform for financial applications.
 - [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - AI Trading OS: Multi-AI, multi-exchange trading infrastructure with Strategy Studio.
@@ -2040,6 +2041,7 @@
 
 ## library 
 
+- [surajmandalcell/darwin-ui](https://github.com/surajmandalcell/darwin-ui) - MacOS'esk react component library.
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
 - [sevlyar/go-daemon](https://github.com/sevlyar/go-daemon) - A library for writing system daemons in golang.
 - [denisbrodbeck/machineid](https://github.com/denisbrodbeck/machineid) - Get the unique machine id of any host (without admin privileges)
@@ -2363,6 +2365,7 @@
 
 ## npm 
 
+- [surajmandalcell/darwin-ui](https://github.com/surajmandalcell/darwin-ui) - MacOS'esk react component library.
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [SylarLong/iztro](https://github.com/SylarLong/iztro) - ⭐This is a lightweight kit for generating astrolabes for Zi Wei Dou Shu (The Purple Star Astrology), an ancient Chinese astrology. It allows you to obtain your horoscope and personality analysis. 支持多语
 
@@ -3245,6 +3248,7 @@
 
 ## react 
 
+- [surajmandalcell/darwin-ui](https://github.com/surajmandalcell/darwin-ui) - MacOS'esk react component library.
 - [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) - ValueCell is a community-driven, multi-agent platform for financial applications.
 - [dotnize/react-tanstarter](https://github.com/dotnize/react-tanstarter) - 🏝️ minimal TanStack Start template with Better Auth, Drizzle ORM, shadcn/ui
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely
