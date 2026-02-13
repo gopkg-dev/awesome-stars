@@ -1374,6 +1374,7 @@
 
 ## Rust 
 
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 - [Le1a/LokiPool](https://github.com/Le1a/LokiPool) - 一个使用Rust编写的SOCKS5代理池管理工具，能够自动测速、管理多个代理服务器，提供高效稳定的匿名代理服务。
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [spider-rs/spider](https://github.com/spider-rs/spider) - Web crawler and scraper for Rust
@@ -1454,6 +1455,7 @@
 
 ## TypeScript 
 
+- [surajmandalcell/darwin-ui](https://github.com/surajmandalcell/darwin-ui) - MacOS'esk react component library.
 - [wjn6/GongXi-Mail](https://github.com/wjn6/GongXi-Mail) - 一站式 Outlook 邮箱池管理解决方案，专为自动化场景打造
 - [huangzijian888/GeekFaka](https://github.com/huangzijian888/GeekFaka) - GeekFaka 是一个专为独立开发者和创作者打造的 Headless 自动发卡系统。基于 Next.js + React 18 + Prisma 构建，拥有极致的深色极客   UI、Markdown 渲染、多渠道易支付（RSA/MD5）集成以及 Docker 一键部署能力。抛弃繁琐，让数字商品售卖回归简单与优雅。
 - [bestruirui/octopus](https://github.com/bestruirui/octopus) - One Hub All LLMs For You | 为个人打造的 LLM API 聚合服务
@@ -1464,7 +1466,6 @@
 - [dotnize/react-tanstarter](https://github.com/dotnize/react-tanstarter) - 🏝️ minimal TanStack Start template with Better Auth, Drizzle ORM, shadcn/ui
 - [SaladTechnologies/comfyui-api](https://github.com/SaladTechnologies/comfyui-api) - A simple API server to make ComfyUI easy to scale horizontally. Get outputs directly in the response, or asynchronously via a variety of storage providers.
 - [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - 统一管理第三方 AI 聚合中转站与自建 New API：自动识别账号、查看余额、同步模型、管理密钥，全平台与云端备份 | Unified management of third-party AI aggregation transfer stations and self-built New API: automatic account identification, balance viewin
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 - [routerso/router](https://github.com/routerso/router) - Router.so is headless form handling and lead routing for marketing-minded developers.
 - [monkeyWie/typix](https://github.com/monkeyWie/typix) - 开源AI生图工具，免登录畅玩 FLUX2、SDXL，支持 cloudflare workers 一键部署自托管，并集成各大主流AI提供商，提供一站式的创作体验。
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
