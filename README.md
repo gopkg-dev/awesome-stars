@@ -578,7 +578,7 @@
 - [webbgeorge/lambdah](https://github.com/webbgeorge/lambdah) - A useful abstraction layer over AWS Lambda functions written in Go.
 - [awslabs/aws-lambda-go-api-proxy](https://github.com/awslabs/aws-lambda-go-api-proxy) - lambda-go-api-proxy makes it easy to port APIs written with Go frameworks such as Gin (https://gin-gonic.github.io/gin/ ) to AWS Lambda and Amazon API Gateway.
 - [kazimanzurrashid/aws-scheduler-go](https://github.com/kazimanzurrashid/aws-scheduler-go) - AWS Scheduler is low cost scheduling system that runs on AWS Serverless services
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Goog
 - [casbin/casbin-server](https://github.com/casbin/casbin-server) - Casbin as a Service (CaaS)
 - [aws-samples/dynamodb-local-testing](https://github.com/aws-samples/dynamodb-local-testing) - An example of a webservice built in Go and deployed with CDK. Demonstrates how to build webservices in Go, deploy to AWS using CDK, use multistage build, use DynamoDB Local for running unit tests loca
 - [awslabs/aws-sigv4-proxy](https://github.com/awslabs/aws-sigv4-proxy) - This project signs and proxies HTTP requests with Sigv4
