@@ -263,7 +263,7 @@
 - [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - AI Trading OS: Multi-AI, multi-exchange trading infrastructure with Strategy Studio.
 - [wquguru/nof0](https://github.com/wquguru/nof0) - NOF0 - 开源的 AI 交易竞技场
 - [ixugo/nsqite](https://github.com/ixugo/nsqite) - Simple and reliable background jobs in Go，EventBus，事件总线，事务消息队列，后台任务，支持 sqlite,postgres,gorm 做持久化存储。
-- [click33/sa-token-go](https://github.com/click33/sa-token-go) - sa-token for golang 一个轻量级 go 权限认证框架，让鉴权变得简单优雅
+- [sa-tokens/sa-token-go](https://github.com/sa-tokens/sa-token-go) - ✨ 一个轻量级 Go 权限认证框架，让鉴权变得简单、优雅！
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 - [anthropics/anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go) - Access to Anthropic's safety-first language model APIs via Go
 - [enetx/surf](https://github.com/enetx/surf) - SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerprinting, JA3/JA4 TLS emulation, and anti-bot bypass for web automation and scraping.
