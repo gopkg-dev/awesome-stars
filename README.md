@@ -998,7 +998,6 @@
 - [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claud
 - [fengerwoo/CCGate](https://github.com/fengerwoo/CCGate) - Claude code 镜像 / Claude API 的二次分发反向代理服务器，可以分发为多个key，同时转换给CC或者任何Anthropic/OpenAI API兼容应用使用
 - [xiaozhaodong/cc-forwarder](https://github.com/xiaozhaodong/cc-forwarder) - 基于Go开发的高性能Claude API智能转发器，支持Web管理界面、请求追踪、组管理、自动故障转移等功能
-- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 - [francisconeves97/jxscout](https://github.com/francisconeves97/jxscout) - jxscout superpowers JavaScript analysis for security researchers
 - [gitbenxing/anti-content](https://github.com/gitbenxing/anti-content) - 拼多多 Anti-Content加密 拼多多MCN 拼多多店群 拼多多订单采集 推广数据 财务流水
 - [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
@@ -1037,6 +1036,7 @@
 - [schroef/Photoshop-Scripts](https://github.com/schroef/Photoshop-Scripts) - This is a collection of Photoshop scripts, ill expand and add data as it grows. More specific scripts will get their own repo
 - [antipalindrome/Photoshop-Export-Layers-to-Files-Fast](https://github.com/antipalindrome/Photoshop-Export-Layers-to-Files-Fast) - This script allows you to export your layers as individual files at a speed much faster than the built-in script from Adobe.
 - [dumplingcoke/jiaobenzhuli](https://github.com/dumplingcoke/jiaobenzhuli) - 批量替换智能对象图层并导出图片，多文档替换文本
+- [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - Continuously extract the information you need from specified sources
 - [CcSimple/vue-plugin-hiprint](https://github.com/CcSimple/vue-plugin-hiprint) - hiprint for Vue2/Vue3 ⚡打印、打印设计、可视化设计器、报表设计、元素编辑、可视化打印编辑
 - [DingZaiHub/ob-decrypt](https://github.com/DingZaiHub/ob-decrypt) - ob混淆还原工具，欢迎star！
 - [echo094/decode-js](https://github.com/echo094/decode-js) - JS混淆代码的AST分析工具 AST analysis tool for obfuscated JS code
@@ -1306,7 +1306,6 @@
 - [KlingAIResearch/LivePortrait](https://github.com/KlingAIResearch/LivePortrait) - Bring portraits to life!
 - [olyble/callPhoneBoom](https://github.com/olyble/callPhoneBoom) - 最新可用！！！夺命百连呼、电话轰炸、电话攻击(电话轰炸、可代替短信轰炸)、留言攻击工具
 - [hyp1231/AmazonReviews2023](https://github.com/hyp1231/AmazonReviews2023) - Scripts for processing the Amazon Reviews 2023 dataset; implementations and checkpoints of BLaIR: "Bridging Language and Items for Retrieval and Recommendation".
-- [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - Continuously extract the information you need from specified sources
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [Boris-code/feapder](https://github.com/Boris-code/feapder) - 🚀🚀🚀feapder is an easy to use, powerful crawler framework | feapder是一款上手简单，功能强大的Python爬虫框架。内置AirSpider、Spider、TaskSpider、BatchSpider四种爬虫解决不同场景的需求。且支持断点续爬、监控报警、浏览器渲染、海量数据去重等功能。更有功能强大的爬虫管理系统feaplat为其提供方便
 - [firerpa/lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation of mobile automation robots.
@@ -1373,7 +1372,6 @@
 
 ## Rust 
 
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 - [Le1a/LokiPool](https://github.com/Le1a/LokiPool) - 一个使用Rust编写的SOCKS5代理池管理工具，能够自动测速、管理多个代理服务器，提供高效稳定的匿名代理服务。
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [spider-rs/spider](https://github.com/spider-rs/spider) - Web crawler and scraper for Rust
@@ -1410,6 +1408,7 @@
 
 ## Swift 
 
+- [saif0200/notchprompt](https://github.com/saif0200/notchprompt) - 
 - [xiaozhaodong/ClaudeBar](https://github.com/xiaozhaodong/ClaudeBar) - claude code api 端点切换工具
 - [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - macOS Adobe apps download & installer
 - [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
@@ -1454,6 +1453,7 @@
 
 ## TypeScript 
 
+- [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) - 
 - [surajmandalcell/darwin-ui](https://github.com/surajmandalcell/darwin-ui) - MacOS'esk react component library.
 - [wjn6/GongXi-Mail](https://github.com/wjn6/GongXi-Mail) - 一站式 Outlook 邮箱池管理解决方案，专为自动化场景打造
 - [huangzijian888/GeekFaka](https://github.com/huangzijian888/GeekFaka) - GeekFaka 是一个专为独立开发者和创作者打造的 Headless 自动发卡系统。基于 Next.js + React 18 + Prisma 构建，拥有极致的深色极客   UI、Markdown 渲染、多渠道易支付（RSA/MD5）集成以及 Docker 一键部署能力。抛弃繁琐，让数字商品售卖回归简单与优雅。
@@ -1465,6 +1465,7 @@
 - [dotnize/react-tanstarter](https://github.com/dotnize/react-tanstarter) - 🏝️ minimal TanStack Start template with Better Auth, Drizzle ORM, shadcn/ui
 - [SaladTechnologies/comfyui-api](https://github.com/SaladTechnologies/comfyui-api) - A simple API server to make ComfyUI easy to scale horizontally. Get outputs directly in the response, or asynchronously via a variety of storage providers.
 - [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - 一站式管理 New API 兼容中转站账号：余额/用量看板、自动签到、密钥一键导出到常用应用、网页内 API 可用性测试、渠道与模型同步/重定向 | New‑API relay manager: balance/usage, auto check‑in, one‑click key export to popular clients, in‑page API checks, channel/mod
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 - [routerso/router](https://github.com/routerso/router) - Router.so is headless form handling and lead routing for marketing-minded developers.
 - [monkeyWie/typix](https://github.com/monkeyWie/typix) - 开源AI生图工具，免登录畅玩 FLUX2、SDXL，支持 cloudflare workers 一键部署自托管，并集成各大主流AI提供商，提供一站式的创作体验。
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
@@ -1472,6 +1473,7 @@
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [KroMiose/claude-code-nexus](https://github.com/KroMiose/claude-code-nexus) - Claude API Proxy platform - Seamlessly forward Claude Code requests to any OpenAI-compatible API service with smart model mapping, streaming support, deployed on Cloudflare Worker.
 - [Buywatermelon/claude-relay-monorepo](https://github.com/Buywatermelon/claude-relay-monorepo) - 一个现代化的 Claude API 代理服务，基于 Cloudflare Workers 构建
+- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
 - [IGoRFonin/chrome-proxy-extension](https://github.com/IGoRFonin/chrome-proxy-extension) - 🌐 Умный менеджер прокси для Chrome с автоматической маршрутизацией по доменам. Разные сайты — разные прокси. Никаких ручных переключений!
