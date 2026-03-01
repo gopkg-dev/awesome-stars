@@ -183,6 +183,7 @@
 
 ## Dart 
 
+- [sjjian/openhare](https://github.com/sjjian/openhare) - This is a desktop SQL query tool.
 - [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
 - [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
 - [JasonYHZ/flutter_clean_arch](https://github.com/JasonYHZ/flutter_clean_arch) - 
@@ -1057,6 +1058,7 @@
 - [likeyun/liKeYun_ylb](https://github.com/likeyun/liKeYun_ylb) - 引流宝致力于为个人、团队提供基于微信私域流量的推广、引流的效率工具。可减轻人力，有效降低资源损失、流量流失的几率。引流宝完全开源，免费，可商用、可任意二次开发。引流宝可以辅助你更好地开展营销活动推广！降低运营成本，提高工作效率，获取更多资源。
 - [ucloud/mutualaid](https://github.com/ucloud/mutualaid) - 
 - [songquanpeng/gin-template](https://github.com/songquanpeng/gin-template) - 用于 Gin & React 项目的模板. Template for Gin & React projects.
+- [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [smxl/500](https://github.com/smxl/500) - Quantumult X, Loon, Stash 预配置文件: Apple News 解锁, 去广告, 分流规则, Bing AI, TikTok 解锁 Rewrite, VIP 视频解析
 - [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
 - [henices/Chrome-proxy-helper](https://github.com/henices/Chrome-proxy-helper) - Chrome PROXY extension, set proxy for Chrome browser
@@ -1283,6 +1285,8 @@
 
 ## Python 
 
+- [ylytdeng/wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor
+- [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) - AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具
 - [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
 - [x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy) - A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls.
 - [fawney19/Aether](https://github.com/fawney19/Aether) - 
@@ -1315,7 +1319,6 @@
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [amzn/amazon-marketing-stream-examples](https://github.com/amzn/amazon-marketing-stream-examples) - Amazon Marketing Stream reference implementation using AWS CDK
-- [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
 - [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - Python APNs and iMessage client
 - [awesome-fc/code-example](https://github.com/awesome-fc/code-example) - 
@@ -1374,7 +1377,6 @@
 
 ## Rust 
 
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 - [Le1a/LokiPool](https://github.com/Le1a/LokiPool) - 一个使用Rust编写的SOCKS5代理池管理工具，能够自动测速、管理多个代理服务器，提供高效稳定的匿名代理服务。
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [spider-rs/spider](https://github.com/spider-rs/spider) - Web crawler and scraper for Rust
@@ -1469,6 +1471,7 @@
 - [mugnavo/tanstarter](https://github.com/mugnavo/tanstarter) - 🏝️ minimal TanStack Start template with Better Auth, Drizzle ORM, shadcn/ui
 - [SaladTechnologies/comfyui-api](https://github.com/SaladTechnologies/comfyui-api) - A simple API server to make ComfyUI easy to scale horizontally. Get outputs directly in the response, or asynchronously via a variety of storage providers.
 - [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - 一站式管理 New API 兼容中转站账号：余额/用量看板、自动签到、密钥一键导出到常用应用、网页内 API 可用性测试、渠道与模型同步/重定向 | New‑API relay manager: balance/usage, auto check‑in, one‑click key export to popular clients, in‑page API checks, channel/mod
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 - [routerso/router](https://github.com/routerso/router) - Router.so is headless form handling and lead routing for marketing-minded developers.
 - [monkeyWie/typix](https://github.com/monkeyWie/typix) - 开源AI生图工具，免登录畅玩 FLUX2、SDXL，支持 cloudflare workers 一键部署自托管，并集成各大主流AI提供商，提供一站式的创作体验。
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
@@ -1648,7 +1651,7 @@
 - [feiyit/scui-v3](https://github.com/feiyit/scui-v3) - Vue3、TypeScript、Element Plus、Pinia 和 Vite
 - [zyronon/douyin](https://github.com/zyronon/douyin) - Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
 - [wenlng/go-captcha-vue](https://github.com/wenlng/go-captcha-vue) - 🖖 GoCaptcha of Vue, which implements click mode, slider mode, drag-drop mode and rotation mode.
-- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.
+- [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
 - [cool-team-official/cool-admin-vue](https://github.com/cool-team-official/cool-admin-vue) - 🔥 cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于vue3、element-plus、pinia、vite、tailwindcss、i18n等构建
 - [swuecho/chat](https://github.com/swuecho/chat) - chat web app for teams, sass with user management and ratelimit, support chatgpt(openai & azure), claude, gemini and ollama model
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
