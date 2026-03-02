@@ -167,7 +167,6 @@
 - [qicosmos/rest_rpc](https://github.com/qicosmos/rest_rpc) - modern C++(C++20), simple, easy to use rpc framework
 - [liulilittle/PaperAirplane](https://github.com/liulilittle/PaperAirplane) - 一个类似于Proxifier的SOCKS5代理工具
 - [nlitsme/cpputils](https://github.com/nlitsme/cpputils) - various c++ utility classes
-- [thuva4/Algorithms](https://github.com/thuva4/Algorithms) - Collection of algorithms in multiple programming languages.
 - [kuustudio/QQCapTools](https://github.com/kuustudio/QQCapTools) - aaaa
 
 ## CSS 
@@ -183,7 +182,7 @@
 
 ## Dart 
 
-- [sjjian/openhare](https://github.com/sjjian/openhare) - This is a desktop SQL query tool.
+- [sjjian/openhare](https://github.com/sjjian/openhare) - AI-powered desktop SQL client. Cross-platform. Built with Flutter.
 - [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
 - [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
 - [JasonYHZ/flutter_clean_arch](https://github.com/JasonYHZ/flutter_clean_arch) - 
@@ -1458,7 +1457,7 @@
 
 ## TypeScript 
 
-- [waoowaooAI/waoowaoo](https://github.com/waoowaooAI/waoowaoo) - 首家工业级全流程可控协作式专业AIagent影视生产平台，从短片到漫剧到真人级影视剧一站搞定，采用好莱坞专业制作团队思路，让你拥有虚拟制片场
+- [waoowaooAI/waoowaoo](https://github.com/waoowaooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
 - [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) - 
 - [surajmandalcell/darwin-ui](https://github.com/surajmandalcell/darwin-ui) - MacOS'esk react component library.
 - [wjn6/GongXi-Mail](https://github.com/wjn6/GongXi-Mail) - 一站式 Outlook 邮箱池管理解决方案，专为自动化场景打造
@@ -1623,6 +1622,7 @@
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
 - [oleavr/frida-agent-example](https://github.com/oleavr/frida-agent-example) - Example Frida agent written in TypeScript
 - [CoderLine/alphaTab](https://github.com/CoderLine/alphaTab) - alphaTab is a cross platform music notation and guitar tablature rendering library.
+- [thuva4/Algorithms](https://github.com/thuva4/Algorithms) - Collection of algorithms in multiple programming languages.
 
 ## Vue 
 
