@@ -776,7 +776,7 @@
 - [sdgmf/go-project-sample](https://github.com/sdgmf/go-project-sample) - Introduce the best practice experience of Go project with a complete project example.通过一个完整的项目示例介绍Go语言项目的最佳实践经验.
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 - [ory/fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
-- [naiba-archived/proxy-in-a-box](https://github.com/naiba-archived/proxy-in-a-box) - :inbox_tray:Proxy in a box. 自动抓取、调度代理 IP。
+- [naiba/proxy-in-a-box](https://github.com/naiba/proxy-in-a-box) - Automatic proxy pool for web scraping - crawls, validates, and rotates proxies with rate limiting and MITM support
 - [jeyem/mogo](https://github.com/jeyem/mogo) - mogo provides a faster usage of mongo with mgo behind
 - [go-mgo/mgo](https://github.com/go-mgo/mgo) - The MongoDB driver for Go. UNMAINTAINED - SEE BELOW
 - [bitly/go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
@@ -1025,7 +1025,7 @@
 - [go-nunu/nunu-layout-admin](https://github.com/go-nunu/nunu-layout-admin) - Gin + Casbin（RBAC）+ Vue3 + AntDesignVue + AntdvPro
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [sindresorhus/p-limit](https://github.com/sindresorhus/p-limit) - Run multiple promise-returning & async functions with limited concurrency
-- [a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端性能监控和埋点系统，私有化部署，简单易用。Webfunny is a lightweight front-end performance monitoring system and a burying point system, which is privatized and easy to use.
+- [a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor) - Webfunny是一款集全链路监控和埋点系统于一体的大数据分析系统，我们致力于解决线上的疑难杂症和精细化分析业务数据；监控系统面向技术、埋点系统面向业务，两者配合使用，相得益彰。
 - [LogRocket/redux-logger](https://github.com/LogRocket/redux-logger) - Logger for Redux
 - [PengChen96/ajax-tools](https://github.com/PengChen96/ajax-tools) - An extension plugin for Chrome that modifies the response of AJAX requests.  一个修改Ajax请求响应结果的Chrome扩展插件
 - [bingoogolapple/bga-chrome-plugin-note](https://github.com/bingoogolapple/bga-chrome-plugin-note) - Chrome 插件开发学习笔记
