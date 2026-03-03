@@ -697,6 +697,7 @@
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) - Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [goclone-dev/goclone](https://github.com/goclone-dev/goclone) - Website Cloner - Utilizes powerful Go routines to clone websites to your computer within seconds.
+- [naiba/proxy-in-a-box](https://github.com/naiba/proxy-in-a-box) - Automatic proxy pool for web scraping - crawls, validates, and rotates proxies with rate limiting and MITM support
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 
 ## cryptocurrency 
@@ -861,6 +862,7 @@
 
 ## discord 
 
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [songquanpeng/message-pusher](https://github.com/songquanpeng/message-pusher) - 搭建专属于你的消息推送服务，支持多种消息推送方式，支持 Markdown，基于 Golang 仅单可执行文件，开箱即用
 
 ## django 
@@ -1607,6 +1609,7 @@
 - [sdgmf/go-project-sample](https://github.com/sdgmf/go-project-sample) - Introduce the best practice experience of Go project with a complete project example.通过一个完整的项目示例介绍Go语言项目的最佳实践经验.
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 - [ory/fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
+- [naiba/proxy-in-a-box](https://github.com/naiba/proxy-in-a-box) - Automatic proxy pool for web scraping - crawls, validates, and rotates proxies with rate limiting and MITM support
 - [jeyem/mogo](https://github.com/jeyem/mogo) - mogo provides a faster usage of mongo with mgo behind
 - [parnurzeal/gorequest](https://github.com/parnurzeal/gorequest) - GoRequest -- Simplified HTTP client ( inspired by nodejs SuperAgent )
 - [asticode/go-astilectron-bundler](https://github.com/asticode/go-astilectron-bundler) - Bundle your Astilectron app with ease
@@ -2270,7 +2273,7 @@
 ## monitoring 
 
 - [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A modern, lightweight Kubernetes dashboard.
-- [a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor) - webfunny是一款轻量级的前端性能监控和埋点系统，私有化部署，简单易用。Webfunny is a lightweight front-end performance monitoring system and a burying point system, which is privatized and easy to use.
+- [a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor) - Webfunny是一款集全链路监控和埋点系统于一体的大数据分析系统，我们致力于解决线上的疑难杂症和精细化分析业务数据；监控系统面向技术、埋点系统面向业务，两者配合使用，相得益彰。
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [arl/statsviz](https://github.com/arl/statsviz) - Visualise Go runtime metrics in real time
@@ -2910,7 +2913,6 @@
 - [IvenYan/eCommerce_backend](https://github.com/IvenYan/eCommerce_backend) - 帅帅跨境电商后端
 - [tate11/HangZhouMinXing](https://github.com/tate11/HangZhouMinXing) - 
 - [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
-- [naiba-archived/proxy-in-a-box](https://github.com/naiba-archived/proxy-in-a-box) - :inbox_tray:Proxy in a box. 自动抓取、调度代理 IP。
 - [go-mgo/mgo](https://github.com/go-mgo/mgo) - The MongoDB driver for Go. UNMAINTAINED - SEE BELOW
 - [R2h1/ProxyPool](https://github.com/R2h1/ProxyPool) - 构建代理ip池
 - [bitly/go-simplejson](https://github.com/bitly/go-simplejson) - a Go package to interact with arbitrary JSON
