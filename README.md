@@ -254,6 +254,7 @@
 
 ## Go 
 
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [1001api/sso-be](https://github.com/1001api/sso-be) - Production-ready SSO service in Go/Fiber with OAuth, OTP, email login, AES-256, JWT, RBAC, audit logs, Redis caching, and API key support for multi-tenant apps.
 - [jasonwong1991/easy_proxies](https://github.com/jasonwong1991/easy_proxies) - A proxy node pool management tool based on sing-box, supporting multiple protocols, automatic failover and load balancing.  基于 sing-box 的代理节点池管理工具，支持多协议、多节点自动故障转移和负载均衡。
 - [aldor007/mort](https://github.com/aldor007/mort) - Storage and image processing server written in Go
@@ -996,8 +997,9 @@
 
 ## JavaScript 
 
+- [Theproudcold/tarot-web](https://github.com/Theproudcold/tarot-web) - 
 - [libaxuan/cursor2api-go](https://github.com/libaxuan/cursor2api-go) - Free claude-sonnet-4.6  | cursor不倒我不倒🙏
-- [yincongcyincong/weixin-macos](https://github.com/yincongcyincong/weixin-macos) - mac逆向的一些处理
+- [yincongcyincong/wechat_chatter](https://github.com/yincongcyincong/wechat_chatter) - 微信(wechat hook macos) mac 收发消息逆向
 - [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claud
 - [fengerwoo/CCGate](https://github.com/fengerwoo/CCGate) - Claude code 镜像 / Claude API 的二次分发反向代理服务器，可以分发为多个key，同时转换给CC或者任何Anthropic/OpenAI API兼容应用使用
 - [xiaozhaodong/cc-forwarder](https://github.com/xiaozhaodong/cc-forwarder) - 基于Go开发的高性能Claude API智能转发器，支持Web管理界面、请求追踪、组管理、自动故障转移等功能
@@ -1460,6 +1462,7 @@
 
 ## TypeScript 
 
+- [touwaeriol/sub2apipay](https://github.com/touwaeriol/sub2apipay) - Sub2API 自托管充值支付网关 — 支持支付宝、微信支付（易支付协议）、Stripe，支付成功自动到账
 - [waoowaooAI/waoowaoo](https://github.com/waoowaooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
 - [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) - 
 - [surajmandalcell/darwin-ui](https://github.com/surajmandalcell/darwin-ui) - MacOS'esk react component library.
