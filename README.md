@@ -254,6 +254,9 @@
 
 ## Go 
 
+- [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+- [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
+- [Resinat/Resin](https://github.com/Resinat/Resin) - A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [1001api/sso-be](https://github.com/1001api/sso-be) - Production-ready SSO service in Go/Fiber with OAuth, OTP, email login, AES-256, JWT, RBAC, audit logs, Redis caching, and API key support for multi-tenant apps.
 - [jasonwong1991/easy_proxies](https://github.com/jasonwong1991/easy_proxies) - A proxy node pool management tool based on sing-box, supporting multiple protocols, automatic failover and load balancing.  基于 sing-box 的代理节点池管理工具，支持多协议、多节点自动故障转移和负载均衡。
@@ -270,12 +273,10 @@
 - [anthropics/anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go) - Access to Anthropic's safety-first language model APIs via Go
 - [enetx/surf](https://github.com/enetx/surf) - SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerprinting, JA3/JA4 TLS emulation, and anti-bot bypass for web automation and scraping.
 - [dtm-labs/rockscache](https://github.com/dtm-labs/rockscache) - The First Redis Cache Library To Ensure Eventual Consistency And Strong Consistency With DB.
-- [kxn/claude-code-companion](https://github.com/kxn/claude-code-companion) - 
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - An Automagical Compiler to Connect AI to Your Databases
 - [quanxiang-cloud/process](https://github.com/quanxiang-cloud/process) - Process engine kernel
 - [emmansun/gmsm](https://github.com/emmansun/gmsm) - ShangMi (SM) cipher suites for Go (Go语言商用密码软件)
 - [reachingforthejack/cursortab.nvim](https://github.com/reachingforthejack/cursortab.nvim) - WIP! Reverse engineered Cursor Tab API in Neovim
-- [daodao97/claude-code-proxy](https://github.com/daodao97/claude-code-proxy) - Claude code proxy, friendly view request log, enhance request stability
 - [labring/aiproxy](https://github.com/labring/aiproxy) - AI Proxy is a high performance AI gateway using OpenAI / Claude / Gemini protocol as the entry point. It features intelligent error handling, multi-channel management, and comprehensive monitoring. Wi
 - [ca-x/ccany](https://github.com/ca-x/ccany) - Proxy Claude Code to Any Open API
 - [Veloera/Veloera](https://github.com/Veloera/Veloera) - 
@@ -283,7 +284,6 @@
 - [adityasanehi/go-proxy-forwarder](https://github.com/adityasanehi/go-proxy-forwarder) - 
 - [xinhai-ai/endpoint_forwarder](https://github.com/xinhai-ai/endpoint_forwarder) - 
 - [minio/sidekick](https://github.com/minio/sidekick) - High Performance HTTP Sidecar Load Balancer
-- [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
 - [go-dev-frame/sponge](https://github.com/go-dev-frame/sponge) - A powerful and easy-to-use Go development framework that enables you to effortlessly build stable, reliable, and high-performance backend services with a "low-code" approach.
 - [jxhczhl/JsRpc](https://github.com/jxhczhl/JsRpc) - 远程调用(rpc)浏览器方法，免去抠代码补环境
 - [rezmoss/simple-load-balancer](https://github.com/rezmoss/simple-load-balancer) - HTTP load balancer in Go using only the standard library, round-robin, health checks, weighted routing. Great for learning Go networking internals
@@ -394,7 +394,7 @@
 - [galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow + Go, the gopher way
 - [dominikh/go-js-dom](https://github.com/dominikh/go-js-dom) - 
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
-- [wenlng/go-captcha](https://github.com/wenlng/go-captcha) - 🖖 GoCaptcha is a behavior captcha, which implements click mode, slider mode, drag-drop mode and rotation mode.
+- [wenlng/go-captcha](https://github.com/wenlng/go-captcha) - 🖖 GoCaptcha: A high-performance, interactive behavior captcha library for Go. Supporting click, slide, drag-drop, and rotation modes to secure your applications with ease.
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic
 - [arklnk/ark-admin-zero](https://github.com/arklnk/ark-admin-zero) - 🚀 基于Go-Zero + Vue3 + TypeScript + Element-Plus开发的简单高效权限管理系统。 A simple and efficient permission management system based on Go-Zero + Vue3 + TypeScript + Element-Plus
 - [knqyf263/go-plugin](https://github.com/knqyf263/go-plugin) - Go Plugin System over WebAssembly
@@ -454,7 +454,7 @@
 - [golang/snappy](https://github.com/golang/snappy) - The Snappy compression format in the Go programming language.
 - [yeqown/fasthttp-reverse-proxy](https://github.com/yeqown/fasthttp-reverse-proxy) - reverse http / websocket proxy based on fasthttp
 - [kardianos/service](https://github.com/kardianos/service) - Run go programs as a service on major platforms.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
 - [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go
 - [projectdiscovery/fastdialer](https://github.com/projectdiscovery/fastdialer) - Dialer with DNS Cache + Dial History
 - [earthboundkid/requests](https://github.com/earthboundkid/requests) - HTTP requests for Gophers
@@ -1000,12 +1000,8 @@
 - [Theproudcold/tarot-web](https://github.com/Theproudcold/tarot-web) - 
 - [libaxuan/cursor2api-go](https://github.com/libaxuan/cursor2api-go) - Free claude-sonnet-4.6  | cursor不倒我不倒🙏
 - [yincongcyincong/wechat_chatter](https://github.com/yincongcyincong/wechat_chatter) - 微信(wechat hook macos) mac 收发消息逆向
-- [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claud
-- [fengerwoo/CCGate](https://github.com/fengerwoo/CCGate) - Claude code 镜像 / Claude API 的二次分发反向代理服务器，可以分发为多个key，同时转换给CC或者任何Anthropic/OpenAI API兼容应用使用
-- [xiaozhaodong/cc-forwarder](https://github.com/xiaozhaodong/cc-forwarder) - 基于Go开发的高性能Claude API智能转发器，支持Web管理界面、请求追踪、组管理、自动故障转移等功能
 - [francisconeves97/jxscout](https://github.com/francisconeves97/jxscout) - jxscout superpowers JavaScript analysis for security researchers
 - [gitbenxing/anti-content](https://github.com/gitbenxing/anti-content) - 拼多多 Anti-Content加密 拼多多MCN 拼多多店群 拼多多订单采集 推广数据 财务流水
-- [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [benjamminf/warpjs](https://github.com/benjamminf/warpjs) - Warp, distort, bend, twist and smudge your SVG’s directly in the browser
@@ -1199,7 +1195,6 @@
 
 - [tanweai/wooyun-legacy](https://github.com/tanweai/wooyun-legacy) - wooyun-legacy skill for claude code
 - [wuqi-y/auto-cursor-releases](https://github.com/wuqi-y/auto-cursor-releases) - 源代码(开源版本到0.8)，后续版本会继续更新但不会开源
-- [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) - Shared starter template configuration and CLAUDE.md memory bank system for Claude Code
 - [adryfish/fingerprint-chromium](https://github.com/adryfish/fingerprint-chromium) - An open source fingerprint browser based on Ungoogled Chromium. 指纹浏览器 隐私浏览器
 - [LoseNine/Chromium_FingerPrint_Tutorial](https://github.com/LoseNine/Chromium_FingerPrint_Tutorial) - A book about writing a Chromium fingerprint browser. 免费开源的入门教程，Chromium指纹浏览器开发教程，帮助你了解Chromium内核，并且开发出一套基础的指纹浏览器。
 - [dotnet-foundation/projects](https://github.com/dotnet-foundation/projects) - This repository is used for onboarding new projects
@@ -1292,14 +1287,11 @@
 - [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) - AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具
 - [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
 - [x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy) - A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls.
-- [fawney19/Aether](https://github.com/fawney19/Aether) - 
 - [HisMax/RedInk](https://github.com/HisMax/RedInk) - 红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) - ValueCell is a community-driven, multi-agent platform for financial applications.
 - [mirrorange/clove](https://github.com/mirrorange/clove) - A Claude.ai reverse proxy
 - [Cloxl/xhshow](https://github.com/Cloxl/xhshow) - 小红书xs纯算 小红书x-s x-s-common xsc 等字段 纯算逆向
-- [1rgs/claude-code-proxy](https://github.com/1rgs/claude-code-proxy) - Run Claude Code on OpenAI models
-- [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) - Claude Code to OpenAI API Proxy
 - [81NewArk/AntiCAP](https://github.com/81NewArk/AntiCAP) - 验证码识别   点选 滑块 算术 旋转 OCR
 - [EBOLABOY/GridBNB-USDT](https://github.com/EBOLABOY/GridBNB-USDT) - 这是一个基于AI的自动化交易程序，专为数字货币市场（BNB/USDT）设计。该程序旨在实现全自动化交易，通过AI算法帮助用户在数字货币市场中做出更智能的交易决策。
 - [Fun-Fox/pinterest](https://github.com/Fun-Fox/pinterest) - pinterest采集工具并集成deepseek Janus 进行智能挑图
@@ -1404,7 +1396,6 @@
 ## Shell 
 
 - [wisdgod/cursor-rp](https://github.com/wisdgod/cursor-rp) - Feel free.
-- [steipete/agent-rules](https://github.com/steipete/agent-rules) - Rules and Knowledge to work better with agents such as Claude Code or Cursor
 - [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine
 - [X1a0He/X1a0HeWeChatPlugin](https://github.com/X1a0He/X1a0HeWeChatPlugin) - 一个随手写的插件 提供消息防撤回、多开、禁用更新和日志上报等功能。
 - [officialputuid/KangProxy](https://github.com/officialputuid/KangProxy) - Free proxy list (HTTP, HTTPS, SOCKS4, SOCKS5) - automatically updates and validates every day.
@@ -1418,7 +1409,6 @@
 ## Swift 
 
 - [saif0200/notchprompt](https://github.com/saif0200/notchprompt) - 
-- [xiaozhaodong/ClaudeBar](https://github.com/xiaozhaodong/ClaudeBar) - claude code api 端点切换工具
 - [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - macOS Adobe apps download & installer
 - [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
@@ -1463,13 +1453,11 @@
 ## TypeScript 
 
 - [touwaeriol/sub2apipay](https://github.com/touwaeriol/sub2apipay) - Sub2API 自托管充值支付网关 — 支持支付宝、微信支付（易支付协议）、Stripe，支付成功自动到账
-- [waoowaooAI/waoowaoo](https://github.com/waoowaooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
+- [saturndec/waoowaoo](https://github.com/saturndec/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
 - [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb) - 
 - [surajmandalcell/darwin-ui](https://github.com/surajmandalcell/darwin-ui) - MacOS'esk react component library.
 - [wjn6/GongXi-Mail](https://github.com/wjn6/GongXi-Mail) - 一站式 Outlook 邮箱池管理解决方案，专为自动化场景打造
 - [huangzijian888/GeekFaka](https://github.com/huangzijian888/GeekFaka) - GeekFaka 是一个专为独立开发者和创作者打造的 Headless 自动发卡系统。基于 Next.js + React 18 + Prisma 构建，拥有极致的深色极客   UI、Markdown 渲染、多渠道易支付（RSA/MD5）集成以及 Docker 一键部署能力。抛弃繁琐，让数字商品售卖回归简单与优雅。
-- [bestruirui/octopus](https://github.com/bestruirui/octopus) - One Hub All LLMs For You | 为个人打造的 LLM API 聚合服务
-- [atopos31/llmio](https://github.com/atopos31/llmio) - LLM API load-balancing gateway. LLM API 负载均衡网关.
 - [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not jus
 - [ding113/claude-code-hub](https://github.com/ding113/claude-code-hub) - 一个现代化的 Claude Code & Codex API 代理服务，提供智能负载均衡、用户管理和使用统计功能。
 - [hooray/fantastic-startkit](https://github.com/hooray/fantastic-startkit) - 一款简单好用的 Vue 项目启动套件，基于 Vue3 & Vite
@@ -1479,12 +1467,6 @@
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 - [routerso/router](https://github.com/routerso/router) - Router.so is headless form handling and lead routing for marketing-minded developers.
 - [monkeyWie/typix](https://github.com/monkeyWie/typix) - 开源AI生图工具，免登录畅玩 FLUX2、SDXL，支持 cloudflare workers 一键部署自托管，并集成各大主流AI提供商，提供一站式的创作体验。
-- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
-- [yinxulai/claude-proxy](https://github.com/yinxulai/claude-proxy) - 🚀 免费开源的 Claude 到 OpenAI API 格式转换代理服务，让您能够在任何支持 OpenAI API 的应用中无缝使用 Claude 客户端工具，支持流式响应、Tool Calling 和动态路由。
-- [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
-- [KroMiose/claude-code-nexus](https://github.com/KroMiose/claude-code-nexus) - Claude API Proxy platform - Seamlessly forward Claude Code requests to any OpenAI-compatible API service with smart model mapping, streaming support, deployed on Cloudflare Worker.
-- [Buywatermelon/claude-relay-monorepo](https://github.com/Buywatermelon/claude-relay-monorepo) - 一个现代化的 Claude API 代理服务，基于 Cloudflare Workers 构建
-- [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
 - [IGoRFonin/chrome-proxy-extension](https://github.com/IGoRFonin/chrome-proxy-extension) - 🌐 Умный менеджер прокси для Chrome с автоматической маршрутизацией по доменам. Разные сайты — разные прокси. Никаких ручных переключений!
@@ -1492,7 +1474,6 @@
 - [samqin123/MoonTV](https://github.com/samqin123/MoonTV) - 
 - [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
 - [alibaba/formily](https://github.com/alibaba/formily) - 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
-- [snipeship/ccflare](https://github.com/snipeship/ccflare) - The ultimate CC proxy
 - [SaltifyDev/tanebi](https://github.com/SaltifyDev/tanebi) - [Out of Development & Looking for Maintainers] PC NTQQ 协议的 TypeScript 实现，包含 Milky 协议的实现
 - [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) - 一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
