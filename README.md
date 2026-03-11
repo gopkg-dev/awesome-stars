@@ -571,7 +571,7 @@
 - [aadog/frida-go](https://github.com/aadog/frida-go) - frida golang binding
 - [aadog/fd-back](https://github.com/aadog/fd-back) - frida runtime (no python required, only a single file),One-click support for ios dump
 - [lonng/nano](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT OpenClaw
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat OpenClaw
 - [v-standard/aws-lambda-alb-proxy](https://github.com/v-standard/aws-lambda-alb-proxy) - 
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [drakejin/fiber-aws-serverless](https://github.com/drakejin/fiber-aws-serverless) - golang + fiber + aws lambda + serverless + http
@@ -582,7 +582,7 @@
 - [awslabs/aws-lambda-go-api-proxy](https://github.com/awslabs/aws-lambda-go-api-proxy) - lambda-go-api-proxy makes it easy to port APIs written with Go frameworks such as Gin (https://gin-gonic.github.io/gin/ ) to AWS Lambda and Amazon API Gateway.
 - [kazimanzurrashid/aws-scheduler-go](https://github.com/kazimanzurrashid/aws-scheduler-go) - AWS Scheduler is low cost scheduling system that runs on AWS Serverless services
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Goog
-- [casbin/casbin-server](https://github.com/casbin/casbin-server) - Casbin as a Service (CaaS)
+- [apache/casbin-server](https://github.com/apache/casbin-server) - Casbin as a Service (CaaS)
 - [aws-samples/dynamodb-local-testing](https://github.com/aws-samples/dynamodb-local-testing) - An example of a webservice built in Go and deployed with CDK. Demonstrates how to build webservices in Go, deploy to AWS using CDK, use multistage build, use DynamoDB Local for running unit tests loca
 - [awslabs/aws-sigv4-proxy](https://github.com/awslabs/aws-sigv4-proxy) - This project signs and proxies HTTP requests with Sigv4
 - [aws/aws-cdk-go](https://github.com/aws/aws-cdk-go) - AWS CDK bindings for Go.
@@ -596,7 +596,7 @@
 - [reugn/go-streams](https://github.com/reugn/go-streams) - A lightweight stream processing library for Go
 - [Rican7/retry](https://github.com/Rican7/retry) - A simple, stateless, functional mechanism to perform actions repetitively until successful.
 - [cleverbamboo/go-shop-b2c](https://github.com/cleverbamboo/go-shop-b2c) - 一个用Go语言写的B2C商城
-- [casbin/redis-adapter](https://github.com/casbin/redis-adapter) - Redis adapter for Casbin
+- [apache/casbin-redis-adapter](https://github.com/apache/casbin-redis-adapter) - Redis adapter for Casbin
 - [nzoschke/gofaas](https://github.com/nzoschke/gofaas) - A boilerplate Go and AWS Lambda app. Demonstrates an expert configuration of 10+ AWS services to support running Go functions-as-a-service (FaaS).
 - [sunanzhi/ratelimit-go](https://github.com/sunanzhi/ratelimit-go) - 滑动窗口限速
 - [juju/ratelimit](https://github.com/juju/ratelimit) - Efficient token-bucket-based rate limiter package.
@@ -712,7 +712,7 @@
 - [Harry-027/go-notify](https://github.com/Harry-027/go-notify) - An email automation solution, written in Golang.
 - [ansrivas/fiberprometheus](https://github.com/ansrivas/fiberprometheus) - prometheus middleware for Fiber
 - [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
-- [casbin/gorm-adapter](https://github.com/casbin/gorm-adapter) - GORM adapter for Casbin, see extended version of GORM Adapter Ex at: https://github.com/casbin/gorm-adapter-ex
+- [apache/casbin-gorm-adapter](https://github.com/apache/casbin-gorm-adapter) - GORM adapter for Casbin, see extended version of GORM Adapter Ex at: https://github.com/casbin/gorm-adapter-ex
 - [gofiber/recipes](https://github.com/gofiber/recipes) - 📁 Examples for 🚀 Fiber
 - [go-chassis/go-chassis](https://github.com/go-chassis/go-chassis) - a cloud native application framework for Go with rich eco-system
 - [sliveryou/grom](https://github.com/sliveryou/grom) - 一个可以将 mysql 的表字段转换为 golang 的模型结构的命令行工具。A powerful command line tool for converting mysql table fields to golang model structure.
@@ -789,7 +789,7 @@
 - [im050/awesome-hosts](https://github.com/im050/awesome-hosts) - A simple GUI for manage hosts, written in Go
 - [gotk3/gotk3](https://github.com/gotk3/gotk3) - Go bindings for GTK3
 - [gotk3/gotk3-examples](https://github.com/gotk3/gotk3-examples) - 
-- [ip2location/ip2location-go](https://github.com/ip2location/ip2location-go) - Use IP2Location geolocation database to lookup the geolocation information with IP2Location Go Package. It can be used to determine country, region, city, coordinates, zip code, time zone, ISP, domain
+- [ip2location-com/ip2location-go](https://github.com/ip2location-com/ip2location-go) - Use IP2Location geolocation database to lookup the geolocation information with IP2Location Go Package. It can be used to determine country, region, city, coordinates, zip code, time zone, ISP, domain
 - [pptom/AmazonBigSpider](https://github.com/pptom/AmazonBigSpider) - Distributed GoAmazon Spider Support UAS/Japan/Germany/UK, Amazing!亚马逊超级大爬虫，四个站点无缝抓取，几百万数据哗哗而来，小类数据可选不需要代理IP，但要详情页的数据需要至少两千个，但仍然高于回报！附带Dashbord，爬虫监控，权限控制，是一个大型BI产品
 - [qor/amazon-pay-sdk-go](https://github.com/qor/amazon-pay-sdk-go) - Amazon Pay Go SDK
 - [chi-cat/frps-auth](https://github.com/chi-cat/frps-auth) - frps简单授权
@@ -998,6 +998,7 @@
 
 ## JavaScript 
 
+- [4ier/neo](https://github.com/4ier/neo) - Turn any web app into an API. Chrome extension captures browser traffic, auto-generates schemas, lets AI replay APIs directly. No official API needed.
 - [Theproudcold/tarot-web](https://github.com/Theproudcold/tarot-web) - 
 - [libaxuan/cursor2api-go](https://github.com/libaxuan/cursor2api-go) - Free claude-sonnet-4.6  | cursor不倒我不倒🙏
 - [yincongcyincong/wechat_chatter](https://github.com/yincongcyincong/wechat_chatter) - 微信(wechat hook macos) mac 收发消息逆向
