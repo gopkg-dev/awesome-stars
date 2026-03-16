@@ -1000,6 +1000,7 @@
 
 ## JavaScript 
 
+- [dataease/SQLBot](https://github.com/dataease/SQLBot) - 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.
 - [4ier/neo](https://github.com/4ier/neo) - Turn any web app into an API. Chrome extension captures browser traffic, auto-generates schemas, lets AI replay APIs directly. No official API needed.
 - [Theproudcold/tarot-web](https://github.com/Theproudcold/tarot-web) - 
 - [libaxuan/cursor2api-go](https://github.com/libaxuan/cursor2api-go) - Free claude-sonnet-4.6  | cursor不倒我不倒🙏 ❌ 不支持 tools / function calling / MCP
@@ -1024,6 +1025,7 @@
 - [runegan/jsxbin](https://github.com/runegan/jsxbin) - Convert jsx ExtendScript files into jsxbin files using ExtendScript Toolkit
 - [jcc1997/photoshop-script](https://github.com/jcc1997/photoshop-script) - 
 - [creold/photoshop-scripts](https://github.com/creold/photoshop-scripts) - Some powerfull JSX scripts for extending Adobe Photoshop
+- [Menci/vite-plugin-wasm](https://github.com/Menci/vite-plugin-wasm) - Add WebAssembly ESM integration (aka. Webpack's `asyncWebAssembly`) to Vite and support `wasm-pack` generated modules.
 - [jeantimex/onnx-rmbg](https://github.com/jeantimex/onnx-rmbg) - Remove background image using onnx model
 - [cgxqd/chrome-extension-starter](https://github.com/cgxqd/chrome-extension-starter) - 入门套件，零配置，用于在TypeScript中构建 chrome extension，具有 Vitejs、Vue3、Prettier、ESLint等功能！
 - [go-nunu/nunu-layout-admin](https://github.com/go-nunu/nunu-layout-admin) - Gin + Casbin（RBAC）+ Vue3 + AntDesignVue + AntdvPro
@@ -1292,7 +1294,7 @@
 - [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) - AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具
 - [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
 - [x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy) - A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls.
-- [HisMax/RedInk](https://github.com/HisMax/RedInk) - 红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and
+- [HisMax/RedInk](https://github.com/HisMax/RedInk) - Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) - ValueCell is a community-driven, multi-agent platform for financial applications.
 - [mirrorange/clove](https://github.com/mirrorange/clove) - A Claude.ai reverse proxy
@@ -1414,6 +1416,7 @@
 
 ## Swift 
 
+- [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
 - [crossoverJie/SkillDeck](https://github.com/crossoverJie/SkillDeck) - Native macOS SwiftUI app for managing multiple AI code agent skills
 - [saif0200/notchprompt](https://github.com/saif0200/notchprompt) - 
 - [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - macOS Adobe apps download & installer
@@ -1513,7 +1516,6 @@
 - [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 好用的 Canvas 引擎。Easy-to-Use Canvas Engine.
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [nexmoe/serverless-comfyui](https://github.com/nexmoe/serverless-comfyui) - 一个基于 Docker 的 ComfyUI 弹性 Serverless 应用，提供完整的前后端分离架构和用户友好的界面。
-- [Menci/vite-plugin-wasm](https://github.com/Menci/vite-plugin-wasm) - Add WebAssembly ESM integration (aka. Webpack's `asyncWebAssembly`) to Vite and support `wasm-pack` generated modules.
 - [Oceansdeep7/build-your-own-rmbg-tool](https://github.com/Oceansdeep7/build-your-own-rmbg-tool) - Run Transformers directly in browser
 - [Daninet/hash-wasm](https://github.com/Daninet/hash-wasm) - Lightning fast hash functions using hand-tuned WebAssembly binaries
 - [shuo-s-feng/taskon](https://github.com/shuo-s-feng/taskon) - A simple javascript/typesciprt tasks queue that supports concurrency control
