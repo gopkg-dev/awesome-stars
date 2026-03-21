@@ -366,7 +366,6 @@
 - [aceld/EasySJMS](https://github.com/aceld/EasySJMS) - Easy搞定Golang设计模式
 - [gonetx/ipconv](https://github.com/gonetx/ipconv) - Utilities for ip conversion with high performance.
 - [mycontroller-org/server](https://github.com/mycontroller-org/server) - MyController 2.x server
-- [axetroy/wsm](https://github.com/axetroy/wsm) - 🔳Manage you team's server via browser 通过浏览器管理服务器。堡垒机
 - [geziyor/geziyor](https://github.com/geziyor/geziyor) - Geziyor, blazing fast web crawling & scraping framework for Go. Supports JS rendering.
 - [go-nunu/nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications.
 - [piupuer/gin-web](https://github.com/piupuer/gin-web) - 由gin + gorm + jwt + casbin组合实现的RBAC权限管理脚手架Golang版, 搭建完成即可快速、高效投入业务开发
@@ -1295,6 +1294,8 @@
 
 ## Python 
 
+- [loLollipop/team-manage-refresh](https://github.com/loLollipop/team-manage-refresh) - 基于 team-manage 增强的团队账号管理系统，集成了一键 Token 提取、CPA 凭证导出、Token 自动刷新与福利车位分发等实用功能。
+- [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus) - Outlookmail Plus：专为注册而生 OutlookMail Plus 是一款面向个人与团队的注册邮箱管理器。  与市面上通用型邮箱客户端不同，它更聚焦在**注册与验证**场景，并围绕注册流程做了深度优化。 演示站点密码：12345678
 - [cnlimiter/codex-manager](https://github.com/cnlimiter/codex-manager) - 
 - [jackwener/xiaohongshu-cli](https://github.com/jackwener/xiaohongshu-cli) - A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API
 - [ylytdeng/wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor
@@ -1471,6 +1472,8 @@
 
 ## TypeScript 
 
+- [ahaodev/shadmin](https://github.com/ahaodev/shadmin) - An Enterprise-Grade Full-Stack RBAC Permission Management System Built with Go + React
+- [7836246/cursor2api](https://github.com/7836246/cursor2api) - 将 Cursor Web Docs 免费 API 转换为 OpenAI/Anthropic 兼容格式的代理服务。提供 Claude Code工具及图片支持。
 - [berbicanes/apiark](https://github.com/berbicanes/apiark) - Privacy-first API platform built with Tauri v2. No login, no cloud, ~60 MB RAM. A lightweight Postman alternative.
 - [molloryn/claude-verify](https://github.com/molloryn/claude-verify) - Claude code 真伪鉴别工具
 - [vmoranv/jshookmcp](https://github.com/vmoranv/jshookmcp) - js hook toolkit that all you need
