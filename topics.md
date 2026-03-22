@@ -2169,7 +2169,7 @@
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [crossoverJie/SkillDeck](https://github.com/crossoverJie/SkillDeck) - Native macOS SwiftUI app for managing multiple AI code agent skills
 - [yincongcyincong/wechat_chatter](https://github.com/yincongcyincong/wechat_chatter) - 微信(wechat hook macos) mac 收发消息逆向
-- [saif0200/notchprompt](https://github.com/saif0200/notchprompt) - 
+- [saif0200/notchprompt](https://github.com/saif0200/notchprompt) - distraction-free teleprompter hidden in the macbook notch
 - [LuanRoger/electron-shadcn](https://github.com/LuanRoger/electron-shadcn) - :electron: Electron Forge with shadcn-ui (Vite + Typescript)
 - [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - A plugin for Mac WeChat
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
@@ -2453,12 +2453,14 @@
 
 ## others 
 
+- [snail007/macstate](https://github.com/snail007/macstate) - Lightweight macOS menu bar system monitor — CPU usage, CPU temperature, memory, fan speed, network speed. 轻量级 macOS 菜单栏系统监控 — CPU使用率、CPU温度、内存占用、风扇转速、网络速度。
+- [sunbigfly/ppt-agent-skill](https://github.com/sunbigfly/ppt-agent-skill) - 专业 PPT 演示文稿全流程 AI 生成助手 - 模拟万元/页级 PPT 设计公司的完整工作流，输出高质量 HTML + 可编辑 PPTX
 - [loLollipop/team-manage-refresh](https://github.com/loLollipop/team-manage-refresh) - 基于 team-manage 增强的团队账号管理系统，集成了一键 Token 提取、CPA 凭证导出、Token 自动刷新与福利车位分发等实用功能。
-- [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus) - Outlookmail Plus：专为注册而生 OutlookMail Plus 是一款面向个人与团队的注册邮箱管理器。  与市面上通用型邮箱客户端不同，它更聚焦在**注册与验证**场景，并围绕注册流程做了深度优化。 演示站点密码：12345678
+- [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus) - Outlookmail Plus: Designed Specifically for Registration  |  Outlookmail Plus：专为注册而生  |
 - [AlickH/Copool](https://github.com/AlickH/Copool) - Copool is a macOS SwiftUI app for Codex/ChatGPT account switching and API proxy management｜Copool 是一个用于 Codex/ChatGPT 账号切换与 API 代理管理的 macOS SwiftUI 应用
 - [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
 - [syi0808/screenize](https://github.com/syi0808/screenize) - Open-source macOS screen recording app with auto-zoom, cursor effects, and timeline editing — Screen Studio alternative.
-- [molloryn/claude-verify](https://github.com/molloryn/claude-verify) - Claude code 真伪鉴别工具
+- [Tairitsua/claude-verify](https://github.com/Tairitsua/claude-verify) - Claude code 真伪鉴别工具
 - [Loongphy/codex-auth](https://github.com/Loongphy/codex-auth) - A CLI tool to switch and manage Codex accounts
 - [cnlimiter/codex-manager](https://github.com/cnlimiter/codex-manager) - 
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
@@ -3588,7 +3590,7 @@
 
 ## swift 
 
-- [saif0200/notchprompt](https://github.com/saif0200/notchprompt) - 
+- [saif0200/notchprompt](https://github.com/saif0200/notchprompt) - distraction-free teleprompter hidden in the macbook notch
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [moreSwift/swift-cross-ui](https://github.com/moreSwift/swift-cross-ui) - A cross-platform declarative UI framework, inspired by SwiftUI.
 - [RevenueCat/purchases-ios](https://github.com/RevenueCat/purchases-ios) - In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.
