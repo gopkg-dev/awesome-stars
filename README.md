@@ -1009,6 +1009,7 @@
 - [Theproudcold/tarot-web](https://github.com/Theproudcold/tarot-web) - 
 - [libaxuan/cursor2api-go](https://github.com/libaxuan/cursor2api-go) - Free claude-sonnet-4.6  | cursor不倒我不倒🙏 ❌ 不支持 tools / function calling / MCP
 - [yincongcyincong/wechat_chatter](https://github.com/yincongcyincong/wechat_chatter) - 微信(wechat hook macos) mac 收发消息逆向
+- [Kylsky/chatgpt-team-helper](https://github.com/Kylsky/chatgpt-team-helper) - 一站式Team账号管理
 - [francisconeves97/jxscout](https://github.com/francisconeves97/jxscout) - jxscout superpowers JavaScript analysis for security researchers
 - [gitbenxing/anti-content](https://github.com/gitbenxing/anti-content) - 拼多多 Anti-Content加密 拼多多MCN 拼多多店群 拼多多订单采集 推广数据 财务流水
 - [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
@@ -1642,7 +1643,6 @@
 
 ## Vue 
 
-- [Kylsky/chatgpt-team-helper](https://github.com/Kylsky/chatgpt-team-helper) - 一站式Team账号管理
 - [dianprata/nuxt-shadcn-dashboard](https://github.com/dianprata/nuxt-shadcn-dashboard) - Template Dashboard with Nuxt 4 + Shadcn + TailwindCSS 4
 - [hooray/fantastic-startkit](https://github.com/hooray/fantastic-startkit) - 一款简单好用的 Vue 项目启动套件，基于 Vue3 & Vite ，采用 Monorepo 架构
 - [lhlyu/vue-virtual-waterfall](https://github.com/lhlyu/vue-virtual-waterfall) - vue3 virtual waterfall component（Vue3虚拟瀑布流组件）
