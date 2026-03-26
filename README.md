@@ -1004,6 +1004,7 @@
 
 ## JavaScript 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [dataease/SQLBot](https://github.com/dataease/SQLBot) - 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.
 - [4ier/neo](https://github.com/4ier/neo) - Turn any web app into an API. Chrome extension captures browser traffic, auto-generates schemas, lets AI replay APIs directly. No official API needed.
 - [Theproudcold/tarot-web](https://github.com/Theproudcold/tarot-web) - 
