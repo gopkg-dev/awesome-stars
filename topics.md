@@ -891,6 +891,7 @@
 
 ## docker 
 
+- [ccbkkb/MicroWARP](https://github.com/ccbkkb/MicroWARP) - 🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker
 - [touwaeriol/sub2apipay](https://github.com/touwaeriol/sub2apipay) - Sub2API 自托管充值支付网关 — EasyPay 易支付聚合、支付宝官方、微信官方、Stripe 四渠道支付，自动到账 | Self-hosted payment gateway for Sub2API — EasyPay, Alipay, WeChat Pay & Stripe with auto balance credit
 - [aldor007/mort](https://github.com/aldor007/mort) - Storage and image processing server written in Go
 - [HisMax/RedInk](https://github.com/HisMax/RedInk) - Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
@@ -1895,6 +1896,7 @@
 
 ## ios 
 
+- [blitzdotdev/blitz-mac](https://github.com/blitzdotdev/blitz-mac) - Native macOS App Store Connect tool with MCP. Submit iOS apps to App Store with AI agents
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [topfreegames/pitaya](https://github.com/topfreegames/pitaya) - Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.
@@ -2475,8 +2477,8 @@
 
 ## others 
 
+- [ryfineZ/codex-session-patcher](https://github.com/ryfineZ/codex-session-patcher) - A lightweight Python tool to clean AI refusal responses from Codex CLI session files
 - [WuXieXie/AiTaoist](https://github.com/WuXieXie/AiTaoist) - Ai道士 针对八字测算进行了深度优化
-- [blitzdotdev/blitz-mac](https://github.com/blitzdotdev/blitz-mac) - Blitz mac app
 - [m1heng/claude-plugin-weixin](https://github.com/m1heng/claude-plugin-weixin) - 
 - [wong2/weixin-agent-sdk](https://github.com/wong2/weixin-agent-sdk) - 微信Clawbot接入任意Agent
 - [snail007/macstate](https://github.com/snail007/macstate) - Lightweight macOS menu bar system monitor — CPU usage, CPU temperature, memory, fan speed, network speed. 轻量级 macOS 菜单栏系统监控 — CPU使用率、CPU温度、内存占用、风扇转速、网络速度。
