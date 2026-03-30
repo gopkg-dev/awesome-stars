@@ -1088,7 +1088,6 @@
 - [devsapp/start-puppeteer](https://github.com/devsapp/start-puppeteer) - 快速部署puppeteer到阿里云函数计算，支持nodejs12和custom container
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
 - [emn178/js-sha256](https://github.com/emn178/js-sha256) - A simple SHA-256 / SHA-224 hash function for JavaScript supports UTF-8 encoding.
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [tholian-network/stealth](https://github.com/tholian-network/stealth) - :rocket: Stealth - Secure, Peer-to-Peer, Private and Automateable Web Browser/Scraper/Proxy
 - [vishnuraghavb/EnBizCard](https://github.com/vishnuraghavb/EnBizCard) - EnBizCard helps you create interactive and responsive HTML-based digital business cards that can be hosted with your website.
 - [deepsyx/simple-headless-browser-serverless](https://github.com/deepsyx/simple-headless-browser-serverless) - Simple example of how to use Chrome as headless browser on AWS lambda
@@ -1298,6 +1297,8 @@
 
 ## Python 
 
+- [zc-zhangchen/any-auto-register](https://github.com/zc-zhangchen/any-auto-register) - 
+- [kaima2022/ABCard](https://github.com/kaima2022/ABCard) - 
 - [XiaomingX/openai-captcha-detection](https://github.com/XiaomingX/openai-captcha-detection) - openai-captcha-detection 是一个使用 OpenAI 进行验证码识别的工具。目前验证码识别准确率100%，通过调用 OpenAI 的 API，这个项目可以实现对复杂验证码图片的文本识别，帮助开发者在验证码处理场景中进行自动化操作。openai-captcha-detection is a tool that uses OpenAI for captcha recognitio
 - [chenwei-zhao/captcha-recognizer](https://github.com/chenwei-zhao/captcha-recognizer) - 单缺口/多缺口滑块验证码识别，pip安装使用, 可本地/服务器部署API，点击下方链接在线体验 ⬇⬇⬇
 - [ryfineZ/codex-session-patcher](https://github.com/ryfineZ/codex-session-patcher) - A lightweight Python tool to clean AI refusal responses from Codex CLI session files
@@ -1341,7 +1342,7 @@
 - [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - Python APNs and iMessage client
 - [awesome-fc/code-example](https://github.com/awesome-fc/code-example) - 
 - [shimmeris/SCFProxy](https://github.com/shimmeris/SCFProxy) - A proxy tool based on cloud function.
-- [dstackai/dstack](https://github.com/dstackai/dstack) - dstack is an open-source control plane for running development, training, and inference jobs on GPUs—across hyperscalers, neoclouds, or on-prem.
+- [dstackai/dstack](https://github.com/dstackai/dstack) - Control plane for agents and engineers to provision compute and run training and inference across NVIDIA, AMD, TPU, and Tenstorrent GPUs—on clouds, Kubernetes, and bare-metal clusters.
 - [dqzg12300/fridaUiTools](https://github.com/dqzg12300/fridaUiTools) - frida工具的缝合怪
 - [borys25ol/amazon-location-cookies-service](https://github.com/borys25ol/amazon-location-cookies-service) - Service for extracting Amazon location cookies based on Amazon Zip-Code
 - [LingHanChuJian/amazon_review](https://github.com/LingHanChuJian/amazon_review) - 爬取 amazon个人主页指定评论
@@ -1632,6 +1633,7 @@
 - [Y-GM/Metadata1](https://github.com/Y-GM/Metadata1) - 
 - [IdekDude/Metadata1](https://github.com/IdekDude/Metadata1) - 
 - [saucesteals/metadata1](https://github.com/saucesteals/metadata1) - Template for metadata1 generators
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [alixaxel/chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda) - Chromium Binary for AWS Lambda and Google Cloud Functions
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [thunur/vue-naive-ui-admin](https://github.com/thunur/vue-naive-ui-admin) - Aso.design 是一个基于 Vue3、Vite、Naive UI、TypeScript 的免费中后台模版，它使用了最新的前端技术栈，封装了一些常用组件和展示用例，开箱即用的中后台前端解决方案，gin后端开发中
