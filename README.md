@@ -1011,7 +1011,7 @@
 - [dataease/SQLBot](https://github.com/dataease/SQLBot) - 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.
 - [4ier/neo](https://github.com/4ier/neo) - Turn any web app into an API. Chrome extension captures browser traffic, auto-generates schemas, lets AI replay APIs directly. No official API needed.
 - [Theproudcold/tarot-web](https://github.com/Theproudcold/tarot-web) - 
-- [libaxuan/cursor2api-go](https://github.com/libaxuan/cursor2api-go) - Free claude-sonnet-4.6  | cursor不倒我不倒🙏 ❌
+- [libaxuan/cursor2api-go](https://github.com/libaxuan/cursor2api-go) - Free gemini-3-flash  | cursor不倒我不倒🙏 ❌
 - [yincongcyincong/wechat_chatter](https://github.com/yincongcyincong/wechat_chatter) - 微信(wechat hook macos) mac 收发消息逆向
 - [Kylsky/chatgpt-team-helper](https://github.com/Kylsky/chatgpt-team-helper) - 一站式Team账号管理
 - [francisconeves97/jxscout](https://github.com/francisconeves97/jxscout) - jxscout superpowers JavaScript analysis for security researchers
@@ -1089,6 +1089,7 @@
 - [devsapp/start-puppeteer](https://github.com/devsapp/start-puppeteer) - 快速部署puppeteer到阿里云函数计算，支持nodejs12和custom container
 - [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
 - [emn178/js-sha256](https://github.com/emn178/js-sha256) - A simple SHA-256 / SHA-224 hash function for JavaScript supports UTF-8 encoding.
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [tholian-network/stealth](https://github.com/tholian-network/stealth) - :rocket: Stealth - Secure, Peer-to-Peer, Private and Automateable Web Browser/Scraper/Proxy
 - [vishnuraghavb/EnBizCard](https://github.com/vishnuraghavb/EnBizCard) - EnBizCard helps you create interactive and responsive HTML-based digital business cards that can be hosted with your website.
 - [deepsyx/simple-headless-browser-serverless](https://github.com/deepsyx/simple-headless-browser-serverless) - Simple example of how to use Chrome as headless browser on AWS lambda
@@ -1439,6 +1440,7 @@
 
 ## Swift 
 
+- [lizhelang/codexbar](https://github.com/lizhelang/codexbar) - macOS menu bar app for switching Codex providers and accounts without breaking shared session history
 - [QuentinHsu/cat-bar](https://github.com/QuentinHsu/cat-bar) - 基于 SwiftUI + AppKit 构建、由 mihomo 驱动的原生 macOS 菜单栏代理客户端，专注轻量、稳定与可观测。
 - [blitzdotdev/blitz-mac](https://github.com/blitzdotdev/blitz-mac) - Native macOS App Store Connect tool with MCP. Submit iOS apps to App Store with AI agents
 - [snail007/macstate](https://github.com/snail007/macstate) - Lightweight macOS menu bar system monitor — CPU usage, CPU temperature, memory, fan speed, network speed. 轻量级 macOS 菜单栏系统监控 — CPU使用率、CPU温度、内存占用、风扇转速、网络速度。
@@ -1490,6 +1492,7 @@
 
 ## TypeScript 
 
+- [kongkongyo/Cli-Proxy-API-Management-Center](https://github.com/kongkongyo/Cli-Proxy-API-Management-Center) - This is a WebUI interface based on CLI-Proxy-API, designed to simplify configuration modifications and runtime status monitoring.
 - [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 - [paoloanzn/free-code](https://github.com/paoloanzn/free-code) - [NOTE] Parent repo is migrating ownership, until the operation is done this repo is blocked. The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental
 - [callstackincubator/agent-device](https://github.com/callstackincubator/agent-device) - CLI to control iOS and Android devices for AI agents
@@ -1642,7 +1645,6 @@
 - [Y-GM/Metadata1](https://github.com/Y-GM/Metadata1) - 
 - [IdekDude/Metadata1](https://github.com/IdekDude/Metadata1) - 
 - [saucesteals/metadata1](https://github.com/saucesteals/metadata1) - Template for metadata1 generators
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [alixaxel/chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda) - Chromium Binary for AWS Lambda and Google Cloud Functions
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [thunur/vue-naive-ui-admin](https://github.com/thunur/vue-naive-ui-admin) - Aso.design 是一个基于 Vue3、Vite、Naive UI、TypeScript 的免费中后台模版，它使用了最新的前端技术栈，封装了一些常用组件和展示用例，开箱即用的中后台前端解决方案，gin后端开发中
