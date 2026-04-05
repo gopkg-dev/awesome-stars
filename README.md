@@ -1440,8 +1440,9 @@
 
 ## Swift 
 
+- [KeepCoolCH/DockAMP](https://github.com/KeepCoolCH/DockAMP) - DockAMP is a macOS app to manage webserver/PHP/database-containers in Docker
 - [lizhelang/codexbar](https://github.com/lizhelang/codexbar) - macOS menu bar app for switching Codex providers and accounts without breaking shared session history
-- [QuentinHsu/cat-bar](https://github.com/QuentinHsu/cat-bar) - 基于 SwiftUI + AppKit 构建、由 mihomo 驱动的原生 macOS 菜单栏代理客户端，专注轻量、稳定与可观测。
+- [QuentinHsu/cat-bar](https://github.com/QuentinHsu/cat-bar) - 专为 macOS 打造的 mihomo 菜单栏控制面板，聚合节点、规则、连接、日志与核心管理能力。
 - [blitzdotdev/blitz-mac](https://github.com/blitzdotdev/blitz-mac) - Native macOS App Store Connect tool with MCP. Submit iOS apps to App Store with AI agents
 - [snail007/macstate](https://github.com/snail007/macstate) - Lightweight macOS menu bar system monitor — CPU usage, CPU temperature, memory, fan speed, network speed. 轻量级 macOS 菜单栏系统监控 — CPU使用率、CPU温度、内存占用、风扇转速、网络速度。
 - [AlickH/Copool](https://github.com/AlickH/Copool) - Copool is a macOS SwiftUI app for Codex/ChatGPT account switching and API proxy management｜Copool 是一个用于 Codex/ChatGPT 账号切换与 API 代理管理的 macOS SwiftUI 应用
