@@ -924,7 +924,6 @@
 
 ## HTML 
 
-- [Sitoi/ClashBar](https://github.com/Sitoi/ClashBar) - 基于 SwiftUI + AppKit 构建、由 mihomo 驱动的原生 macOS 菜单栏代理客户端，专注轻量、稳定与可观测。
 - [liangdabiao/amazon-sorftime-research-MCP-skill](https://github.com/liangdabiao/amazon-sorftime-research-MCP-skill) - 亚马逊选品 之 Listing全维度穿透分析报告  加上 全品类分析 ，关键词分析，差评分析 ，市场调研 等等。OpenClaw /claude code agent skill, amazon sorftime research MCP 智能体skill.基于 Sorftime MCP 服务和 Claude Skills 的亚马逊竞品分析工具集。
 - [missuo/discord-image](https://github.com/missuo/discord-image) - Powerful Discord image hosting, file sharing
 - [jywarren/webgl-distort](https://github.com/jywarren/webgl-distort) - A demo project for perspective transformations on a given image at full resolution
@@ -1302,9 +1301,7 @@
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [zc-zhangchen/any-auto-register](https://github.com/zc-zhangchen/any-auto-register) - 
 - [kaima2022/ABCard](https://github.com/kaima2022/ABCard) - 
-- [XiaomingX/openai-captcha-detection](https://github.com/XiaomingX/openai-captcha-detection) - openai-captcha-detection 是一个使用 OpenAI 进行验证码识别的工具。目前验证码识别准确率100%，通过调用 OpenAI 的 API，这个项目可以实现对复杂验证码图片的文本识别，帮助开发者在验证码处理场景中进行自动化操作。openai-captcha-detection is a tool that uses OpenAI for captcha recognitio
 - [chenwei-zhao/captcha-recognizer](https://github.com/chenwei-zhao/captcha-recognizer) - 单缺口/多缺口滑块验证码识别，pip安装使用, 可本地/服务器部署API，点击下方链接在线体验 ⬇⬇⬇
-- [ryfineZ/codex-session-patcher](https://github.com/ryfineZ/codex-session-patcher) - A lightweight Python tool to clean AI refusal responses from Codex CLI session files
 - [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) - Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more
 - [loLollipop/team-manage-refresh](https://github.com/loLollipop/team-manage-refresh) - 基于 team-manage 增强的团队账号管理系统，集成了一键 Token 提取、CPA 凭证导出、Token 自动刷新与福利车位分发等实用功能。
 - [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus) - Outlookmail Plus: Designed Specifically for Registration  |  Outlookmail Plus：专为注册而生  |
@@ -1440,9 +1437,7 @@
 
 ## Swift 
 
-- [KeepCoolCH/DockAMP](https://github.com/KeepCoolCH/DockAMP) - DockAMP is a macOS app to manage webserver/PHP/database-containers in Docker
 - [lizhelang/codexbar](https://github.com/lizhelang/codexbar) - macOS menu bar app for switching Codex providers and accounts without breaking shared session history
-- [QuentinHsu/cat-bar](https://github.com/QuentinHsu/cat-bar) - 专为 macOS 打造的 mihomo 菜单栏控制面板，聚合节点、规则、连接、日志与核心管理能力。
 - [blitzdotdev/blitz-mac](https://github.com/blitzdotdev/blitz-mac) - Native macOS App Store Connect tool with MCP. Submit iOS apps to App Store with AI agents
 - [snail007/macstate](https://github.com/snail007/macstate) - Lightweight macOS menu bar system monitor — CPU usage, CPU temperature, memory, fan speed, network speed. 轻量级 macOS 菜单栏系统监控 — CPU使用率、CPU温度、内存占用、风扇转速、网络速度。
 - [AlickH/Copool](https://github.com/AlickH/Copool) - Copool is a macOS SwiftUI app for Codex/ChatGPT account switching and API proxy management｜Copool 是一个用于 Codex/ChatGPT 账号切换与 API 代理管理的 macOS SwiftUI 应用
@@ -1493,8 +1488,6 @@
 
 ## TypeScript 
 
-- [kongkongyo/Cli-Proxy-API-Management-Center](https://github.com/kongkongyo/Cli-Proxy-API-Management-Center) - This is a WebUI interface based on CLI-Proxy-API, designed to simplify configuration modifications and runtime status monitoring.
-- [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 - [paoloanzn/free-code](https://github.com/paoloanzn/free-code) - [NOTE] Parent repo is migrating ownership, until the operation is done this repo is blocked. The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental
 - [callstackincubator/agent-device](https://github.com/callstackincubator/agent-device) - CLI to control iOS and Android devices for AI agents
 - [appium/appium-xcuitest-driver](https://github.com/appium/appium-xcuitest-driver) - Appium iOS driver, backed by Apple XCTest
