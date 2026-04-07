@@ -39,6 +39,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [clash](#clash)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [cloud](#cloud)
 - [cms](#cms)
@@ -257,7 +258,7 @@
 - [telanflow/mps](https://github.com/telanflow/mps) - MPS is a high-performance HTTP(S) proxy library that supports forward proxies, reverse proxies, man-in-the-middle proxies, tunnel proxies, Websocket proxies. MPS 是一个高性能HTTP(s)中间代理库，它支持正向代理、反向代理、中间人代理、
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one click.
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is a single-binary runtime to build and run autonomous agents — no Python, no Node.js, just define the role.
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face 
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 
 ## ai 
@@ -624,6 +625,15 @@
 
 - [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 - [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Cl
+
+## claude-code 
+
+- [nexu-io/nexu](https://github.com/nexu-io/nexu) - The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 
+- [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) - Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more
+- [ding113/claude-code-hub](https://github.com/ding113/claude-code-hub) - 一个现代化的 Claude Code & Codex API 代理服务，提供智能负载均衡、用户管理和使用统计功能。
+- [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
+- [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - 一站式管理 New API 兼容中转站账号：余额/用量看板、自动签到、密钥一键导出到常用应用、网页内 API 可用性测试、渠道与模型同步/重定向 | New‑API relay manager: balance/usage, auto check‑in, one‑click key export to popular clients, in‑page API checks, channel/mod
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 
 ## cli 
 
@@ -2272,7 +2282,7 @@
 - [go-nunu/nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications.
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
 - [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android native library, and an experimental  iOS emulation
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face 
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
@@ -2527,7 +2537,6 @@
 - [tanweai/wooyun-legacy](https://github.com/tanweai/wooyun-legacy) - wooyun-legacy skill for claude code
 - [wjn6/GongXi-Mail](https://github.com/wjn6/GongXi-Mail) - 一站式 Outlook 邮箱池管理解决方案，专为自动化场景打造
 - [huangzijian888/GeekFaka](https://github.com/huangzijian888/GeekFaka) - GeekFaka 是一个专为独立开发者和创作者打造的 Headless 自动发卡系统。基于 Next.js + React 18 + Prisma 构建，拥有极致的深色极客   UI、Markdown 渲染、多渠道易支付（RSA/MD5）集成以及 Docker 一键部署能力。抛弃繁琐，让数字商品售卖回归简单与优雅。
-- [ding113/claude-code-hub](https://github.com/ding113/claude-code-hub) - 一个现代化的 Claude Code & Codex API 代理服务，提供智能负载均衡、用户管理和使用统计功能。
 - [wquguru/nof0](https://github.com/wquguru/nof0) - NOF0 - 开源的 AI 交易竞技场
 - [ixugo/nsqite](https://github.com/ixugo/nsqite) - Simple and reliable background jobs in Go，EventBus，事件总线，事务消息队列，后台任务，支持 sqlite,postgres,gorm 做持久化存储。
 - [SaladTechnologies/comfyui-api](https://github.com/SaladTechnologies/comfyui-api) - A simple API server to make ComfyUI easy to scale horizontally. Get outputs directly in the response, or asynchronously via a variety of storage providers.
