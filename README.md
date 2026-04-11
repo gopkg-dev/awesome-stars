@@ -714,7 +714,6 @@
 - [hadihammurabi/go-app](https://github.com/hadihammurabi/go-app) - Configurable full feature web service project structure for Go
 - [CodeLieutenant/GoFiber-Template](https://github.com/CodeLieutenant/GoFiber-Template) - :rocket: Go Fiber App Starter Kit
 - [thomasvvugt/fiber-boilerplate](https://github.com/thomasvvugt/fiber-boilerplate) - A boilerplate for the Fiber web framework
-- [0x6675/go-template](https://github.com/0x6675/go-template) - Learn Go
 - [Harry-027/go-notify](https://github.com/Harry-027/go-notify) - An email automation solution, written in Golang.
 - [ansrivas/fiberprometheus](https://github.com/ansrivas/fiberprometheus) - prometheus middleware for Fiber
 - [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
