@@ -286,7 +286,7 @@
 - [cloudwego/eino](https://github.com/cloudwego/eino) - The ultimate LLM/AI application development framework in Go.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
-- [firerpa/lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation of mobile automation robots.
+- [firerpa/lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation mobile automation.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
 - [wkylin/pro-react-admin](https://github.com/wkylin/pro-react-admin) - 一款基于 React v19 的高性能、企业级中后台前端解决方案...
@@ -346,7 +346,7 @@
 - [topfreegames/pitaya](https://github.com/topfreegames/pitaya) - Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.
 - [nicolastinkl/UUVPN](https://github.com/nicolastinkl/UUVPN) - 基于原生组件开发的VPN客户端(ios/android)，自主设计，精美UI,优化VPN速度，完全开源。
 - [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
-- [firerpa/lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation of mobile automation robots.
+- [firerpa/lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation mobile automation.
 - [simplezhli/flutter_deer](https://github.com/simplezhli/flutter_deer) - 🦌 Flutter 练习项目(包括集成测试、可访问性测试)。内含完整UI设计图，更贴近真实项目的练习。Flutter practice project (including integration testing and accessibility testing). Contains complete UI design drawings for a more realistic practic
 - [deathmemory/FridaContainer](https://github.com/deathmemory/FridaContainer) - FridaContainer 整合了网上流行的和自己编写的常用的 frida 脚本，为逆向工作提效之用。 frida 脚本模块化，Java & Jni Trace。
 - [sail-tunnel/sail](https://github.com/sail-tunnel/sail) - A flutter demo client application for v2board.
@@ -443,7 +443,7 @@
 - [spider-rs/spider](https://github.com/spider-rs/spider) - Web crawler and scraper for Rust
 - [BrowTo/BrowTo](https://github.com/BrowTo/BrowTo) - 指纹猎手（BrowTo：Browser和Auto的融合）是一款在常见指纹浏览器以及谷歌浏览器上全自动运行脚本的效率提升助手，是自动化浏览器的终极武器。
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主
-- [firerpa/lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation of mobile automation robots.
+- [firerpa/lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation mobile automation.
 - [mycontroller-org/server](https://github.com/mycontroller-org/server) - MyController 2.x server
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
@@ -2281,7 +2281,7 @@
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
-- [firerpa/lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation of mobile automation robots.
+- [firerpa/lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation mobile automation.
 - [go-nunu/nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications.
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
 - [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android native library, and an experimental  iOS emulation
@@ -2498,6 +2498,10 @@
 
 ## others 
 
+- [Amery2010/peinture](https://github.com/Amery2010/peinture) - A general-purpose AI image generation framework that supports Hugging Face, Gitee, Model Scope, and more.
+- [Amery2010/imagine-server](https://github.com/Amery2010/imagine-server) - Unified AI Image Generation API with multi-provider support (Hugging Face, Gitee AI, ModelScope).
+- [HsukqiLee/MediaUnlockTest](https://github.com/HsukqiLee/MediaUnlockTest) - MediaUnlockTest with golang
+- [Wangnov/codex-patch](https://github.com/Wangnov/codex-patch) - Private Codex patch mirror with agentic replay automation
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [leookun/cursor-byok-server](https://github.com/leookun/cursor-byok-server) - Cursor Public Custom API, Public Tab, No Pro Custom API Service Endpoints
 - [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
@@ -3220,7 +3224,7 @@
 
 ## pentesting 
 
-- [firerpa/lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation of mobile automation robots.
+- [firerpa/lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation mobile automation.
 
 ## php 
 
@@ -3441,7 +3445,7 @@
 ## reverse-engineering 
 
 - [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
-- [firerpa/lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation of mobile automation robots.
+- [firerpa/lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation mobile automation.
 - [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - Python APNs and iMessage client
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [saferwall/pe](https://github.com/saferwall/pe) - A :zap: lightweight Go package to parse, analyze and extract metadata from Portable Executable (PE) binaries. Designed for malware analysis tasks and robust against PE malformations.
@@ -3499,7 +3503,7 @@
 
 - [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) - Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
-- [firerpa/lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation of mobile automation robots.
+- [firerpa/lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation mobile automation.
 - [yaklang/yaklang](https://github.com/yaklang/yaklang) - A programming language exclusively designed for cybersecurity
 - [wenlng/go-captcha](https://github.com/wenlng/go-captcha) - 🖖 GoCaptcha: A high-performance, interactive behavior captcha library for Go. Supporting click, slide, drag-drop, and rotation modes to secure your applications with ease.
 - [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
