@@ -273,6 +273,7 @@
 - [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) - ValueCell is a community-driven, multi-agent platform for financial applications.
 - [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys.
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
+- [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - 一站式管理 New API 兼容中转站账号：余额/用量看板、自动签到、密钥一键导出到常用应用、网页内 API 可用性测试、渠道与模型同步/重定向 | New‑API relay manager: balance/usage, auto check‑in, one‑click key export to popular clients, in‑page API checks, channel/mod
 - [monkeyWie/typix](https://github.com/monkeyWie/typix) - 开源AI生图工具，免登录畅玩 FLUX2、SDXL，支持 cloudflare workers 一键部署自托管，并集成各大主流AI提供商，提供一站式的创作体验。
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [hanshuaikang/AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。
@@ -1426,7 +1427,7 @@
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
 - [shen100/wemall](https://github.com/shen100/wemall) - 基于react, node.js, go开发的微商城（含微信小程序）
-- [ixre/go2o](https://github.com/ixre/go2o) - 基于DDD的o2o的业务模型及基础, 使用Golang+gRPC/Thrift实现
+- [ixre/go2o](https://github.com/ixre/go2o) - 基于DDD的o2o的业务模型及基础, 使用Golang+gRPC实现
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [polaris1119/The-Golang-Standard-Library-by-Example](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) - Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。
@@ -2168,6 +2169,7 @@
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face
 
 ## login 
 
@@ -2498,6 +2500,8 @@
 
 ## others 
 
+- [QLHazyCoder/codex-oauth-automation-extension](https://github.com/QLHazyCoder/codex-oauth-automation-extension) - Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复
+- [idawnlight/ShichiZip](https://github.com/idawnlight/ShichiZip) - The 7-Zip derivative intended for macOS
 - [Amery2010/peinture](https://github.com/Amery2010/peinture) - A general-purpose AI image generation framework that supports Hugging Face, Gitee, Model Scope, and more.
 - [Amery2010/imagine-server](https://github.com/Amery2010/imagine-server) - Unified AI Image Generation API with multi-provider support (Hugging Face, Gitee AI, ModelScope).
 - [HsukqiLee/MediaUnlockTest](https://github.com/HsukqiLee/MediaUnlockTest) - MediaUnlockTest with golang
@@ -3812,7 +3816,7 @@
 - [ahaodev/shadmin](https://github.com/ahaodev/shadmin) - An Enterprise-Grade Full-Stack RBAC Permission Management System Built with Go + React
 - [berbicanes/apiark](https://github.com/berbicanes/apiark) - Privacy-first API platform built with Tauri v2. No login, no cloud, ~60 MB RAM. A lightweight Postman alternative.
 - [dianprata/nuxt-shadcn-dashboard](https://github.com/dianprata/nuxt-shadcn-dashboard) - Template Dashboard with Nuxt 4 + Shadcn + TailwindCSS 4
-- [hooray/fantastic-startkit](https://github.com/hooray/fantastic-startkit) - 一款简单好用的 Vue 项目启动套件，基于 Vue3 & Vite ，采用 Monorepo 架构
+- [hooray/fantastic-startkit](https://github.com/hooray/fantastic-startkit) - 简单好用的 Vue3 项目启动套件，采用 Monorepo 架构
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 - [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) - Build cross-browser extensions with native HMR and zero-config setup
 - [IGoRFonin/chrome-proxy-extension](https://github.com/IGoRFonin/chrome-proxy-extension) - 🌐 Умный менеджер прокси для Chrome с автоматической маршрутизацией по доменам. Разные сайты — разные прокси. Никаких ручных переключений!
@@ -3936,7 +3940,7 @@
 ## vue 
 
 - [HisMax/RedInk](https://github.com/HisMax/RedInk) - Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
-- [hooray/fantastic-startkit](https://github.com/hooray/fantastic-startkit) - 一款简单好用的 Vue 项目启动套件，基于 Vue3 & Vite ，采用 Monorepo 架构
+- [hooray/fantastic-startkit](https://github.com/hooray/fantastic-startkit) - 简单好用的 Vue3 项目启动套件，采用 Monorepo 架构
 - [lhlyu/vue-virtual-waterfall](https://github.com/lhlyu/vue-virtual-waterfall) - vue3 virtual waterfall component（Vue3虚拟瀑布流组件）
 - [alibaba/formily](https://github.com/alibaba/formily) - 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
 - [veops/oneterm](https://github.com/veops/oneterm) - Provide secure access and control over all infrastructure
