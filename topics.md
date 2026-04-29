@@ -33,6 +33,7 @@
 - [bugbounty](#bugbounty)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [c-sharp](#c-sharp)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
@@ -559,6 +560,13 @@
 - [Jamol/kuma](https://github.com/Jamol/kuma) - A network library implemented in C++, supports TCP/UDP/HTTP/HTTP2/WebSocket/SSL on platform Linux/Windows/OSX/iOS/Android.
 - [libcpr/cpr](https://github.com/libcpr/cpr) - C++ Requests: Curl for People, a spiritual port of Python Requests.
 
+## c-sharp 
+
+- [jstedfast/MailKit](https://github.com/jstedfast/MailKit) - A cross-platform .NET library for IMAP, POP3, and SMTP.
+- [dotpcap/sharppcap](https://github.com/dotpcap/sharppcap) - Official repository - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets
+- [silentorbit/protobuf](https://github.com/silentorbit/protobuf) - C# code generator for reading and writing the protocol buffers format
+- [quasar/Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
+
 ## chatbot 
 
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
@@ -629,7 +637,7 @@
 ## clash 
 
 - [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
-- [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Cl
+- [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 增强版，支持自由定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP for V2Ray, Xray-core, sing-box, Clash, mihom
 
 ## claude-code 
 
@@ -3145,7 +3153,6 @@
 - [LifeActor/ykdl](https://github.com/LifeActor/ykdl) - a video downloader focus on China mainland video sites.(一款专注于中国大陆视频网站的视频下载器。)
 - [ZSAIm/iqiyi-parser](https://github.com/ZSAIm/iqiyi-parser) - 解析下载爱奇艺、哔哩哔哩、腾讯视频
 - [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) - This repo contains samples that demonstrate the API used in Windows classic desktop applications.
-- [jstedfast/MailKit](https://github.com/jstedfast/MailKit) - A cross-platform .NET library for IMAP, POP3, and SMTP.
 - [RelicOfTesla/white-moon](https://github.com/RelicOfTesla/white-moon) - 易语言 白月工程
 - [BlzFans/wke](https://github.com/BlzFans/wke) - 3D Web UI. Web and Flash Embedded in 3D games, based on WebKit
 - [gxlmyacc/sciter-doc-zh](https://github.com/gxlmyacc/sciter-doc-zh) - sciter中文帮助手册
@@ -3195,7 +3202,6 @@
 - [lpcdma/lua_dump](https://github.com/lpcdma/lua_dump) - hook luaL_loadbuffer dump lua files.You need to choose the loading method you like, inject or path elf.
 - [pingfangx/TranslatorX](https://github.com/pingfangx/TranslatorX) - JetBrains 系列软件汉化包 关键字: Android Studio 3.5 汉化包 CLion 2019.3 汉化包 DataGrip 2019.3 汉化包 GoLand 2019.3 汉化包 IntelliJ IDEA 2019.3 汉化包 PhpStorm 2019.3 汉化包 PyCharm 2019.3 汉化包 Rider 2019.3 汉化包 RubyMine 2019.3 汉化
 - [jhunters/jprotobuf](https://github.com/jhunters/jprotobuf) - A useful utility library for java programmer using google protobuf
-- [silentorbit/protobuf](https://github.com/silentorbit/protobuf) - C# code generator for reading and writing the protocol buffers format
 - [fooree/fooXposed](https://github.com/fooree/fooXposed) - Xposed tutorial demos
 - [mixer/interactive-unreal-plugin](https://github.com/mixer/interactive-unreal-plugin) - 
 - [google/flatui](https://github.com/google/flatui) - Efficient Immediate Mode UI for Games
@@ -3947,7 +3953,7 @@
 - [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 - [roosterkid/openproxylist](https://github.com/roosterkid/openproxylist) - List of Free HTTPS, SOCKS4, SOCKS5 & V2Ray Proxy (Hourly Updates!)
 - [dnomd343/XProxy](https://github.com/dnomd343/XProxy) - 虚拟旁路由网关，支持内网设备IPv4与IPv6双栈透明代理
-- [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Cl
+- [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 增强版，支持自由定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP for V2Ray, Xray-core, sing-box, Clash, mihom
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [sail-tunnel/sail](https://github.com/sail-tunnel/sail) - A flutter demo client application for v2board.
 - [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
