@@ -1460,6 +1460,7 @@
 
 ## Swift 
 
+- [riddleling/iOS-OCR-Server](https://github.com/riddleling/iOS-OCR-Server) - An iOS OCR Server Using Apple’s Vision Framework
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - A native database client for developers who use one every day.
 - [indragiek/GHFS](https://github.com/indragiek/GHFS) - Mount GitHub repositories as a virtual read-only macOS filesystem
 - [sylearn/AIUsage](https://github.com/sylearn/AIUsage) - One dashboard for all your AI subscriptions — quotas, costs, accounts, and Claude Code proxy.
