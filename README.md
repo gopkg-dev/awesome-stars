@@ -259,7 +259,7 @@
 ## Go 
 
 - [kittors/CliRelay](https://github.com/kittors/CliRelay) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen m
-- [432539/gpt2api](https://github.com/432539/gpt2api) - 基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446
+- [432539/gpt2api](https://github.com/432539/gpt2api) - 基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 ·
 - [black-ant/Ant-Browser](https://github.com/black-ant/Ant-Browser) - 指纹浏览器
 - [burpheart/cursor-tap](https://github.com/burpheart/cursor-tap) - Cursor gRPC 通信流量分析工具
 - [HsukqiLee/MediaUnlockTest](https://github.com/HsukqiLee/MediaUnlockTest) - MediaUnlockTest with golang
@@ -1638,7 +1638,7 @@
 - [LeafYeeXYZ/PainterLeaf](https://github.com/LeafYeeXYZ/PainterLeaf) - A free WebApp for Text2Image and Image2Text, supporting Multiple Models and both Chinese&English Prompt / 一个零成本的 AI 绘画 WebApp, 支持文生图, 图生文, 多模型, 中英双语提示词
 - [aibiansari/schnell-image-generator](https://github.com/aibiansari/schnell-image-generator) - Fast and intuitive image generator powered by Flux AI's Schnell model that brings your ideas to life in seconds.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [gitify-app/gitify](https://github.com/gitify-app/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
+- [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows & Linux.
 - [zmzimpl/chrome-power-app](https://github.com/zmzimpl/chrome-power-app) - The first open source multi-chrome manager tool.
 - [nkihrk/seek-psd](https://github.com/nkihrk/seek-psd) - SeekPSD is a viewer app for PSD. This project focusses on people practicing illustration who's trying to figure out layered PSDs created by 神絵師(Kami-eshi)
 - [fcastrovilli/spaziopat.pet](https://github.com/fcastrovilli/spaziopat.pet) - Generate a website starting from a PSD file
