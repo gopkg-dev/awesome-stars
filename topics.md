@@ -1253,7 +1253,7 @@
 - [alitto/pond](https://github.com/alitto/pond) - 🔘 Minimalistic and High-performance goroutine worker pool written in Go
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [idanfishman/fiber-bind](https://github.com/idanfishman/fiber-bind) - 🧬 Request schema validator middleware for Fiber
-- [bufanyun/hotgo](https://github.com/bufanyun/hotgo) - HotGo 是一个基于 vue 和 goframe2.0 开发的全栈前后端分离的开发基础平台和移动应用平台，集成jwt鉴权，动态路由，动态菜单，casbin鉴权，消息队列，定时任务等功能，提供多种常用场景文件，让您把更多时间专注在业务开发上。
+- [bufanyun/hotgo](https://github.com/bufanyun/hotgo) - HotGo 是AI 赋能企业级全栈前后端分离开发及移动应用基础平台，基于 Vue 和 GoFrame2.0 构建；内置 AI 开发规范、适配主流 AI 开发工具，人机协同高效开发。集成 jwt 鉴权、动态路由菜单、casbin 鉴权、消息队列、定时任务等功能，预置各类常用场景文件，助力专注业务开发。
 - [openscrm/api-server](https://github.com/openscrm/api-server) - OpenSCRM是一套基于Go和React的高质量企业微信私域流量管理系统 。遵守Apache2.0协议，全网唯一免费商用。企业微信、私域流量、SCRM。
 - [arl/statsviz](https://github.com/arl/statsviz) - Visualise Go runtime metrics in real time
 - [songquanpeng/gin-template](https://github.com/songquanpeng/gin-template) - 用于 Gin & React 项目的模板. Template for Gin & React projects.
@@ -1528,7 +1528,7 @@
 - [alitto/pond](https://github.com/alitto/pond) - 🔘 Minimalistic and High-performance goroutine worker pool written in Go
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [idanfishman/fiber-bind](https://github.com/idanfishman/fiber-bind) - 🧬 Request schema validator middleware for Fiber
-- [bufanyun/hotgo](https://github.com/bufanyun/hotgo) - HotGo 是一个基于 vue 和 goframe2.0 开发的全栈前后端分离的开发基础平台和移动应用平台，集成jwt鉴权，动态路由，动态菜单，casbin鉴权，消息队列，定时任务等功能，提供多种常用场景文件，让您把更多时间专注在业务开发上。
+- [bufanyun/hotgo](https://github.com/bufanyun/hotgo) - HotGo 是AI 赋能企业级全栈前后端分离开发及移动应用基础平台，基于 Vue 和 GoFrame2.0 构建；内置 AI 开发规范、适配主流 AI 开发工具，人机协同高效开发。集成 jwt 鉴权、动态路由菜单、casbin 鉴权、消息队列、定时任务等功能，预置各类常用场景文件，助力专注业务开发。
 - [openscrm/api-server](https://github.com/openscrm/api-server) - OpenSCRM是一套基于Go和React的高质量企业微信私域流量管理系统 。遵守Apache2.0协议，全网唯一免费商用。企业微信、私域流量、SCRM。
 - [creasty/defaults](https://github.com/creasty/defaults) - Initialize structs with default values
 - [arl/statsviz](https://github.com/arl/statsviz) - Visualise Go runtime metrics in real time
@@ -2559,6 +2559,7 @@
 
 ## others 
 
+- [daijro/geoip-all-in-one](https://github.com/daijro/geoip-all-in-one) - Merges IP2Location + GeoLite2 + DB-IP and more into a single, highly accurate mmdb. Rebuilt weekly
 - [Wtcity22/Open-Anti-Browser](https://github.com/Wtcity22/Open-Anti-Browser) - 开源的指纹浏览器应用，支持Chrome和Firefox
 - [kittors/CliRelay](https://github.com/kittors/CliRelay) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen m
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
@@ -4051,7 +4052,7 @@
 - [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
 - [zyronon/douyin](https://github.com/zyronon/douyin) - Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
 - [arklnk/ark-admin-zero](https://github.com/arklnk/ark-admin-zero) - 🚀 基于Go-Zero + Vue3 + TypeScript + Element-Plus开发的简单高效权限管理系统。 A simple and efficient permission management system based on Go-Zero + Vue3 + TypeScript + Element-Plus
-- [bufanyun/hotgo](https://github.com/bufanyun/hotgo) - HotGo 是一个基于 vue 和 goframe2.0 开发的全栈前后端分离的开发基础平台和移动应用平台，集成jwt鉴权，动态路由，动态菜单，casbin鉴权，消息队列，定时任务等功能，提供多种常用场景文件，让您把更多时间专注在业务开发上。
+- [bufanyun/hotgo](https://github.com/bufanyun/hotgo) - HotGo 是AI 赋能企业级全栈前后端分离开发及移动应用基础平台，基于 Vue 和 GoFrame2.0 构建；内置 AI 开发规范、适配主流 AI 开发工具，人机协同高效开发。集成 jwt 鉴权、动态路由菜单、casbin 鉴权、消息队列、定时任务等功能，预置各类常用场景文件，助力专注业务开发。
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux. It also provides a web version that can be deployed via Docker.
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲
 - [huanglishi/GoFlyAdmin](https://github.com/huanglishi/GoFlyAdmin) - GoFly快速开发框架基于Gin快速开发框架，能快速搭建应用、框架底层完善、丰富代码仓插件、快速开发数据大屏、物联网平台、OA流程审批、工作流引擎、商城、微信管理后台等。api文档管理并一键生成api接口代码，一键生成 CRUD前后端代码丰富组件，基于 Gin和 Vue3的Arco Design的快速后台开发框架，基于JWT接口验证和Auth验证的权限管理系统,附件管理系统，天生支持saas架构。
