@@ -179,6 +179,7 @@
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [s8sg/goflow](https://github.com/s8sg/goflow) - A Golang based high performance, scalable and distributed workflow framework
 - [jszls65/amazon_stream](https://github.com/jszls65/amazon_stream) - Amazon Marketing Stream API 订阅, 亚马逊广告小时级别数据订阅, 亚马逊订单小时级别数据订阅
+- [henices/Chrome-proxy-helper](https://github.com/henices/Chrome-proxy-helper) - Chrome PROXY extension, set proxy for Chrome browser
 - [hasinhayder/tailwind-cards](https://github.com/hasinhayder/tailwind-cards) - A growing collection of text/image cards you can use/copy-paste in your tailwind css projects
 
 ## CoffeeScript 
@@ -417,7 +418,7 @@
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [chazuka/fiber-slogger](https://github.com/chazuka/fiber-slogger) - Fiber request logger middleware using slog
 - [idanfishman/fiber-bind](https://github.com/idanfishman/fiber-bind) - 🧬 Request schema validator middleware for Fiber
-- [bufanyun/hotgo](https://github.com/bufanyun/hotgo) - HotGo 是一个基于 vue 和 goframe2.0 开发的全栈前后端分离的开发基础平台和移动应用平台，集成jwt鉴权，动态路由，动态菜单，casbin鉴权，消息队列，定时任务等功能，提供多种常用场景文件，让您把更多时间专注在业务开发上。
+- [bufanyun/hotgo](https://github.com/bufanyun/hotgo) - HotGo 是AI 赋能企业级全栈前后端分离开发及移动应用基础平台，基于 Vue 和 GoFrame2.0 构建；内置 AI 开发规范、适配主流 AI 开发工具，人机协同高效开发。集成 jwt 鉴权、动态路由菜单、casbin 鉴权、消息队列、定时任务等功能，预置各类常用场景文件，助力专注业务开发。
 - [openscrm/api-server](https://github.com/openscrm/api-server) - OpenSCRM是一套基于Go和React的高质量企业微信私域流量管理系统 。遵守Apache2.0协议，全网唯一免费商用。企业微信、私域流量、SCRM。
 - [vprix/vncproxy](https://github.com/vprix/vncproxy) - This is a VNC proxy program, fully resolved the RFB protocol, support VNC proxy, record playback video, record operations as a log file, and support log file playback.
 - [rxrddd/austin-v2](https://github.com/rxrddd/austin-v2) - 基于kratos 的聚合消息推送平台
@@ -435,6 +436,7 @@
 - [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)
 - [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
 - [runabol/tork](https://github.com/runabol/tork) - Tork is a lightweight, distributed workflow engine that runs tasks as simple scripts within Docker containers.
 - [nlnwa/whatwg-url](https://github.com/nlnwa/whatwg-url) - WHATWG conformant url parser for the Go language
@@ -942,7 +944,6 @@
 - [EtherDream/headphone-morse-transmitter](https://github.com/EtherDream/headphone-morse-transmitter) - Send Morse code via ⏮️ ⏸️ ⏯️
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
-- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)
 - [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
 - [themesberg/flowbite-admin-dashboard](https://github.com/themesberg/flowbite-admin-dashboard) - Free and open-source admin dashboard template built with Tailwind CSS and Flowbite
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
@@ -1085,7 +1086,6 @@
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [smxl/500](https://github.com/smxl/500) - Quantumult X, Loon, Stash 预配置文件: Apple News 解锁, 去广告, 分流规则, Bing AI, TikTok 解锁 Rewrite, VIP 视频解析
 - [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
-- [henices/Chrome-proxy-helper](https://github.com/henices/Chrome-proxy-helper) - Chrome PROXY extension, set proxy for Chrome browser
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
 - [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Web simulation of Ubuntu 20.04, made using NEXT.js & tailwind CSS
 - [jokamjohn/chrome-extension-token](https://github.com/jokamjohn/chrome-extension-token) - 
@@ -1309,6 +1309,7 @@
 
 ## Python 
 
+- [daijro/geoip-all-in-one](https://github.com/daijro/geoip-all-in-one) - Merges IP2Location + GeoLite2 + DB-IP and more into a single, highly accurate mmdb. Rebuilt weekly
 - [Wtcity22/Open-Anti-Browser](https://github.com/Wtcity22/Open-Anti-Browser) - 开源的指纹浏览器应用，支持Chrome和Firefox
 - [Fausto-404/js-reverse-automation--skill](https://github.com/Fausto-404/js-reverse-automation--skill) - 结合chrome-devtools-mcp的能力并加上Skill的规范，实现JSRPC+Flask+autoDecoder方案的前端JS逆向自动化分析，提升JS逆向的效率
 - [zhuyansen/wx-favorites-report](https://github.com/zhuyansen/wx-favorites-report) - 微信收藏可视化 Claude Code Skill — 从加密 DB 到交互式 HTML 报告的端到端管线
