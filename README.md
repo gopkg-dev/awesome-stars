@@ -1040,6 +1040,7 @@
 - [kt946/ai-threejs-products-app-yt-jsm](https://github.com/kt946/ai-threejs-products-app-yt-jsm) - A 3D T-Shirt website where users can design their own shirts with patterns and logos.
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
 - [PavelLaptev/warp-svg](https://github.com/PavelLaptev/warp-svg) - Warp and distort SVG files online
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [joonaspaakko/Batch-Mockup-Smart-Object-Replacement-photoshop-script](https://github.com/joonaspaakko/Batch-Mockup-Smart-Object-Replacement-photoshop-script) - Batch Mockup Smart Object Replacement - Photoshop script - A script that can batch process multiple mockup files and is able to replace multiple smart objects per mockup.
 - [mechanicious/photoshopCompositionComposer](https://github.com/mechanicious/photoshopCompositionComposer) - Automate the process of creating design compositions in Photoshop
 - [originjs/crypto-js-wasm](https://github.com/originjs/crypto-js-wasm) - An alternative to crypto-js implemented with WebAssembly and ESM
@@ -1183,7 +1184,6 @@
 
 ## MDX 
 
-- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
@@ -1421,7 +1421,7 @@
 - [lurenjia534/r-wg](https://github.com/lurenjia534/r-wg) - 
 - [zhom/donutbrowser](https://github.com/zhom/donutbrowser) - Simple Yet Powerful Anti-Detect Browser 🍩
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [Le1a/LokiPool](https://github.com/Le1a/LokiPool) - 一个使用Rust编写的SOCKS5代理池管理工具，能够自动测速、管理多个代理服务器，提供高效稳定的匿名代理服务。
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [wuqi-y/auto-cursor-releases](https://github.com/wuqi-y/auto-cursor-releases) - 源代码
@@ -1464,7 +1464,7 @@
 ## Swift 
 
 - [riddleling/iOS-OCR-Server](https://github.com/riddleling/iOS-OCR-Server) - An iOS OCR Server Using Apple’s Vision Framework
-- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - A native database client for developers who use one every day.
+- [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
 - [indragiek/GHFS](https://github.com/indragiek/GHFS) - Mount GitHub repositories as a virtual read-only macOS filesystem
 - [sylearn/AIUsage](https://github.com/sylearn/AIUsage) - One dashboard for all your AI subscriptions — quotas, costs, accounts, and Claude Code proxy.
 - [lzhgus/Capso](https://github.com/lzhgus/Capso) - Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI.
