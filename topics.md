@@ -2560,6 +2560,7 @@
 
 ## others 
 
+- [BenedictKing/ccx](https://github.com/BenedictKing/ccx) - Claude / Codex / Gemini API Proxy - CCX
 - [github/app](https://github.com/github/app) - This is the home for releases and issues for the GitHub Copilot app
 - [LAOGOU-666/Comfyui-Transform](https://github.com/LAOGOU-666/Comfyui-Transform) - The simple implementation of the recraft sticker function
 - [TeamDev-IP/MoBrowser-App-Icon-Maker](https://github.com/TeamDev-IP/MoBrowser-App-Icon-Maker) - Generate macOS app icons using AI.
