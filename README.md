@@ -258,6 +258,7 @@
 
 ## Go 
 
+- [wangyaxings/qqnotify-go](https://github.com/wangyaxings/qqnotify-go) - A production-ready Go middleware for sending AI and automation notifications to QQ.
 - [BenedictKing/ccx](https://github.com/BenedictKing/ccx) - Claude / Codex / Gemini API Proxy - CCX
 - [kittors/CliRelay](https://github.com/kittors/CliRelay) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen m
 - [432539/gpt2api](https://github.com/432539/gpt2api) - 基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · GPT-IMAGE-2 稳定 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 ·
