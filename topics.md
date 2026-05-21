@@ -258,6 +258,7 @@
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [shaxiu/XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent) - 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。
 - [WuKongIM/WuKongIM](https://github.com/WuKongIM/WuKongIM) - More than just IM 不只是即时通讯(IM)
+- [ZingerLittleBee/ServerBee](https://github.com/ZingerLittleBee/ServerBee) - Lightweight VPS monitoring with agent + server + web dashboard. Rust + React monorepo.
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [telanflow/mps](https://github.com/telanflow/mps) - MPS is a high-performance HTTP(S) proxy library that supports forward proxies, reverse proxies, man-in-the-middle proxies, tunnel proxies, Websocket proxies. MPS 是一个高性能HTTP(s)中间代理库，它支持正向代理、反向代理、中间人代理、
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
@@ -969,7 +970,7 @@
 - [guowei-gong/yuumi-movie](https://github.com/guowei-gong/yuumi-movie) - 📺  在 yuumi 真的可以追剧，基于 Kratos 微服务框架实现，采用 Kubernetes+Docker 部署。
 - [fnproject/fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
 - [kplcloud/kplcloud](https://github.com/kplcloud/kplcloud) - 基于Kubernetes的PaaS平台
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [koddr/tutorial-go-fiber-rest-api](https://github.com/koddr/tutorial-go-fiber-rest-api) - 📖 Build a RESTful API on Go: Fiber, PostgreSQL, JWT and Swagger docs in isolated Docker containers.
 - [appable-run/appy](https://github.com/appable-run/appy) - An opinionated productive web framework that helps scaling business easier.
 - [vaguecoder/Amazon-Scraper-Collector](https://github.com/vaguecoder/Amazon-Scraper-Collector) - Application to demonstrate the interaction between 2 REST APIs that are developed using Go, and basic CRUD operations on MongoDB.
@@ -1182,7 +1183,7 @@
 - [cloud-org/sample](https://github.com/cloud-org/sample) - many minimum viable demo
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [coderit666/GoGuide](https://github.com/coderit666/GoGuide) - 「Go语言学习指南」一份涵盖大部分 Golang 程序员所需要掌握的核心知识，拥有 Go语言教程、Go开源书籍、Go语言入门教程、Go语言学习路线。零基础学习 Go语言、Go编程，首选 GoGuide。
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
 ## github 
@@ -1337,7 +1338,7 @@
 - [mohae/deepcopy](https://github.com/mohae/deepcopy) - Deep copy things
 - [huandu/go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) - A flexible and powerful SQL string builder library plus a zero-config ORM.
 - [fatih/gomodifytags](https://github.com/fatih/gomodifytags) - Go tool to modify struct field tags
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [gojp/goreportcard](https://github.com/gojp/goreportcard) - A report card for your Go application
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
 - [eminetto/clean-architecture-go-v2](https://github.com/eminetto/clean-architecture-go-v2) - Clean Architecture sample
@@ -2395,6 +2396,7 @@
 - [Duke1616/ecmdb](https://github.com/Duke1616/ecmdb) - 基于 CMDB、工单系统、告警中心和分布式任务调度构建的微服务智能运维平台
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [gao-sun/eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
+- [ZingerLittleBee/ServerBee](https://github.com/ZingerLittleBee/ServerBee) - Lightweight VPS monitoring with agent + server + web dashboard. Rust + React monorepo.
 - [arl/statsviz](https://github.com/arl/statsviz) - Visualise Go runtime metrics in real time
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
@@ -2421,7 +2423,7 @@
 - [cool-team-official/cool-admin-midway](https://github.com/cool-team-official/cool-admin-midway) - 🔥 cool-admin(midway版)一个很酷的后台权限管理框架，Ai编码、流程编排、模块化、插件化、CRUD极速开发，永久开源免费，基于nodejs、typescript、typeorm、mysql、jwt、vue3、vite、element-ui等构建
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
 - [huandu/go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) - A flexible and powerful SQL string builder library plus a zero-config ORM.
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [liukelin/bubod](https://github.com/liukelin/bubod) - 基于binlog解析的 mysql/mariadb 的增量数据实时同步服务组件
 - [hidu/mysql-schema-sync](https://github.com/hidu/mysql-schema-sync) - mysql表结构自动同步工具(目前只支持字段、索引的同步，分区等高级功能暂不支持)
 - [3ks/ent-doc-zh_cn](https://github.com/3ks/ent-doc-zh_cn) - facebook 开源库 ent 文档的中文翻译
@@ -2580,7 +2582,7 @@
 - [sylearn/AIUsage](https://github.com/sylearn/AIUsage) - One dashboard for all your AI subscriptions — quotas, costs, accounts, and Claude Code proxy.
 - [hexiecs/talk-normal](https://github.com/hexiecs/talk-normal) - Make any LLM talk like a normal person. A system prompt that removes AI slop.
 - [fanbuz/codex-threads](https://github.com/fanbuz/codex-threads) - 索引、搜索和读取 Codex 历史线程
-- [QLHazyCoder/FlowPilot](https://github.com/QLHazyCoder/FlowPilot) - Chrome扩展：支持Codex(自动开通plus账号) / kiro（暂未支持）等注册、验证码获取、CPA/sub回调验证与自动恢复
+- [QLHazyCoder/FlowPilot](https://github.com/QLHazyCoder/FlowPilot) - Chrome扩展：支持Codex(自动开通plus账号) / kiro 注册、验证码获取、CPA/sub回调验证与自动恢复
 - [idawnlight/ShichiZip](https://github.com/idawnlight/ShichiZip) - The 7-Zip derivative intended for macOS
 - [Amery2010/peinture](https://github.com/Amery2010/peinture) - A general-purpose AI image generation framework that supports Hugging Face, Gitee, Model Scope, and more.
 - [Amery2010/imagine-server](https://github.com/Amery2010/imagine-server) - Unified AI Image Generation API with multi-provider support (Hugging Face, Gitee AI, ModelScope).
@@ -3335,7 +3337,7 @@
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
 - [huandu/go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) - A flexible and powerful SQL string builder library plus a zero-config ORM.
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 
 ## powershell 
@@ -3431,7 +3433,7 @@
 
 - [mycontroller-org/server](https://github.com/mycontroller-org/server) - MyController 2.x server
 - [bassmaster187/TeslaLogger](https://github.com/bassmaster187/TeslaLogger) - TeslaLogger is a self hosted data logger for your Tesla Model S/3/X/Y. Actually it supports RaspberryPi 3B, 3B+, 4B, Docker and Synology NAS.
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [openfans-community-offical/Debian-Pi-Aarch64](https://github.com/openfans-community-offical/Debian-Pi-Aarch64) - This is the first 64-bit system in the world to support all Raspberry Pi 64-bit hardware!!! (Include: PI400,4B,3B+,3B,3A+,Zero2W)
 
 ## react 
@@ -3464,6 +3466,7 @@
 - [aibiansari/schnell-image-generator](https://github.com/aibiansari/schnell-image-generator) - Fast and intuitive image generator powered by Flux AI's Schnell model that brings your ideas to life in seconds.
 - [gitify-app/gitify](https://github.com/gitify-app/gitify) - Git notifications on your menu bar. Available on macOS, Windows & Linux.
 - [donknap/dpanel](https://github.com/donknap/dpanel) - 轻量化 docker 可视化管理面板。lightweight  panel for docker
+- [ZingerLittleBee/ServerBee](https://github.com/ZingerLittleBee/ServerBee) - Lightweight VPS monitoring with agent + server + web dashboard. Rust + React monorepo.
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library, AI-friendly built-in.🎨Provide 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.🧑🏻‍💻 Design t
@@ -3573,7 +3576,7 @@
 - [spider-rs/spider](https://github.com/spider-rs/spider) - Low latency web data collector
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
-- [ZingerLittleBee/server_bee-backend](https://github.com/ZingerLittleBee/server_bee-backend) - Backend for  ServerBee
+- [ZingerLittleBee/ServerBee](https://github.com/ZingerLittleBee/ServerBee) - Lightweight VPS monitoring with agent + server + web dashboard. Rust + React monorepo.
 - [loopholelabs/scale](https://github.com/loopholelabs/scale) - A framework for building high-performance plugin systems into any application, powered by WebAssembly.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [zino-rs/zino](https://github.com/zino-rs/zino) - Spec-driven framework for composable applications in Rust.
@@ -3630,6 +3633,7 @@
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主
+- [ZingerLittleBee/ServerBee](https://github.com/ZingerLittleBee/ServerBee) - Lightweight VPS monitoring with agent + server + web dashboard. Rust + React monorepo.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
@@ -3638,7 +3642,7 @@
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [SignTools/SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sideload iOS apps without a computer
 - [taoshihan1991/goflylivechat](https://github.com/taoshihan1991/goflylivechat) - 开源在线客服系统GO语言开发GO-FLY,免费在线客服系统/GOFLY LIVE CHAT: open source self-hosted private cloud customer support live chat software by golang
 - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
@@ -3724,6 +3728,7 @@
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
 - [sjjian/openhare](https://github.com/sjjian/openhare) - AI-powered desktop SQL client. Cross-platform. Built with Flutter.
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - An Automagical Compiler to Connect AI to Your Databases
+- [ZingerLittleBee/ServerBee](https://github.com/ZingerLittleBee/ServerBee) - Lightweight VPS monitoring with agent + server + web dashboard. Rust + React monorepo.
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
@@ -3944,6 +3949,7 @@
 - [LeafYeeXYZ/PainterLeaf](https://github.com/LeafYeeXYZ/PainterLeaf) - A free WebApp for Text2Image and Image2Text, supporting Multiple Models and both Chinese&English Prompt / 一个零成本的 AI 绘画 WebApp, 支持文生图, 图生文, 多模型, 中英双语提示词
 - [nkihrk/seek-psd](https://github.com/nkihrk/seek-psd) - SeekPSD is a viewer app for PSD. This project focusses on people practicing illustration who's trying to figure out layered PSDs created by 神絵師(Kami-eshi)
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
+- [ZingerLittleBee/ServerBee](https://github.com/ZingerLittleBee/ServerBee) - Lightweight VPS monitoring with agent + server + web dashboard. Rust + React monorepo.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
