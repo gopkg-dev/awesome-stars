@@ -2562,6 +2562,7 @@
 
 ## others 
 
+- [liangdabiao/ecom-details-image](https://github.com/liangdabiao/ecom-details-image) - 一个面向 claude code / Codex / OpenClaw 的跨境电商和国内电商通用视觉创作 Skill。我精选25个高质量案例，涵盖纯色底产品主图、场景化生活图、平铺图、电商详情图、真实场景等等，全部配完整提示词，都可以利用 GPT-Image-2 API生成最终效果。一键生成电商相关图片！输入产品图片和需求描述，自动生成完整的电商主图、详情页图片、社媒推广图、直播间场景图等全套视觉
 - [wangyaxings/qqnotify-go](https://github.com/wangyaxings/qqnotify-go) - A production-ready Go middleware for sending AI and automation notifications to QQ.
 - [BenedictKing/ccx](https://github.com/BenedictKing/ccx) - Claude / Codex / Gemini API Proxy - CCX
 - [github/app](https://github.com/github/app) - This is the home for releases and issues for the GitHub Copilot app
