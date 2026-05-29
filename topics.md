@@ -302,7 +302,7 @@
 - [cloudwego/eino-ext](https://github.com/cloudwego/eino-ext) - Various extensions for the Eino framework: https://github.com/cloudwego/eino
 - [cloudwego/eino](https://github.com/cloudwego/eino) - The ultimate LLM/AI application development framework in Go.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [firerpa/lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation mobile automation.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
@@ -325,7 +325,7 @@
 - [callstackincubator/agent-device](https://github.com/callstackincubator/agent-device) - CLI to control iOS and Android devices for AI agents
 - [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) - AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具
 - [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
 
 ## ajax 
@@ -743,7 +743,7 @@
 ## crawler 
 
 - [spider-rs/spider](https://github.com/spider-rs/spider) - Low latency web data collector
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - 为你 7*24 在线搞钱的“云上牛马”团队
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 - [JSREI/crawler-js-hook-framework-public](https://github.com/JSREI/crawler-js-hook-framework-public) - JS逆向Hook工具集，开源部分工具到这里
@@ -2214,7 +2214,7 @@
 - [shaxiu/XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent) - 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。
 - [nexmoe/serverless-comfyui](https://github.com/nexmoe/serverless-comfyui) - 一个基于 Docker 的 ComfyUI 弹性 Serverless 应用，提供完整的前后端分离架构和用户友好的界面。
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, 
@@ -2321,7 +2321,7 @@
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [youlu-cn/grpc-gen](https://github.com/youlu-cn/grpc-gen) - grpc gen
 
@@ -2574,7 +2574,7 @@
 - [BenedictKing/ccx](https://github.com/BenedictKing/ccx) - Claude / Codex / Gemini API Proxy - CCX
 - [github/app](https://github.com/github/app) - This is the home for releases and issues for the GitHub Copilot app
 - [LAOGOU-666/Comfyui-Transform](https://github.com/LAOGOU-666/Comfyui-Transform) - The simple implementation of the recraft sticker function
-- [mo-browser-apps/MoIcons](https://github.com/mo-browser-apps/MoIcons) - Generate macOS app icons using AI.
+- [mo-browser-apps/icons](https://github.com/mo-browser-apps/icons) - Generate macOS app icons using AI.
 - [daijro/geoip-all-in-one](https://github.com/daijro/geoip-all-in-one) - Merges IP2Location + GeoLite2 + DB-IP and more into a single, highly accurate mmdb. Rebuilt weekly
 - [Wtcity22/Open-Anti-Browser](https://github.com/Wtcity22/Open-Anti-Browser) - 开源的指纹浏览器应用，支持Chrome和Firefox
 - [kittors/CliRelay](https://github.com/kittors/CliRelay) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen m
