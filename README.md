@@ -1036,7 +1036,7 @@
 - [Eric-Canas/Homography.js](https://github.com/Eric-Canas/Homography.js) - Lightweight, High-Performance and easy-to-use library for performing Affine, Projective or Piecewise Affine transformations over any Image or HTMLElement from only a set of reference points. In Javasc
 - [hometlt/fiera](https://github.com/hometlt/fiera) - 
 - [fabiospampinato/cash](https://github.com/fabiospampinato/cash) - An absurdly small jQuery alternative for modern browsers.
-- [tiagozip/cap](https://github.com/tiagozip/cap) - The privacy-first, self-hosted CAPTCHA for the modern web.
+- [tiagozip/cap](https://github.com/tiagozip/cap) - Free, open-source and self-hosted CAPTCHA alternative to reCAPTCHA. Privacy-first and powered by proof-of-work and instrumentation challenges.
 - [kt946/ai-threejs-products-app-yt-jsm](https://github.com/kt946/ai-threejs-products-app-yt-jsm) - A 3D T-Shirt website where users can design their own shirts with patterns and logos.
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
 - [PavelLaptev/warp-svg](https://github.com/PavelLaptev/warp-svg) - Warp and distort SVG files online
@@ -1530,8 +1530,9 @@
 
 ## TypeScript 
 
+- [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas) - 面向AI创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、画布编排、对话助手、提示词库和素材管理等功能、兼容OpenAI接口，支持chatgpt2api、grok2api、flow2api、newapi等接入。
 - [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
-- [TeamDev-IP/MoIcons](https://github.com/TeamDev-IP/MoIcons) - Generate macOS app icons using AI.
+- [mo-browser-apps/icons](https://github.com/mo-browser-apps/icons) - Generate macOS app icons using AI.
 - [MultiboxLabs/flow-browser](https://github.com/MultiboxLabs/flow-browser) - A modern, privacy-focused browser with a minimalistic design.
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 - [remnawave/panel](https://github.com/remnawave/panel) - A powerful proxy management tool, built on top of Xray-core, with a focus on simplicity and ease of use.
@@ -1539,7 +1540,7 @@
 - [Amery2010/peinture](https://github.com/Amery2010/peinture) - A general-purpose AI image generation framework that supports Hugging Face, Gitee, Model Scope, and more.
 - [Amery2010/imagine-server](https://github.com/Amery2010/imagine-server) - Unified AI Image Generation API with multi-provider support (Hugging Face, Gitee AI, ModelScope).
 - [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
-- [paoloanzn/free-code](https://github.com/paoloanzn/free-code) - The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled.
+- [freecodexyz/free-code](https://github.com/freecodexyz/free-code) - The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled.
 - [callstackincubator/agent-device](https://github.com/callstackincubator/agent-device) - CLI to control iOS and Android devices for AI agents
 - [appium/appium-xcuitest-driver](https://github.com/appium/appium-xcuitest-driver) - Appium iOS driver, backed by Apple XCTest
 - [WuXieXie/AiTaoist](https://github.com/WuXieXie/AiTaoist) - Ai道士 针对八字测算进行了深度优化
@@ -1660,7 +1661,7 @@
 - [emptykid/photoshop-script-api](https://github.com/emptykid/photoshop-script-api) - A friendly use and more powerful API for photoshop scripting. （对photoshop脚本API的重新封装，更易用，更强大）
 - [vue-icons-plus/vue-icons-plus](https://github.com/vue-icons-plus/vue-icons-plus) - ⭐ 30+ popular icon packs with totals 50000 svg vue icons
 - [Nutlope/description-generator](https://github.com/Nutlope/description-generator) - Generate descriptions from product images in multiple languages with AI
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - 为你 7*24 在线搞钱的“云上牛马”团队
 - [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
