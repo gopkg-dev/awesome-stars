@@ -23,6 +23,7 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Mustache](#mustache)
+- [Nix](#nix)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -1190,13 +1191,16 @@
 
 ## Makefile 
 
-- [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) - Collection of log/slog related projects.
 - [thockin/go-build-template](https://github.com/thockin/go-build-template) - A Makefile/Dockerfile example for Go projects.
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 
 ## Mustache 
 
 - [quanxiang-cloud/quanxiang](https://github.com/quanxiang-cloud/quanxiang) - QuanXiang is a powerful, pluggable open source low-code platform used to assist in building various types of digital applications for enterprises.
+
+## Nix 
+
+- [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) - Collection of log/slog related projects.
 
 ## Objective-C 
 
