@@ -769,7 +769,7 @@
 - [bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate
 - [favadi/protoc-go-inject-tag](https://github.com/favadi/protoc-go-inject-tag) - Inject custom tags to protobuf golang struct
 - [airplayx/gormat](https://github.com/airplayx/gormat) - ☄ The golang convenient converter supports Database to Struct, SQL to Struct, and JSON to Struct.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework for AI agents
 - [jfeng45/grpcservice](https://github.com/jfeng45/grpcservice) - Distributed tracing with Go Microservice
 - [mxc-foundation/lpwan-app-server](https://github.com/mxc-foundation/lpwan-app-server) - 
 - [bradleyjkemp/grpc-tools](https://github.com/bradleyjkemp/grpc-tools) - A suite of gRPC debugging tools. Like Fiddler/Charles but for gRPC.
@@ -1666,7 +1666,7 @@
 - [vue-icons-plus/vue-icons-plus](https://github.com/vue-icons-plus/vue-icons-plus) - ⭐ 30+ popular icon packs with totals 50000 svg vue icons
 - [Nutlope/description-generator](https://github.com/Nutlope/description-generator) - Generate descriptions from product images in multiple languages with AI
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
-- [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - 为你 7*24 在线搞钱的“云上牛马”团队
+- [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - 为所有人准备的AI搞钱团队。技术平权，对抗AI引发的新一轮贫富差距加大！
 - [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
