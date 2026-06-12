@@ -2576,6 +2576,7 @@
 
 ## others 
 
+- [QiuChenly/ida-pro-mcp-enhancement](https://github.com/QiuChenly/ida-pro-mcp-enhancement) - 二创爆改，懒得提交给原仓库了
 - [vs-olitus/AntiDebug_Breaker_mcp](https://github.com/vs-olitus/AntiDebug_Breaker_mcp) - 
 - [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas) - 面向AI创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、画布编排、对话助手、提示词库和素材管理等功能、兼容OpenAI接口，支持chatgpt2api、grok2api、flow2api、newapi等接入。
 - [hero8152/Infinite-Canvas](https://github.com/hero8152/Infinite-Canvas) - Supports comfyui/API calls/modelscope calls
@@ -2614,7 +2615,7 @@
 - [freecodexyz/free-code](https://github.com/freecodexyz/free-code) - The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled.
 - [34306/vphone-aio](https://github.com/34306/vphone-aio) - 1 script run the vphone
 - [Codex-Pool/Codex-Pool](https://github.com/Codex-Pool/Codex-Pool) - Self-hosted Codex/OpenAI compatible gateway and admin console with a stable personal edition.
-- [v03413/BEpusdt](https://github.com/v03413/BEpusdt) - 一款更好用的个人加密货币收款网关，兼容所有 Epusdt 插件，可无缝切换，支持动态汇率、支持Docker部署；支持独角数卡 彩虹易支付
+- [v03413/BEpusdt](https://github.com/v03413/BEpusdt) - 一款更好用的个人加密货币收款网关
 - [zc-zhangchen/any-auto-register](https://github.com/zc-zhangchen/any-auto-register) - 
 - [kaima2022/ABCard](https://github.com/kaima2022/ABCard) - 
 - [appium/appium-xcuitest-driver](https://github.com/appium/appium-xcuitest-driver) - Appium iOS driver, backed by Apple XCTest
@@ -2628,7 +2629,7 @@
 - [ZeroPointSix/outlookEmailPlus](https://github.com/ZeroPointSix/outlookEmailPlus) - Outlookmail Plus: Designed Specifically for Registration  |  Outlookmail Plus：专为注册而生  |
 - [AlickH/Copool](https://github.com/AlickH/Copool) - Copool is a macOS SwiftUI app for Codex/ChatGPT account switching and API proxy management｜Copool 是一个用于 Codex/ChatGPT 账号切换与 API 代理管理的 macOS SwiftUI 应用
 - [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
-- [syi0808/screenize](https://github.com/syi0808/screenize) - Open-source macOS screen recording app with auto-zoom, cursor effects, and timeline editing — Screen Studio alternative.
+- [syi0808/screenize](https://github.com/syi0808/screenize) - (Development of Screenize is currently paused) Open-source macOS screen recording app with auto-zoom, cursor effects, and timeline editing — Screen Studio alternative.
 - [Tairitsua/claude-verify](https://github.com/Tairitsua/claude-verify) - Claude code 真伪鉴别工具
 - [cnlimiter/codex-manager](https://github.com/cnlimiter/codex-manager) - 
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
