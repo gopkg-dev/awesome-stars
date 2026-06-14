@@ -278,6 +278,7 @@
 
 ## ai 
 
+- [mrslimslim/gpt-image-canvas](https://github.com/mrslimslim/gpt-image-canvas) - Local professional AI canvas built with tldraw.
 - [4379711/amz-ad-pilot](https://github.com/4379711/amz-ad-pilot) - AI-powered Amazon SP ads platform: campaign automation, analytics, and an LLM autopilot agent. Go + Vue 3, self-hosted.
 - [burpheart/cursor-tap](https://github.com/burpheart/cursor-tap) - Cursor gRPC 通信流量分析工具
 - [ahaodev/shadmin](https://github.com/ahaodev/shadmin) - An Enterprise-Grade Full-Stack RBAC Permission Management System Built with Go + React
@@ -291,7 +292,7 @@
 - [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.
 - [wquguru/nof0](https://github.com/wquguru/nof0) - NOF0 - 开源的 AI 交易竞技场
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
-- [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - ​一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板、自动签到、密钥一键使用、价格对比、可用性测试，另提供高级渠道管理 | All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks
+- [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks, plus advanced channel management | 一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板
 - [monkeyWie/typix](https://github.com/monkeyWie/typix) - 开源AI生图工具，免登录畅玩 FLUX2、SDXL，支持 cloudflare workers 一键部署自托管，并集成各大主流AI提供商，提供一站式的创作体验。
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [hanshuaikang/AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。
@@ -602,7 +603,7 @@
 
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
-- [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - ​一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板、自动签到、密钥一键使用、价格对比、可用性测试，另提供高级渠道管理 | All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks
+- [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks, plus advanced channel management | 一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板
 - [hanshuaikang/AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 
 - [PaoloJN/youtube-ai-extension](https://github.com/PaoloJN/youtube-ai-extension) - Interactive YouTube extension built with React, Tailwind CSS, and Plasmo. It integrates with the OpenAI API to enable real-time video chat, providing summaries, Q&A, and context-aware responses direct
@@ -617,7 +618,7 @@
 
 ## chatgpt-api 
 
-- [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - ​一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板、自动签到、密钥一键使用、价格对比、可用性测试，另提供高级渠道管理 | All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks
+- [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks, plus advanced channel management | 一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-5, GPT-Image-1, Whisper API clients for Go
 
 ## chrome 
@@ -668,7 +669,7 @@
 - [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) - Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more
 - [ding113/claude-code-hub](https://github.com/ding113/claude-code-hub) - 一个现代化的 Claude Code & Codex API 代理服务，提供智能负载均衡、用户管理和使用统计功能。
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
-- [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - ​一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板、自动签到、密钥一键使用、价格对比、可用性测试，另提供高级渠道管理 | All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks
+- [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks, plus advanced channel management | 一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 
 ## cli 
@@ -1871,7 +1872,7 @@
 
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command-line interface
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
+- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 - [1zilc/fishing-funds](https://github.com/1zilc/fishing-funds) - 基金,大盘,股票,虚拟货币状态栏显示小应用
 
@@ -2290,7 +2291,7 @@
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [LZhenHong/Americano](https://github.com/LZhenHong/Americano) - Simple caffeinate wrapper stay at menu bar.
 - [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
+- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -2463,7 +2464,7 @@
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [BelkacemYerfa/shadcn-extension](https://github.com/BelkacemYerfa/shadcn-extension) - An open source component collection , that extends your ui library , built using shadcn component
 - [nextify-limited/saasfly](https://github.com/nextify-limited/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
-- [sadmann7/tablecn](https://github.com/sadmann7/tablecn) - Shadcn table with server-side sorting, filtering, and pagination.
+- [sadmann7/tablecn](https://github.com/sadmann7/tablecn) - Data table and data grid components built with shadcn/ui, featuring sorting, filtering, pagination, infinite scrolling, and real-time collaboration.
 - [Skolaczk/next-starter](https://github.com/Skolaczk/next-starter) - A Next.js starter template, packed with features like TypeScript, Tailwind CSS, Next-auth, Eslint, Stripe, testing tools and more. Jumpstart your project with efficiency and style.
 - [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter) - Open source admin dashboard starter built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript.
 - [moinulmoin/chadnext](https://github.com/moinulmoin/chadnext) - ChadNext - Quick Starter Template for your Next project includes Next.js 15 App router, Shadcn UI, LuciaAuth, Prisma, Server Actions, Stripe, Internationalization and more.
@@ -2537,7 +2538,6 @@
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [shipgtm/router](https://github.com/shipgtm/router) - Router.so is headless form handling and lead routing for marketing-minded developers.
 - [imgly/background-removal-js](https://github.com/imgly/background-removal-js) - Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
-- [sadmann7/tablecn](https://github.com/sadmann7/tablecn) - Shadcn table with server-side sorting, filtering, and pagination.
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [siegerts/dossi-ext](https://github.com/siegerts/dossi-ext) - dossi browser extension: Your own private GitHub notes on every page
 - [moreSwift/swift-cross-ui](https://github.com/moreSwift/swift-cross-ui) - A cross-platform declarative UI framework, inspired by SwiftUI.
@@ -2556,7 +2556,7 @@
 - [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
-- [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - ​一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板、自动签到、密钥一键使用、价格对比、可用性测试，另提供高级渠道管理 | All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks
+- [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks, plus advanced channel management | 一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [hanshuaikang/AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。
@@ -2784,7 +2784,6 @@
 - [blueboy-tm/flutter_v2ray](https://github.com/blueboy-tm/flutter_v2ray) - A plugin that allow you to making v2ray connection
 - [nicolastinkl/NVPlayer](https://github.com/nicolastinkl/NVPlayer) - NVPlayer是基于Flutter的视频在线观看播放器，支持m3u8加密流媒体，支持iOS/Android/web 全平台支持
 - [tongsq/proxy-collect](https://github.com/tongsq/proxy-collect) - 免费ip代理池 隧道代理池 proxy-pool、tunnel proxy
-- [Eloco/free-proxy-raw](https://github.com/Eloco/free-proxy-raw) - free raw proxy
 - [r00tee/Proxy-List](https://github.com/r00tee/Proxy-List) - Free Http/s, Socks4, Socks5 Proxy List Updated every 5 minutes
 - [AGDDoS/AGProxy](https://github.com/AGDDoS/AGProxy) - 😎 Free SOCK5 Proxy List! 🎁🎁🎁
 - [hendrikbgr/Free-Proxy-Repo](https://github.com/hendrikbgr/Free-Proxy-Repo) - Get a fresh list of proxies every couple of hours. Scraped from over 60+ Websites & over 360+ Links. This list gets updated onces all scraped proxies have been checked and then we start scraping again
@@ -3796,7 +3795,7 @@
 - [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
 - [LZhenHong/Americano](https://github.com/LZhenHong/Americano) - Simple caffeinate wrapper stay at menu bar.
 - [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
+- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 - [5j54d93/Mac-Battery-Inspector](https://github.com/5j54d93/Mac-Battery-Inspector) - A macOS app develop with SwiftUI in MVVM that could inspect mac's battery info.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
@@ -3818,7 +3817,7 @@
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [LZhenHong/Americano](https://github.com/LZhenHong/Americano) - Simple caffeinate wrapper stay at menu bar.
 - [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
+- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
 - [5j54d93/Mac-Battery-Inspector](https://github.com/5j54d93/Mac-Battery-Inspector) - A macOS app develop with SwiftUI in MVVM that could inspect mac's battery info.
 - [MustangYM/OSXChatGPT](https://github.com/MustangYM/OSXChatGPT) - Easy to use OpenAI ChatGPT on your mac !
 
