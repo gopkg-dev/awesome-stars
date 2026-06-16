@@ -564,7 +564,6 @@
 ## c 
 
 - [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
-- [Huykiet/gopherizer](https://github.com/Huykiet/gopherizer) - Web project template for Go
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
 - [lc-soft/LCUI](https://github.com/lc-soft/LCUI) - C library for building user interfaces
@@ -1818,7 +1817,6 @@
 ## hacktoberfest 
 
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
-- [Huykiet/gopherizer](https://github.com/Huykiet/gopherizer) - Web project template for Go
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
 - [dlemstra/magick-wasm](https://github.com/dlemstra/magick-wasm) - The WASM library for ImageMagick
 - [moinulmoin/chadnext](https://github.com/moinulmoin/chadnext) - ChadNext - Quick Starter Template for your Next project includes Next.js 15 App router, Shadcn UI, LuciaAuth, Prisma, Server Actions, Stripe, Internationalization and more.
@@ -2179,7 +2177,6 @@
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
-- [Huykiet/gopherizer](https://github.com/Huykiet/gopherizer) - Web project template for Go
 - [LuanRoger/electron-shadcn](https://github.com/LuanRoger/electron-shadcn) - :electron: Electron Forge with shadcn-ui (Vite + Typescript)
 - [yalue/onnxruntime_go](https://github.com/yalue/onnxruntime_go) - A Go (golang) library wrapping microsoft/onnxruntime.
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
@@ -3587,7 +3584,6 @@
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [berbicanes/apiark](https://github.com/berbicanes/apiark) - Privacy-first API platform built with Tauri v2. No login, no cloud, ~60 MB RAM. A lightweight Postman alternative.
-- [Huykiet/gopherizer](https://github.com/Huykiet/gopherizer) - Web project template for Go
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [Le1a/LokiPool](https://github.com/Le1a/LokiPool) - 一个使用Rust编写的SOCKS5代理池管理工具，能够自动测速、管理多个代理服务器，提供高效稳定的匿名代理服务。
 - [spider-rs/spider](https://github.com/spider-rs/spider) - Low latency web data collector
@@ -3884,14 +3880,12 @@
 
 ## tensorflow 
 
-- [Huykiet/gopherizer](https://github.com/Huykiet/gopherizer) - Web project template for Go
 - [galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow + Go, the gopher way
 - [kerlomz/captcha_trainer](https://github.com/kerlomz/captcha_trainer) - [验证码识别-训练] This project is based on CNN/ResNet/DenseNet+GRU/LSTM+CTC/CrossEntropy to realize verification code identification. This project is only for training the model.
 - [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
 
 ## terminal 
 
-- [Huykiet/gopherizer](https://github.com/Huykiet/gopherizer) - Web project template for Go
 - [veops/oneterm](https://github.com/veops/oneterm) - Provide secure access and control over all infrastructure
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [dromara/orion-visor](https://github.com/dromara/orion-visor) - 一款高颜值、现代化的自动化运维及轻量堡垒机，提供全面的服务器智能运维解决方案。支持资产管理分组、多协议访问(SSH、SFTP、RDP、VNC)、实时系统监控与智能告警、文件上传下载、在线编辑、命令批量执行、多主机文件分发和计划任务配置(通过 cron 表达式)等功能，确保高效安全的运维体验。适用于 Linux 和 Windows 系统的运维管理。
