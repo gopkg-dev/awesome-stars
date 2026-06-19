@@ -773,7 +773,7 @@
 - [bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate
 - [favadi/protoc-go-inject-tag](https://github.com/favadi/protoc-go-inject-tag) - Inject custom tags to protobuf golang struct
 - [airplayx/gormat](https://github.com/airplayx/gormat) - ☄ The golang convenient converter supports Database to Struct, SQL to Struct, and JSON to Struct.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
 - [jfeng45/grpcservice](https://github.com/jfeng45/grpcservice) - Distributed tracing with Go Microservice
 - [mxc-foundation/lpwan-app-server](https://github.com/mxc-foundation/lpwan-app-server) - 
 - [bradleyjkemp/grpc-tools](https://github.com/bradleyjkemp/grpc-tools) - A suite of gRPC debugging tools. Like Fiddler/Charles but for gRPC.
@@ -926,7 +926,7 @@
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
 - [shen100/wemall](https://github.com/shen100/wemall) - 基于react, node.js, go开发的微商城（含微信小程序）
 - [ixre/go2o](https://github.com/ixre/go2o) - 基于DDD的o2o的业务模型及基础, 使用Golang+gRPC实现
-- [talkincode/toughradius](https://github.com/talkincode/toughradius) - A powerful, open-source RADIUS server
+- [talkincode/toughradius](https://github.com/talkincode/toughradius) - A powerful, open-source RADIUS server designed for ISPs, enterprise networks, and carriers. Supports standard RADIUS protocols, a full EAP / 802.1X authentication suite (EAP-TLS, PEAPv0/EAP-MSCHAPv2, 
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [JonCooperWorks/judas](https://github.com/JonCooperWorks/judas) - 
