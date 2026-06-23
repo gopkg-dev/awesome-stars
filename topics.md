@@ -2585,6 +2585,7 @@
 
 ## others 
 
+- [QingJ01/Pebble](https://github.com/QingJ01/Pebble) - A small yet beautiful email client.
 - [duskroot/nexus-ai](https://github.com/duskroot/nexus-ai) - 企业级 AI 分发平台 - 基于 Hertz 框架的高性能多租户 AI 网关系统，支持 OpenAI、Claude、Gemini 等多种 AI 模型
 - [QiuChenly/ida-pro-mcp-enhancement](https://github.com/QiuChenly/ida-pro-mcp-enhancement) - 二创爆改，懒得提交给原仓库了
 - [vs-olitus/AntiDebug_Breaker_mcp](https://github.com/vs-olitus/AntiDebug_Breaker_mcp) - 
@@ -3288,7 +3289,7 @@
 - [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
 - [rootm0s/Protectors](https://github.com/rootm0s/Protectors) - 🛡️ Obfuscator, Encryption, Junkcode, Anti-Debug, PE protection/modification
 - [tishion/mmLoader](https://github.com/tishion/mmLoader) - A library for loading dll module bypassing windows PE loader from memory (x86/x64)
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习/学英语
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [mgwang37/octopus](https://github.com/mgwang37/octopus) - 高性能socks５代理服务 (High-performance socks5 proxy server)
 - [anhkgg/SuperDllHijack](https://github.com/anhkgg/SuperDllHijack) - SuperDllHijack：A general DLL hijack technology, don't need to manually export the same function interface of the DLL, so easy! 一种通用Dll劫持技术，不再需要手工导出Dll的函数接口了
 - [xiaobfly/MemPE](https://github.com/xiaobfly/MemPE) - 一种通用的XOR加密后内存加载PE绕过杀毒软件的方法
