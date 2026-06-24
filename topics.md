@@ -2585,6 +2585,8 @@
 
 ## others 
 
+- [missuo/FlareDNS](https://github.com/missuo/FlareDNS) - CFlareDNS is a lightweight, secure, and powerful iOS application designed for managing your Cloudflare domains and DNS records on the go.
+- [chenxuuu/sms_forwarding](https://github.com/chenxuuu/sms_forwarding) - 超低成本硬件短信转发器，支持移动联通电信，ML307R+ESP32C3
 - [QingJ01/Pebble](https://github.com/QingJ01/Pebble) - A small yet beautiful email client.
 - [duskroot/nexus-ai](https://github.com/duskroot/nexus-ai) - 企业级 AI 分发平台 - 基于 Hertz 框架的高性能多租户 AI 网关系统，支持 OpenAI、Claude、Gemini 等多种 AI 模型
 - [QiuChenly/ida-pro-mcp-enhancement](https://github.com/QiuChenly/ida-pro-mcp-enhancement) - 二创爆改，懒得提交给原仓库了
@@ -3086,7 +3088,7 @@
 - [bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate
 - [favadi/protoc-go-inject-tag](https://github.com/favadi/protoc-go-inject-tag) - Inject custom tags to protobuf golang struct
 - [jfeng45/grpcservice](https://github.com/jfeng45/grpcservice) - Distributed tracing with Go Microservice
-- [mxc-foundation/lpwan-app-server](https://github.com/mxc-foundation/lpwan-app-server) - 
+- [matchx-dev/lpwan-app-server](https://github.com/matchx-dev/lpwan-app-server) - 
 - [bradleyjkemp/grpc-tools](https://github.com/bradleyjkemp/grpc-tools) - A suite of gRPC debugging tools. Like Fiddler/Charles but for gRPC.
 - [monkeylord/XposedFridaBridge](https://github.com/monkeylord/XposedFridaBridge) - A frida script implement XposedBridge & load xposed modules, without installing xposed framwork.
 - [hexdigest/protoc-gen-validate](https://github.com/hexdigest/protoc-gen-validate) - protoc plugin to generate polyglot message validators
