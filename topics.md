@@ -289,7 +289,6 @@
 ## ai 
 
 - [mrslimslim/gpt-image-canvas](https://github.com/mrslimslim/gpt-image-canvas) - Local professional AI canvas built with tldraw.
-- [4379711/amz-ad-pilot](https://github.com/4379711/amz-ad-pilot) - AI-powered Amazon SP ads platform: campaign automation, analytics, and an LLM autopilot agent. Go + Vue 3, self-hosted.
 - [burpheart/cursor-tap](https://github.com/burpheart/cursor-tap) - Cursor gRPC 通信流量分析工具
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [ahaodev/shadmin](https://github.com/ahaodev/shadmin) - An Enterprise-Grade Full-Stack RBAC Permission Management System Built with Go + React
@@ -335,7 +334,6 @@
 
 ## ai-agents 
 
-- [4379711/amz-ad-pilot](https://github.com/4379711/amz-ad-pilot) - AI-powered Amazon SP ads platform: campaign automation, analytics, and an LLM autopilot agent. Go + Vue 3, self-hosted.
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [callstack/agent-device](https://github.com/callstack/agent-device) - CLI to control iOS and Android devices for AI agents
@@ -476,7 +474,6 @@
 
 ## automation 
 
-- [4379711/amz-ad-pilot](https://github.com/4379711/amz-ad-pilot) - AI-powered Amazon SP ads platform: campaign automation, analytics, and an LLM autopilot agent. Go + Vue 3, self-hosted.
 - [Fausto-404/js-reverse-automation--skill](https://github.com/Fausto-404/js-reverse-automation--skill) - 结合chrome-devtools-mcp的能力并加上Skill的规范，实现JSRPC+Flask+autoDecoder方案的前端JS逆向自动化分析，提升JS逆向的效率
 - [callstack/agent-device](https://github.com/callstack/agent-device) - CLI to control iOS and Android devices for AI agents
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -2228,7 +2225,6 @@
 
 ## llm 
 
-- [4379711/amz-ad-pilot](https://github.com/4379711/amz-ad-pilot) - AI-powered Amazon SP ads platform: campaign automation, analytics, and an LLM autopilot agent. Go + Vue 3, self-hosted.
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [nexu-io/nexu](https://github.com/nexu-io/nexu) - The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 
 - [dataease/SQLBot](https://github.com/dataease/SQLBot) - 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.
