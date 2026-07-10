@@ -243,6 +243,7 @@
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [windows](#windows)
+- [workflow](#workflow)
 - [xcode](#xcode)
 - [xml](#xml)
 - [youtube](#youtube)
@@ -2858,7 +2859,6 @@
 - [lzw5399/tumbleweed-designer](https://github.com/lzw5399/tumbleweed-designer) - BPMN 2.0 workflow designer.
 - [go-gorm/caches](https://github.com/go-gorm/caches) - Caches Dialector
 - [xeipuuv/gojsonschema](https://github.com/xeipuuv/gojsonschema) - An implementation of JSON Schema, draft v4 v6 & v7 - Go language
-- [lzw5399/tumbleweed](https://github.com/lzw5399/tumbleweed) - Lightweight workflow engine microservice implement BPMN 2.0
 - [quanxiang-cloud/workflow](https://github.com/quanxiang-cloud/workflow) - New workflow for QuanXiangCloud
 - [AnizuChen/WeChatHelper](https://github.com/AnizuChen/WeChatHelper) - 微信 PC Hook 微信PC协议
 - [lios/go-activiti](https://github.com/lios/go-activiti) - 
@@ -2871,7 +2871,6 @@
 - [LeoYang90/Golang-Internal-Notes](https://github.com/LeoYang90/Golang-Internal-Notes) - 
 - [aceld/EasySJMS](https://github.com/aceld/EasySJMS) - Easy搞定Golang设计模式
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
-- [go-workflow/go-workflow](https://github.com/go-workflow/go-workflow) - go版本极简工作流引擎
 - [dustin/go-humanize](https://github.com/dustin/go-humanize) - Go Humans! (formatters for units to human friendly sizes)
 - [philippta/flyscrape](https://github.com/philippta/flyscrape) - Flyscrape is a command-line web scraping tool designed for those without advanced programming skills.
 - [Anmours/Bncr](https://github.com/Anmours/Bncr) - 基于nodejs的机器人框架，它拥有无限可能，我愿称之为《无界》
@@ -4255,6 +4254,22 @@
 - [ldcsaa/HP-Socket](https://github.com/ldcsaa/HP-Socket) - High Performance TCP/UDP/HTTP Communication Component
 - [hookmaster/frida-all-in-one](https://github.com/hookmaster/frida-all-in-one) - 《FRIDA操作手册》by @hluwa @r0ysue
 - [iGio90/Dwarf](https://github.com/iGio90/Dwarf) - Full featured multi arch/os debugger built on top of PyQt5 and frida
+
+## workflow 
+
+- [firerpa/lamda](https://github.com/firerpa/lamda) - Android Full-Stack Device Control Platform: WebRTC/H.264 remote desktop, UI/OCR/image-matching automation, one-click MITM, built-in Frida, proxy/VPN/frp/P2P networking, MCP/Agent, 160+ APIs, designed 
+- [lzw5399/tumbleweed](https://github.com/lzw5399/tumbleweed) - Lightweight workflow engine microservice implement BPMN 2.0
+- [js-ojus/flow](https://github.com/js-ojus/flow) - A tiny open source workflow engine written in Go (golang)
+- [quanxiang-cloud/quanxiang](https://github.com/quanxiang-cloud/quanxiang) - QuanXiang is a powerful, pluggable open source low-code platform used to assist in building various types of digital applications for enterprises.
+- [cschleiden/go-workflows](https://github.com/cschleiden/go-workflows) - Embedded durable workflows for Golang similar to DTFx/Cadence/Temporal
+- [s8sg/goflow](https://github.com/s8sg/goflow) - A Golang based high performance, scalable and distributed workflow framework
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
+- [piupuer/gin-web](https://github.com/piupuer/gin-web) - 由gin + gorm + jwt + casbin组合实现的RBAC权限管理脚手架Golang版, 搭建完成即可快速、高效投入业务开发
+- [go-workflow/go-workflow](https://github.com/go-workflow/go-workflow) - go版本极简工作流引擎
+- [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
+- [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
+- [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
+- [reugn/go-streams](https://github.com/reugn/go-streams) - A lightweight stream processing library for Go
 
 ## xcode 
 
