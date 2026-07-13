@@ -357,14 +357,14 @@
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 - [huandu/xstrings](https://github.com/huandu/xstrings) - Implements string functions widely used in other languages but absent in Go.
 - [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - Algorithm Patterns — the most scientific way to practice, the fastest path to an offer. You deserve it~ 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
-- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% | LeetCode 题解
 - [yuanfengyun/q_algorithm](https://github.com/yuanfengyun/q_algorithm) - 棋牌的胡牌算法，包括麻将、跑胡子、扑克。实现 lua 、c++ 、c# 、golang 、js 、java 、python 版本。( Mahjong  algorithm )
 
 ## algorithms 
 
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 - [dacent87/Algorithm-X-Gorgon-Tik-Tok](https://github.com/dacent87/Algorithm-X-Gorgon-Tik-Tok) - Algorithm generate, X-Ladon, X-Argus, X-Gorgon, X-Khronos, api source
-- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% | LeetCode 题解
 - [thuva4/Algorithms](https://github.com/thuva4/Algorithms) - Collection of algorithms in multiple programming languages.
 
 ## analytics 
@@ -780,7 +780,7 @@
 
 - [spider-rs/spider](https://github.com/spider-rs/spider) - Get web data for AI agents and LLMs
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
-- [TeamWiseFlow/xiaobei](https://github.com/TeamWiseFlow/xiaobei) - 为 OPC/中小微企业老板们量身打造的"AI 搞钱搭子"
+- [TeamWiseFlow/xiaobei](https://github.com/TeamWiseFlow/xiaobei) - 为OPC/中小微企业量身打造的自媒体获客AI Agent
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 - [JSREI/crawler-js-hook-framework-public](https://github.com/JSREI/crawler-js-hook-framework-public) - JS逆向Hook工具集，开源部分工具到这里
 - [Boris-code/feapder](https://github.com/Boris-code/feapder) - 🚀🚀🚀feapder is an easy to use, powerful crawler framework | feapder是一款上手简单，功能强大的Python爬虫框架。内置AirSpider、Spider、TaskSpider、BatchSpider四种爬虫解决不同场景的需求。且支持断点续爬、监控报警、浏览器渲染、海量数据去重等功能。更有功能强大的爬虫管理系统feaplat为其提供方便
@@ -870,6 +870,7 @@
 
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 - [rosedblabs/rosedb](https://github.com/rosedblabs/rosedb) - Lightweight, fast and reliable key/value storage engine based on Bitcask.
+- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% | LeetCode 题解
 - [nutsdb/nutsdb](https://github.com/nutsdb/nutsdb) - A simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as  list, set, sorted set.
 
 ## database 
@@ -1091,7 +1092,6 @@
 ## facebook 
 
 - [mileusna/facebook-messenger](https://github.com/mileusna/facebook-messenger) - Go (GoLang) package for Facebook Messenger API and Chat bot
-- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 
 ## fastapi 
 
@@ -1110,7 +1110,6 @@
 ## firefox 
 
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
-- [zhom/donutbrowser](https://github.com/zhom/donutbrowser) - Simple Yet Powerful Anti-Detect Browser 🍩
 - [mefengl/wxt-starter](https://github.com/mefengl/wxt-starter) - Maybe the best template based on wxt.
 - [browserutils/kooky](https://github.com/browserutils/kooky) - Go code to read cookies from browser cookie stores.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
@@ -1438,7 +1437,7 @@
 - [yahoo/vssh](https://github.com/yahoo/vssh) - Go Library to Execute Commands Over SSH at Scale
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [forecho/go-ip-proxy](https://github.com/forecho/go-ip-proxy) - 
-- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% | LeetCode 题解
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [TheWinds/mkdoc](https://github.com/TheWinds/mkdoc) - 📖 flexible and customizable, api document generator for any lang
 - [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
@@ -1726,7 +1725,7 @@
 - [wangshibiaoFlytiger/apiproject](https://github.com/wangshibiaoFlytiger/apiproject) - [https://www.sofineday.com], golang项目开发脚手架,集成最佳实践(gin+gorm+go-redis+mongo+cors+jwt+json日志库zap(支持日志收集到kafka或mongo)+消息队列kafka+微信支付宝支付gopay+api加密+api反向代理+go modules依赖管理+headless爬虫chromedp+makefile+二进制压缩+
 - [xusenlin/marewood](https://github.com/xusenlin/marewood) - 🌻marewood is an open source automatic packaging deployment tool for front-end
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
-- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% | LeetCode 题解
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [airplayx/gormat](https://github.com/airplayx/gormat) - ☄ The golang convenient converter supports Database to Struct, SQL to Struct, and JSON to Struct.
 - [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
@@ -2616,6 +2615,8 @@
 
 ## others 
 
+- [DEEIX-AI/DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat) - An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.
+- [myfanhua/turb-gpt-free-register](https://github.com/myfanhua/turb-gpt-free-register) - 纯协议+指纹浏览器自动GPT FREE注册机+Codex自动接码授权
 - [9619221/temu-automation](https://github.com/9619221/temu-automation) - Temu 全托管自动化运营工具 - Electron + React + Playwright
 - [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ
 - [fzlzjerry/wechat-antirecall](https://github.com/fzlzjerry/wechat-antirecall) - antirecall for macos wechat 4 or later
