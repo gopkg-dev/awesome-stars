@@ -1442,6 +1442,7 @@
 
 ## Rust 
 
+- [RongleCat/grok-go](https://github.com/RongleCat/grok-go) - Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。
 - [3899/SimAdmin](https://github.com/3899/SimAdmin) - 🎉面向 Debian 蜂窝 CPE、随身 WiFi、软路由类设备的 SIM/eSIM、蜂窝网络、短信、DDNS和系统状态管理系统。
 - [QingJ01/Pebble](https://github.com/QingJ01/Pebble) - A small yet beautiful email client.
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redi
