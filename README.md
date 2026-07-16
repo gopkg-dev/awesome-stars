@@ -1328,8 +1328,9 @@
 
 ## Python 
 
+- [asdfg3482968521-alt/Codex-5.5-codex-instruct-5.5](https://github.com/asdfg3482968521-alt/Codex-5.5-codex-instruct-5.5) - Codex CLI 破甲工具（GPT-5.5） — 注入无限制模式系统指令，关闭所有内容过滤器。
 - [myfanhua/turb-gpt-free-register](https://github.com/myfanhua/turb-gpt-free-register) - 纯协议+指纹浏览器自动GPT FREE注册机+Codex自动接码授权
-- [AaronL725/grok-register](https://github.com/AaronL725/grok-register) - 【已存活三个月+，无封号】批量注册稳定 Grok 账号，可直接导入 grok2api 和 cpa 使用，并且可以与cloudflare无限域名邮箱联动。通过1000+账号连续注册测试。
+- [AaronL725/grok-register](https://github.com/AaronL725/grok-register) - 【已存活三个月+，无封号】批量注册稳定 Grok 账号，可直接导入 grok2api 和 cpa 使用，并且可以与cloudflare无限域名邮箱等联动。通过1000+账号连续注册测试。
 - [yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5) - 
 - [QiuChenly/ida-pro-mcp-enhancement](https://github.com/QiuChenly/ida-pro-mcp-enhancement) - 二创爆改，懒得提交给原仓库了
 - [wuyoscar/GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill) - GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing
@@ -1352,7 +1353,6 @@
 - [liangdabiao/amazon-sorftime-research-MCP-skill](https://github.com/liangdabiao/amazon-sorftime-research-MCP-skill) - 亚马逊选品 之 Listing全维度穿透分析报告  加上 全品类分析 ，关键词分析，差评分析 ，市场调研 等等。codex/claude code agent skill, amazon sorftime  MCP/西柚mcp/sif mcp/卖家精灵sellersprite 智能体skill.   亚马逊跨境电商skill工具集。
 - [cnlimiter/codex-manager](https://github.com/cnlimiter/codex-manager) - 
 - [jackwener/xiaohongshu-cli](https://github.com/jackwener/xiaohongshu-cli) - A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API
-- [ylytdeng/wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) - WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time message monitor
 - [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) - AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具
 - [wzdnzd/aggregator](https://github.com/wzdnzd/aggregator) - One-stop Proxies Crawling and Aggregation Platform
 - [x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy) - A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls.
@@ -1444,7 +1444,7 @@
 ## Rust 
 
 - [RongleCat/grok-go](https://github.com/RongleCat/grok-go) - Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。
-- [3899/SimAdmin](https://github.com/3899/SimAdmin) - 🎉面向 Debian 蜂窝 CPE、随身 WiFi、软路由类设备的 SIM/eSIM、蜂窝网络、短信、DDNS和系统状态管理系统。
+- [3899/SimAdmin](https://github.com/3899/SimAdmin) - 🎉 面向Debian蜂窝CPE、随身WiFi、软路由类设备的 SIM/eSIM、蜂窝网络、短信、DDNS和系统状态管理系统。
 - [QingJ01/Pebble](https://github.com/QingJ01/Pebble) - A small yet beautiful email client.
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 20MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.20MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redi
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
@@ -1559,6 +1559,7 @@
 
 ## TypeScript 
 
+- [sansenjian/recho-ai](https://github.com/sansenjian/recho-ai) - 
 - [roseforyou/cf-outlook-email](https://github.com/roseforyou/cf-outlook-email) - 📬 基于 Cloudflare Workers 的轻量级 Outlook 邮件管理工具 · 免费 · 无需服务器 | Lightweight Outlook email manager, serverless & free ⚡
 - [CookSleep/gpt_image_playground](https://github.com/CookSleep/gpt_image_playground) - 基于 OpenAI gpt-image-2 API 的图片生成与编辑工具
 - [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework based on NTQQ
