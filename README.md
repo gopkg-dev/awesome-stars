@@ -1096,7 +1096,6 @@
 - [likeyun/liKeYun_ylb](https://github.com/likeyun/liKeYun_ylb) - 引流宝致力于为个人、团队提供基于微信私域流量的推广、引流的效率工具。可减轻人力，有效降低资源损失、流量流失的几率。引流宝完全开源，免费，可商用、可任意二次开发。引流宝可以辅助你更好地开展营销活动推广！降低运营成本，提高工作效率，获取更多资源。
 - [ucloud/mutualaid](https://github.com/ucloud/mutualaid) - 
 - [songquanpeng/gin-template](https://github.com/songquanpeng/gin-template) - 用于 Gin & React 项目的模板. Template for Gin & React projects.
-- [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [smxl/500](https://github.com/smxl/500) - Quantumult X, Loon, Stash 预配置文件: Apple News 解锁, 去广告, 分流规则, Bing AI, TikTok 解锁 Rewrite, VIP 视频解析
 - [vaxilu/x-ui](https://github.com/vaxilu/x-ui) - 支持多协议多用户的 xray 面板
 - [henices/Chrome-proxy-helper](https://github.com/henices/Chrome-proxy-helper) - Chrome PROXY extension, set proxy for Chrome browser
@@ -1383,6 +1382,7 @@
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 - [amzn/amazon-marketing-stream-examples](https://github.com/amzn/amazon-marketing-stream-examples) - Amazon Marketing Stream reference implementation using AWS CDK
+- [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [OpenEthan/SMSBoom](https://github.com/OpenEthan/SMSBoom) - SMSBoom - Deprecate: Due to judicial reasons, the repository has been suspended!
 - [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - Python APNs and iMessage client
 - [awesome-fc/code-example](https://github.com/awesome-fc/code-example) - 
