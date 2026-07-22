@@ -1031,7 +1031,7 @@
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [WhiteNightShadow/hello_js_reverse_skill](https://github.com/WhiteNightShadow/hello_js_reverse_skill) - 🔧 AI-powered JS逆向工程 Skill —— 覆盖加密还原、混淆分析、动态Cookie、WASM逆向、协议对抗等全链路场景，通过 Node.js 实现算法还原与模拟请求。适配 Claude Code / Claude.ai / 其他AI编码工具
-- [QLHazyCoder/FlowPilot](https://github.com/QLHazyCoder/FlowPilot) - Chrome扩展：支持Codex(自动开通plus账号) / kiro 注册、验证码获取、CPA/sub回调验证与自动恢复
+- [QLHazyCoder/FlowPilot](https://github.com/QLHazyCoder/FlowPilot) - Chrome扩展：支持Codex / kiro / Grok注册、验证码获取、CPA/sub回调验证与自动恢复
 - [okankurtuluss/FridaBypassKit](https://github.com/okankurtuluss/FridaBypassKit) - Android Universal Anti-Bypass Framework - Root, SSL Pinning, Emulator & Debug Detection Bypass
 - [Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge) - Surge自用配置以及模块和脚本
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -1264,7 +1264,7 @@
 - [ProxyScraper/ProxyScraper](https://github.com/ProxyScraper/ProxyScraper) - Automatic and permanent proxy collection and update center for free (updated every hour)
 - [roosterkid/openproxylist](https://github.com/roosterkid/openproxylist) - List of Free HTTPS, SOCKS4, SOCKS5 & V2Ray Proxy (Hourly Updates!)
 - [claude89757/free_https_proxies](https://github.com/claude89757/free_https_proxies) - Share some free https proxies from internet
-- [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) - a free rotating proxy API with tested HTTPS and SOCKS5 proxies from 100+ countries
+- [proxifly/free-proxy-list](https://github.com/proxifly/free-proxy-list) - 🚀 Free HTTP, SOCKS4, & SOCKS5 proxy list * Updated every 5 minutes * and rotating proxy API (100+ countries)
 - [im-razvan/proxy_list](https://github.com/im-razvan/proxy_list) - Free proxies updated every 15 minutes.
 - [Zaeem20/FREE_PROXIES_LIST](https://github.com/Zaeem20/FREE_PROXIES_LIST) - FREE PROXY LIST (Gets Updated Every 10 Minutes). included HTTP(S) Proxy.
 - [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
@@ -1443,6 +1443,7 @@
 
 ## Rust 
 
+- [missuo/tokens](https://github.com/missuo/tokens) - Track, visualize, and compete on your AI coding-assistant token usage — CLI + web leaderboard. A fork of junhoyeo/tokscale.
 - [RongleCat/grok-go](https://github.com/RongleCat/grok-go) - Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。
 - [3899/SimAdmin](https://github.com/3899/SimAdmin) - 🎉 面向Debian蜂窝CPE、随身WiFi、软路由类设备的 SIM/eSIM、蜂窝网络、短信、DDNS和系统状态管理系统。
 - [QingJ01/Pebble](https://github.com/QingJ01/Pebble) - A small yet beautiful email client.
@@ -1456,7 +1457,7 @@
 - [lurenjia534/r-wg](https://github.com/lurenjia534/r-wg) - 
 - [zhom/donutbrowser](https://github.com/zhom/donutbrowser) - Simple Yet Powerful Anti-Detect Browser 🍩
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [Le1a/LokiPool](https://github.com/Le1a/LokiPool) - 一个使用Rust编写的SOCKS5代理池管理工具，能够自动测速、管理多个代理服务器，提供高效稳定的匿名代理服务。
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [wuqi-y/auto-cursor-releases](https://github.com/wuqi-y/auto-cursor-releases) - 源代码
