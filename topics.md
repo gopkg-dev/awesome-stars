@@ -617,6 +617,7 @@
 
 ## chatgpt 
 
+- [keaipiao/codex-quota](https://github.com/keaipiao/codex-quota) - A native-feeling quota panel for the Windows Codex desktop sidebar.
 - [rebel0789/codexpro](https://github.com/rebel0789/codexpro) - Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.
 - [Wangnov/gpt-image-2-skill](https://github.com/Wangnov/gpt-image-2-skill) - GPT Image 2 Skill / CLI / Web / Desktop
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
@@ -2629,6 +2630,7 @@
 
 ## others 
 
+- [pandorafuture/wx-cli](https://github.com/pandorafuture/wx-cli) - WeChat macOS database decryption and query tool
 - [missuo/tokens](https://github.com/missuo/tokens) - Track, visualize, and compete on your AI coding-assistant token usage — CLI + web leaderboard. A fork of junhoyeo/tokscale.
 - [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 - [asdfg3482968521-alt/Codex-5.5-codex-instruct-5.5](https://github.com/asdfg3482968521-alt/Codex-5.5-codex-instruct-5.5) - Codex CLI 破甲工具（GPT-5.5） — 注入无限制模式系统指令，关闭所有内容过滤器。
@@ -4248,6 +4250,7 @@
 
 ## windows 
 
+- [keaipiao/codex-quota](https://github.com/keaipiao/codex-quota) - A native-feeling quota panel for the Windows Codex desktop sidebar.
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
