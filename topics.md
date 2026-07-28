@@ -2631,6 +2631,7 @@
 
 ## others 
 
+- [hahahumble/storageui](https://github.com/hahahumble/storageui) - ☁️ Open file browser for S3, R2, and other storage backends.
 - [egoist/kero](https://github.com/egoist/kero) - A native terminal workspace for macOS.
 - [pandorafuture/wx-cli](https://github.com/pandorafuture/wx-cli) - WeChat macOS database decryption and query tool
 - [missuo/tokens](https://github.com/missuo/tokens) - Track, visualize, and compete on your AI coding-assistant token usage — CLI + web leaderboard. A fork of junhoyeo/tokscale.
