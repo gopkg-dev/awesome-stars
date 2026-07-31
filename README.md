@@ -976,6 +976,9 @@
 - [gxlmyacc/sciter-doc-zh](https://github.com/gxlmyacc/sciter-doc-zh) - sciter中文帮助手册
 - [pingfangx/TranslatorX](https://github.com/pingfangx/TranslatorX) - JetBrains 系列软件汉化包 关键字: Android Studio 3.5 汉化包 CLion 2019.3 汉化包 DataGrip 2019.3 汉化包 GoLand 2019.3 汉化包 IntelliJ IDEA 2019.3 汉化包 PhpStorm 2019.3 汉化包 PyCharm 2019.3 汉化包 Rider 2019.3 汉化包 RubyMine 2019.3 汉化
 - [HackerThemes/spur-template](https://github.com/HackerThemes/spur-template) - A Bootstrap Admin Template
+- [puikinsh/ElaAdmin](https://github.com/puikinsh/ElaAdmin) - A clean & completely free Bootstrap 5 admin dashboard template
+- [puikinsh/Adminator-admin-dashboard](https://github.com/puikinsh/Adminator-admin-dashboard) - Adminator is easy to use and well design admin dashboard template with dark mode for web apps, websites, services and more
+- [puikinsh/CoolAdmin](https://github.com/puikinsh/CoolAdmin) - Free Bootstrap 5 based admin dashboard template - open source and licensed under MIT license
 - [coryjthompson/WebPushDemo](https://github.com/coryjthompson/WebPushDemo) - An example of how to use web-push-csharp.
 - [monlor/MIXBOX-ARCHIVE](https://github.com/monlor/MIXBOX-ARCHIVE) - 一款基于Shell的小米路由器工具箱，原为Monlor-Tools，A tool box for XiaoMi Router base on Shell.
 - [hookmaster/frida-all-in-one](https://github.com/hookmaster/frida-all-in-one) - 《FRIDA操作手册》by @hluwa @r0ysue
@@ -1621,7 +1624,7 @@
 - [alibaba/formily](https://github.com/alibaba/formily) - 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
 - [SaltifyDev/tanebi](https://github.com/SaltifyDev/tanebi) - PC NTQQ Debugging Facade in TypeScript
 - [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) - 一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。
-- [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
+- [codexu/note-gen](https://github.com/codexu/note-gen) - Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.
 - [iszhouhua/social-media-copilot](https://github.com/iszhouhua/social-media-copilot) - 社媒助手开源版 - 小红书、抖音、快手等平台数据采集的浏览器插件，可通过API调用，支持Docker部署。
 - [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
 - [theajack/disable-devtool](https://github.com/theajack/disable-devtool) - Disable web developer tools from the f12 button, right-click and browser menu
