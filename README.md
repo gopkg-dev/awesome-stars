@@ -833,7 +833,7 @@
 - [douyu/jupiter](https://github.com/douyu/jupiter) - Jupiter: Governance-oriented Microservice Framework.
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [itcloudy/base-framework](https://github.com/itcloudy/base-framework) - 基于golang语言web框架gin搭建应用教程
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
 - [codegangsta/inject](https://github.com/codegangsta/inject) - Dependency injection for go
 - [zxbit2011/echo-rpcx](https://github.com/zxbit2011/echo-rpcx) - echo+rpcx 框架示例
 - [nutsdb/nutsdb](https://github.com/nutsdb/nutsdb) - A simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as  list, set, sorted set.
@@ -1102,6 +1102,7 @@
 - [cilame/v_jstools](https://github.com/cilame/v_jstools) - 模仿着写一个 chrome 插件，用来快速调试前端 js 代码。
 - [qtgolang/SunnyNetTools](https://github.com/qtgolang/SunnyNetTools) - SunnyNet网络中间件抓包工具
 - [ikimiler/react-native-video-project](https://github.com/ikimiler/react-native-video-project) - 一个基于react-native的纯跨平台的影视项目，欢迎大家star
+- [mzyui/proxy-list](https://github.com/mzyui/proxy-list) - 🔓 daily updated proxy list
 - [maverickevil/wasm-demo](https://github.com/maverickevil/wasm-demo) - Use go + vue3 + vite to complete the wasm example of calculating the Fibonacci sequence
 - [luzhisheng/js_reverse](https://github.com/luzhisheng/js_reverse) - 主要用来收集/学习爬虫相关技术如：js逆向、app逆向、抓包、验证码、加密技术、自动化技术、机器学习。
 - [itszn/chrome-wasm-debugger](https://github.com/itszn/chrome-wasm-debugger) - A chrome extension to provide a slightly easier debugging UI for WASM modules
@@ -1281,7 +1282,6 @@
 - [JSREI/crawler-js-hook-framework-public](https://github.com/JSREI/crawler-js-hook-framework-public) - JS逆向Hook工具集，开源部分工具到这里
 - [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 为您甄选国内外前端领域的优质资讯，洞悉行业最新进展，助力技术成长之旅。
 - [LeoYang90/Golang-Internal-Notes](https://github.com/LeoYang90/Golang-Internal-Notes) - 
-- [mzyui/proxy-list](https://github.com/mzyui/proxy-list) - 🔓 daily updated proxy list
 - [Shooter3k/amazon-captchas](https://github.com/Shooter3k/amazon-captchas) - 
 - [richardARPANET/amazon-captcha-training-data](https://github.com/richardARPANET/amazon-captcha-training-data) - Solved amazon.com login captcha images. Useful for training machine learning models.
 - [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
