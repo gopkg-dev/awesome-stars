@@ -280,7 +280,7 @@
 - [HsukqiLee/MediaUnlockTest](https://github.com/HsukqiLee/MediaUnlockTest) - MediaUnlockTest with golang
 - [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go
 - [leookun/cursor-byok-server](https://github.com/leookun/cursor-byok-server) - Infinite BYOK in Cursor https://github.com/leookun/cursor-byok/releases
-- [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Assign issues to Claude Code, Codex, Cursor, and 17 more coding agents like teammates — open-source and self-hostable.
 - [v03413/BEpusdt](https://github.com/v03413/BEpusdt) - 一款更好用的个人加密货币收款网关
 - [Noooste/azuretls-client](https://github.com/Noooste/azuretls-client) - An easy-to-use HTTP client to spoof TLS/JA3, HTTP2 and HTTP3 fingerprint
 - [gfpcom/free-proxy-list](https://github.com/gfpcom/free-proxy-list) - 🚀 The Best Free HTTP, SOCKS4/SOCKS5, SSL,SS/SSR Proxy List,V2Ray/XRay(Vmess/Vless) Configs, Tuic, Wireguard, Hyeseria, Trojan-Go/Trojan-GFW Servers  - 🔄 Updated Every 30 Minutes⏰
