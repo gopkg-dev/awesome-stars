@@ -284,7 +284,7 @@
 - [callstack/agent-device](https://github.com/callstack/agent-device) - CLI to control iOS and Android devices for AI agents
 - [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) - ValueCell is a community-driven, multi-agent platform for financial applications.
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [firerpa/lamda](https://github.com/firerpa/lamda) - Android Full-Stack Device Control Platform: WebRTC/H.264 remote desktop, UI/OCR/image-matching automation, one-click MITM, built-in Frida, proxy/VPN/frp/P2P networking, MCP/Agent, 160+ APIs, designed 
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Build AI agents and web apps — with a single binary.
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
@@ -311,7 +311,7 @@
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 - [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks, plus advanced channel management | 一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板
 - [monkeyWie/typix](https://github.com/monkeyWie/typix) - 开源AI生图工具，免登录畅玩 FLUX2、SDXL，支持 cloudflare workers 一键部署自托管，并集成各大主流AI提供商，提供一站式的创作体验。
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [hanshuaikang/AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。
 - [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍 导出并模糊搜索 Telegram 聊天记录 | Export and fuzzy search your Telegram chat history
 - [nexmoe/serverless-comfyui](https://github.com/nexmoe/serverless-comfyui) - 一个基于 Docker 的 ComfyUI 弹性 Serverless 应用，提供完整的前后端分离架构和用户友好的界面。
@@ -475,7 +475,7 @@
 
 ## artificial-intelligence 
 
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 
 ## automation 
@@ -485,7 +485,7 @@
 - [callstack/agent-device](https://github.com/callstack/agent-device) - CLI to control iOS and Android devices for AI agents
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [spider-rs/spider](https://github.com/spider-rs/spider) - Get web data for AI agents and LLMs
 - [BrowTo/BrowTo](https://github.com/BrowTo/BrowTo) - 指纹猎手（BrowTo：Browser和Auto的融合）是一款在常见指纹浏览器以及谷歌浏览器上全自动运行脚本的效率提升助手，是自动化浏览器的终极武器。
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主
@@ -610,7 +610,7 @@
 ## chatbot 
 
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [shaxiu/XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent) - 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Build AI agents and web apps — with a single binary.
 - [mileusna/facebook-messenger](https://github.com/mileusna/facebook-messenger) - Go (GoLang) package for Facebook Messenger API and Chat bot
@@ -1009,7 +1009,7 @@
 - [runabol/tork](https://github.com/runabol/tork) - Tork is a lightweight, distributed workflow engine that runs tasks as simple scripts within Docker containers.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [dstackai/dstack](https://github.com/dstackai/dstack) - Vendor-agnostic orchestration for training, inference and agentic workloads across NVIDIA, AMD, TPU, and Tenstorrent on clouds, Kubernetes, and bare metal.
-- [borys25ol/amazon-location-cookies-service](https://github.com/borys25ol/amazon-location-cookies-service) - Service for extracting Amazon location cookies based on Amazon Zip-Code
+- [borys25ol/amazon-location-cookies-service](https://github.com/borys25ol/amazon-location-cookies-service) - Self-hosted API that extracts Amazon location and delivery-country session cookies, solving the AWS WAF challenge with a headless browser
 - [bassmaster187/TeslaLogger](https://github.com/bassmaster187/TeslaLogger) - TeslaLogger is a self hosted data logger for your Tesla Model S/3/X/Y. Actually it supports RaspberryPi 3B, 3B+, 4B, Docker and Synology NAS.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [passteque/gluetun](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
@@ -1108,7 +1108,7 @@
 
 ## fastapi 
 
-- [borys25ol/amazon-location-cookies-service](https://github.com/borys25ol/amazon-location-cookies-service) - Service for extracting Amazon location cookies based on Amazon Zip-Code
+- [borys25ol/amazon-location-cookies-service](https://github.com/borys25ol/amazon-location-cookies-service) - Self-hosted API that extracts Amazon location and delivery-country session cookies, solving the AWS WAF challenge with a headless browser
 
 ## finance 
 
@@ -2288,7 +2288,7 @@
 - [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [alibaba/formily](https://github.com/alibaba/formily) - 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
 - [go-dev-frame/sponge](https://github.com/go-dev-frame/sponge) - A powerful and easy-to-use Go development framework that enables you to effortlessly build stable, reliable, and high-performance backend services with a "low-code" approach.
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [quanxiang-cloud/quanxiang](https://github.com/quanxiang-cloud/quanxiang) - QuanXiang is a powerful, pluggable open source low-code platform used to assist in building various types of digital applications for enterprises.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [go-woo/protoc-gen-echo](https://github.com/go-woo/protoc-gen-echo) - Generate Echo backend code
@@ -2518,7 +2518,7 @@
 - [codexu/note-gen](https://github.com/codexu/note-gen) - Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.
 - [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [hexclave/multi-tenant-starter-template](https://github.com/hexclave/multi-tenant-starter-template) - A minimalistic multi-tenant Next.js starter template
 - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn
 - [aymanch-03/shadcn-pricing-page](https://github.com/aymanch-03/shadcn-pricing-page) - Responsive and customizable pricing component built with shadcn/ui. Features payment frequency toggles, tier highlights and smooth price transitions.
@@ -2546,7 +2546,7 @@
 
 - [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [alibaba/formily](https://github.com/alibaba/formily) - 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [quanxiang-cloud/quanxiang](https://github.com/quanxiang-cloud/quanxiang) - QuanXiang is a powerful, pluggable open source low-code platform used to assist in building various types of digital applications for enterprises.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
@@ -2625,7 +2625,7 @@
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 - [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks, plus advanced channel management | 一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [hanshuaikang/AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。
 - [kt946/ai-threejs-products-app-yt-jsm](https://github.com/kt946/ai-threejs-products-app-yt-jsm) - A 3D T-Shirt website where users can design their own shirts with patterns and logos.
 - [PaoloJN/youtube-ai-extension](https://github.com/PaoloJN/youtube-ai-extension) - Interactive YouTube extension built with React, Tailwind CSS, and Plasmo. It integrates with the OpenAI API to enable real-time video chat, providing summaries, Q&A, and context-aware responses direct
@@ -2641,7 +2641,7 @@
 
 ## others 
 
-- [leookun/cursor-byok](https://github.com/leookun/cursor-byok) - Infinite BYOK in Cursor  https://github.com/leookun/cursor-byok/releases
+- [leookun/cursor-byok](https://github.com/leookun/cursor-byok) - cursor-byok is a local implementation of Cursor's backend. https://github.com/leookun/cursor-byok/releases
 - [hahahumble/storageui](https://github.com/hahahumble/storageui) - ☁️ Open file browser for S3, R2, and other storage backends.
 - [egoist/kero](https://github.com/egoist/kero) - A native terminal workspace for macOS.
 - [pandorafuture/wx-cli](https://github.com/pandorafuture/wx-cli) - WeChat macOS database decryption and query tool
@@ -3492,6 +3492,7 @@
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
 - [dstackai/dstack](https://github.com/dstackai/dstack) - Vendor-agnostic orchestration for training, inference and agentic workloads across NVIDIA, AMD, TPU, and Tenstorrent on clouds, Kubernetes, and bare metal.
+- [borys25ol/amazon-location-cookies-service](https://github.com/borys25ol/amazon-location-cookies-service) - Self-hosted API that extracts Amazon location and delivery-country session cookies, solving the AWS WAF challenge with a headless browser
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
@@ -3519,7 +3520,7 @@
 - [DEEIX-AI/DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat) - An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.
 - [dataease/SQLBot](https://github.com/dataease/SQLBot) - 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.
 - [codexu/note-gen](https://github.com/codexu/note-gen) - Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 
 ## rails 
 
@@ -3544,7 +3545,7 @@
 - [alibaba/formily](https://github.com/alibaba/formily) - 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
 - [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [kt946/ai-threejs-products-app-yt-jsm](https://github.com/kt946/ai-threejs-products-app-yt-jsm) - A 3D T-Shirt website where users can design their own shirts with patterns and logos.
 - [buuing/lucky-canvas](https://github.com/buuing/lucky-canvas) - 🎖🎖🎖 基于 TS + Canvas 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等，🎨 奖品 / 文字 / 图片 / 颜色 / 按钮均可配置，支持同步 / 异步抽奖，🎯 概率前 / 后端可控，🚀 自动根据 dpr 调整清晰度适配移动端
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
@@ -4047,7 +4048,7 @@
 - [lhlyu/vue-virtual-waterfall](https://github.com/lhlyu/vue-virtual-waterfall) - vue3 virtual waterfall component（Vue3虚拟瀑布流组件）
 - [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) - 一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。
 - [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.
 - [adonmo/perspective.ts](https://github.com/adonmo/perspective.ts) - Transforms the perspective of an image and draw it on a canvas
 - [fabiospampinato/cash](https://github.com/fabiospampinato/cash) - An absurdly small jQuery alternative for modern browsers.
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
