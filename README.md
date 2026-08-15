@@ -1025,6 +1025,7 @@
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 - [liuyufei/SSLKiller](https://github.com/liuyufei/SSLKiller) - SSLKiller is used for killing SSL verification functions on Android client side. With SSLKiller, You can intercept app's HTTPS communication packages between the client and server.
 - [jhunters/jprotobuf](https://github.com/jhunters/jprotobuf) - A useful utility library for java programmer using google protobuf
+- [bigsinger/AndroidIdChanger](https://github.com/bigsinger/AndroidIdChanger) - Xposed Module for Changing Android Device Info
 - [fooree/fooXposed](https://github.com/fooree/fooXposed) - Xposed tutorial demos
 - [uebian/QQRobot](https://github.com/uebian/QQRobot) - 在安卓上运行的基于PCTIM协议的QQ机器人
 - [a813630449/dumpDex](https://github.com/a813630449/dumpDex) - 
@@ -1316,7 +1317,6 @@
 - [w1zard/closurether](https://github.com/w1zard/closurether) - network traffic hijack via Node
 - [iMeiji/shadowsocks_install](https://github.com/iMeiji/shadowsocks_install) - Auto install shadowsocks server，thanks 秋水逸冰
 - [judasn/IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) - IntelliJ IDEA 简体中文专题教程
-- [bigsinger/AndroidIdChanger](https://github.com/bigsinger/AndroidIdChanger) - Xposed Module for Changing Android Device Info
 - [skyhee/gin-doc-cn](https://github.com/skyhee/gin-doc-cn) - go 语言框架 gin 的中文文档
 - [maoxiao/fb_ssl_pinning](https://github.com/maoxiao/fb_ssl_pinning) - bypass facebook ssl pinning on android
 
@@ -1573,6 +1573,7 @@
 
 ## TypeScript 
 
+- [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) - 为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验
 - [hahahumble/storageui](https://github.com/hahahumble/storageui) - ☁️ Open file browser for S3, R2, and other storage backends.
 - [comfy-addons/comfy-station](https://github.com/comfy-addons/comfy-station) - A opensource to manager multiple ComfyUI client
 - [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
