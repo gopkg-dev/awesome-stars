@@ -1340,7 +1340,7 @@
 
 - [asdfg3482968521-alt/Codex-5.5-codex-instruct-5.5](https://github.com/asdfg3482968521-alt/Codex-5.5-codex-instruct-5.5) - Codex CLI 破甲工具（GPT-5.5） — 注入无限制模式系统指令，关闭所有内容过滤器。
 - [myfanhua/turb-gpt-free-register](https://github.com/myfanhua/turb-gpt-free-register) - 指纹浏览器、纯协议全自动ChatGPT FREE注册机+Codex自动接码授权、对接提链服务器
-- [AaronL725/grok-register](https://github.com/AaronL725/grok-register) - 批量注册稳定 Grok 账号，可直接导入 grok2api 和 cpa 使用，并且可以与cloudflare无限域名邮箱等联动。通过1000+账号连续注册测试。
+- [AaronL725/grok-register](https://github.com/AaronL725/grok-register) - 批量稳定注册 Grok 账号，支持 WebUI/GUI/CLI、多邮箱服务、多线程并发、账号级多协议代理池、grok2api 入池、SSO 风控筛查与CPA OIDC 凭证导出。
 - [yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5) - 
 - [QiuChenly/ida-pro-mcp-enhancement](https://github.com/QiuChenly/ida-pro-mcp-enhancement) - 二创爆改，懒得提交给原仓库了
 - [wuyoscar/GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill) - GPT Image 2 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing
