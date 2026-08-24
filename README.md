@@ -268,7 +268,6 @@
 ## Go 
 
 - [Xsxdot/sq](https://github.com/Xsxdot/sq) - sq 消息队列
-- [leookun/cursor-byok](https://github.com/leookun/cursor-byok) - cursor-byok is a local implementation of Cursor's backend. https://github.com/leookun/cursor-byok/releases
 - [Wangnov/mailpilot](https://github.com/Wangnov/mailpilot) - 极简推送式 AI 邮件管家：IMAP→LLM(订阅/API/本地)→多渠道推送。零依赖、可交叉编译。
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [DEEIX-AI/DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat) - An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.
@@ -1191,7 +1190,7 @@
 - [RD17/TeleJS](https://github.com/RD17/TeleJS) - 🚩 TeleJS is a pure JavaScript implementation of Telegram MTP protocol
 - [venkatbaggu/dapperorm](https://github.com/venkatbaggu/dapperorm) - dapperorm
 - [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
-- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
+- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生/人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [Yija/vipAdminTemplate](https://github.com/Yija/vipAdminTemplate) - 基于最新的 LAYUI 版本 该模板简洁丶易用丶兼容移动端 该模板适用于后端管理系统,CMS系统,企业OS系统以及各种后台管理 该模板对浏览器的要求比较高 至少使用IE9+的用户浏览使用
 - [StartBootstrap/startbootstrap-simple-sidebar](https://github.com/StartBootstrap/startbootstrap-simple-sidebar) - An off canvas sidebar navigation Bootstrap HTML template created by Start Bootstrap
 - [k1995/BaiduyunSpider](https://github.com/k1995/BaiduyunSpider) - 百度云网盘搜索引擎，包含爬虫 & 网站
@@ -1453,6 +1452,7 @@
 ## Rust 
 
 - [egoist/waku](https://github.com/egoist/waku) - ⚡ A native app for all your coding agents.
+- [leookun/cursor-byok](https://github.com/leookun/cursor-byok) - cursor-byok is a local implementation of Cursor's backend. https://github.com/leookun/cursor-byok/releases
 - [pandorafuture/wx-cli](https://github.com/pandorafuture/wx-cli) - WeChat macOS database decryption and query tool
 - [missuo/tokens](https://github.com/missuo/tokens) - Track, visualize, and compete on your AI coding-assistant token usage — CLI + web leaderboard. A fork of junhoyeo/tokscale.
 - [RongleCat/grok-go](https://github.com/RongleCat/grok-go) - Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。
@@ -1460,7 +1460,6 @@
 - [QingJ01/Pebble](https://github.com/QingJ01/Pebble) - A small yet beautiful email client.
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
-- [fanbuz/codex-threads](https://github.com/fanbuz/codex-threads) - 索引、搜索和读取 Codex 历史线程
 - [Wangnov/codex-patch](https://github.com/Wangnov/codex-patch) - Private Codex patch mirror with agentic replay automation
 - [hank9999/kiro.rs](https://github.com/hank9999/kiro.rs) - A Kiro Client in Rust
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
