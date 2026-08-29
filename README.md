@@ -1154,7 +1154,7 @@
 - [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.
 - [ErosZy/sablejs](https://github.com/ErosZy/sablejs) - Run user plugins, rules, formulas, and AI-generated JavaScript safely in browsers.
 - [jc21/docker-registry-ui](https://github.com/jc21/docker-registry-ui) - 😎 A nice web interface for managing your Docker Registry images
-- [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
+- [openspug/spug](https://github.com/openspug/spug) - Spug is a lightweight agent-free automatic operation and maintenance platform designed for small and medium-sized enterprises. It integrates host management, host batch execution, host online terminal
 - [bowser-js/bowser](https://github.com/bowser-js/bowser) - a browser detector
 - [zhuowenli/githuber](https://github.com/zhuowenli/githuber) - :octocat:  Display Github Trending repositories on Chrome New Tab Extensions
 - [monkeylord/XposedFridaBridge](https://github.com/monkeylord/XposedFridaBridge) - A frida script implement XposedBridge & load xposed modules, without installing xposed framwork.
@@ -1616,6 +1616,7 @@
 - [dbnnt/GeekFaka](https://github.com/dbnnt/GeekFaka) - GeekFaka 是一个专为独立开发者和创作者打造的 Headless 自动发卡系统。基于 Next.js + React 18 + Prisma 构建，拥有极致的深色极客   UI、Markdown 渲染、多渠道易支付（RSA/MD5）集成以及 Docker 一键部署能力。抛弃繁琐，让数字商品售卖回归简单与优雅。
 - [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not jus
 - [ding113/claude-code-hub](https://github.com/ding113/claude-code-hub) - 一个现代化的 Claude Code & Codex API 代理服务，提供智能负载均衡、用户管理和使用统计功能。
+- [hooray/fantastic-startkit](https://github.com/hooray/fantastic-startkit) - 简单好用的 Vue3 项目启动套件，采用 Monorepo 架构
 - [mugnavo/tanstarter](https://github.com/mugnavo/tanstarter) - 🏝️ minimal TanStack Start template with Vite+, Better Auth, Drizzle ORM, shadcn/ui
 - [SaladTechnologies/comfyui-api](https://github.com/SaladTechnologies/comfyui-api) - A simple API server to make ComfyUI easy to scale horizontally. Get outputs directly in the response, or asynchronously via a variety of storage providers.
 - [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks, plus advanced channel management | 一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板
@@ -1770,7 +1771,6 @@
 ## Vue 
 
 - [dianprata/nuxt-shadcn-dashboard](https://github.com/dianprata/nuxt-shadcn-dashboard) - Template Dashboard with Nuxt 4 + Shadcn + TailwindCSS 4
-- [hooray/fantastic-startkit](https://github.com/hooray/fantastic-startkit) - 简单好用的 Vue3 项目启动套件，采用 Monorepo 架构
 - [lhlyu/vue-virtual-waterfall](https://github.com/lhlyu/vue-virtual-waterfall) - vue3 virtual waterfall component（Vue3虚拟瀑布流组件）
 - [xiaoxiunique/xhs](https://github.com/xiaoxiunique/xhs) - 一个基于 Nuxt.js 3 开发的小红书工具网站，提供图文，视频，评论 浏览与导出
 - [hanshuaikang/AI-Media2Doc](https://github.com/hanshuaikang/AI-Media2Doc) - 一键将音视频转化为小红书/公众号/知识笔记/思维导图/视频字幕等各种风格的文档。
