@@ -288,7 +288,7 @@
 - [Noooste/azuretls-client](https://github.com/Noooste/azuretls-client) - An easy-to-use HTTP client to spoof TLS/JA3, HTTP2 and HTTP3 fingerprint
 - [gfpcom/free-proxy-list](https://github.com/gfpcom/free-proxy-list) - 🚀 The Best Free HTTP, SOCKS4/SOCKS5, SSL,SS/SSR Proxy List,V2Ray/XRay(Vmess/Vless) Configs, Tuic, Wireguard, Hyeseria, Trojan-Go/Trojan-GFW Servers  - 🔄 Updated Every 30 Minutes⏰
 - [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
-- [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Multi-channel AI proxy with intelligent key rotation. 智能密钥轮询的多渠道 AI 代理。
+- [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。
 - [Resinat/Resin](https://github.com/Resinat/Resin) - A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [1001api/sso-be](https://github.com/1001api/sso-be) - Production-ready SSO service in Go/Fiber with OAuth, OTP, email login, AES-256, JWT, RBAC, audit logs, Redis caching, and API key support for multi-tenant apps.
