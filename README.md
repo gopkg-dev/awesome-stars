@@ -268,6 +268,7 @@
 
 ## Go 
 
+- [forever94yu/icloud-prime](https://github.com/forever94yu/icloud-prime) - Self-hosted iCloud Hide My Email management console with Windows portable releases
 - [TokenPLS/Hako](https://github.com/TokenPLS/Hako) - High-performance Adaptive Kernel, Open-source.
 - [Xsxdot/sq](https://github.com/Xsxdot/sq) - sq 消息队列
 - [Wangnov/mailpilot](https://github.com/Wangnov/mailpilot) - 极简推送式 AI 邮件管家：IMAP→LLM(订阅/API/本地)→多渠道推送。零依赖、可交叉编译。
@@ -1045,7 +1046,6 @@
 - [vs-olitus/AntiDebug_Breaker_mcp](https://github.com/vs-olitus/AntiDebug_Breaker_mcp) - 
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
-- [WhiteNightShadow/hello_js_reverse_skill](https://github.com/WhiteNightShadow/hello_js_reverse_skill) - 🔧 AI-powered JS逆向工程 Skill —— 覆盖加密还原、混淆分析、动态Cookie、WASM逆向、协议对抗等全链路场景，通过 Node.js 实现算法还原与模拟请求。适配 Claude Code / Claude.ai / 其他AI编码工具
 - [QLHazyCoder/FlowPilot](https://github.com/QLHazyCoder/FlowPilot) - Chrome扩展：支持GPT（Codex） / kiro / Grok自动注册、相关反代项目（CPA/Sub）回调上传
 - [okankurtuluss/FridaBypassKit](https://github.com/okankurtuluss/FridaBypassKit) - Android Universal Anti-Bypass Framework - Root, SSL Pinning, Emulator & Debug Detection Bypass
 - [Rabbit-Spec/Surge](https://github.com/Rabbit-Spec/Surge) - Surge自用配置以及模块和脚本
@@ -1355,6 +1355,7 @@
 - [daijro/geoip-all-in-one](https://github.com/daijro/geoip-all-in-one) - Merges IP2Location + GeoLite2 + DB-IP and more into a single, highly accurate mmdb. Rebuilt weekly
 - [Wtcity22/Open-Anti-Browser](https://github.com/Wtcity22/Open-Anti-Browser) - 开源的指纹浏览器应用，支持Chrome和Firefox
 - [Fausto-404/js-reverse-automation--skill](https://github.com/Fausto-404/js-reverse-automation--skill) - 结合chrome-devtools-mcp的能力并加上Skill的规范，实现JSRPC+Flask+autoDecoder方案的前端JS逆向自动化分析，提升JS逆向的效率
+- [WhiteNightShadow/hello_js_reverse_skill](https://github.com/WhiteNightShadow/hello_js_reverse_skill) - 🔧 AI-powered JS逆向工程 Skill —— 覆盖加密还原、混淆分析、动态Cookie、WASM逆向、协议对抗等全链路场景，通过 Node.js 实现算法还原与模拟请求。适配 Claude Code / Claude.ai / 其他AI编码工具
 - [zhuyansen/wx-favorites-report](https://github.com/zhuyansen/wx-favorites-report) - 微信收藏可视化 Claude Code Skill — 从加密 DB 到交互式 HTML 报告的端到端管线
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [zc-zhangchen/any-auto-register](https://github.com/zc-zhangchen/any-auto-register) - 
