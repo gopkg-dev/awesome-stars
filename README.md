@@ -1517,6 +1517,7 @@
 
 ## Swift 
 
+- [missuo/wisp](https://github.com/missuo/wisp) - Wisp: computer use for agents on macOS (accessibility tree + synthesized input + DevTools), with a CLI and MCP server
 - [openai/tart](https://github.com/openai/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [egoist/kero](https://github.com/egoist/kero) - A native terminal workspace for macOS.
 - [fzlzjerry/wechat-antirecall](https://github.com/fzlzjerry/wechat-antirecall) - antirecall for macos wechat 4 or later
@@ -1624,7 +1625,7 @@
 - [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not jus
 - [ding113/claude-code-hub](https://github.com/ding113/claude-code-hub) - 一个现代化的 Claude Code & Codex API 代理服务，提供智能负载均衡、用户管理和使用统计功能。
 - [hooray/fantastic-startkit](https://github.com/hooray/fantastic-startkit) - 简单好用的 Vue3 项目启动套件，采用 Monorepo 架构
-- [mugnavo/tanstarter](https://github.com/mugnavo/tanstarter) - 🏝️ minimal TanStack Start template with Vite+, Better Auth, Drizzle ORM, shadcn/ui
+- [mugnavo/cove](https://github.com/mugnavo/cove) - The Cove Stack: 🏝️ minimal TanStack Start template with Vite+, Better Auth, Drizzle ORM, shadcn/ui
 - [SaladTechnologies/comfyui-api](https://github.com/SaladTechnologies/comfyui-api) - A simple API server to make ComfyUI easy to scale horizontally. Get outputs directly in the response, or asynchronously via a variety of storage providers.
 - [qixing-jk/all-api-hub](https://github.com/qixing-jk/all-api-hub) - All-in-one New-API/Sub2API account hub: balance/usage dashboard, auto check-in, one-click keys, price comparison, health checks, plus advanced channel management | 一站式 New-API/Sub2API 等中转站账号管理：余额/用量看板
 - [MiaM1ku/AliMPay](https://github.com/MiaM1ku/AliMPay) - 
