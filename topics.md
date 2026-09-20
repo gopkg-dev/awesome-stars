@@ -1057,6 +1057,7 @@
 ## dsh-plugin 
 
 - [dsh-tauri/deepseek-harness-desktop](https://github.com/dsh-tauri/deepseek-harness-desktop) - DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.
+- [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) - DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版
 - [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
@@ -1933,7 +1934,7 @@
 
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command-line interface
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
+- [buresdv/Cork](https://github.com/buresdv/Cork) - [NO AI] Fast GUI for Homebrew written in SwiftUI
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 - [1zilc/fishing-funds](https://github.com/1zilc/fishing-funds) - 基金,大盘,股票,虚拟货币状态栏显示小应用
 
@@ -2365,7 +2366,7 @@
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [LZhenHong/Americano](https://github.com/LZhenHong/Americano) - Simple caffeinate wrapper stay at menu bar.
 - [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
+- [buresdv/Cork](https://github.com/buresdv/Cork) - [NO AI] Fast GUI for Homebrew written in SwiftUI
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -2662,6 +2663,7 @@
 
 ## others 
 
+- [missuo/wisp](https://github.com/missuo/wisp) - Wisp: computer use for agents on macOS (accessibility tree + synthesized input + DevTools), with a CLI and MCP server
 - [egoist/quickgui](https://github.com/egoist/quickgui) - An experimental GPU-rendered GUI framework, no webview.
 - [zed-industries/awesome-gpui](https://github.com/zed-industries/awesome-gpui) - Awesome projects, built with or for GPUI!
 - [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router) - External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.
@@ -2712,7 +2714,6 @@
 - [indragiek/GHFS](https://github.com/indragiek/GHFS) - Mount GitHub repositories as a virtual read-only macOS filesystem
 - [sylearn/AIUsage](https://github.com/sylearn/AIUsage) - One dashboard to manage all your AI subscriptions — track quotas, costs, accounts, Claude Code proxy, and Codex proxy in one place.
 - [hexiecs/talk-normal](https://github.com/hexiecs/talk-normal) - Make any LLM talk like a normal person. A system prompt that removes AI slop.
-- [fanbuz/codex-threads](https://github.com/fanbuz/codex-threads) - 索引、搜索和读取 Codex 历史线程
 - [QLHazyCoder/FlowPilot](https://github.com/QLHazyCoder/FlowPilot) - Chrome扩展：支持GPT（Codex） / kiro / Grok自动注册、相关反代项目（CPA/Sub）回调上传
 - [idawnlight/ShichiZip](https://github.com/idawnlight/ShichiZip) - The 7-Zip derivative intended for macOS
 - [Amery2010/peinture](https://github.com/Amery2010/peinture) - A general-purpose AI image generation framework that supports Hugging Face, Gitee, Model Scope, and more.
@@ -3440,7 +3441,7 @@
 - [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
-- [mugnavo/tanstarter](https://github.com/mugnavo/tanstarter) - 🏝️ minimal TanStack Start template with Vite+, Better Auth, Drizzle ORM, shadcn/ui
+- [mugnavo/cove](https://github.com/mugnavo/cove) - The Cove Stack: 🏝️ minimal TanStack Start template with Vite+, Better Auth, Drizzle ORM, shadcn/ui
 - [dosco/graphjin](https://github.com/dosco/graphjin) - One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code
 - [nextify-limited/saasfly](https://github.com/nextify-limited/saasfly) - Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -3565,7 +3566,7 @@
 - [ahaodev/shadmin](https://github.com/ahaodev/shadmin) - An Enterprise-Grade Full-Stack RBAC Permission Management System Built with Go + React
 - [surajmandalcell/darwin-ui](https://github.com/surajmandalcell/darwin-ui) - MacOS'esk react component library.
 - [ValueCell-ai/valuecell](https://github.com/ValueCell-ai/valuecell) - ValueCell is a community-driven, multi-agent platform for financial applications.
-- [mugnavo/tanstarter](https://github.com/mugnavo/tanstarter) - 🏝️ minimal TanStack Start template with Vite+, Better Auth, Drizzle ORM, shadcn/ui
+- [mugnavo/cove](https://github.com/mugnavo/cove) - The Cove Stack: 🏝️ minimal TanStack Start template with Vite+, Better Auth, Drizzle ORM, shadcn/ui
 - [IGoRFonin/chrome-proxy-extension](https://github.com/IGoRFonin/chrome-proxy-extension) - 🌐 Умный менеджер прокси для Chrome с автоматической маршрутизацией по доменам. Разные сайты — разные прокси. Никаких ручных переключений!
 - [alibaba/formily](https://github.com/alibaba/formily) - 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
 - [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
@@ -3920,7 +3921,7 @@
 - [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
 - [LZhenHong/Americano](https://github.com/LZhenHong/Americano) - Simple caffeinate wrapper stay at menu bar.
 - [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
+- [buresdv/Cork](https://github.com/buresdv/Cork) - [NO AI] Fast GUI for Homebrew written in SwiftUI
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 - [5j54d93/Mac-Battery-Inspector](https://github.com/5j54d93/Mac-Battery-Inspector) - A macOS app develop with SwiftUI in MVVM that could inspect mac's battery info.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
@@ -3945,13 +3946,13 @@
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [LZhenHong/Americano](https://github.com/LZhenHong/Americano) - Simple caffeinate wrapper stay at menu bar.
 - [wflixu/RClick](https://github.com/wflixu/RClick) - macos finder  contextmenu
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI, AI-free
+- [buresdv/Cork](https://github.com/buresdv/Cork) - [NO AI] Fast GUI for Homebrew written in SwiftUI
 - [5j54d93/Mac-Battery-Inspector](https://github.com/5j54d93/Mac-Battery-Inspector) - A macOS app develop with SwiftUI in MVVM that could inspect mac's battery info.
 - [MustangYM/OSXChatGPT](https://github.com/MustangYM/OSXChatGPT) - Easy to use OpenAI ChatGPT on your mac !
 
 ## tailwind 
 
-- [mugnavo/tanstarter](https://github.com/mugnavo/tanstarter) - 🏝️ minimal TanStack Start template with Vite+, Better Auth, Drizzle ORM, shadcn/ui
+- [mugnavo/cove](https://github.com/mugnavo/cove) - The Cove Stack: 🏝️ minimal TanStack Start template with Vite+, Better Auth, Drizzle ORM, shadcn/ui
 - [9d8dev/router](https://github.com/9d8dev/router) - Router.so is headless form handling and lead routing for marketing-minded developers.
 - [dan5py/turborepo-shadcn-ui](https://github.com/dan5py/turborepo-shadcn-ui) - Turborepo starter with shadcn/ui pre-configured.
 - [siegerts/dossi-ext](https://github.com/siegerts/dossi-ext) - dossi browser extension: Your own private GitHub notes on every page
@@ -3964,7 +3965,7 @@
 
 - [CookSleep/gpt_image_playground](https://github.com/CookSleep/gpt_image_playground) - 基于 OpenAI gpt-image-2.5 API 的图片生成与编辑工具
 - [dianprata/nuxt-shadcn-dashboard](https://github.com/dianprata/nuxt-shadcn-dashboard) - Template Dashboard with Nuxt 4 + Shadcn + TailwindCSS 4
-- [mugnavo/tanstarter](https://github.com/mugnavo/tanstarter) - 🏝️ minimal TanStack Start template with Vite+, Better Auth, Drizzle ORM, shadcn/ui
+- [mugnavo/cove](https://github.com/mugnavo/cove) - The Cove Stack: 🏝️ minimal TanStack Start template with Vite+, Better Auth, Drizzle ORM, shadcn/ui
 - [imskyleen/animate-ui](https://github.com/imskyleen/animate-ui) - Fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, Motion, and Shadcn CLI. Browse a list of components you can install, modify, and use in your projects.
 - [kt946/ai-threejs-products-app-yt-jsm](https://github.com/kt946/ai-threejs-products-app-yt-jsm) - A 3D T-Shirt website where users can design their own shirts with patterns and logos.
 - [LuanRoger/electron-shadcn](https://github.com/LuanRoger/electron-shadcn) - :electron: Electron Forge with shadcn-ui (Vite + Typescript)
