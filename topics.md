@@ -277,7 +277,7 @@
 - [wuyoscar/GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill) - GPT Image 2/2.5 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing
 - [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) - Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
-- [dstackai/dstack](https://github.com/dstackai/dstack) - Vendor-agnostic orchestration for training, inference and agentic workloads across NVIDIA, AMD, TPU, and Tenstorrent on clouds, Kubernetes, and bare metal.
+- [dstackai/dstack](https://github.com/dstackai/dstack) - A unified orchestration layer for heterogeneous AI compute. It standardizes how to manage compute and run training and inference on GPU clouds, Kubernetes, VMs, or bare-metal clusters.
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
 
 ## agents 
@@ -737,7 +737,7 @@
 
 ## cloud 
 
-- [dstackai/dstack](https://github.com/dstackai/dstack) - Vendor-agnostic orchestration for training, inference and agentic workloads across NVIDIA, AMD, TPU, and Tenstorrent on clouds, Kubernetes, and bare metal.
+- [dstackai/dstack](https://github.com/dstackai/dstack) - A unified orchestration layer for heterogeneous AI compute. It standardizes how to manage compute and run training and inference on GPU clouds, Kubernetes, VMs, or bare-metal clusters.
 - [midwayjs/midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integra
 - [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
@@ -1017,7 +1017,7 @@
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [runabol/tork](https://github.com/runabol/tork) - Tork is a lightweight, distributed workflow engine that runs tasks as simple scripts within Docker containers.
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
-- [dstackai/dstack](https://github.com/dstackai/dstack) - Vendor-agnostic orchestration for training, inference and agentic workloads across NVIDIA, AMD, TPU, and Tenstorrent on clouds, Kubernetes, and bare metal.
+- [dstackai/dstack](https://github.com/dstackai/dstack) - A unified orchestration layer for heterogeneous AI compute. It standardizes how to manage compute and run training and inference on GPU clouds, Kubernetes, VMs, or bare-metal clusters.
 - [borys25ol/amazon-location-cookies-service](https://github.com/borys25ol/amazon-location-cookies-service) - Self-hosted API that extracts Amazon location and delivery-country session cookies, solving the AWS WAF challenge with a headless browser
 - [bassmaster187/TeslaLogger](https://github.com/bassmaster187/TeslaLogger) - TeslaLogger is a self hosted data logger for your Tesla Model S/3/X/Y. Actually it supports RaspberryPi 3B, 3B+, 4B, Docker and Synology NAS.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -2208,7 +2208,7 @@
 - [souvik03-136/NeuraBalancer](https://github.com/souvik03-136/NeuraBalancer) - Self-Optimizing Load Balancer
 - [quanxiang-cloud/quanxiang](https://github.com/quanxiang-cloud/quanxiang) - QuanXiang is a powerful, pluggable open source low-code platform used to assist in building various types of digital applications for enterprises.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
-- [dstackai/dstack](https://github.com/dstackai/dstack) - Vendor-agnostic orchestration for training, inference and agentic workloads across NVIDIA, AMD, TPU, and Tenstorrent on clouds, Kubernetes, and bare metal.
+- [dstackai/dstack](https://github.com/dstackai/dstack) - A unified orchestration layer for heterogeneous AI compute. It standardizes how to manage compute and run training and inference on GPU clouds, Kubernetes, VMs, or bare-metal clusters.
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Open Source API and AI Gateway supporting REST, GraphQL, TCP, gRPC and MCP (Model Context Protocol)
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [icowan/shorter](https://github.com/icowan/shorter) - 短链小工具
@@ -2335,7 +2335,7 @@
 
 - [Shooter3k/amazon-captchas](https://github.com/Shooter3k/amazon-captchas) - An archival dataset of 25,499 CAPTCHA images collected for a personal OCR project.
 - [richardARPANET/amazon-captcha-training-data](https://github.com/richardARPANET/amazon-captcha-training-data) - Solved amazon.com login captcha images. Useful for training machine learning models.
-- [dstackai/dstack](https://github.com/dstackai/dstack) - Vendor-agnostic orchestration for training, inference and agentic workloads across NVIDIA, AMD, TPU, and Tenstorrent on clouds, Kubernetes, and bare metal.
+- [dstackai/dstack](https://github.com/dstackai/dstack) - A unified orchestration layer for heterogeneous AI compute. It standardizes how to manage compute and run training and inference on GPU clouds, Kubernetes, VMs, or bare-metal clusters.
 - [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
@@ -2709,7 +2709,7 @@
 - [vs-olitus/AntiDebug_Breaker_mcp](https://github.com/vs-olitus/AntiDebug_Breaker_mcp) - 
 - [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas) - 面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。
 - [hero8152/Infinite-Canvas](https://github.com/hero8152/Infinite-Canvas) - Supports comfyui/API calls/modelscope calls
-- [liangdabiao/ecom-details-image](https://github.com/liangdabiao/ecom-details-image) - 一个面向 claude code / Codex / OpenClaw 的跨境电商和国内电商通用视觉创作 Skill。我精选25个高质量案例，涵盖纯色底产品主图、场景化生活图、平铺图、电商详情图、真实场景等等，全部配完整提示词，都可以利用 GPT-Image-2 API生成最终效果。一键生成电商相关图片！输入产品图片和需求描述，自动生成完整的电商主图、详情页图片、社媒推广图、直播间场景图等全套视觉
+- [liangdabiao/ecom-details-image](https://github.com/liangdabiao/ecom-details-image) - 一个面向workbuddy / Codex 等agent 的跨境电商和国内电商通用视觉创作 Skill。我精选25个高质量案例，涵盖纯色底产品主图、场景化生活图、平铺图、电商详情图、真实场景等等，全部配完整提示词，都可以利用 GPT-Image-2 API生成最终效果。一键生成电商相关图片！输入产品图片和需求描述，自动生成完整的电商主图、详情页图片、社媒推广图、直播间场景图等全套视觉素材。 与众不
 - [wangyaxings/qqnotify-go](https://github.com/wangyaxings/qqnotify-go) - A production-ready Go middleware for sending AI and automation notifications to QQ.
 - [github/app](https://github.com/github/app) - The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.
 - [LAOGOU-666/Comfyui-Transform](https://github.com/LAOGOU-666/Comfyui-Transform) - The simple implementation of the recraft sticker function
@@ -3531,7 +3531,7 @@
 - [Boris-code/feapder](https://github.com/Boris-code/feapder) - 🚀🚀🚀feapder is an easy to use, powerful crawler framework | feapder是一款上手简单，功能强大的Python爬虫框架。内置AirSpider、Spider、TaskSpider、BatchSpider四种爬虫解决不同场景的需求。且支持断点续爬、监控报警、浏览器渲染、海量数据去重等功能。更有功能强大的爬虫管理系统feaplat为其提供方便
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
-- [dstackai/dstack](https://github.com/dstackai/dstack) - Vendor-agnostic orchestration for training, inference and agentic workloads across NVIDIA, AMD, TPU, and Tenstorrent on clouds, Kubernetes, and bare metal.
+- [dstackai/dstack](https://github.com/dstackai/dstack) - A unified orchestration layer for heterogeneous AI compute. It standardizes how to manage compute and run training and inference on GPU clouds, Kubernetes, VMs, or bare-metal clusters.
 - [borys25ol/amazon-location-cookies-service](https://github.com/borys25ol/amazon-location-cookies-service) - Self-hosted API that extracts Amazon location and delivery-country session cookies, solving the AWS WAF challenge with a headless browser
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [zuruoke/watermark-removal](https://github.com/zuruoke/watermark-removal) - a machine learning image inpainting task that instinctively removes watermarks from image indistinguishable from the ground truth image
