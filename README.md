@@ -111,7 +111,6 @@
 
 - [chenxuuu/sms_forwarding](https://github.com/chenxuuu/sms_forwarding) - 超低成本硬件短信转发器，支持移动联通电信，ML307R+ESP32C3
 - [gridex/gridex](https://github.com/gridex/gridex) - A native macOS / windows / Linux database IDE built with Swift and AppKit. Connect to PostgreSQL, MySQL, SQLite, and Redis from a single app with a fast, keyboard-driven interface.
-- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [BBuf/Image-processing-algorithm](https://github.com/BBuf/Image-processing-algorithm) - paper implement
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 - [jiyulany/Fchrome](https://github.com/jiyulany/Fchrome) - 这是一款对chromium源码进行定制的浏览器,支持爬虫/JS逆向工程师进行辅助分析网页
@@ -267,6 +266,7 @@
 
 ## Go 
 
+- [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 - [mldong/jeeflow-go](https://github.com/mldong/jeeflow-go) - 轻量 Go工作流引擎——零框架依赖、DDD 充血模型。
 - [forever94yu/icloud-prime](https://github.com/forever94yu/icloud-prime) - Self-hosted iCloud Hide My Email management console with Windows portable releases
 - [TokenPLS/Hako](https://github.com/TokenPLS/Hako) - High-performance Adaptive Kernel, Open-source.
@@ -368,7 +368,7 @@
 - [duke-git/lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of Go.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core) - NextTrace, an open source visual route tracking CLI tool
-- [tx7do/kratos-transport](https://github.com/tx7do/kratos-transport) - kratos transport layer extension, support: rabbitmq,kafka,rocketmq,activemq,apollo,mcp,tcp,websocket...
+- [tx7do/kratos-transport](https://github.com/tx7do/kratos-transport) - Unified transport and broker extension set for the Kratos microservice framework: 30+ message-queue, RPC-framework, realtime, and network-protocol transports as pluggable modules, with generic typed h
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [aws/aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
 - [ProudMuBai/GoFilm](https://github.com/ProudMuBai/GoFilm) - 多播放源自动采集在线影视网站 golang vue
@@ -1034,7 +1034,7 @@
 
 ## JavaScript 
 
-- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, and limits across 38+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, and OpenClaw—with multi-device sync.
+- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, and limits across 40+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, and OpenClaw—with multi-device sync.
 - [poxiao33/toSub2](https://github.com/poxiao33/toSub2) - 通过协议登录 ChatGPT、完成 Codex 授权并生成 sub2api 导入文件
 - [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router) - External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.
 - [guowenye/qishui-api](https://github.com/guowenye/qishui-api) - 汽水音乐的API
@@ -1357,6 +1357,7 @@
 - [Fausto-404/js-reverse-automation--skill](https://github.com/Fausto-404/js-reverse-automation--skill) - 结合chrome-devtools-mcp的能力并加上Skill的规范，实现JSRPC+Flask+autoDecoder方案的前端JS逆向自动化分析，提升JS逆向的效率
 - [WhiteNightShadow/hello_js_reverse_skill](https://github.com/WhiteNightShadow/hello_js_reverse_skill) - 🔧 AI-powered JS逆向工程 Skill —— 覆盖加密还原、混淆分析、动态Cookie、WASM逆向、协议对抗等全链路场景，通过 Node.js 实现算法还原与模拟请求。适配 Claude Code / Claude.ai / 其他AI编码工具
 - [zhuyansen/wx-favorites-report](https://github.com/zhuyansen/wx-favorites-report) - 微信收藏可视化 Claude Code Skill — 从加密 DB 到交互式 HTML 报告的端到端管线
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [zc-zhangchen/any-auto-register](https://github.com/zc-zhangchen/any-auto-register) - 
 - [kaima2022/ABCard](https://github.com/kaima2022/ABCard) - 
@@ -1457,6 +1458,7 @@
 
 ## Rust 
 
+- [zyycn/codex-proxy-rs](https://github.com/zyycn/codex-proxy-rs) - 基于 Rust 的低风控、自托管 Codex 多账号透明代理网关
 - [changexbc/workbuddy-switch](https://github.com/changexbc/workbuddy-switch) - WorkBuddy、CodeBuddy IDE、CodeBuddy CLI 与 VS Code CodeBuddy 插件四端账号切换桌面 App（Tauri），支持积分到期监控、积分统计与 Token 统计。
 - [qingjian-team/qingjian](https://github.com/qingjian-team/qingjian) - 青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词
 - [egoist/quickgui](https://github.com/egoist/quickgui) - An experimental GPU-rendered GUI framework, no webview.
@@ -1671,7 +1673,7 @@
 - [Agamnentzar/ag-psd](https://github.com/Agamnentzar/ag-psd) - Javascript library for reading and writing PSD files
 - [image-size/image-size](https://github.com/image-size/image-size) - Node module for detecting image dimensions
 - [dlemstra/magick-wasm](https://github.com/dlemstra/magick-wasm) - The WASM library for ImageMagick
-- [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 好用的 Canvas 引擎，轻松实现图形交互与编辑，AI 时代的无限画布引擎。An easy-to-use Canvas engine for effortless graphic interaction and editing — an infinite canvas engine for the AI era.
+- [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 好用的 Canvas 引擎，轻松构建可交互、可编辑的图形应用，AI 时代的无限画布引擎。An easy-to-use Canvas engine for building interactive and editable graphics applications — an infinite canvas engine for the AI era.
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 - [nexmoe/serverless-comfyui](https://github.com/nexmoe/serverless-comfyui) - 一个基于 Docker 的 ComfyUI 弹性 Serverless 应用，提供完整的前后端分离架构和用户友好的界面。
 - [Oceansdeep7/build-your-own-rmbg-tool](https://github.com/Oceansdeep7/build-your-own-rmbg-tool) - Run Transformers directly in browser
