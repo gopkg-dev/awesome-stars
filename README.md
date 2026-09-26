@@ -203,7 +203,7 @@
 - [leoafarias/sidekick](https://github.com/leoafarias/sidekick) - A simple app to make Flutter development more delightful
 - [simplezhli/flutter_deer](https://github.com/simplezhli/flutter_deer) - 🦌 Flutter 练习项目(包括集成测试、可访问性测试)。内含完整UI设计图，更贴近真实项目的练习。Flutter practice project (including integration testing and accessibility testing). Contains complete UI design drawings for a more realistic practic
 - [quillen-x/Wechat_Mac](https://github.com/quillen-x/Wechat_Mac) - Wechat Mac
-- [sail-tunnel/sail](https://github.com/sail-tunnel/sail) - A flutter demo client application for v2board.
+- [peakpassvpn/sail-app-demo](https://github.com/peakpassvpn/sail-app-demo) - A flutter demo client application for v2board.
 - [LianjiaTech/bruno](https://github.com/LianjiaTech/bruno) - An enterprise-class package of Flutter components for mobile applications. ( Bruno 是基于一整套设计体系的 Flutter 组件库。)
 - [SunsetFrost/Flutter-MediaLibrary](https://github.com/SunsetFrost/Flutter-MediaLibrary) - A flutter demo of favor media library collection, use BLOC pattern and layer project structure. use MediaLibraryBackend build with nestjs.
 - [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) - A cross-platform manga app made for e-hentai & exhentai by Flutter
@@ -1470,7 +1470,7 @@
 - [RongleCat/grok-go](https://github.com/RongleCat/grok-go) - Local multi-account Grok gateway for Codex (API + MCP). 本地多账号 Grok 网关，面向 Codex。
 - [3899/SimAdmin](https://github.com/3899/SimAdmin) - 🎉 面向Debian蜂窝CPE、随身WiFi、软路由类设备的 SIM/eSIM、蜂窝网络、短信、DDNS和系统状态管理系统。
 - [QingJ01/Pebble](https://github.com/QingJ01/Pebble) - A small yet beautiful email client.
-- [t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Dock
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [fanbuz/codex-threads](https://github.com/fanbuz/codex-threads) - 索引、搜索和读取 Codex 历史线程
 - [Wangnov/codex-patch](https://github.com/Wangnov/codex-patch) - Private Codex patch mirror with agentic replay automation
