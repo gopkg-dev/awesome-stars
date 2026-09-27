@@ -2690,6 +2690,7 @@
 
 ## others 
 
+- [dujiao-next/dujiao-next](https://github.com/dujiao-next/dujiao-next) - Dujiao-Next
 - [zyycn/codex-proxy-rs](https://github.com/zyycn/codex-proxy-rs) - 基于 Rust 的低风控、自托管 Codex 多账号透明代理网关
 - [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws) - A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a single window.
 - [missuo/wisp](https://github.com/missuo/wisp) - Wisp: computer use for agents on macOS (accessibility tree + synthesized input + DevTools), with a CLI and MCP server
@@ -2697,7 +2698,6 @@
 - [zed-industries/awesome-gpui](https://github.com/zed-industries/awesome-gpui) - Awesome projects, built with or for GPUI!
 - [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router) - External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.
 - [what1f/kitter](https://github.com/what1f/kitter) - A simple, lightweight Skill manager built in Rust. One library, just the Skills each project needs.
-- [TokenPLS/Hako](https://github.com/TokenPLS/Hako) - High-performance Adaptive Kernel, Open-source.
 - [guowenye/qishui-api](https://github.com/guowenye/qishui-api) - 汽水音乐的API
 - [DCspirit-23/DSH-inspired-Code-Simplification-Skill](https://github.com/DCspirit-23/DSH-inspired-Code-Simplification-Skill) - This Codex skill is adapted from DeepSeek Harness’s [dsh-find-simplifications](https://github.com/deepseek-ai/deepseek-harness/tree/master/.agents/skills/dsh-find-simplifications) skill.
 - [missuo/herdrm](https://github.com/missuo/herdrm) - Native macOS console for herdr — all your coding agents and their live terminals, across devices
