@@ -266,10 +266,10 @@
 
 ## Go 
 
+- [dujiao-next/dujiao-next](https://github.com/dujiao-next/dujiao-next) - Dujiao-Next
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 - [mldong/jeeflow-go](https://github.com/mldong/jeeflow-go) - 轻量 Go工作流引擎——零框架依赖、DDD 充血模型。
 - [forever94yu/icloud-prime](https://github.com/forever94yu/icloud-prime) - Self-hosted iCloud Hide My Email management console with Windows portable releases
-- [TokenPLS/Hako](https://github.com/TokenPLS/Hako) - High-performance Adaptive Kernel, Open-source.
 - [Xsxdot/sq](https://github.com/Xsxdot/sq) - sq 消息队列
 - [Wangnov/mailpilot](https://github.com/Wangnov/mailpilot) - 极简推送式 AI 邮件管家：IMAP→LLM(订阅/API/本地)→多渠道推送。零依赖、可交叉编译。
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
