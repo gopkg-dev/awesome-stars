@@ -354,7 +354,7 @@
 - [mdlayher/ndp](https://github.com/mdlayher/ndp) - Package ndp implements the Neighbor Discovery Protocol, as described in RFC 4861.  MIT Licensed.
 - [mdlayher/corerad](https://github.com/mdlayher/corerad) - CoreRAD is an extensible and observable IPv6 Neighbor Discovery Protocol router advertisement daemon. Apache 2.0 Licensed.
 - [dnomd343/XProxy](https://github.com/dnomd343/XProxy) - 虚拟旁路由网关，支持内网设备IPv4与IPv6双栈透明代理
-- [3th1nk/cidr](https://github.com/3th1nk/cidr) - golang to calculate CIDR network
+- [3th1nk/cidr](https://github.com/3th1nk/cidr) - Go library for CIDR: parse, sort, split & merge IP segments, overlap/subnet checks, collapse & range ops, host & mask math, netip interop (IPv4/IPv6)
 - [yoursunny/ndpresponder](https://github.com/yoursunny/ndpresponder) - IPv6 Neighbor Discovery Responder for KVM servers
 - [oov/psd](https://github.com/oov/psd) - PSD/PSB(Photoshop) file reader for Go programming language
 - [gonum/gonum](https://github.com/gonum/gonum) - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
@@ -540,7 +540,7 @@
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pla
 - [AlienRecall/metadata1](https://github.com/AlienRecall/metadata1) - 
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI, GPT 5.6, GPT-Image-2, Whisper API clients for Go
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI, GPT 6.1, GPT-Image-2, Whisper API clients for Go. Zero-dependency.
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
@@ -1035,7 +1035,7 @@
 
 ## JavaScript 
 
-- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, and limits across 41+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, and OpenClaw—with multi-device sync.
+- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, and limits across 41+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device sync.
 - [poxiao33/toSub2](https://github.com/poxiao33/toSub2) - 通过协议登录 ChatGPT、完成 Codex 授权并生成 sub2api 导入文件
 - [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router) - External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.
 - [guowenye/qishui-api](https://github.com/guowenye/qishui-api) - 汽水音乐的API
@@ -1736,7 +1736,7 @@
 - [Nutlope/description-generator](https://github.com/Nutlope/description-generator) - Generate descriptions from product images in multiple languages with AI
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
 - [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 - [extension-js/extension.js](https://github.com/extension-js/extension.js) - The cross-browser extension framework.
