@@ -44,7 +44,7 @@
 
 ## Astro 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 
 ## C 
@@ -363,7 +363,6 @@
 - [d0x7/go-protonats](https://github.com/d0x7/go-protonats) - Go Protoc plugin for using Protobuf with NATS.io
 - [donknap/dpanel](https://github.com/donknap/dpanel) - 轻量化 docker 可视化管理面板。lightweight  panel for docker
 - [hulutech-web/goravel-workflow](https://github.com/hulutech-web/goravel-workflow) - a golang workflow-engine,base on goravel framework
-- [mss-boot-io/mss-boot-admin](https://github.com/mss-boot-io/mss-boot-admin) - Governance-first Go admin backend with RBAC, API registry, configuration, i18n, operations, and AI-assisted OSS maintenance.
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programmi
 - [quarkcloudio/quark-go](https://github.com/quarkcloudio/quark-go) - Echo & Gin & GoFiber & GoZero & Hertz & Kratos  + Ant Design UI 前后端分离的管理后台，Build Anything With Quark
@@ -961,6 +960,7 @@
 
 ## HTML 
 
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 - [missuo/discord-image](https://github.com/missuo/discord-image) - Powerful Discord image hosting, file sharing
 - [jywarren/webgl-distort](https://github.com/jywarren/webgl-distort) - A demo project for perspective transformations on a given image at full resolution
@@ -1200,7 +1200,7 @@
 - [RD17/TeleJS](https://github.com/RD17/TeleJS) - 🚩 TeleJS is a pure JavaScript implementation of Telegram MTP protocol
 - [venkatbaggu/dapperorm](https://github.com/venkatbaggu/dapperorm) - dapperorm
 - [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
-- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语
+- [byoungd/up](https://github.com/byoungd/up) - 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.
 - [Yija/vipAdminTemplate](https://github.com/Yija/vipAdminTemplate) - 基于最新的 LAYUI 版本 该模板简洁丶易用丶兼容移动端 该模板适用于后端管理系统,CMS系统,企业OS系统以及各种后台管理 该模板对浏览器的要求比较高 至少使用IE9+的用户浏览使用
 - [StartBootstrap/startbootstrap-simple-sidebar](https://github.com/StartBootstrap/startbootstrap-simple-sidebar) - An off canvas sidebar navigation Bootstrap HTML template created by Start Bootstrap
 - [k1995/BaiduyunSpider](https://github.com/k1995/BaiduyunSpider) - 百度云网盘搜索引擎，包含爬虫 & 网站
