@@ -2958,7 +2958,7 @@
 - [meltingice/psd.js](https://github.com/meltingice/psd.js) - A Photoshop PSD file parser for NodeJS and browsers
 - [oov/psd](https://github.com/oov/psd) - PSD/PSB(Photoshop) file reader for Go programming language
 - [KlingAIResearch/LivePortrait](https://github.com/KlingAIResearch/LivePortrait) - Bring portraits to life!
-- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
+- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menu bar Tool to set Charge Limits and Prolong Battery Lifespan
 - [wibus-wee/InjectGUI](https://github.com/wibus-wee/InjectGUI) - macOS Integrated Injection Framework (GUI version)
 - [rurza/BatFi](https://github.com/rurza/BatFi) - Battery charging limiter for macOS.
 - [hyp1231/AmazonReviews2023](https://github.com/hyp1231/AmazonReviews2023) - Scripts for processing the Amazon Reviews 2023 dataset; implementations and checkpoints of BLaIR: "Bridging Language and Items for Retrieval and Recommendation".
@@ -3436,7 +3436,7 @@
 - [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
 - [rootm0s/Protectors](https://github.com/rootm0s/Protectors) - 🛡️ Obfuscator, Encryption, Junkcode, Anti-Debug, PE protection/modification
 - [tishion/mmLoader](https://github.com/tishion/mmLoader) - A library for loading dll module bypassing windows PE loader from memory (x86/x64)
-- [byoungd/up](https://github.com/byoungd/up) - 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.
+- [byoungd/up](https://github.com/byoungd/up) - 人生进阶指南 韩先凯的人生进阶指南 英语学习指南 离谱的人生 AI时代终身学习：AI、学习、创业与成长。
 - [mgwang37/octopus](https://github.com/mgwang37/octopus) - 高性能socks５代理服务 (High-performance socks5 proxy server)
 - [anhkgg/SuperDllHijack](https://github.com/anhkgg/SuperDllHijack) - SuperDllHijack：A general DLL hijack technology, don't need to manually export the same function interface of the DLL, so easy! 一种通用Dll劫持技术，不再需要手工导出Dll的函数接口了
 - [xiaobfly/MemPE](https://github.com/xiaobfly/MemPE) - 一种通用的XOR加密后内存加载PE绕过杀毒软件的方法
