@@ -276,7 +276,7 @@
 
 ## agent-skills 
 
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [wuyoscar/GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill) - GPT Image 2/2.5 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing
 - [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) - Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
@@ -338,7 +338,7 @@
 - [1zilc/fishing-funds](https://github.com/1zilc/fishing-funds) - 基金,大盘,股票,虚拟货币状态栏显示小应用
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 - [Countly/countly-server](https://github.com/Countly/countly-server) - Countly is a privacy-first, AI-powered analytics and engagement platform for understanding and optimizing customer journeys across digital applications, from desktop and mobile to IoT and connected en
@@ -370,7 +370,7 @@
 - [firerpa/lamda](https://github.com/firerpa/lamda) - Android Full-Stack Device Control Platform: WebRTC/H.264 remote desktop, UI/OCR/image-matching automation, one-click MITM, built-in Frida, proxy/VPN/frp/P2P networking, MCP/Agent, 160+ APIs, designed 
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 
 ## ajax 
 
@@ -717,7 +717,7 @@
 
 ## claude-code 
 
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 - [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, and limits across 43+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device sync.
 - [bestruirui/octopus](https://github.com/bestruirui/octopus) - One Hub All LLMs For You | 为个人打造的 LLM API 聚合网关
@@ -742,7 +742,7 @@
 - [ahaodev/shadmin](https://github.com/ahaodev/shadmin) - An Enterprise-Grade Full-Stack RBAC Permission Management System Built with Go + React
 - [d0x7/go-protonats](https://github.com/d0x7/go-protonats) - Go Protoc plugin for using Protobuf with NATS.io
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [manifoldco/promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
@@ -777,9 +777,9 @@
 
 ## command-line 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [manifoldco/promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
 - [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications
 - [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
@@ -914,7 +914,7 @@
 
 ## data-visualization 
 
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 
 ## database 
 
@@ -1011,7 +1011,7 @@
 - [TalkingData/eago](https://github.com/TalkingData/eago) - Distributed internal O&M and it platform, Refactoring by Golang based on micro service.
 - [lonng/nano](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework
 - [go-chassis/go-chassis](https://github.com/go-chassis/go-chassis) - a cloud native application framework for Go with rich eco-system
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 
 ## django 
 
@@ -1060,7 +1060,6 @@
 - [appable-run/appy](https://github.com/appable-run/appy) - An opinionated productive web framework that helps scaling business easier.
 - [vaguecoder/Amazon-Scraper-Collector](https://github.com/vaguecoder/Amazon-Scraper-Collector) - Application to demonstrate the interaction between 2 REST APIs that are developed using Go, and basic CRUD operations on MongoDB.
 - [feihua/zero-admin](https://github.com/feihua/zero-admin) - Zero-Admin 是一套基于 go-zero 框架实现的电商系统的后端服务
-- [xusenlin/marewood](https://github.com/xusenlin/marewood) - 🌻marewood is an open source automatic packaging deployment tool for front-end
 - [macrozheng/mall-swarm](https://github.com/macrozheng/mall-swarm) - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Alibaba、Spring Boot 3.5、Sa-Token、MyBatis、Elasticsearch、Docker、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。
 - [bullteam/zeus-admin](https://github.com/bullteam/zeus-admin) - Zeus基于Golang Gin +casbin，致力于做企业统一权限&账号中心管理系统。包含账号管理，数据权限，功能权限，应用管理，多数据库适配，可docker 一键运行。社区活跃，版本迭代快，加群免费技术支持。
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
@@ -1376,7 +1375,7 @@
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
 - [zjc17/pprof-web](https://github.com/zjc17/pprof-web) - Small and easy-to-use golang pprof web UI, support Docker, x86, ARM, macOS
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype) - A Go package for media type and file extension detection, based on magic numbers
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
 - [x448/float16](https://github.com/x448/float16) - float16 provides IEEE 754 half-precision format (binary16) with correct conversions to/from float32
@@ -1499,7 +1498,7 @@
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% | LeetCode 题解
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [TheWinds/mkdoc](https://github.com/TheWinds/mkdoc) - 📖 flexible and customizable, api document generator for any lang
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 - [unidoc/unioffice](https://github.com/unidoc/unioffice) - Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents
 - [yinggaozhen/awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn) - 一个很棒的Go框架、库和软件的中文收录大全。:alarm_clock:脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go~
 - [laixhe/goimg](https://github.com/laixhe/goimg) - Golang 轻量级的图片服务器
@@ -1664,7 +1663,7 @@
 - [deatil/go-cryptobin](https://github.com/deatil/go-cryptobin) - go 常用加密解密库/go encrypt or decrypt pkg（RSA/SM2/ECDSA/EC-GDSA/Gost/ElGamal/AES/DES/TripleDes/SM4/Tea/Twofish）
 - [zjc17/pprof-web](https://github.com/zjc17/pprof-web) - Small and easy-to-use golang pprof web UI, support Docker, x86, ARM, macOS
 - [gowebapi/webapi](https://github.com/gowebapi/webapi) - Go Lang Web Assembly bindings for DOM, HTML etc
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [gabriel-vasile/mimetype](https://github.com/gabriel-vasile/mimetype) - A Go package for media type and file extension detection, based on magic numbers
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -1785,12 +1784,11 @@
 - [go-kiss/sniper](https://github.com/go-kiss/sniper) - 轻量级 go 业务框架
 - [yahoo/vssh](https://github.com/yahoo/vssh) - Go Library to Execute Commands Over SSH at Scale
 - [wangshibiaoFlytiger/apiproject](https://github.com/wangshibiaoFlytiger/apiproject) - [https://www.sofineday.com], golang项目开发脚手架,集成最佳实践(gin+gorm+go-redis+mongo+cors+jwt+json日志库zap(支持日志收集到kafka或mongo)+消息队列kafka+微信支付宝支付gopay+api加密+api反向代理+go modules依赖管理+headless爬虫chromedp+makefile+二进制压缩+
-- [xusenlin/marewood](https://github.com/xusenlin/marewood) - 🌻marewood is an open source automatic packaging deployment tool for front-end
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% | LeetCode 题解
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [airplayx/gormat](https://github.com/airplayx/gormat) - ☄ The golang convenient converter supports Database to Struct, SQL to Struct, and JSON to Struct.
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 - [unidoc/unioffice](https://github.com/unidoc/unioffice) - Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents
 - [yinggaozhen/awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn) - 一个很棒的Go框架、库和软件的中文收录大全。:alarm_clock:脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go~
 - [grpc-ecosystem/go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
@@ -2070,7 +2068,7 @@
 - [okwasniewski/MiniSim](https://github.com/okwasniewski/MiniSim) - MacOS menu bar app for launching iOS  and Android 🤖 emulators
 - [simplezhli/flutter_deer](https://github.com/simplezhli/flutter_deer) - 🦌 Flutter 练习项目(包括集成测试、可访问性测试)。内含完整UI设计图，更贴近真实项目的练习。Flutter practice project (including integration testing and accessibility testing). Contains complete UI design drawings for a more realistic practic
 - [deathmemory/FridaContainer](https://github.com/deathmemory/FridaContainer) - FridaContainer 整合了网上流行的和自己编写的常用的 frida 脚本，为逆向工作提效之用。 frida 脚本模块化，Java & Jni Trace。
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [netguru/BlueSwift](https://github.com/netguru/BlueSwift) - Swift framework for easy connection with Bluetooth peripherals.
 - [peakpassvpn/sail-app-demo](https://github.com/peakpassvpn/sail-app-demo) - A flutter demo client application for v2board.
 - [air-controller/air-controller-desktop](https://github.com/air-controller/air-controller-desktop) - A new handy and powerful Android phone assistant， powered by Flutter.
@@ -2352,7 +2350,7 @@
 
 ## mac 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
 - [progrium/darwinkit](https://github.com/progrium/darwinkit) - Native Mac APIs for Go. Previously known as MacDriver
 - [lllllllillllllillll/DweebUI](https://github.com/lllllllillllllillll/DweebUI) - DweebUI is a WebUI for managing your containers. Simple setup, a dynamically updating dashboard, and a multi-user permission system.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -2376,7 +2374,7 @@
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
 - [wieandteduard/port-menu](https://github.com/wieandteduard/port-menu) - A tiny macOS menu bar app that tracks your dev servers across projects.
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
 - [lzhgus/Capso](https://github.com/lzhgus/Capso) - Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI.
 - [Lcharvol/MacSift](https://github.com/Lcharvol/MacSift) - Transparent macOS disk cleaner — groups files by app, moves to Trash (never permanent). SwiftUI + Liquid Glass, built for macOS Tahoe.
@@ -2408,7 +2406,7 @@
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [5j54d93/Mac-Battery-Inspector](https://github.com/5j54d93/Mac-Battery-Inspector) - A macOS app develop with SwiftUI in MVVM that could inspect mac's battery info.
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [TKkk-iOSer/WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) - 微信小助手
 - [MustangYM/OSXChatGPT](https://github.com/MustangYM/OSXChatGPT) - Easy to use OpenAI ChatGPT on your mac !
@@ -2471,7 +2469,7 @@
 - [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android native library, and an experimental  iOS emulation
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, 
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 
@@ -2486,7 +2484,7 @@
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [apache/dubbo-go](https://github.com/apache/dubbo-go) - Go Implementation For Apache Dubbo .
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
-- [micro/go-micro](https://github.com/micro/go-micro) - A framework for building agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A framework for agents, tools and services
 - [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 10, Angular 22, Clean Architecture, Clean Code, SOLID, KISS, DRY, Mediator Pattern, Folder-by-Feature Structure
 
 ## microsoft 
@@ -2796,7 +2794,7 @@
 - [syi0808/screenize](https://github.com/syi0808/screenize) - (Development of Screenize is currently paused) Open-source macOS screen recording app with auto-zoom, cursor effects, and timeline editing — Screen Studio alternative.
 - [Tairitsua/claude-verify](https://github.com/Tairitsua/claude-verify) - Claude code 真伪鉴别工具
 - [cnlimiter/codex-manager](https://github.com/cnlimiter/codex-manager) - 
-- [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
+- [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - Run a virtual iPhone on an Apple Silicon Mac.
 - [TianyiDataScience/openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center) - Turn OpenClaw from a black box into a local control center you can see, trust, and control.
 - [missuo/discord-image](https://github.com/missuo/discord-image) - Powerful Discord image hosting, file sharing
 - [jackwener/xiaohongshu-cli](https://github.com/jackwener/xiaohongshu-cli) - A CLI for Xiaohongshu (小红书) — search, read, interact via reverse-engineered API
@@ -3723,7 +3721,7 @@
 - [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
 - [firerpa/lamda](https://github.com/firerpa/lamda) - Android Full-Stack Device Control Platform: WebRTC/H.264 remote desktop, UI/OCR/image-matching automation, one-click MITM, built-in Frida, proxy/VPN/frp/P2P networking, MCP/Agent, 160+ APIs, designed 
 - [JJTech0130/pypush](https://github.com/JJTech0130/pypush) - Python APNs and iMessage client
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [saferwall/pe](https://github.com/saferwall/pe) - A :zap: lightweight Go package to parse, analyze and extract metadata from Portable Executable (PE) binaries. Designed for malware analysis tasks and robust against PE malformations.
 - [CreditTone/hooker](https://github.com/CreditTone/hooker) - 🔥🔥 hooker is a Frida-based reverse engineering toolkit for Android. It offers a user-friendly CLI, universal scripts, auto hook generation, memory roaming to detect activities/services, one-click SOCK
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
@@ -3789,7 +3787,7 @@
 - [wenlng/go-captcha](https://github.com/wenlng/go-captcha) - 🖖 GoCaptcha: A high-performance, interactive behavior captcha library for Go. Supporting click, slide, drag-drop, and rotation modes to secure your applications with ease.
 - [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Go implementation of JSON Web Tokens (JWT).
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
@@ -3880,7 +3878,7 @@
 
 ## shell 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
 - [dromara/orion-visor](https://github.com/dromara/orion-visor) - 一款高颜值、现代化的自动化运维及轻量堡垒机，提供全面的服务器智能运维解决方案。支持资产管理分组、多协议访问(SSH、SFTP、RDP、VNC)、实时系统监控与智能告警、文件上传下载、在线编辑、命令批量执行、多主机文件分发和计划任务配置(通过 cron 表达式)等功能，确保高效安全的运维体验。适用于 Linux 和 Windows 系统的运维管理。
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 
@@ -3961,7 +3959,7 @@
 
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
 - [wieandteduard/port-menu](https://github.com/wieandteduard/port-menu) - A tiny macOS menu bar app that tracks your dev servers across projects.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
 - [lzhgus/Capso](https://github.com/lzhgus/Capso) - Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI.
 - [Lcharvol/MacSift](https://github.com/Lcharvol/MacSift) - Transparent macOS disk cleaner — groups files by app, moves to Trash (never permanent). SwiftUI + Liquid Glass, built for macOS Tahoe.
@@ -3981,7 +3979,7 @@
 - [buresdv/Cork](https://github.com/buresdv/Cork) - [NO AI] Fast GUI for Homebrew written in SwiftUI
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 - [5j54d93/Mac-Battery-Inspector](https://github.com/5j54d93/Mac-Battery-Inspector) - A macOS app develop with SwiftUI in MVVM that could inspect mac's battery info.
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
+- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
 - [netguru/BlueSwift](https://github.com/netguru/BlueSwift) - Swift framework for easy connection with Bluetooth peripherals.
 - [illusionofchaos/ios-nehelper-wifi-info-0day](https://github.com/illusionofchaos/ios-nehelper-wifi-info-0day) - iOS 15 0-day exploit (still works in 15.0.2)
 - [illusionofchaos/ios-nehelper-enum-apps-0day](https://github.com/illusionofchaos/ios-nehelper-enum-apps-0day) - iOS 15 0-day exploit (still works in 15.0.2)
@@ -3991,7 +3989,7 @@
 
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
 - [wieandteduard/port-menu](https://github.com/wieandteduard/port-menu) - A tiny macOS menu bar app that tracks your dev servers across projects.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
 - [lzhgus/Capso](https://github.com/lzhgus/Capso) - Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI.
 - [Lcharvol/MacSift](https://github.com/Lcharvol/MacSift) - Transparent macOS disk cleaner — groups files by app, moves to Trash (never permanent). SwiftUI + Liquid Glass, built for macOS Tahoe.
