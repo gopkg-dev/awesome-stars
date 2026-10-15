@@ -295,7 +295,7 @@
 
 ## ai 
 
-- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 44+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
+- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 46+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
 - [bestruirui/octopus](https://github.com/bestruirui/octopus) - One Hub All LLMs For You | 为个人打造的 LLM API 聚合网关
 - [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
 - [Wangnov/mailpilot](https://github.com/Wangnov/mailpilot) - 极简推送式 AI 邮件管家：IMAP→LLM(订阅/API/本地)→多渠道推送。零依赖、可交叉编译。
@@ -359,7 +359,7 @@
 
 ## ai-agents 
 
-- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 50+ tests passed.
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [callstack/agent-device](https://github.com/callstack/agent-device) - Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux.
 - [vmoranv/jshookmcp](https://github.com/vmoranv/jshookmcp) - A search-first, profile-aware reverse-engineering workspace for AI agents — 735 tools across 36 domains in one MCP server.
@@ -718,7 +718,7 @@
 
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
-- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 44+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
+- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 46+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
 - [bestruirui/octopus](https://github.com/bestruirui/octopus) - One Hub All LLMs For You | 为个人打造的 LLM API 聚合网关
 - [egoist/waku](https://github.com/egoist/waku) - ⚡ A native app for all your coding agents.
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
@@ -1301,7 +1301,6 @@
 - [tbphp/gpt-load](https://github.com/tbphp/gpt-load) - Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。
 - [aldor007/mort](https://github.com/aldor007/mort) - Storage and image processing server written in Go
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
-- [emmansun/gmsm](https://github.com/emmansun/gmsm) - ShangMi (SM) cipher suites for Go (Go语言商用密码软件)
 - [rezmoss/simple-load-balancer](https://github.com/rezmoss/simple-load-balancer) - HTTP load balancer in Go using only the standard library, round-robin, health checks, weighted routing. Great for learning Go networking internals
 - [fogleman/gg](https://github.com/fogleman/gg) - Go Graphics - 2D rendering in Go with a simple API.
 - [yalue/onnxruntime_go](https://github.com/yalue/onnxruntime_go) - A Go (golang) library wrapping microsoft/onnxruntime.
@@ -1565,6 +1564,7 @@
 
 ## golang 
 
+- [Calcium-Ion/moejs](https://github.com/Calcium-Ion/moejs) - A pure-Go JavaScript runtime built for running many small plugin sandboxes fast.
 - [mldong/jeeflow-go](https://github.com/mldong/jeeflow-go) - 轻量 Go工作流引擎——零框架依赖、DDD 充血模型。
 - [bestruirui/octopus](https://github.com/bestruirui/octopus) - One Hub All LLMs For You | 为个人打造的 LLM API 聚合网关
 - [Wangnov/mailpilot](https://github.com/Wangnov/mailpilot) - 极简推送式 AI 邮件管家：IMAP→LLM(订阅/API/本地)→多渠道推送。零依赖、可交叉编译。
@@ -1579,6 +1579,7 @@
 - [beyondstorage/go-storage](https://github.com/beyondstorage/go-storage) - A vendor-neutral storage library for Golang: Write once, run on every storage service.
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [wquguru/nof0](https://github.com/wquguru/nof0) - Open-source AI trading arena. A full reproduction of NOF1 Alpha Arena for running and comparing LLM agents.
+- [emmansun/gmsm](https://github.com/emmansun/gmsm) - ShangMi (SM) cipher suites for Go (Go语言商用密码软件)
 - [rezmoss/simple-load-balancer](https://github.com/rezmoss/simple-load-balancer) - HTTP load balancer in Go using only the standard library, round-robin, health checks, weighted routing. Great for learning Go networking internals
 - [veops/oneterm](https://github.com/veops/oneterm) - Provide secure access and control over all infrastructure
 - [hiscaler/temu-go](https://github.com/hiscaler/temu-go) - Temu SDK for Golang
@@ -2121,6 +2122,7 @@
 
 ## javascript 
 
+- [Calcium-Ion/moejs](https://github.com/Calcium-Ion/moejs) - A pure-Go JavaScript runtime built for running many small plugin sandboxes fast.
 - [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
 - [MultiboxLabs/flow-browser](https://github.com/MultiboxLabs/flow-browser) - A modern, privacy-focused browser with a minimalistic design.
 - [Fausto-404/js-reverse-automation--skill](https://github.com/Fausto-404/js-reverse-automation--skill) - 结合chrome-devtools-mcp的能力并加上Skill的规范，实现JSRPC+Flask+autoDecoder方案的前端JS逆向自动化分析，提升JS逆向的效率
@@ -2274,7 +2276,7 @@
 
 ## linux 
 
-- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 44+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
+- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 46+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
@@ -2306,7 +2308,7 @@
 ## llm 
 
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
-- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 44+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
+- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 46+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
 - [Wangnov/mailpilot](https://github.com/Wangnov/mailpilot) - 极简推送式 AI 邮件管家：IMAP→LLM(订阅/API/本地)→多渠道推送。零依赖、可交叉编译。
 - [DEEIX-AI/DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat) - An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
@@ -2370,7 +2372,7 @@
 ## macos 
 
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
-- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 44+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
+- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 46+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
 - [qingjian-team/qingjian](https://github.com/qingjian-team/qingjian) - 青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词
 - [openai/tart](https://github.com/openai/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
@@ -2708,7 +2710,6 @@
 
 ## others 
 
-- [Calcium-Ion/moejs](https://github.com/Calcium-Ion/moejs) - A pure-Go JavaScript runtime built for running many small plugin sandboxes fast.
 - [egoist/mygo](https://github.com/egoist/mygo) - Develop desktop apps with native UI or web frontend in Go
 - [egoist/lorca](https://github.com/egoist/lorca) - Imagine Telegram but single person, with agents, and end-to-end encrypted. Alternative to Grok bot, Muse, Dots
 - [dujiao-next/dujiao-next](https://github.com/dujiao-next/dujiao-next) - Dujiao-Next
@@ -3025,7 +3026,7 @@
 - [uber-go/atomic](https://github.com/uber-go/atomic) - Wrapper types for sync/atomic which enforce atomic access
 - [phongna07/toptop-clone](https://github.com/phongna07/toptop-clone) - A fullstack TikTok clone with Nextjs, Prisma, trpc
 - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
-- [pingapi/apigo](https://github.com/pingapi/apigo) - ApiGo是低代码开发平台，企业级API接口发布系统，深度整合SpringBoot和Mybatis实现动态数据源和动态SQL，可视化编写SQL快速发布接口
+- [pingapi/apigo](https://github.com/pingapi/apigo) - ApiGo是低代码开发平台，多数据库插件化数据源框架，深度整合SpringBoot和Mybatis实现动态数据源和动态SQL，可视化编写SQL快速发布接口
 - [q2316367743/es-client](https://github.com/q2316367743/es-client) - elasticsearch客户端，issue请前往码云：https://gitee.com/qiaoshengda/es-client
 - [go-slog/awesome-slog](https://github.com/go-slog/awesome-slog) - Collection of log/slog related projects.
 - [xflxfl/HSN-Phone-Attack](https://github.com/xflxfl/HSN-Phone-Attack) - 基于Arduino+SIM800制作的呼死你设备，详情请看我在t00ls的投稿：https://www.t00ls.net/articles-38948.html
@@ -3555,7 +3556,7 @@
 ## python 
 
 - [AaronL725/grok-register](https://github.com/AaronL725/grok-register) - 批量稳定注册 Grok 账号，支持 WebUI/GUI/CLI、多邮箱服务、多线程并发、账号级多协议代理池、grok2api 入池、SSO 风控筛查与CPA OIDC 凭证导出。
-- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
+- [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 50+ tests passed.
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [x011/smtp-tunnel-proxy](https://github.com/x011/smtp-tunnel-proxy) - A high-speed covert tunnel that disguises TCP traffic as SMTP email communication to bypass Deep Packet Inspection (DPI) firewalls.
 - [HisMax/RedInk](https://github.com/HisMax/RedInk) - Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
@@ -3819,7 +3820,7 @@
 ## self-hosted 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 44+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
+- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 46+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
 - [forever94yu/icloud-prime](https://github.com/forever94yu/icloud-prime) - Self-hosted iCloud Hide My Email management console with Windows portable releases
 - [bestruirui/octopus](https://github.com/bestruirui/octopus) - One Hub All LLMs For You | 为个人打造的 LLM API 聚合网关
 - [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
@@ -4361,7 +4362,7 @@
 
 ## windows 
 
-- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 44+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
+- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 46+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
 - [qingjian-team/qingjian](https://github.com/qingjian-team/qingjian) - 青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词
 - [forever94yu/icloud-prime](https://github.com/forever94yu/icloud-prime) - Self-hosted iCloud Hide My Email management console with Windows portable releases
 - [keaipiao/codex-quota](https://github.com/keaipiao/codex-quota) - A native-feeling quota panel for the Windows Codex desktop sidebar.
