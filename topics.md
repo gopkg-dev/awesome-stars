@@ -2839,7 +2839,6 @@
 - [wisdgod/cursor-rp](https://github.com/wisdgod/cursor-rp) - Feel free.
 - [labring/aiproxy](https://github.com/labring/aiproxy) - AI Proxy is a high performance AI gateway using OpenAI / Claude / Gemini protocol as the entry point. It features intelligent error handling, multi-channel management, and comprehensive monitoring. Wi
 - [ca-x/ccany](https://github.com/ca-x/ccany) - Proxy Claude Code to Any Open API
-- [Veloera/Veloera](https://github.com/Veloera/Veloera) - 
 - [Kshitijknk07/TitanGate](https://github.com/Kshitijknk07/TitanGate) - TitanGate - High-performance API Gateway built with Go, Fiber, Redis, and Prometheus. Smart load balancing, JWT authentication, rate limiting, caching, and real-time monitoring. Run with Go or Docker.
 - [adityasanehi/go-proxy-forwarder](https://github.com/adityasanehi/go-proxy-forwarder) - 
 - [xinhai-ai/endpoint_forwarder](https://github.com/xinhai-ai/endpoint_forwarder) - 
