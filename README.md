@@ -64,6 +64,7 @@
 - [cloudwu/pbc](https://github.com/cloudwu/pbc) - A protocol buffers library for C
 - [B-Con/crypto-algorithms](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms, like AES and SHA-1.
 - [lc-soft/LCUI](https://github.com/lc-soft/LCUI) - C library for building user interfaces
+- [CobaltFusion/DebugViewPP](https://github.com/CobaltFusion/DebugViewPP) - DebugView++, collects, views, filters your application logs, and highlights information that is important to you!
 - [ddiachkov/protobuf_coder](https://github.com/ddiachkov/protobuf_coder) - Generic protobuf encoder/decoder for ruby 1.9.
 - [DaveGamble/cJSON](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C
 - [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
@@ -137,7 +138,6 @@
 - [weidai11/cryptopp](https://github.com/weidai11/cryptopp) - free C++ class library of cryptographic schemes
 - [M00nRise/ProcessHider](https://github.com/M00nRise/ProcessHider) - Post-exploitation tool for hiding processes from monitoring applications
 - [NytroRST/ShellcodeCompiler](https://github.com/NytroRST/ShellcodeCompiler) - Shellcode Compiler
-- [CobaltFusion/DebugViewPP](https://github.com/CobaltFusion/DebugViewPP) - DebugView++, collects, views, filters your application logs, and highlights information that is important to you!
 - [Tencent/mars](https://github.com/Tencent/mars) - Mars is a cross-platform network component  developed by WeChat.
 - [strivexjun/XAntiDebug](https://github.com/strivexjun/XAntiDebug) - VMProtect 3.x Anti-debug Method Improved
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
@@ -490,7 +490,7 @@
 - [golang/snappy](https://github.com/golang/snappy) - The Snappy compression format in the Go programming language.
 - [yeqown/fasthttp-reverse-proxy](https://github.com/yeqown/fasthttp-reverse-proxy) - reverse http / websocket proxy based on fasthttp
 - [kardianos/service](https://github.com/kardianos/service) - Run go programs as a service on major platforms.
-- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
 - [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go
 - [projectdiscovery/fastdialer](https://github.com/projectdiscovery/fastdialer) - Dialer with DNS Cache + Dial History
 - [earthboundkid/requests](https://github.com/earthboundkid/requests) - HTTP requests for Gophers
@@ -1037,6 +1037,7 @@
 
 ## JavaScript 
 
+- [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 46+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
 - [poxiao33/toSub2](https://github.com/poxiao33/toSub2) - 通过协议登录 ChatGPT、完成 Codex 授权并生成 sub2api 导入文件
 - [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) - DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版
