@@ -51,7 +51,7 @@
 
 - [missuo/herdrm](https://github.com/missuo/herdrm) - Native macOS console for herdr — all your coding agents and their live terminals, across devices
 - [yujunjiex/behavior_captcha_cracker](https://github.com/yujunjiex/behavior_captcha_cracker) - 基于深度学习的行为式验证码研究及破解。类型包括滑块式/点选式，平台包括极验/易盾/云片
-- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy
+- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Force Proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
 - [loopholelabs/scale](https://github.com/loopholelabs/scale) - A framework for building high-performance plugin systems into any application, powered by WebAssembly.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [danta666/ecdh_c](https://github.com/danta666/ecdh_c) - ECDH算法C语言实现
@@ -490,7 +490,7 @@
 - [golang/snappy](https://github.com/golang/snappy) - The Snappy compression format in the Go programming language.
 - [yeqown/fasthttp-reverse-proxy](https://github.com/yeqown/fasthttp-reverse-proxy) - reverse http / websocket proxy based on fasthttp
 - [kardianos/service](https://github.com/kardianos/service) - Run go programs as a service on major platforms.
-- [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
+- [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go
 - [projectdiscovery/fastdialer](https://github.com/projectdiscovery/fastdialer) - Dialer with DNS Cache + Dial History
 - [earthboundkid/requests](https://github.com/earthboundkid/requests) - HTTP requests for Gophers
@@ -695,6 +695,7 @@
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [dreamans/syncd](https://github.com/dreamans/syncd) - syncd是一款开源的代码部署工具，它具有简单、高效、易用等特点，可以提高团队的工作效率.
 - [ondrajz/go-callvis](https://github.com/ondrajz/go-callvis) - Visualize call graph of a Go program using Graphviz
+- [overnote/over-golang](https://github.com/overnote/over-golang) - Golang相关：[审稿进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
 - [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
 - [rdleal/go-async](https://github.com/rdleal/go-async) - Async utilities for Golang
 - [appable-run/appy](https://github.com/appable-run/appy) - An opinionated productive web framework that helps scaling business easier.
@@ -1301,7 +1302,6 @@
 - [xxjwxc/uber_go_guide_cn](https://github.com/xxjwxc/uber_go_guide_cn) - Uber Go 语言编码规范中文版. The Uber Go Style Guide .
 - [3ks/ent-doc-zh_cn](https://github.com/3ks/ent-doc-zh_cn) - facebook 开源库 ent 文档的中文翻译
 - [amzn/selling-partner-api-docs](https://github.com/amzn/selling-partner-api-docs) - This repository contains documentation for developers to use to call Selling Partner APIs.
-- [overnote/over-golang](https://github.com/overnote/over-golang) - Golang相关：[审稿进度80%]Go语法、Go并发思想、Go与web开发、Go微服务设施等
 - [yinggaozhen/awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn) - 一个很棒的Go框架、库和软件的中文收录大全。:alarm_clock:脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go~
 - [weixinbao/ReverseTool](https://github.com/weixinbao/ReverseTool) - 逆向工具集合
 - [xiaokanghub/Android-Anti-AntiTrace](https://github.com/xiaokanghub/Android-Anti-AntiTrace) - Android-Anti-AntiTrace
@@ -1323,7 +1323,7 @@
 
 ## PHP 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [xiaoguo0426/hyperf-admin-amazon](https://github.com/xiaoguo0426/hyperf-admin-amazon) - 基于hyperf框架对接Amazon SP-API接口
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
 - [mineadmin/MineAdmin](https://github.com/mineadmin/MineAdmin) - 🎉🎉🎉 MineAdmin是基于Hyperf框架 和 Vue+Vite 开发的前后端分离权限管理系统，自适应多终端。特色：后端 crud 生成 + 前端低代码 json 化配置
@@ -1462,6 +1462,7 @@
 
 ## Rust 
 
+- [monitor-probe/monitor](https://github.com/monitor-probe/monitor) - 用 Rust 写的轻量级服务器探针 (Rust + axum + SQLite)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [egoist/lorca](https://github.com/egoist/lorca) - Imagine Telegram but single person, with agents, and end-to-end encrypted. Alternative to Grok bot, Muse, Dots
 - [zyycn/codex-proxy-rs](https://github.com/zyycn/codex-proxy-rs) - 基于 Rust 的低风控、高性能、自托管多账号透明代理网关
@@ -1527,6 +1528,7 @@
 
 ## Swift 
 
+- [missuo/tamio](https://github.com/missuo/tamio) - Native SSH client for macOS: Ghostty terminal, dual-pane SFTP, live server status, E2EE iCloud sync and an MCP server for agents.
 - [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws) - A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a single window.
 - [missuo/wisp](https://github.com/missuo/wisp) - Wisp: computer use for agents on macOS (accessibility tree + synthesized input + DevTools), with a CLI and MCP server
 - [openai/tart](https://github.com/openai/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
