@@ -334,7 +334,7 @@
 - [firerpa/lamda](https://github.com/firerpa/lamda) - Android Full-Stack Device Control Platform: WebRTC/H.264 remote desktop, UI/OCR/image-matching automation, one-click MITM, built-in Frida, proxy/VPN/frp/P2P networking, MCP/Agent, 160+ APIs, designed 
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
-- [wkylin/pro-react-admin](https://github.com/wkylin/pro-react-admin) - 一款基于 React v19 的高性能、企业级中后台前端解决方案...
+- [wkylin/pro-react-admin](https://github.com/wkylin/pro-react-admin) - Pro React Admin · 统一工程底座， 承载多种应用，用一套工程规范连接更多业务
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Open Source API and AI Gateway supporting REST, GraphQL, TCP, gRPC and MCP (Model Context Protocol)
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
@@ -1137,7 +1137,7 @@
 ## eslint 
 
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
-- [wkylin/pro-react-admin](https://github.com/wkylin/pro-react-admin) - 一款基于 React v19 的高性能、企业级中后台前端解决方案...
+- [wkylin/pro-react-admin](https://github.com/wkylin/pro-react-admin) - Pro React Admin · 统一工程底座， 承载多种应用，用一套工程规范连接更多业务
 
 ## esp32 
 
@@ -1304,6 +1304,7 @@
 
 ## go 
 
+- [oneo-me/onevra](https://github.com/oneo-me/onevra) - Native desktop UI components for Go, built on MyGo. Themed controls, window shells, Lucide icons, plus chat, Markdown, code highlighting, charts and a command palette. Also includes a standalone packa
 - [mldong/jeeflow-go](https://github.com/mldong/jeeflow-go) - 轻量 Go工作流引擎——零框架依赖、DDD 充血模型。
 - [forever94yu/icloud-prime](https://github.com/forever94yu/icloud-prime) - Self-hosted iCloud Hide My Email management console with Windows portable releases
 - [kittors/CliRelay](https://github.com/kittors/CliRelay) - Self-hosted AI gateway for coding CLIs — one OpenAI/Claude/Gemini/Codex-compatible endpoint, with a multi-tenant web console, request logs, and spend quotas.
@@ -1575,6 +1576,7 @@
 
 ## golang 
 
+- [oneo-me/onevra](https://github.com/oneo-me/onevra) - Native desktop UI components for Go, built on MyGo. Themed controls, window shells, Lucide icons, plus chat, Markdown, code highlighting, charts and a command palette. Also includes a standalone packa
 - [Calcium-Ion/moejs](https://github.com/Calcium-Ion/moejs) - A pure-Go JavaScript runtime built for running many small plugin sandboxes fast.
 - [mldong/jeeflow-go](https://github.com/mldong/jeeflow-go) - 轻量 Go工作流引擎——零框架依赖、DDD 充血模型。
 - [bestruirui/octopus](https://github.com/bestruirui/octopus) - One Hub All LLMs For You | 为个人打造的 LLM API 聚合网关
@@ -1890,6 +1892,7 @@
 
 ## gui 
 
+- [oneo-me/onevra](https://github.com/oneo-me/onevra) - Native desktop UI components for Go, built on MyGo. Themed controls, window shells, Lucide icons, plus chat, Markdown, code highlighting, charts and a command palette. Also includes a standalone packa
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Dock
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [codeation/impress](https://github.com/codeation/impress) - Go GUI cross-platform library
@@ -2743,7 +2746,7 @@
 - [Xsxdot/sq](https://github.com/Xsxdot/sq) - sq 消息队列
 - [leookun/cursor-byok](https://github.com/leookun/cursor-byok) - cursor-byok is a local implementation of Cursor's backend
 - [hahahumble/storageui](https://github.com/hahahumble/storageui) - ☁️ Open file browser for S3, R2, and other storage backends.
-- [egoist/kero](https://github.com/egoist/kero) - A native terminal workspace for macOS.
+- [egoist/kero](https://github.com/egoist/kero) - A cross-platform native terminal app optimized for agents
 - [pandorafuture/wx-cli](https://github.com/pandorafuture/wx-cli) - WeChat macOS database decryption and query tool
 - [missuo/tokens](https://github.com/missuo/tokens) - Track, visualize, and compete on your AI coding-assistant token usage — CLI + web leaderboard. A fork of junhoyeo/tokscale.
 - [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
@@ -2862,7 +2865,7 @@
 - [81NewArk/AntiCAP](https://github.com/81NewArk/AntiCAP) - 验证码识别   点选 滑块 算术 旋转 OCR
 - [EBOLABOY/GridBNB-USDT](https://github.com/EBOLABOY/GridBNB-USDT) - 这是一个基于AI的自动化交易程序，专为数字货币市场（BNB/USDT）设计。该程序旨在实现全自动化交易，通过AI算法帮助用户在数字货币市场中做出更智能的交易决策。
 - [z0ffy/vite-plugin-bundle-obfuscator](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) - JavaScript obfuscator plugin provides customizable options and multi-threaded support for Vite.
-- [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
+- [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - An all-in-one email service platform powered by Cloudflare  | 基于 Cloudflare 的一站式邮箱服务平台  | Cloudflare Email 邮箱 Mail
 - [Robin3910/yulian_erp_back](https://github.com/Robin3910/yulian_erp_back) - 🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
 - [X1a0He/Adobe-Downloader](https://github.com/X1a0He/Adobe-Downloader) - macOS Adobe apps download & installer
 - [jackluson/sync-your-cookie](https://github.com/jackluson/sync-your-cookie) - A browser extension for syncing cookies and localStorage to Cloudflare KV or GitHub Gist
@@ -2979,7 +2982,7 @@
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programmi
 - [quarkcloudio/quark-go](https://github.com/quarkcloudio/quark-go) - Echo & Gin & GoFiber & GoZero & Hertz & Kratos  + Ant Design UI 前后端分离的管理后台，Build Anything With Quark
 - [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
-- [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一款基于 Vue3、Vite3 和 TypeScript 的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求
+- [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - 基于 Vue 3、Vite 7、Naive UI 与 TypeScript 的开源中后台解决方案。内置二次封装组件、动态菜单、路由与按钮级权限、国际化，开箱即用，助力快速搭建企业级中后台。
 - [hangjob/vue-bag-admin](https://github.com/hangjob/vue-bag-admin) - 插件化、可拆包、面向业务增长的 Vue3 中后台解决方案
 - [aws/aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
 - [DingZaiHub/ob-decrypt](https://github.com/DingZaiHub/ob-decrypt) - ob混淆还原工具，欢迎star！
@@ -3671,7 +3674,7 @@
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 - [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Web simulation of Ubuntu 20.04, made using NEXT.js & tailwind CSS
-- [wkylin/pro-react-admin](https://github.com/wkylin/pro-react-admin) - 一款基于 React v19 的高性能、企业级中后台前端解决方案...
+- [wkylin/pro-react-admin](https://github.com/wkylin/pro-react-admin) - Pro React Admin · 统一工程底座， 承载多种应用，用一套工程规范连接更多业务
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform for agents and developers
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -4199,7 +4202,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
-- [wkylin/pro-react-admin](https://github.com/wkylin/pro-react-admin) - 一款基于 React v19 的高性能、企业级中后台前端解决方案...
+- [wkylin/pro-react-admin](https://github.com/wkylin/pro-react-admin) - Pro React Admin · 统一工程底座， 承载多种应用，用一套工程规范连接更多业务
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [prisma/orm](https://github.com/prisma/orm) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform for agents and developers
@@ -4376,7 +4379,7 @@
 - [teamortix/golang-wasm](https://github.com/teamortix/golang-wasm) - Golang-WASM provides a simple idiomatic, and comprehensive API and bindings for working with WebAssembly for Go and JavaScript developers
 - [themesberg/flowbite-admin-dashboard](https://github.com/themesberg/flowbite-admin-dashboard) - Free and open-source admin dashboard template built with Tailwind CSS and Flowbite
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
-- [wkylin/pro-react-admin](https://github.com/wkylin/pro-react-admin) - 一款基于 React v19 的高性能、企业级中后台前端解决方案...
+- [wkylin/pro-react-admin](https://github.com/wkylin/pro-react-admin) - Pro React Admin · 统一工程底座， 承载多种应用，用一套工程规范连接更多业务
 
 ## windows 
 
