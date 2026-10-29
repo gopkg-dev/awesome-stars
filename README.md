@@ -1076,7 +1076,6 @@
 - [Pomax/bezierjs](https://github.com/Pomax/bezierjs) - A nodejs and client-side library for (cubic) Bezier curve work
 - [snorpey/distort-grid](https://github.com/snorpey/distort-grid) - distort and warp images in the browser
 - [Eric-Canas/Homography.js](https://github.com/Eric-Canas/Homography.js) - Lightweight, High-Performance and easy-to-use library for performing Affine, Projective or Piecewise Affine transformations over any Image or HTMLElement from only a set of reference points. In Javasc
-- [hometlt/fiera](https://github.com/hometlt/fiera) - 
 - [fabiospampinato/cash](https://github.com/fabiospampinato/cash) - An absurdly small jQuery alternative for modern browsers.
 - [tiagozip/cap](https://github.com/tiagozip/cap) - privacy-first, open-source and self-hosted CAPTCHA alternative with PoW and instrumentation challenges.
 - [kt946/ai-threejs-products-app-yt-jsm](https://github.com/kt946/ai-threejs-products-app-yt-jsm) - A 3D T-Shirt website where users can design their own shirts with patterns and logos.
@@ -1204,7 +1203,7 @@
 - [RD17/TeleJS](https://github.com/RD17/TeleJS) - 🚩 TeleJS is a pure JavaScript implementation of Telegram MTP protocol
 - [venkatbaggu/dapperorm](https://github.com/venkatbaggu/dapperorm) - dapperorm
 - [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
-- [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。
+- [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生
 - [Yija/vipAdminTemplate](https://github.com/Yija/vipAdminTemplate) - 基于最新的 LAYUI 版本 该模板简洁丶易用丶兼容移动端 该模板适用于后端管理系统,CMS系统,企业OS系统以及各种后台管理 该模板对浏览器的要求比较高 至少使用IE9+的用户浏览使用
 - [StartBootstrap/startbootstrap-simple-sidebar](https://github.com/StartBootstrap/startbootstrap-simple-sidebar) - An off canvas sidebar navigation Bootstrap HTML template created by Start Bootstrap
 - [k1995/BaiduyunSpider](https://github.com/k1995/BaiduyunSpider) - 百度云网盘搜索引擎，包含爬虫 & 网站
@@ -1622,7 +1621,7 @@
 - [Amery2010/peinture](https://github.com/Amery2010/peinture) - A general-purpose AI image generation framework that supports Hugging Face, Gitee, Model Scope, and more.
 - [Amery2010/imagine-server](https://github.com/Amery2010/imagine-server) - Unified AI Image Generation API with multi-provider support (Hugging Face, Gitee AI, ModelScope).
 - [freecodexyz/free-code](https://github.com/freecodexyz/free-code) - The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled.
-- [callstack/agent-device](https://github.com/callstack/agent-device) - Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux.
+- [callstack/agent-device](https://github.com/callstack/agent-device) - Open source device layer for AI coding agents: a CLI, MCP server, and typed Node.js API to control mobile, web, TV, and desktop apps on devices and simulators, locally or in the cloud.
 - [appium/appium-xcuitest-driver](https://github.com/appium/appium-xcuitest-driver) - Appium driver for iOS/tvOS/watchOS, backed by Apple XCTest
 - [WuXieXie/AiTaoist](https://github.com/WuXieXie/AiTaoist) - Ai道士 针对八字测算进行了深度优化
 - [nexu-io/nexu](https://github.com/nexu-io/nexu) - The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 
