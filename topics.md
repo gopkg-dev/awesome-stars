@@ -302,7 +302,8 @@
 
 ## ai 
 
-- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 47+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 48+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
 - [bestruirui/octopus](https://github.com/bestruirui/octopus) - One Hub All LLMs For You | 为个人打造的 LLM API 聚合网关
 - [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
 - [Wangnov/mailpilot](https://github.com/Wangnov/mailpilot) - 极简推送式 AI 邮件管家：IMAP→LLM(订阅/API/本地)→多渠道推送。零依赖、可交叉编译。
@@ -365,7 +366,6 @@
 
 ## ai-agents 
 
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 50+ tests passed.
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [callstack/agent-device](https://github.com/callstack/agent-device) - Open source device layer for AI coding agents: a CLI, MCP server, and typed Node.js API to control mobile, web, TV, and desktop apps on devices and simulators, locally or in the cloud.
@@ -412,6 +412,7 @@
 ## android 
 
 - [oneo-me/nsgo](https://github.com/oneo-me/nsgo) - A cross-platform native UI engine with a Go backend: write apps in Go with signals, memos and flexbox layout, and each platform draws with its own native views — iOS, macOS, Windows, Android, Linux an
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [okankurtuluss/FridaBypassKit](https://github.com/okankurtuluss/FridaBypassKit) - Android Universal Anti-Bypass Framework - Root, SSL Pinning, Emulator & Debug Detection Bypass
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
@@ -731,7 +732,7 @@
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
-- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 47+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
+- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 48+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
 - [bestruirui/octopus](https://github.com/bestruirui/octopus) - One Hub All LLMs For You | 为个人打造的 LLM API 聚合网关
 - [egoist/waku](https://github.com/egoist/waku) - ⚡ A native app for all your coding agents.
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
@@ -826,6 +827,7 @@
 
 ## cpp 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [chakra-core/ChakraCore](https://github.com/chakra-core/ChakraCore) - ChakraCore is an open source Javascript engine with a C API.
 - [microsoft/cpprestsdk](https://github.com/microsoft/cpprestsdk) - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and i
 - [libcpr/cpr](https://github.com/libcpr/cpr) - C++ Requests: Curl for People, a spiritual port of Python Requests.
@@ -987,7 +989,6 @@
 
 ## developer-tools 
 
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
 - [wieandteduard/port-menu](https://github.com/wieandteduard/port-menu) - A tiny macOS menu bar app that tracks your dev servers across projects.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -1374,7 +1375,7 @@
 - [loopholelabs/scale](https://github.com/loopholelabs/scale) - A framework for building high-performance plugin systems into any application, powered by WebAssembly.
 - [teamortix/golang-wasm](https://github.com/teamortix/golang-wasm) - Golang-WASM provides a simple idiomatic, and comprehensive API and bindings for working with WebAssembly for Go and JavaScript developers
 - [galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow + Go, the gopher way
-- [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Ruby, Rust, and JS/TS on Postgres or SQLite.
+- [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Java, JS, Ruby, and Rust on Postgres/SQLite.
 - [wenlng/go-captcha](https://github.com/wenlng/go-captcha) - 🖖 GoCaptcha: A high-performance, interactive behavior captcha library for Go. Supporting click, slide, drag-drop, and rotation modes to secure your applications with ease.
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic
 - [knqyf263/go-plugin](https://github.com/knqyf263/go-plugin) - Go Plugin System over WebAssembly
@@ -1661,7 +1662,7 @@
 - [go-courier/rollup-plugin-go-wasm](https://github.com/go-courier/rollup-plugin-go-wasm) - 
 - [teamortix/golang-wasm](https://github.com/teamortix/golang-wasm) - Golang-WASM provides a simple idiomatic, and comprehensive API and bindings for working with WebAssembly for Go and JavaScript developers
 - [galeone/tfgo](https://github.com/galeone/tfgo) - Tensorflow + Go, the gopher way
-- [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Ruby, Rust, and JS/TS on Postgres or SQLite.
+- [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Java, JS, Ruby, and Rust on Postgres/SQLite.
 - [wenlng/go-captcha](https://github.com/wenlng/go-captcha) - 🖖 GoCaptcha: A high-performance, interactive behavior captcha library for Go. Supporting click, slide, drag-drop, and rotation modes to secure your applications with ease.
 - [imroc/req](https://github.com/imroc/req) - Simple Go HTTP client with Black Magic
 - [knqyf263/go-plugin](https://github.com/knqyf263/go-plugin) - Go Plugin System over WebAssembly
@@ -2009,6 +2010,7 @@
 
 ## html 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
@@ -2150,6 +2152,7 @@
 
 ## java 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [nicolastinkl/UUVPN](https://github.com/nicolastinkl/UUVPN) - 基于原生组件开发的VPN客户端(ios/android)，自主设计，精美UI,优化VPN速度，完全开源。
 - [dromara/orion-visor](https://github.com/dromara/orion-visor) - 一款高颜值、现代化的自动化运维及轻量堡垒机，提供全面的服务器智能运维解决方案。支持资产管理分组、多协议访问(SSH、SFTP、RDP、VNC)、实时系统监控与智能告警、文件上传下载、在线编辑、命令批量执行、多主机文件分发和计划任务配置(通过 cron 表达式)等功能，确保高效安全的运维体验。适用于 Linux 和 Windows 系统的运维管理。
@@ -2164,6 +2167,7 @@
 
 ## javascript 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [MoeForge/moejs](https://github.com/MoeForge/moejs) - A pure-Go JavaScript runtime built for running many small plugin sandboxes fast.
 - [Neet-Nestor/Telegram-Media-Downloader](https://github.com/Neet-Nestor/Telegram-Media-Downloader) - A script allowing you to download images and videos from Telegram web even if the group restricts downloading.
 - [MultiboxLabs/flow-browser](https://github.com/MultiboxLabs/flow-browser) - A modern, privacy-focused browser with a minimalistic design.
@@ -2192,7 +2196,7 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [loopholelabs/scale](https://github.com/loopholelabs/scale) - A framework for building high-performance plugin systems into any application, powered by WebAssembly.
-- [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Ruby, Rust, and JS/TS on Postgres or SQLite.
+- [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Java, JS, Ruby, and Rust on Postgres/SQLite.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -2319,7 +2323,8 @@
 ## linux 
 
 - [oneo-me/nsgo](https://github.com/oneo-me/nsgo) - A cross-platform native UI engine with a Go backend: write apps in Go with signals, memos and flexbox layout, and each platform draws with its own native views — iOS, macOS, Windows, Android, Linux an
-- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 47+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 48+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
 - [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 - [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Force Proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
@@ -2350,9 +2355,8 @@
 
 ## llm 
 
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
-- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 47+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
+- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 48+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
 - [Wangnov/mailpilot](https://github.com/Wangnov/mailpilot) - 极简推送式 AI 邮件管家：IMAP→LLM(订阅/API/本地)→多渠道推送。零依赖、可交叉编译。
 - [DEEIX-AI/DEEIX-Chat](https://github.com/DEEIX-AI/DEEIX-Chat) - An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations.
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
@@ -2418,7 +2422,7 @@
 - [oneo-me/nsgo](https://github.com/oneo-me/nsgo) - A cross-platform native UI engine with a Go backend: write apps in Go with signals, memos and flexbox layout, and each platform draws with its own native views — iOS, macOS, Windows, Android, Linux an
 - [Saffsanity/sill](https://github.com/Saffsanity/sill) - Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers.
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
-- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 47+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
+- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 48+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
 - [qingjian-team/qingjian](https://github.com/qingjian-team/qingjian) - 青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词
 - [openai/tart](https://github.com/openai/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [productdevbook/port-killer](https://github.com/productdevbook/port-killer) - A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.
@@ -2609,7 +2613,6 @@
 - [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [liukelin/bubod](https://github.com/liukelin/bubod) - 基于binlog解析的 mysql/mariadb 的增量数据实时同步服务组件
 - [hidu/mysql-schema-sync](https://github.com/hidu/mysql-schema-sync) - mysql表结构自动同步工具(目前只支持字段、索引的同步，分区等高级功能暂不支持)
-- [3ks/ent-doc-zh_cn](https://github.com/3ks/ent-doc-zh_cn) - facebook 开源库 ent 文档的中文翻译
 - [bxcodec/go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
 - [sliveryou/grom](https://github.com/sliveryou/grom) - 一个可以将 mysql 的表字段转换为 golang 的模型结构的命令行工具。A powerful command line tool for converting mysql table fields to golang model structure.
 - [macrozheng/mall-swarm](https://github.com/macrozheng/mall-swarm) - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Alibaba、Spring Boot 3.5、Sa-Token、MyBatis、Elasticsearch、Docker、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。
@@ -2675,6 +2678,7 @@
 
 ## nodejs 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [poxiao33/toSub2](https://github.com/poxiao33/toSub2) - 通过协议登录 ChatGPT、完成 Codex 授权并生成 sub2api 导入文件
 - [Heavrnl/nexus-terminal](https://github.com/Heavrnl/nexus-terminal) - 一款现代化的 Web SSH / RDP / VNC 客户端，提供独立桌面端，支持人机验证、2FA、界面定制、操作审计等强大功能。
@@ -2760,6 +2764,7 @@
 
 ## others 
 
+- [YOURSJEYO/claude-switcher](https://github.com/YOURSJEYO/claude-switcher) - Fail-Closed 账号环境管理器:11项环境指纹审计(Block-on-Fail)、手写STUN协议栈的WebRTC泄漏探针、Kill-Switch断网急停、多账号快照隔离、配置漂移自愈 —— 让真实IP在物理上无法泄漏
 - [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) - Decrypt IPA's on MacOS
 - [ELY-Open-Source/CrychicUI](https://github.com/ELY-Open-Source/CrychicUI) - 1500 components for MyGo native UI, in MyGo's own look, with motion and sound.
 - [missuo/tamio](https://github.com/missuo/tamio) - Native SSH client for macOS: Ghostty terminal, dual-pane SFTP, live server status, E2EE iCloud sync and an MCP server for agents.
@@ -3544,7 +3549,7 @@
 - [lqs/sqlingo](https://github.com/lqs/sqlingo) - 💥 A lightweight DSL & ORM which helps you to write SQL in Go.
 - [joaofnds/go-template](https://github.com/joaofnds/go-template) - a Go template for HTTP APIs
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - Open-source data movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.
-- [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Ruby, Rust, and JS/TS on Postgres or SQLite.
+- [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Java, JS, Ruby, and Rust on Postgres/SQLite.
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲
 - [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
@@ -3598,6 +3603,7 @@
 
 ## python 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [AaronL725/grok-register](https://github.com/AaronL725/grok-register) - 批量稳定注册 Grok 账号，支持 WebUI/GUI/CLI、多邮箱服务、多线程并发、账号级多协议代理池、grok2api 入池、SSO 风控筛查与CPA OIDC 凭证导出。
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 50+ tests passed.
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
@@ -3658,6 +3664,7 @@
 
 ## react 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [CookSleep/gpt_image_playground](https://github.com/CookSleep/gpt_image_playground) - 基于 OpenAI gpt-image-2.5 API 的图片生成与编辑工具
 - [MultiboxLabs/flow-browser](https://github.com/MultiboxLabs/flow-browser) - A modern, privacy-focused browser with a minimalistic design.
 - [ahaodev/shadmin](https://github.com/ahaodev/shadmin) - An Enterprise-Grade Full-Stack RBAC Permission Management System Built with Go + React
@@ -3762,7 +3769,6 @@
 
 ## reverse-engineering 
 
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [Fausto-404/js-reverse-automation--skill](https://github.com/Fausto-404/js-reverse-automation--skill) - 结合chrome-devtools-mcp的能力并加上Skill的规范，实现JSRPC+Flask+autoDecoder方案的前端JS逆向自动化分析，提升JS逆向的效率
 - [Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer) - 全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & M
 - [vmoranv/jshookmcp](https://github.com/vmoranv/jshookmcp) - A search-first, profile-aware reverse-engineering workspace for AI agents — 735 tools across 36 domains in one MCP server.
@@ -3791,13 +3797,14 @@
 
 ## ruby 
 
-- [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Ruby, Rust, and JS/TS on Postgres or SQLite.
+- [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Java, JS, Ruby, and Rust on Postgres/SQLite.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [sidekiq/sidekiq](https://github.com/sidekiq/sidekiq) - Simple, efficient background processing for Ruby
 
 ## rust 
 
 - [monitor-probe/monitor](https://github.com/monitor-probe/monitor) - 用 Rust 写的轻量级服务器探针 (Rust + axum + SQLite)
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [zyycn/codex-proxy-rs](https://github.com/zyycn/codex-proxy-rs) - 基于 Rust 的低风控、高性能、自托管多账号透明代理网关
 - [changexbc/workbuddy-switch](https://github.com/changexbc/workbuddy-switch) - WorkBuddy、CodeBuddy  账号切换，支持积分到期监控、积分统计与 Token 统计，agent 状态悬浮窗。
@@ -3814,7 +3821,7 @@
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) & Wasmtime
 - [ZingerLittleBee/ServerBee](https://github.com/ZingerLittleBee/ServerBee) - Lightweight VPS monitoring with agent + server + web dashboard. Rust + React monorepo.
 - [loopholelabs/scale](https://github.com/loopholelabs/scale) - A framework for building high-performance plugin systems into any application, powered by WebAssembly.
-- [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Ruby, Rust, and JS/TS on Postgres or SQLite.
+- [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Java, JS, Ruby, and Rust on Postgres/SQLite.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [zino-rs/zino](https://github.com/zino-rs/zino) - Spec-driven framework for composable applications in Rust.
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
@@ -3833,6 +3840,7 @@
 
 ## security 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) - Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering, forensics, OSINT, and more
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [firerpa/lamda](https://github.com/firerpa/lamda) - Android Full-Stack Device Control Platform: WebRTC/H.264 remote desktop, UI/OCR/image-matching automation, one-click MITM, built-in Frida, proxy/VPN/frp/P2P networking, MCP/Agent, 160+ APIs, designed 
@@ -3867,7 +3875,7 @@
 
 - [wangwanjie/gately](https://github.com/wangwanjie/gately) - Open-source, auditable network gateway for homelabs, NAS and servers: DDNS, STUN traversal, port forwarding with SNI routing, reverse proxy and web server, ACME certificates, WAF, Tailscale, frp, Clou
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
-- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 47+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
+- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 48+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
 - [forever94yu/icloud-prime](https://github.com/forever94yu/icloud-prime) - Self-hosted iCloud Hide My Email management console with Windows portable releases
 - [bestruirui/octopus](https://github.com/bestruirui/octopus) - One Hub All LLMs For You | 为个人打造的 LLM API 聚合网关
 - [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
@@ -3990,7 +3998,7 @@
 - [sjjian/openhare](https://github.com/sjjian/openhare) - AI-powered desktop SQL client. Cross-platform. Built with Flutter.
 - [dosco/graphjin](https://github.com/dosco/graphjin) - One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code
 - [ZingerLittleBee/ServerBee](https://github.com/ZingerLittleBee/ServerBee) - Lightweight VPS monitoring with agent + server + web dashboard. Rust + React monorepo.
-- [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Ruby, Rust, and JS/TS on Postgres or SQLite.
+- [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Java, JS, Ruby, and Rust on Postgres/SQLite.
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [prisma/orm](https://github.com/prisma/orm) - The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.
@@ -4192,6 +4200,7 @@
 
 ## typescript 
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [sansenjian/recho-ai](https://github.com/sansenjian/recho-ai) - 
 - [roseforyou/cf-outlook-email](https://github.com/roseforyou/cf-outlook-email) - 📬 基于 Cloudflare Workers 的轻量级 Outlook 邮件管理工具 · 免费 · 无需服务器 | Lightweight Outlook email manager, serverless & free ⚡
 - [CookSleep/gpt_image_playground](https://github.com/CookSleep/gpt_image_playground) - 基于 OpenAI gpt-image-2.5 API 的图片生成与编辑工具
@@ -4234,7 +4243,7 @@
 - [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 - [SylarLong/iztro](https://github.com/SylarLong/iztro) - ⭐This is a lightweight kit for generating astrolabes for Zi Wei Dou Shu (The Purple Star Astrology), an ancient Chinese astrology. It allows you to obtain your horoscope and personality analysis. 支持多语
 - [loopholelabs/scale](https://github.com/loopholelabs/scale) - A framework for building high-performance plugin systems into any application, powered by WebAssembly.
-- [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Ruby, Rust, and JS/TS on Postgres or SQLite.
+- [riverqueue/river](https://github.com/riverqueue/river) - The polyglot queue: Fast and reliable background jobs in Go, Java, JS, Ruby, and Rust on Postgres/SQLite.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [Shpota/goxygen](https://github.com/Shpota/goxygen) - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲
 - [continew-org/continew-admin](https://github.com/continew-org/continew-admin) - 🔥Almost最佳后端规范🔥页面现代美观，且专注设计与代码细节的高质量多租户中后台管理系统框架。开箱即用，持续迭代优化，持续提供舒适的开发体验。当前采用技术栈：SpringBoot v3.4.x (Java17)、Vue3 & ArcoDesign、TS、Vite5 、SaToken、MyBatisPlus、Redisson、FastExcel、CosId、JetCache、JustAuth、Cr
@@ -4423,7 +4432,7 @@
 ## windows 
 
 - [oneo-me/nsgo](https://github.com/oneo-me/nsgo) - A cross-platform native UI engine with a Go backend: write apps in Go with signals, memos and flexbox layout, and each platform draws with its own native views — iOS, macOS, Windows, Android, Linux an
-- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 47+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
+- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 48+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
 - [qingjian-team/qingjian](https://github.com/qingjian-team/qingjian) - 青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词
 - [forever94yu/icloud-prime](https://github.com/forever94yu/icloud-prime) - Self-hosted iCloud Hide My Email management console with Windows portable releases
 - [keaipiao/codex-quota](https://github.com/keaipiao/codex-quota) - A native-feeling quota panel for the Windows Codex desktop sidebar.
