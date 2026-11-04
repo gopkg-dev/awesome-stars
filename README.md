@@ -439,7 +439,7 @@
 - [arklnk/ark-admin-zero](https://github.com/arklnk/ark-admin-zero) - 🚀 基于Go-Zero + Vue3 + TypeScript + Element-Plus开发的简单高效权限管理系统。 A simple and efficient permission management system based on Go-Zero + Vue3 + TypeScript + Element-Plus
 - [knqyf263/go-plugin](https://github.com/knqyf263/go-plugin) - Go Plugin System over WebAssembly
 - [Knetic/govaluate](https://github.com/Knetic/govaluate) - Arbitrary expression evaluation for golang
-- [gothinkster/golang-gin-realworld-example-app](https://github.com/gothinkster/golang-gin-realworld-example-app) - Exemplary real world application built with Golang + Gin
+- [realworld-apps/golang-gin-realworld-example-app](https://github.com/realworld-apps/golang-gin-realworld-example-app) - Exemplary real world application built with Golang + Gin
 - [alitto/pond](https://github.com/alitto/pond) - 🔘 Minimalistic and High-performance goroutine worker pool written in Go
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [chazuka/fiber-slogger](https://github.com/chazuka/fiber-slogger) - Fiber request logger middleware using slog
@@ -544,7 +544,7 @@
 - [mikestefanello/pagoda](https://github.com/mikestefanello/pagoda) - Rapid, easy full-stack web development starter kit and admin panel in Go
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It's completely configurable and 100% cross-pla
 - [AlienRecall/metadata1](https://github.com/AlienRecall/metadata1) - 
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform. 1Panel 是专门为 AI 服务器打造的管理面板。
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI, GPT 6.1, GPT-Image-2, Whisper API clients for Go. Zero-dependency.
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -987,7 +987,6 @@
 - [diafygi/webrtc-ips](https://github.com/diafygi/webrtc-ips) - Demo: https://diafygi.github.io/webrtc-ips/
 - [helloxz/ccaa](https://github.com/helloxz/ccaa) - 此项目不再维护，推荐使用Zdir替代！
 - [baiy/cadmin](https://github.com/baiy/cadmin) - 前后端分离后台开发项目
-- [golang-design/under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | Go 语言原本 | https://golang.design/under-the-hood
 - [gxlmyacc/sciter-doc-zh](https://github.com/gxlmyacc/sciter-doc-zh) - sciter中文帮助手册
 - [pingfangx/TranslatorX](https://github.com/pingfangx/TranslatorX) - JetBrains 系列软件汉化包 关键字: Android Studio 3.5 汉化包 CLion 2019.3 汉化包 DataGrip 2019.3 汉化包 GoLand 2019.3 汉化包 IntelliJ IDEA 2019.3 汉化包 PhpStorm 2019.3 汉化包 PyCharm 2019.3 汉化包 Rider 2019.3 汉化包 RubyMine 2019.3 汉化
 - [HackerThemes/spur-template](https://github.com/HackerThemes/spur-template) - A Bootstrap Admin Template
@@ -1189,6 +1188,7 @@
 - [wlchn/go-webassembly](https://github.com/wlchn/go-webassembly) - Go webassembly tutorial
 - [lihongxun945/gobang](https://github.com/lihongxun945/gobang) - javascript gobang AI，JS五子棋AI，源码+教程，基于Alpha-Beta剪枝算法（不是神经网络）
 - [lasting-yang/frida_dump](https://github.com/lasting-yang/frida_dump) - frida dump dex, frida dump so
+- [golang-design/under-the-hood](https://github.com/golang-design/under-the-hood) - 📚 Go: Under The Hood | Go 语言原本 | https://golang.design/under-the-hood
 - [imzhangshirong/Ecode](https://github.com/imzhangshirong/Ecode) - Javascript易语言代码框
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [codeskyblue/gosuv](https://github.com/codeskyblue/gosuv) - Deprecated!!! Process managerment writtern by golang, inspired by python-supervisor
@@ -1464,6 +1464,7 @@
 
 ## Rust 
 
+- [lexmount/moli](https://github.com/lexmount/moli) - Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust
 - [monitor-probe/monitor](https://github.com/monitor-probe/monitor) - 用 Rust 写的轻量级服务器探针 (Rust + axum + SQLite)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [egoist/lorca](https://github.com/egoist/lorca) - Imagine Telegram but single person, with agents, and end-to-end encrypted. Alternative to Grok bot, Muse, Dots
@@ -1597,9 +1598,10 @@
 
 ## TypeScript 
 
+- [postalsys/postal-mime](https://github.com/postalsys/postal-mime) - Email parser for browser and serverless environments
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [DFarm6/Prism-Browser-Community](https://github.com/DFarm6/Prism-Browser-Community) - Local-first open-source multi-profile fingerprint browser based on Chromium and Electron
-- [dsh-tauri/deepseek-harness-desktop](https://github.com/dsh-tauri/deepseek-harness-desktop) - DeepSeek Harness Tauri 桌面版 | Only 8mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.
+- [dsh-tauri/deepseek-harness-desktop](https://github.com/dsh-tauri/deepseek-harness-desktop) - DSH Tauri 桌面版 | Better DSH desktop, zero environment setup, preset plugins, Windows / macOS / Linux.
 - [bestruirui/octopus](https://github.com/bestruirui/octopus) - One Hub All LLMs For You | 为个人打造的 LLM API 聚合网关
 - [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 - [hahahumble/storageui](https://github.com/hahahumble/storageui) - ☁️ Open file browser for S3, R2, and other storage backends.
@@ -1784,7 +1786,7 @@
 - [thunur/vue-naive-ui-admin](https://github.com/thunur/vue-naive-ui-admin) - Aso.design 是一个基于 Vue3、Vite、Naive UI、TypeScript 的免费中后台模版，它使用了最新的前端技术栈，封装了一些常用组件和展示用例，开箱即用的中后台前端解决方案，gin后端开发中
 - [midwayjs/midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integra
 - [cool-team-official/cool-admin-midway](https://github.com/cool-team-official/cool-admin-midway) - 🔥 cool-admin(midway版)一个很酷的后台权限管理框架，Ai编码、流程编排、模块化、插件化、CRUD极速开发，永久开源免费，基于nodejs、typescript、typeorm、mysql、jwt、vue3、vite、element-ui等构建
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people ma
 - [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite8, TypeScript, Pinia, NaiveUI 和 Uno
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [1zilc/fishing-funds](https://github.com/1zilc/fishing-funds) - 基金,大盘,股票,虚拟货币状态栏显示小应用
