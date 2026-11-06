@@ -265,6 +265,7 @@
 
 ## Go 
 
+- [t8y2/motty](https://github.com/t8y2/motty) - SSH, SFTP, port forwarding, VNC/RDP and an AI assistant、MCP in one native window — a Go desktop app built on Viva, with no webview.
 - [oneo-me/nsgo](https://github.com/oneo-me/nsgo) - A cross-platform native UI engine with a Go backend: write apps in Go with signals, memos and flexbox layout, and each platform draws with its own native views — iOS, macOS, Windows, Android, Linux an
 - [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) - Decrypt IPA's on MacOS
 - [ELY-Open-Source/CrychicUI](https://github.com/ELY-Open-Source/CrychicUI) - 1500 components for MyGo native UI, in MyGo's own look, with motion and sound.
