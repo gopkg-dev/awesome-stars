@@ -51,7 +51,7 @@
 
 - [missuo/herdrm](https://github.com/missuo/herdrm) - Native macOS console for herdr — all your coding agents and their live terminals, across devices
 - [yujunjiex/behavior_captcha_cracker](https://github.com/yujunjiex/behavior_captcha_cracker) - 基于深度学习的行为式验证码研究及破解。类型包括滑块式/点选式，平台包括极验/易盾/云片
-- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Force Proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
+- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge) - Simple Proxy Client to force proxy to any Windows/MacOS/Linux Application TCP and UDP traffic
 - [loopholelabs/scale](https://github.com/loopholelabs/scale) - A framework for building high-performance plugin systems into any application, powered by WebAssembly.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [danta666/ecdh_c](https://github.com/danta666/ecdh_c) - ECDH算法C语言实现
@@ -265,6 +265,9 @@
 
 ## Go 
 
+- [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo) - 🍭 Lobe MyGo - the UI kit for native Go apps: Lobe UI design language for MyGo, drawn on the GPU in pure Go
+- [DIYgod/pinky](https://github.com/DIYgod/pinky) - Let AI agents use your phone, with you in the loop.
+- [TooonyChen/finallyshell](https://github.com/TooonyChen/finallyshell) - 类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI
 - [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage) - Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。
 - [t8y2/motty](https://github.com/t8y2/motty) - SSH, SFTP, port forwarding, VNC/RDP and an AI assistant、MCP in one native window — a Go desktop app built on Viva, with no webview.
 - [oneo-me/nsgo](https://github.com/oneo-me/nsgo) - A cross-platform native UI engine with a Go backend: write apps in Go with signals, memos and flexbox layout, and each platform draws with its own native views — iOS, macOS, Windows, Android, Linux an
@@ -598,7 +601,7 @@
 - [jmploop/protoc-gen-go-asynq](https://github.com/jmploop/protoc-gen-go-asynq) - asynq protobuf
 - [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
 - [yoyofx/yoyogo](https://github.com/yoyofx/yoyogo) - 🦄🌈 YoyoGo is a simple, light and fast , dependency injection based micro-service framework written in Go. Support Nacos ,Consoul ,Etcd ,Eureka ,kubernetes.
-- [8treenet/freedom](https://github.com/8treenet/freedom) - Freedom是一个基于六边形架构的框架，可以支撑充血的领域模型范式。
+- [8treenet/freedom](https://github.com/8treenet/freedom) - 用 Go 写 DDD 服务的框架：六边形架构管边界，实体和聚合管业务行为，基础设施交给框架。
 - [xfmoulet/qoi](https://github.com/xfmoulet/qoi) - Pure Go encoder/decoder of the QOI image format
 - [campoy/unique](https://github.com/campoy/unique) - Package unique provides primitives for sorting slices removing repeated elements.
 - [guowei-gong/yuumi-movie](https://github.com/guowei-gong/yuumi-movie) - 📺  在 yuumi 真的可以追剧，基于 Kratos 微服务框架实现，采用 Kubernetes+Docker 部署。
@@ -1044,7 +1047,7 @@
 ## JavaScript 
 
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
-- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 52+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
+- [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 53+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
 - [poxiao33/toSub2](https://github.com/poxiao33/toSub2) - 通过协议登录 ChatGPT、完成 Codex 授权并生成 sub2api 导入文件
 - [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) - DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版
 - [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router) - External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.
@@ -1681,7 +1684,7 @@
 - [LuanRoger/electron-shadcn](https://github.com/LuanRoger/electron-shadcn) - :electron: Electron Forge with shadcn-ui (Vite + Typescript)
 - [addyosmani/enhance](https://github.com/addyosmani/enhance) - Enhance and upscale your images using AI - right in your browser
 - [addyosmani/bg-remove](https://github.com/addyosmani/bg-remove) - Free image background removal - private, client-side and powered by Transformers.js
-- [cellbang/cell](https://github.com/cellbang/cell) - Cell is a Serverless First, componentized, platform-independent progressive application framework based on TypeScript. Cell 是基于 TypeScript 的 Serverless First、组件化、平台无关的渐进式应用框架。
+- [cellbang/cell](https://github.com/cellbang/cell) - The TypeScript framework that builds once and runs anywhere, designed for humans and coding agents alike.一次构建、随处运行的 TypeScript 应用框架，为开发者与 Coding Agent 共同设计。
 - [aklinker1/webext-core](https://github.com/aklinker1/webext-core) - Collection of essential libraries and tools for building web extensions
 - [rkamysz/adobe-node](https://github.com/rkamysz/adobe-node) - Control Adobe applications - such as Photoshop, Animate, Illustrator, InDesign - from node. Run JavaScript to remotely - from the command line - create, modify or export document content. This module 
 - [Agamnentzar/ag-psd](https://github.com/Agamnentzar/ag-psd) - Javascript library for reading and writing PSD files
