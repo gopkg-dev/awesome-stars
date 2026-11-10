@@ -265,12 +265,13 @@
 
 ## Go 
 
+- [djyde/dalibre](https://github.com/djyde/dalibre) - A lightweight Calibre alternative
 - [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo) - 🍭 Lobe MyGo - the UI kit for native Go apps: Lobe UI design language for MyGo, drawn on the GPU in pure Go
 - [DIYgod/pinky](https://github.com/DIYgod/pinky) - Let AI agents use your phone, with you in the loop.
 - [TooonyChen/finallyshell](https://github.com/TooonyChen/finallyshell) - 类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI
 - [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage) - Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。
 - [t8y2/motty](https://github.com/t8y2/motty) - SSH, SFTP, port forwarding, VNC/RDP and an AI assistant、MCP in one native window — a Go desktop app built on Viva, with no webview.
-- [oneo-me/nsgo](https://github.com/oneo-me/nsgo) - A cross-platform native UI engine with a Go backend: write apps in Go with signals, memos and flexbox layout, and each platform draws with its own native views — iOS, macOS, Windows, Android, Linux an
+- [oneo-me/nsgo](https://github.com/oneo-me/nsgo) - A cross-platform native UI engine with a Go backend: write apps in Go with signals, memos and flexbox layout, and each platform draws with its own native views — iOS and its App Clips, tvOS, watchOS, 
 - [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) - Decrypt IPA's on MacOS
 - [ELY-Open-Source/CrychicUI](https://github.com/ELY-Open-Source/CrychicUI) - 1500 components for MyGo native UI, in MyGo's own look, with motion and sound.
 - [wangwanjie/gately](https://github.com/wangwanjie/gately) - Open-source, auditable network gateway for homelabs, NAS and servers: DDNS, STUN traversal, port forwarding with SNI routing, reverse proxy and web server, ACME certificates, WAF, Tailscale, frp, Clou
@@ -320,7 +321,7 @@
 - [anthropics/anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go) - Access to Anthropic's safety-first language model APIs via Go
 - [enetx/surf](https://github.com/enetx/surf) - SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerprinting, JA3/JA4 TLS emulation, and anti-bot bypass for web automation and scraping.
 - [dtm-labs/rockscache](https://github.com/dtm-labs/rockscache) - The First Redis Cache Library To Ensure Eventual Consistency And Strong Consistency With DB.
-- [dosco/graphjin](https://github.com/dosco/graphjin) - One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code
+- [dosco/graphjin](https://github.com/dosco/graphjin) - DeepORG (formerly GraphJin) — one governed AI agent for your whole organization: databases, APIs, files, and code over MCP
 - [quanxiang-cloud/process](https://github.com/quanxiang-cloud/process) - Process engine kernel
 - [emmansun/gmsm](https://github.com/emmansun/gmsm) - ShangMi (SM) cipher suites for Go (Go语言商用密码软件)
 - [reachingforthejack/cursortab.nvim](https://github.com/reachingforthejack/cursortab.nvim) - WIP! Reverse engineered Cursor Tab API in Neovim
@@ -503,7 +504,7 @@
 - [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go
 - [projectdiscovery/fastdialer](https://github.com/projectdiscovery/fastdialer) - Dialer with DNS Cache + Dial History
-- [earthboundkid/requests](https://github.com/earthboundkid/requests) - HTTP requests for Gophers
+- [gophertools/requests](https://github.com/gophertools/requests) - HTTP requests for Gophers
 - [wangluozhe/requests](https://github.com/wangluozhe/requests) - 用于快速请求HTTP或HTTPS，并支持修改ja3、ja4指纹
 - [google/martian](https://github.com/google/martian) - Martian is a library for building custom HTTP/S proxies
 - [hidu/proxy-manager](https://github.com/hidu/proxy-manager) - manager http、socks4、socks4a、socks5、shadowsocks
@@ -1762,7 +1763,7 @@
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library, AI-friendly built-in.🎨Provide 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.🧑🏻‍💻 Design t
 - [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
 - [TheWidlarzGroup/react-native-video](https://github.com/TheWidlarzGroup/react-native-video) - A &lt;Video /&gt; component for react-native
-- [SylarLong/iztro](https://github.com/SylarLong/iztro) - ⭐This is a lightweight kit for generating astrolabes for Zi Wei Dou Shu (The Purple Star Astrology), an ancient Chinese astrology. It allows you to obtain your horoscope and personality analysis. 支持多语
+- [SylarLong/iztro](https://github.com/SylarLong/iztro) - ⭐支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。This is a lightweight kit for generating astrolabes for Zi Wei Dou Shu (The Purple Star Astrology), an ancient Chinese astrology. It allows you to obtain your horosco
 - [latentcat/qrbtf](https://github.com/latentcat/qrbtf) - AI & parametric QR code generator. AI & 参数化二维码生成器。https://qrbtf.com
 - [commercelayer/commercelayer-sanity-template](https://github.com/commercelayer/commercelayer-sanity-template) - A multi-country ecommerce template built with Commerce Layer, Next.js, Sanity studio, and deployed to Netlify.
 - [reliverse/relivator](https://github.com/reliverse/relivator) - 🏬 relivator: next.js 15 react 19 ecommerce template ▲ better-auth polar shadcn/ui tailwind drizzle orm typescript ts radix, postgres neon, app router saas commerce ecommerce shop pricing payments dark
