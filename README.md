@@ -268,7 +268,7 @@
 
 - [djyde/dalibre](https://github.com/djyde/dalibre) - A lightweight Calibre alternative
 - [lobehub/lobe-mygo](https://github.com/lobehub/lobe-mygo) - 🍭 Lobe MyGo - the UI kit for native Go apps: Lobe UI design language for MyGo, drawn on the GPU in pure Go
-- [DIYgod/pinky](https://github.com/DIYgod/pinky) - Let AI agents use your phone, with you in the loop.
+- [DIYgod/pinky](https://github.com/DIYgod/pinky) - Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.
 - [TooonyChen/finallyshell](https://github.com/TooonyChen/finallyshell) - 类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI
 - [Lee-xeo/Claude-Cage](https://github.com/Lee-xeo/Claude-Cage) - Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。
 - [t8y2/motty](https://github.com/t8y2/motty) - SSH, SFTP, port forwarding, VNC/RDP and an AI assistant、MCP in one native window — a Go desktop app built on Viva, with no webview.
@@ -319,7 +319,6 @@
 - [sa-tokens/sa-token-go](https://github.com/sa-tokens/sa-token-go) - ✨ 一个轻量级 Go 权限认证框架，让鉴权变得简单、优雅！
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 - [anthropics/anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go) - Access to Anthropic's safety-first language model APIs via Go
-- [enetx/surf](https://github.com/enetx/surf) - SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerprinting, JA3/JA4 TLS emulation, and anti-bot bypass for web automation and scraping.
 - [dtm-labs/rockscache](https://github.com/dtm-labs/rockscache) - The First Redis Cache Library To Ensure Eventual Consistency And Strong Consistency With DB.
 - [dosco/graphjin](https://github.com/dosco/graphjin) - DeepORG (formerly GraphJin) — one governed AI agent for your whole organization: databases, APIs, files, and code over MCP
 - [quanxiang-cloud/process](https://github.com/quanxiang-cloud/process) - Process engine kernel
@@ -449,7 +448,6 @@
 - [alitto/pond](https://github.com/alitto/pond) - 🔘 Minimalistic and High-performance goroutine worker pool written in Go
 - [uptrace/bun](https://github.com/uptrace/bun) - SQL-first Golang ORM
 - [chazuka/fiber-slogger](https://github.com/chazuka/fiber-slogger) - Fiber request logger middleware using slog
-- [idanfishman/fiber-bind](https://github.com/idanfishman/fiber-bind) - 🧬 Request schema validator middleware for Fiber
 - [bufanyun/hotgo](https://github.com/bufanyun/hotgo) - HotGo 是AI 赋能企业级全栈前后端分离开发及移动应用基础平台，基于 Vue 和 GoFrame2.0 构建；内置 AI 开发规范、适配主流 AI 开发工具，人机协同高效开发。集成 jwt 鉴权、动态路由菜单、casbin 鉴权、消息队列、定时任务等功能，预置各类常用场景文件，助力专注业务开发。
 - [openscrm/api-server](https://github.com/openscrm/api-server) - OpenSCRM是一套基于Go和React的高质量企业微信私域流量管理系统 。遵守Apache2.0协议，全网唯一免费商用。企业微信、私域流量、SCRM。
 - [vprix/vncproxy](https://github.com/vprix/vncproxy) - This is a VNC proxy program, fully resolved the RFB protocol, support VNC proxy, record playback video, record operations as a log file, and support log file playback.
@@ -471,7 +469,7 @@
 - [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)
 - [ovh/utask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. ✏️📋
 - [runabol/tork](https://github.com/runabol/tork) - Tork is a lightweight, distributed workflow engine that runs tasks as simple scripts within Docker containers.
-- [nlnwa/whatwg-url](https://github.com/nlnwa/whatwg-url) - WHATWG conformant url parser for the Go language
+- [NationalLibraryOfNorway/whatwg-url](https://github.com/NationalLibraryOfNorway/whatwg-url) - WHATWG conformant url parser for the Go language
 - [zhenorzz/goploy](https://github.com/zhenorzz/goploy) - Devops, Deploy, CI/CD, Terminal, Sftp, Server monitor, Crontab Manager, Nginx Manager.
 - [gopkg-dev/amazoncaptcha](https://github.com/gopkg-dev/amazoncaptcha) - Amazon captcha recognition solution based on Go language standard library
 - [go-dawn/dawn](https://github.com/go-dawn/dawn) - ⛵ An opinionated lightweight framework to build web api or applications. On top of Fiber.
@@ -699,7 +697,7 @@
 - [wx-chevalier/Go-Notes](https://github.com/wx-chevalier/Go-Notes) - :books: Go-Series, Go  From Zero to Hero. | 语法基础、工程实践、并发编程、Web 开发
 - [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
 - [gocarina/gocsv](https://github.com/gocarina/gocsv) - The GoCSV package aims to provide easy CSV serialization and deserialization to the golang programming language
-- [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - Algorithm Patterns — the most scientific way to practice, the fastest path to an offer. You deserve it~ 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
+- [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - Algorithm Patterns — the most scientific way to practice, the fastest path to an offer. You deserve it~
 - [koddr/tutorial-go-fiber-rest-api](https://github.com/koddr/tutorial-go-fiber-rest-api) - 📖 Build a RESTful API on Go: Fiber, PostgreSQL, JWT and Swagger docs in isolated Docker containers.
 - [create-go-app/cli](https://github.com/create-go-app/cli) - ✨ A complete and self-contained solution for developers of any qualification to create a production-ready project with backend (Go), frontend (JavaScript, TypeScript) and deploy automation (Ansible, D
 - [benmanns/goworker](https://github.com/benmanns/goworker) - goworker is a Go-based background worker that runs 10 to 100,000* times faster than Ruby-based workers.
@@ -1047,6 +1045,7 @@
 
 ## JavaScript 
 
+- [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) - 
 - [dofastted/vm2api](https://github.com/dofastted/vm2api) - vm2api 使用虚拟机完全拟真方案的订阅转api
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [Javis603/token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, limits, and session activity across 54+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, OpenClaw, and more—with multi-device
@@ -1355,13 +1354,13 @@
 - [zed-industries/awesome-gpui](https://github.com/zed-industries/awesome-gpui) - Awesome projects, built with or for GPUI!
 - [asdfg3482968521-alt/Codex-5.5-codex-instruct-5.5](https://github.com/asdfg3482968521-alt/Codex-5.5-codex-instruct-5.5) - Codex CLI 破甲工具（GPT-5.5） — 注入无限制模式系统指令，关闭所有内容过滤器。
 - [myfanhua/turb-gpt-free-register](https://github.com/myfanhua/turb-gpt-free-register) - 指纹浏览器、纯协议全自动ChatGPT FREE注册机+Codex自动接码授权、对接提链服务器
-- [AaronL725/grok-register](https://github.com/AaronL725/grok-register) - 批量稳定注册 Grok 账号，支持 WebUI/GUI/CLI、多邮箱服务、多线程并发、账号级多协议代理池、grok2api 入池、SSO 风控筛查与CPA OIDC 凭证导出。
+- [AaronL725/grok-register](https://github.com/AaronL725/grok-register) - Grok 账号注册流程自动化与管理工具，支持 WebUI/GUI/CLI、多邮箱服务、多线程并发、账号级多协议代理池、grok2api 入池、SSO 风控筛查与CPA OIDC 凭证导出。
 - [yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5) - 
 - [QiuChenly/ida-pro-mcp-enhancement](https://github.com/QiuChenly/ida-pro-mcp-enhancement) - 二创爆改，懒得提交给原仓库了
 - [wuyoscar/GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill) - GPT Image 2/2.5/2.6 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing
 - [hero8152/Infinite-Canvas](https://github.com/hero8152/Infinite-Canvas) - Supports comfyui/API calls/modelscope calls
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 50+ tests passed.
-- [liangdabiao/ecom-details-image](https://github.com/liangdabiao/ecom-details-image) - 一个面向workbuddy / Codex 等agent 的跨境电商和国内电商通用视觉创作 Skill。我精选25个高质量案例，涵盖纯色底产品主图、场景化生活图、平铺图、电商详情图、真实场景等等，全部配完整提示词，都可以利用 GPT-Image-2 API生成最终效果。一键生成电商相关图片！输入产品图片和需求描述，自动生成完整的电商主图、详情页图片、社媒推广图、直播间场景图等全套视觉素材。 与众不
+- [liangdabiao/ecom-details-image](https://github.com/liangdabiao/ecom-details-image) - 一个面向workbuddy / Codex 等agent 的跨境电商和国内电商通用视觉创作 Skill。我精选25个高质量案例，涵盖纯色底产品主图、场景化生活图、平铺图、电商详情图、真实场景等等，全部配完整提示词，都可以利用 GPT-Image-2 、Seedream 5.5 API生成最终效果。一键生成电商相关图片！输入产品图片和需求描述，自动生成完整的电商主图、详情页图片、社媒推广图、直播间场
 - [pydn/ComfyUI-to-Python-Extension](https://github.com/pydn/ComfyUI-to-Python-Extension) - A powerful tool that translates ComfyUI workflows into executable Python code.
 - [LAOGOU-666/Comfyui-Transform](https://github.com/LAOGOU-666/Comfyui-Transform) - The simple implementation of the recraft sticker function
 - [daijro/geoip-all-in-one](https://github.com/daijro/geoip-all-in-one) - Merges IP2Location + GeoLite2 + DB-IP and more into a single, highly accurate mmdb. Rebuilt weekly
@@ -1473,6 +1472,7 @@
 
 ## Rust 
 
+- [jub0t/Concat](https://github.com/jub0t/Concat) - Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP.
 - [lexmount/moli](https://github.com/lexmount/moli) - Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust
 - [monitor-probe/monitor](https://github.com/monitor-probe/monitor) - 用 Rust 写的轻量级服务器探针 (Rust + axum + SQLite)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
