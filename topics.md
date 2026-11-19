@@ -304,6 +304,7 @@
 - [dosco/graphjin](https://github.com/dosco/graphjin) - DeepORG (formerly GraphJin) — one governed AI agent for your whole organization: databases, APIs, files, and code over MCP
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people ma
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, 
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 
 ## agents 
 
@@ -1223,7 +1224,6 @@
 
 ## firefox 
 
-- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [mefengl/wxt-starter](https://github.com/mefengl/wxt-starter) - Maybe the best template based on wxt.
 - [browserutils/kooky](https://github.com/browserutils/kooky) - Go code to read cookies from browser cookie stores.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
@@ -2323,6 +2323,7 @@
 - [Casper-Mars/cloud-restaurant](https://github.com/Casper-Mars/cloud-restaurant) - 
 - [fnproject/fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
 - [kplcloud/kplcloud](https://github.com/kplcloud/kplcloud) - 基于Kubernetes的PaaS平台
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [go-chassis/go-chassis](https://github.com/go-chassis/go-chassis) - a cloud native application framework for Go with rich eco-system
 - [macrozheng/mall-swarm](https://github.com/macrozheng/mall-swarm) - mall-swarm是一套微服务商城系统，采用了 Spring Cloud Alibaba、Spring Boot 3.5、Sa-Token、MyBatis、Elasticsearch、Docker、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
@@ -2355,7 +2356,7 @@
 
 ## linux 
 
-- [VinceGHER/openwren](https://github.com/VinceGHER/openwren) - A modern, privacy-first mail app that keeps your mail on your computer. Free and open source, for Linux, macOS and Windows. Built with Rust and React.
+- [VinceGHER/openwren](https://github.com/VinceGHER/openwren) - A modern, fast, privacy-first mail app that keeps your mail on your computer. Free and open source, for Linux, macOS and Windows. Built with Rust and React.
 - [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
 - [nsgo-dev/nsgo](https://github.com/nsgo-dev/nsgo) - A cross-platform native UI engine with a Go backend: write apps in Go with signals, memos and flexbox layout, and each platform draws with its own native views — iOS and its App Clips, tvOS, watchOS, 
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -2863,7 +2864,6 @@
 - [github/app](https://github.com/github/app) - The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.
 - [LAOGOU-666/Comfyui-Transform](https://github.com/LAOGOU-666/Comfyui-Transform) - The simple implementation of the recraft sticker function
 - [mo-browser-apps/icons](https://github.com/mo-browser-apps/icons) - Generate macOS app icons using AI.
-- [daijro/geoip-all-in-one](https://github.com/daijro/geoip-all-in-one) - Merges IP2Location + GeoLite2 + DB-IP and more into a single, highly accurate mmdb. Rebuilt weekly
 - [Wtcity22/Open-Anti-Browser](https://github.com/Wtcity22/Open-Anti-Browser) - 开源的指纹浏览器应用，支持Chrome和Firefox
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 - [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills) - Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
@@ -3476,7 +3476,7 @@
 - [cxxclean/cxx-clean-include](https://github.com/cxxclean/cxx-clean-include) - 
 - [dhbaird/easywsclient](https://github.com/dhbaird/easywsclient) - A short and sweet WebSocket client for C++
 - [wnxd/e.net](https://github.com/wnxd/e.net) - e.net
-- [b23r0/rsocx](https://github.com/b23r0/rsocx) - A bind/reverse Socks5 proxy server.
+- [b23r0/rsocx](https://github.com/b23r0/rsocx) - Yet another bind/reverse SOCKS/HTTP proxy server.
 - [talkincode/toughradius](https://github.com/talkincode/toughradius) - A powerful, open-source RADIUS server designed for ISPs, enterprise networks, and carriers. Supports standard RADIUS protocols, a full EAP / 802.1X authentication suite (EAP-TLS, PEAPv0/EAP-MSCHAPv2, 
 - [M00nRise/ProcessHider](https://github.com/M00nRise/ProcessHider) - Post-exploitation tool for hiding processes from monitoring applications
 - [nygard/class-dump](https://github.com/nygard/class-dump) - Generate Objective-C headers from Mach-O files.
@@ -3615,7 +3615,7 @@
 
 ## privacy 
 
-- [VinceGHER/openwren](https://github.com/VinceGHER/openwren) - A modern, privacy-first mail app that keeps your mail on your computer. Free and open source, for Linux, macOS and Windows. Built with Rust and React.
+- [VinceGHER/openwren](https://github.com/VinceGHER/openwren) - A modern, fast, privacy-first mail app that keeps your mail on your computer. Free and open source, for Linux, macOS and Windows. Built with Rust and React.
 - [furyteamtop/fury-antidetect-browser](https://github.com/furyteamtop/fury-antidetect-browser) - Free, open-source anti-detect browser. A Chromium 157 fork that spoofs the fingerprint in C++ rather than with injected JavaScript, with per-profile personas and proxies, a built-in MCP server for AI 
 - [DFarm6/Prism-Browser-Community](https://github.com/DFarm6/Prism-Browser-Community) - Local-first open-source multi-profile fingerprint browser based on Chromium and Electron
 - [forever94yu/icloud-prime](https://github.com/forever94yu/icloud-prime) - Self-hosted iCloud Hide My Email management console with Windows portable releases
@@ -3711,7 +3711,6 @@
 
 - [mycontroller-org/server](https://github.com/mycontroller-org/server) - MyController 2.x server
 - [bassmaster187/TeslaLogger](https://github.com/bassmaster187/TeslaLogger) - TeslaLogger is a self hosted data logger for your Tesla Model S/3/X/Y. Actually it supports RaspberryPi 3B, 3B+, 4B, Docker and Synology NAS.
-- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [openfans-community-offical/Debian-Pi-Aarch64](https://github.com/openfans-community-offical/Debian-Pi-Aarch64) - This is the first 64-bit system in the world to support all Raspberry Pi 64-bit hardware!!! (Include: PI400,4B,3B+,3B,3A+,Zero2W)
 
 ## react 
@@ -3855,7 +3854,7 @@
 
 ## rust 
 
-- [VinceGHER/openwren](https://github.com/VinceGHER/openwren) - A modern, privacy-first mail app that keeps your mail on your computer. Free and open source, for Linux, macOS and Windows. Built with Rust and React.
+- [VinceGHER/openwren](https://github.com/VinceGHER/openwren) - A modern, fast, privacy-first mail app that keeps your mail on your computer. Free and open source, for Linux, macOS and Windows. Built with Rust and React.
 - [furyteamtop/fury-antidetect-browser](https://github.com/furyteamtop/fury-antidetect-browser) - Free, open-source anti-detect browser. A Chromium 157 fork that spoofs the fingerprint in C++ rather than with injected JavaScript, with per-profile personas and proxies, a built-in MCP server for AI 
 - [lexmount/moli](https://github.com/lexmount/moli) - Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust
 - [monitor-probe/monitor](https://github.com/monitor-probe/monitor) - 用 Rust 写的轻量级服务器探针 (Rust + axum + SQLite)
