@@ -110,7 +110,6 @@
 
 ## C++ 
 
-- [chenxuuu/sms_forwarding](https://github.com/chenxuuu/sms_forwarding) - 超低成本硬件短信转发器，支持移动联通电信，ML307R+ESP32C3
 - [gridex/gridex](https://github.com/gridex/gridex) - A native macOS / windows / Linux database IDE built with Swift and AppKit. Connect to PostgreSQL, MySQL, SQLite, and Redis from a single app with a fast, keyboard-driven interface.
 - [BBuf/Image-processing-algorithm](https://github.com/BBuf/Image-processing-algorithm) - paper implement
 - [lynx-family/lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
@@ -964,7 +963,8 @@
 
 ## HTML 
 
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [chenxuuu/sms_forwarding](https://github.com/chenxuuu/sms_forwarding) - 低成本硬件短信转发器，支持eSIM管理，ML307+ESP32C3。 low cost sms forwarding hardware
 - [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design 3.4 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / App Store 宣传图 / 小红书图文 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 92 种带样张的风格库 · 该是图的地方放真图 · HTML-native design skill for Claude Code, Codex, Cursor & a
 - [missuo/discord-image](https://github.com/missuo/discord-image) - Powerful Discord image hosting, file sharing
 - [jywarren/webgl-distort](https://github.com/jywarren/webgl-distort) - A demo project for perspective transformations on a given image at full resolution
@@ -1005,7 +1005,7 @@
 - [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
 - [dromara/orion-visor](https://github.com/dromara/orion-visor) - 一款高颜值、现代化的自动化运维及轻量堡垒机，提供全面的服务器智能运维解决方案。支持资产管理分组、多协议访问(SSH、SFTP、RDP、VNC)、实时系统监控与智能告警、文件上传下载、在线编辑、命令批量执行、多主机文件分发和计划任务配置(通过 cron 表达式)等功能，确保高效安全的运维体验。适用于 Linux 和 Windows 系统的运维管理。
 - [pingapi/apigo](https://github.com/pingapi/apigo) - ApiGo是低代码开发平台，多数据库插件化数据源框架，深度整合SpringBoot和Mybatis实现动态数据源和动态SQL，可视化编写SQL快速发布接口
-- [continew-org/continew-admin](https://github.com/continew-org/continew-admin) - 🔥Almost最佳后端规范🔥页面现代美观，且专注设计与代码细节的高质量多租户中后台管理系统框架。开箱即用，持续迭代优化，持续提供舒适的开发体验。当前采用技术栈：SpringBoot v3.4.x (Java17)、Vue3 & ArcoDesign、TS、Vite5 、SaToken、MyBatisPlus、Redisson、FastExcel、CosId、JetCache、JustAuth、Cr
+- [continew-org/continew-admin](https://github.com/continew-org/continew-admin) - 🔥Almost 最佳规范🔥 AI 编程纪元，从 ContiNew & AI Native Coding 开始优雅编码。高质量多租户中后台管理系统框架：前端 React 19 & shadcn/ui & Tailwind CSS，后端 Spring Boot 4 & ContiNew Starter，开箱即用，持续提供舒适的开发体验。
 - [wimoor-erp/wimoor](https://github.com/wimoor-erp/wimoor) - 
 - [alibaba/COLA](https://github.com/alibaba/COLA) - 🥤 COLA: Clean Object-oriented & Layered Architecture
 - [zhkl0228/unidbg](https://github.com/zhkl0228/unidbg) - Allows you to emulate an Android native library, and an experimental  iOS emulation
@@ -1204,7 +1204,7 @@
 - [RD17/TeleJS](https://github.com/RD17/TeleJS) - 🚩 TeleJS is a pure JavaScript implementation of Telegram MTP protocol
 - [venkatbaggu/dapperorm](https://github.com/venkatbaggu/dapperorm) - dapperorm
 - [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
-- [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生
+- [byoungd/up](https://github.com/byoungd/up) - 人生进阶指南 韩先凯的人生进阶指南 AI时代中英双语终身学习指南：学习 、创业、财富、爱情、人生与AI
 - [Yija/vipAdminTemplate](https://github.com/Yija/vipAdminTemplate) - 基于最新的 LAYUI 版本 该模板简洁丶易用丶兼容移动端 该模板适用于后端管理系统,CMS系统,企业OS系统以及各种后台管理 该模板对浏览器的要求比较高 至少使用IE9+的用户浏览使用
 - [StartBootstrap/startbootstrap-simple-sidebar](https://github.com/StartBootstrap/startbootstrap-simple-sidebar) - An off canvas sidebar navigation Bootstrap HTML template created by Start Bootstrap
 - [k1995/BaiduyunSpider](https://github.com/k1995/BaiduyunSpider) - 百度云网盘搜索引擎，包含爬虫 & 网站
@@ -1468,7 +1468,7 @@
 ## Rust 
 
 - [libracoder/kiri](https://github.com/libracoder/kiri) - A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative
-- [jub0t/Concat](https://github.com/jub0t/Concat) - Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP.
+- [jub0t/Concat](https://github.com/jub0t/Concat) - The open-source CapCut alternative.
 - [lexmount/moli](https://github.com/lexmount/moli) - Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust
 - [monitor-probe/monitor](https://github.com/monitor-probe/monitor) - 用 Rust 写的轻量级服务器探针 (Rust + axum + SQLite)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
@@ -1504,7 +1504,7 @@
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase) - An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) & Wasmtime
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
-- [ZingerLittleBee/ServerBee](https://github.com/ZingerLittleBee/ServerBee) - Lightweight VPS monitoring with agent + server + web dashboard. Rust + React monorepo.
+- [ZingerLittleBee/ServerBee](https://github.com/ZingerLittleBee/ServerBee) - Self-hosted VPS monitoring: live load, carrier routes, IP unlock, server costs, custom dashboards and a native iOS app. One server binary, SQLite built in.
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 - [lucasbuilds/proxy.rs](https://github.com/lucasbuilds/proxy.rs) - 
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
@@ -1599,7 +1599,7 @@
 
 ## TypeScript 
 
-- [VinceGHER/openwren](https://github.com/VinceGHER/openwren) - A modern, fast, privacy-first mail app that keeps your mail on your computer. Free and open source, for Linux, macOS and Windows. Built with Rust and React.
+- [VinceGHER/openwren](https://github.com/VinceGHER/openwren) - A modern, fast, privacy-first email client that keeps your mail on your computer. Free and open source, for Linux, macOS and Windows. Built with Rust and React.
 - [furyteamtop/fury-antidetect-browser](https://github.com/furyteamtop/fury-antidetect-browser) - Free, open-source anti-detect browser. A Chromium 157 fork that spoofs the fingerprint in C++ rather than with injected JavaScript, with per-profile personas and proxies, a built-in MCP server for AI 
 - [gopkg-dev/damail](https://github.com/gopkg-dev/damail) - Self-hosted mail hub: all your mailboxes on your own server, ready for AI agents via MCP and REST API
 - [postalsys/postal-mime](https://github.com/postalsys/postal-mime) - Email parser for browser and serverless environments
@@ -1632,7 +1632,7 @@
 - [nexu-io/nexu](https://github.com/nexu-io/nexu) - The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 
 - [m1heng/claude-plugin-weixin](https://github.com/m1heng/claude-plugin-weixin) - 
 - [wong2/weixin-agent-sdk](https://github.com/wong2/weixin-agent-sdk) - 微信Clawbot接入任意Agent
-- [ahaodev/shadmin](https://github.com/ahaodev/shadmin) - An Enterprise-Grade Full-Stack RBAC Permission Management System Built with Go + React
+- [ahaodev/shadmin](https://github.com/ahaodev/shadmin) - An Enterprise-Grade Full-Stack RBAC Permission Management System Built with Go + React.
 - [7836246/cursor2api](https://github.com/7836246/cursor2api) - 将 Cursor Web Docs 免费 API 转换为 OpenAI/Anthropic 兼容格式的代理服务。提供 Claude Code工具及图片支持。
 - [berbicanes/apiark](https://github.com/berbicanes/apiark) - Privacy-first API platform built with Tauri v2. No login, no cloud, ~60 MB RAM. A lightweight Postman alternative.
 - [Tairitsua/claude-verify](https://github.com/Tairitsua/claude-verify) - Claude code 真伪鉴别工具
@@ -1689,7 +1689,7 @@
 - [image-size/image-size](https://github.com/image-size/image-size) - This project is now maintained on Codeberg.
 - [dlemstra/magick-wasm](https://github.com/dlemstra/magick-wasm) - The WASM library for ImageMagick
 - [leaferjs/leafer-ui](https://github.com/leaferjs/leafer-ui) - 好用的 Canvas 引擎，轻松构建可交互、可编辑的图形应用，AI 时代的无限画布引擎。An easy-to-use Canvas engine for building interactive and editable graphics applications — an infinite canvas engine for the AI era.
-- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
+- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - Image processing in pure JavaScript for Node.js and the browser, with zero native dependencies.
 - [nexmoe/serverless-comfyui](https://github.com/nexmoe/serverless-comfyui) - 一个基于 Docker 的 ComfyUI 弹性 Serverless 应用，提供完整的前后端分离架构和用户友好的界面。
 - [Oceansdeep7/build-your-own-rmbg-tool](https://github.com/Oceansdeep7/build-your-own-rmbg-tool) - Run Transformers directly in browser
 - [Daninet/hash-wasm](https://github.com/Daninet/hash-wasm) - Lightning fast hash functions using hand-tuned WebAssembly binaries
@@ -1761,6 +1761,7 @@
 - [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library, AI-friendly built-in.🎨Provide 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.🧑🏻‍💻 Design t
 - [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
+- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [TheWidlarzGroup/react-native-video](https://github.com/TheWidlarzGroup/react-native-video) - A &lt;Video /&gt; component for react-native
 - [SylarLong/iztro](https://github.com/SylarLong/iztro) - ⭐支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。This is a lightweight kit for generating astrolabes for Zi Wei Dou Shu (The Purple Star Astrology), an ancient Chinese astrology. It allows you to obtain your horosco
 - [latentcat/qrbtf](https://github.com/latentcat/qrbtf) - AI & parametric QR code generator. AI & 参数化二维码生成器。https://qrbtf.com
@@ -1820,7 +1821,6 @@
 - [go-workflow/go-workflow-UI](https://github.com/go-workflow/go-workflow-UI) - 仿照钉钉的UI生成,需要配合go-workflow使用
 - [wikihost-opensource/als](https://github.com/wikihost-opensource/als) - Another Looking-glass Server
 - [gzydong/LumenIM](https://github.com/gzydong/LumenIM) - Lumen IM 是一个网页版在线聊天项目，前端使用 Naive UI + Vue3，后端采用 GO 开发。
-- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 - [feiyit/scui-v3](https://github.com/feiyit/scui-v3) - Vue3、TypeScript、Element Plus、Pinia 和 Vite
 - [zyronon/douyin](https://github.com/zyronon/douyin) - Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
